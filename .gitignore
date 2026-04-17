@@ -1,0 +1,21 @@
+# macOS / local runtime
+.DS_Store
+**/.DS_Store
+.omx/
+.graphify_incremental.json
+
+# graphify transient/cache files
+graphify-out/cache/
+graphify-out/.graphify_*
+graphify-out/_archive/
+graphify-out/cost.json
+
+# graphify intermediate/debug artifacts (regenerable)
+graphify-out/detect.json
+graphify-out/extract.json
+graphify-out/analysis.json
+graphify-out/labels.json
+graphify-out/manifest.json
+
+# old backup exports (regenerable)
+graphify-out/*backup*.txt

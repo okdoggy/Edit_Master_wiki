@@ -1,0 +1,198 @@
+{
+  "scenario": "scenario_snow_portrait_clean_winter",
+  "scenario_name": "눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+  "recommendations": [
+    {
+      "id": "rec_trend_snow_portrait_clean_winter",
+      "channel": "trend",
+      "name": "Trend recommendation — 눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+      "rank_score": 0.75,
+      "techniques": [
+        "얼굴은 2x/Portrait, 풍경 포함은 1x/0.5x.",
+        "눈발은 어두운 배경 앞에서 더 잘 보인다.",
+        "장갑/빨간 목도리 같은 포인트 컬러를 넣는다."
+      ],
+      "parameters": [
+        "눈 배경이 많으면 카메라가 어둡게 찍을 수 있어 EV +0.3~+1.0을 테스트한다.",
+        "WB: 눈이 파랗게 보이면 Temp +300~+800K.",
+        "Highlights -10~-30로 눈 디테일 유지.",
+        "Whites +5~+20, Blacks -5~-15.",
+        "Subject mask: Face Exposure +0.1~+0.3, Orange Luminance +5."
+      ],
+      "outcomes": [
+        "Social-ready crop/export"
+      ],
+      "risks": [
+        "눈을 순백으로만 밀면 디테일이 사라진다.",
+        "스마트폰 렌즈에 눈/물방울이 묻으면 콘트라스트가 급격히 떨어진다."
+      ],
+      "evidence": [
+        {
+          "name": "눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+          "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+        }
+      ]
+    },
+    {
+      "id": "rec_general_snow_portrait_clean_winter",
+      "channel": "general",
+      "name": "General recommendation — 눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+      "rank_score": 0.82,
+      "techniques": [
+        "얼굴은 2x/Portrait, 풍경 포함은 1x/0.5x.",
+        "눈발은 어두운 배경 앞에서 더 잘 보인다.",
+        "장갑/빨간 목도리 같은 포인트 컬러를 넣는다."
+      ],
+      "parameters": [
+        "눈 배경이 많으면 카메라가 어둡게 찍을 수 있어 EV +0.3~+1.0을 테스트한다.",
+        "WB: 눈이 파랗게 보이면 Temp +300~+800K.",
+        "Highlights -10~-30로 눈 디테일 유지.",
+        "Whites +5~+20, Blacks -5~-15.",
+        "Subject mask: Face Exposure +0.1~+0.3, Orange Luminance +5."
+      ],
+      "outcomes": [
+        "Natural skin tone",
+        "Background separation",
+        "Highlight preservation",
+        "Face clarity"
+      ],
+      "risks": [
+        "눈을 순백으로만 밀면 디테일이 사라진다.",
+        "스마트폰 렌즈에 눈/물방울이 묻으면 콘트라스트가 급격히 떨어진다."
+      ],
+      "evidence": [
+        {
+          "name": "눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+          "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+        }
+      ]
+    },
+    {
+      "id": "rec_personalized_snow_portrait_clean_winter",
+      "channel": "personalized",
+      "name": "Personalized recommendation — 눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+      "rank_score": 0.7,
+      "techniques": [
+        "얼굴은 2x/Portrait, 풍경 포함은 1x/0.5x.",
+        "눈발은 어두운 배경 앞에서 더 잘 보인다.",
+        "장갑/빨간 목도리 같은 포인트 컬러를 넣는다."
+      ],
+      "parameters": [
+        "눈 배경이 많으면 카메라가 어둡게 찍을 수 있어 EV +0.3~+1.0을 테스트한다.",
+        "WB: 눈이 파랗게 보이면 Temp +300~+800K.",
+        "Highlights -10~-30로 눈 디테일 유지.",
+        "Whites +5~+20, Blacks -5~-15.",
+        "Subject mask: Face Exposure +0.1~+0.3, Orange Luminance +5."
+      ],
+      "outcomes": [],
+      "risks": [
+        "눈을 순백으로만 밀면 디테일이 사라진다.",
+        "스마트폰 렌즈에 눈/물방울이 묻으면 콘트라스트가 급격히 떨어진다."
+      ],
+      "evidence": [
+        {
+          "name": "눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+          "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "type": "HAS_SUBJECT",
+      "id": "subject_person",
+      "name": "person",
+      "labels": [
+        "SceneFacet",
+        "Subject"
+      ]
+    },
+    {
+      "type": "HAS_ENVIRONMENT",
+      "id": "environment_snow",
+      "name": "snow",
+      "labels": [
+        "Environment",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_LIGHT",
+      "id": "light_overcast_reflection",
+      "name": "overcast reflection",
+      "labels": [
+        "Light",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "USES_LENS",
+      "id": "lens_1x_2x",
+      "name": "1x 2x",
+      "labels": [
+        "Lens",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_EDIT_STYLE",
+      "id": "editstyle_clean_winter",
+      "name": "clean winter",
+      "labels": [
+        "EditStyle",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_RISK",
+      "id": "risk_underexposed_snow",
+      "name": "underexposed snow",
+      "labels": [
+        "Risk",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_snow_portrait_clean_winter_snow_reflects_light",
+      "name": "snow REFLECTS_light",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_snow_portrait_clean_winter_camera_meter_may_underexpose_snow",
+      "name": "camera_meter MAY underexpose_snow",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_snow_portrait_clean_winter_white_balance_controls_blue_cast",
+      "name": "white_balance CONTROLS blue_cast",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_snow_portrait_clean_winter_subject_mask_protects_face",
+      "name": "subject_mask PROTECTS_face",
+      "labels": [
+        "Technique"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evidence_raw_scenarios_snow_portrait_clean_winter.md",
+      "name": "눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+      "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+    }
+  ],
+  "query": "눈 오는 날 가족 사진을 찍었는데 눈이 회색이고 얼굴은 칙칙해 보여요. 겨울 느낌은 살리면서 깨끗하게 보정하고 싶어요.",
+  "query_id": "07_snow_family",
+  "expected_user_intent": "눈/겨울 인물, 하이키, WB, 얼굴 톤"
+}

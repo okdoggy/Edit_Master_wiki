@@ -1,0 +1,13 @@
+# 하늘 날아감 / 하이라이트 날림 / 네온만 튐
+
+- id: `synonym_blown_highlight`
+- graph: source-oriented
+- community: 4
+- source_file: raw/recommendation/scenario_matching_lexicon.md
+- source_url: None
+
+## Outgoing
+- `semantically_similar_to` → [[source_nodes/source__blown highlights__issue_blown_highlights|blown highlights]]
+
+## Incoming
+- [[source_nodes/source__Korean scenario matching lexicon — scene query aliases__doc_scenario_matching_lexicon|Korean scenario matching lexicon — scene query aliases]] → `references`

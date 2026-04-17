@@ -1,0 +1,198 @@
+{
+  "scenario": "scenario_beach_backlit_portrait",
+  "scenario_name": "해변 역광 인물 — 여름/휴양지 SNS 스타일",
+  "recommendations": [
+    {
+      "id": "rec_trend_beach_backlit_portrait",
+      "channel": "trend",
+      "name": "Trend recommendation — 해변 역광 인물 — 여름/휴양지 SNS 스타일",
+      "rank_score": 0.75,
+      "techniques": [
+        "해가 낮을 때 피사체 뒤나 45도 뒤에 두어 rim light를 만든다.",
+        "2x/Portrait로 인물, 0.5x로 장소 전체 컷도 함께."
+      ],
+      "parameters": [
+        "하늘 기준으로 EV -0.3~-0.7, 얼굴은 후보정에서 mask로 보정.",
+        "바닷가 수평선은 Level/Grid로 맞춘다.",
+        "Sky mask: Highlights -30~-60, Dehaze +5~+12.",
+        "Subject mask: Exposure +0.2~+0.5, Shadows +10~+25.",
+        "Blue Luminance -5~-20, Orange Luminance +5~+15.",
+        "Warm travel이면 Temp +300~+900K."
+      ],
+      "outcomes": [
+        "Social-ready crop/export"
+      ],
+      "risks": [
+        "직사광 정면 얼굴은 눈 찡그림/강한 그림자 발생.",
+        "바다/하늘 채도를 너무 올리면 인공적."
+      ],
+      "evidence": [
+        {
+          "name": "해변 역광 인물 — 여름/휴양지 SNS 스타일",
+          "source_file": "raw/scenarios/beach_backlit_portrait.md"
+        }
+      ]
+    },
+    {
+      "id": "rec_general_beach_backlit_portrait",
+      "channel": "general",
+      "name": "General recommendation — 해변 역광 인물 — 여름/휴양지 SNS 스타일",
+      "rank_score": 0.82,
+      "techniques": [
+        "해가 낮을 때 피사체 뒤나 45도 뒤에 두어 rim light를 만든다.",
+        "2x/Portrait로 인물, 0.5x로 장소 전체 컷도 함께."
+      ],
+      "parameters": [
+        "하늘 기준으로 EV -0.3~-0.7, 얼굴은 후보정에서 mask로 보정.",
+        "바닷가 수평선은 Level/Grid로 맞춘다.",
+        "Sky mask: Highlights -30~-60, Dehaze +5~+12.",
+        "Subject mask: Exposure +0.2~+0.5, Shadows +10~+25.",
+        "Blue Luminance -5~-20, Orange Luminance +5~+15.",
+        "Warm travel이면 Temp +300~+900K."
+      ],
+      "outcomes": [
+        "Natural skin tone",
+        "Background separation",
+        "Highlight preservation",
+        "Face clarity"
+      ],
+      "risks": [
+        "직사광 정면 얼굴은 눈 찡그림/강한 그림자 발생.",
+        "바다/하늘 채도를 너무 올리면 인공적."
+      ],
+      "evidence": [
+        {
+          "name": "해변 역광 인물 — 여름/휴양지 SNS 스타일",
+          "source_file": "raw/scenarios/beach_backlit_portrait.md"
+        }
+      ]
+    },
+    {
+      "id": "rec_personalized_beach_backlit_portrait",
+      "channel": "personalized",
+      "name": "Personalized recommendation — 해변 역광 인물 — 여름/휴양지 SNS 스타일",
+      "rank_score": 0.7,
+      "techniques": [
+        "해가 낮을 때 피사체 뒤나 45도 뒤에 두어 rim light를 만든다.",
+        "2x/Portrait로 인물, 0.5x로 장소 전체 컷도 함께."
+      ],
+      "parameters": [
+        "하늘 기준으로 EV -0.3~-0.7, 얼굴은 후보정에서 mask로 보정.",
+        "바닷가 수평선은 Level/Grid로 맞춘다.",
+        "Sky mask: Highlights -30~-60, Dehaze +5~+12.",
+        "Subject mask: Exposure +0.2~+0.5, Shadows +10~+25.",
+        "Blue Luminance -5~-20, Orange Luminance +5~+15.",
+        "Warm travel이면 Temp +300~+900K."
+      ],
+      "outcomes": [],
+      "risks": [
+        "직사광 정면 얼굴은 눈 찡그림/강한 그림자 발생.",
+        "바다/하늘 채도를 너무 올리면 인공적."
+      ],
+      "evidence": [
+        {
+          "name": "해변 역광 인물 — 여름/휴양지 SNS 스타일",
+          "source_file": "raw/scenarios/beach_backlit_portrait.md"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "type": "HAS_SUBJECT",
+      "id": "subject_person",
+      "name": "person",
+      "labels": [
+        "SceneFacet",
+        "Subject"
+      ]
+    },
+    {
+      "type": "HAS_ENVIRONMENT",
+      "id": "environment_beach",
+      "name": "beach",
+      "labels": [
+        "Environment",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_LIGHT",
+      "id": "light_backlight_golden_hour",
+      "name": "backlight golden hour",
+      "labels": [
+        "Light",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "USES_LENS",
+      "id": "lens_2x_portrait",
+      "name": "2x portrait",
+      "labels": [
+        "Lens",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_EDIT_STYLE",
+      "id": "editstyle_warm_blue_travel",
+      "name": "warm blue travel",
+      "labels": [
+        "EditStyle",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_RISK",
+      "id": "risk_blown_highlights",
+      "name": "blown highlights",
+      "labels": [
+        "Risk",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_beach_backlit_portrait_backlight_creates_hair_glow",
+      "name": "backlight CREATES_hair_glow",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_beach_backlit_portrait_beach_reflects_light",
+      "name": "beach_reflects_light",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_beach_backlit_portrait_sky_mask_protects_cloud_detail",
+      "name": "sky_mask PROTECTS_cloud_detail",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_beach_backlit_portrait_2x_portrait_flatters_face",
+      "name": "2x_portrait FLATTERS_face",
+      "labels": [
+        "Technique"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evidence_raw_scenarios_beach_backlit_portrait.md",
+      "name": "해변 역광 인물 — 여름/휴양지 SNS 스타일",
+      "source_file": "raw/scenarios/beach_backlit_portrait.md"
+    }
+  ],
+  "query": "한낮 해변에서 인물 사진을 찍으면 얼굴에 그림자가 세고 하늘은 날아가요. 어떤 렌즈와 보정이 나을까요?",
+  "query_id": "04_noon_beach_portrait",
+  "expected_user_intent": "해변 인물, 강한 빛, 하늘/얼굴 균형"
+}

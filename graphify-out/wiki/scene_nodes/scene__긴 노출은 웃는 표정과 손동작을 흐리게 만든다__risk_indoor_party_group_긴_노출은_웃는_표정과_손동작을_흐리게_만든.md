@@ -1,0 +1,31 @@
+# 긴 노출은 웃는 표정과 손동작을 흐리게 만든다.
+
+- id: `risk_indoor_party_group_긴_노출은_웃는_표정과_손동작을_흐리게_만든다.`
+- graph: scene-first
+- labels: Risk
+- source_file: raw/scenarios/indoor_party_group.md
+- source_url: 
+
+## Properties
+- **id**: risk_indoor_party_group_긴_노출은_웃는_표정과_손동작을_흐리게_만든다.
+- **name**: 긴 노출은 웃는 표정과 손동작을 흐리게 만든다.
+- **source_file**: raw/scenarios/indoor_party_group.md
+
+## Source-oriented graph 연결
+- [[source_nodes/source__motion blur__issue_motion_blur|motion blur]]
+- [[source_nodes/source__warm documentary party mood__trend_warm_documentary_party|warm documentary party mood]]
+- [[source_nodes/source__documentary__pref_documentary|documentary]]
+- [[source_nodes/source__clean group shot__pref_clean_group|clean group shot]]
+- [[source_nodes/source__party mood__outcome_party_mood|party mood]]
+- [[source_nodes/source__timer _ burst__tech_timer_or_burst|timer / burst]]
+- [[source_nodes/source__keep faces on the same plane__tech_same_plane_faces|keep faces on the same plane]]
+- [[source_nodes/source__Noise Reduction +15 to +35__param_noise_reduction_plus_15_to_35|Noise Reduction +15 to +35]]
+- [[source_nodes/source__Warm temperature, controlled__param_temp_warm_controlled|Warm temperature, controlled]]
+- [[source_nodes/source__Google Pixel group photo features__evidence_google_pixel_group_photo_features|Google Pixel group photo features]]
+
+## Outgoing
+
+## Incoming
+- [[scene_nodes/scene__Trend recommendation — 실내 생일파티·모임 단체사진 — 어두운 실내와 움직임__rec_trend_indoor_party_group|Trend recommendation — 실내 생일파티·모임 단체사진 — 어두운 실내와 움직임]] → `AVOIDS`
+- [[scene_nodes/scene__General recommendation — 실내 생일파티·모임 단체사진 — 어두운 실내와 움직임__rec_general_indoor_party_group|General recommendation — 실내 생일파티·모임 단체사진 — 어두운 실내와 움직임]] → `AVOIDS`
+- [[scene_nodes/scene__Personalized recommendation — 실내 생일파티·모임 단체사진 — 어두운 실내와 움직임__rec_personalized_indoor_party_group|Personalized recommendation — 실내 생일파티·모임 단체사진 — 어두운 실내와 움직임]] → `AVOIDS`

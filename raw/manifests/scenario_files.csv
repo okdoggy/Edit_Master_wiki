@@ -1,0 +1,31 @@
+file,slug,title,aliases
+raw/scenarios/architecture_interior_wide.md,architecture_interior_wide,건축·실내 공간 — 초광각 왜곡 제어,
+raw/scenarios/autumn_maple_woman_portrait.md,autumn_maple_woman_portrait,단풍나무 아래 여성 인물 — 트렌드/일반/개인화 추천 seed,
+raw/scenarios/backlit_silhouette_sunset.md,backlit_silhouette_sunset,노을 실루엣 — 감성 여행/커플/인물,
+raw/scenarios/beach_backlit_portrait.md,beach_backlit_portrait,해변 역광 인물 — 여름/휴양지 SNS 스타일,
+raw/scenarios/cafe_drink_dessert_closeup.md,cafe_drink_dessert_closeup,카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기,라떼아트 사진 | 케이크 클로즈업 | 크림 질감 | 커피 거품 찍기 | 디저트 접사 | 카페 음료 사진
+raw/scenarios/cafe_flatlay_dessert.md,cafe_flatlay_dessert,카페 디저트 플랫레이 — 수평과 왜곡 잡기,카페 플랫레이 | 디저트 위에서 찍기 | 커피 디저트 테이블 삐뚤 | 접시 왜곡 | 라떼아트 탑뷰 | 브런치 플랫레이
+raw/scenarios/cherry_blossom_flower_portrait.md,cherry_blossom_flower_portrait,벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일,
+raw/scenarios/city_night_long_exposure.md,city_night_long_exposure,도시 야경 장노출 — 빛줄기/스카이라인,
+raw/scenarios/city_window_reflection.md,city_window_reflection,도시 야경 유리창 반사 — 산만한 반사 정리,유리창 야경 반사 | 도시 야경 반사 | 창문에 비친 도시 | 반사가 지저분 | 호텔 창밖 야경 | 네온 반사 사진
+raw/scenarios/concert_stage_low_light.md,concert_stage_low_light,공연·무대 저조도 — 망원/하이라이트 보호,
+raw/scenarios/crowded_landmark_portrait.md,crowded_landmark_portrait,관광지 랜드마크 인물 — 사람 많은 배경 정리,관광지 사람 많음 | 랜드마크 앞 인물 | 배경 관광객 지저분 | 여행 인물 배경 정리 | 명소 사진
+raw/scenarios/dim_restaurant_food.md,dim_restaurant_food,어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기,어두운 식당 음식 | 레스토랑 파스타 노랗다 | 음식이 흐릿해요 | 플래시 없이 음식 | 노란 조명 음식 보정 | 저조도 음식사진
+raw/scenarios/fashion_ootd_portrait.md,fashion_ootd_portrait,패션/OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed,
+raw/scenarios/fireworks_skyline.md,fireworks_skyline,불꽃놀이와 스카이라인 — 하이라이트 보호/연속 확보,
+raw/scenarios/flower_macro_bokeh.md,flower_macro_bokeh,꽃·잎 매크로 — 질감과 배경 bokeh,
+raw/scenarios/golden_hour_travel_scale.md,golden_hour_travel_scale,여행 골든아워 — wide/detail/scale 3컷 추천,
+raw/scenarios/group_travel_selfie.md,group_travel_selfie,단체 여행 셀피/그룹샷 — 얼굴 왜곡 줄이기,
+raw/scenarios/harsh_noon_beach_portrait.md,harsh_noon_beach_portrait,한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기,한낮 해변 인물 | 해변 얼굴 그림자 | 하늘 날아감 | 정오 바닷가 사진 | 햇빛 너무 셈 | 해변 인물 보정
+raw/scenarios/indoor_party_group.md,indoor_party_group,실내 생일파티·모임 단체사진 — 어두운 실내와 움직임,실내 생일파티 사진 | 케이크 촛불 단체 | 어두운 방 단체사진 | 모임 사진 흐림 | 파티 사진 보정
+raw/scenarios/marketplace_street_food_story.md,marketplace_street_food_story,시장·길거리 음식 스토리 — 사람/손/음식/장소 묶기,
+raw/scenarios/mirror_selfie_ootd.md,mirror_selfie_ootd,거울 셀카 OOTD — 몸 비율과 거울 반사 정리,거울 셀카 | 엘리베이터 셀카 | 거울 OOTD | 몸 비율 이상 | 거울 더러움 | 전신 셀카
+raw/scenarios/museum_gallery_portrait.md,museum_gallery_portrait,미술관·전시회 인물 — 플래시 없이 차분하게,전시회 인물 | 미술관 사진 | 작품 앞 인물 | 플래시 금지 | 실내 조명 인물 | 갤러리 프로필
+raw/scenarios/pets_children_action.md,pets_children_action,아이·반려동물 액션 — 순간 포착/연사/짧은 영상,
+raw/scenarios/rain_neon_street_portrait.md,rain_neon_street_portrait,비 오는 밤 네온 거리 인물 — moody city look,
+raw/scenarios/reflection_mirror_puddle_prism.md,reflection_mirror_puddle_prism,거울·웅덩이·프리즘 반사 — 창의적 SNS 컷,
+raw/scenarios/selfie_profile_portrait.md,selfie_profile_portrait,셀카/Profile — 왜곡 적고 자연스러운 얼굴 추천 seed,
+raw/scenarios/small_product_listing_photo.md,small_product_listing_photo,집에서 제품 판매 사진 — 깨끗한 썸네일 만들기,중고거래 사진 | 제품 판매 사진 | 쇼핑몰 썸네일 | 집에서 제품 찍기 | 배경 지저분 제품 | 상품 사진
+raw/scenarios/snow_portrait_clean_winter.md,snow_portrait_clean_winter,눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일,
+raw/scenarios/waterfall_silky_water.md,waterfall_silky_water,폭포·계곡 물결 — 장노출/Live 효과,
+raw/scenarios/window_light_cafe_portrait.md,window_light_cafe_portrait,카페 창가 인물 — 자연광/인플루언서 프로필,

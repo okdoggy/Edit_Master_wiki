@@ -1,0 +1,198 @@
+{
+  "scenario": "scenario_reflection_mirror_puddle_prism",
+  "scenario_name": "거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+  "recommendations": [
+    {
+      "id": "rec_trend_reflection_mirror_puddle_prism",
+      "channel": "trend",
+      "name": "Trend recommendation — 거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+      "rank_score": 0.75,
+      "techniques": [
+        "웅덩이는 폰을 낮게 내려 반사면을 크게 만든다.",
+        "거울은 프레임 안 프레임처럼 사용.",
+        "프리즘/CD/유리컵은 렌즈 가장자리에 살짝 대고 빛 번짐을 만든다.",
+        "결과 컷과 BTS 컷을 함께 저장.",
+        "불필요한 손/소품 가장자리는 Remove/Heal."
+      ],
+      "parameters": [
+        "Highlights -20~-60로 반사 하이라이트 보호.",
+        "Contrast +5~+20, Dehaze +3~+12.",
+        "Prism 색은 Saturation +5~+15, 피부는 mask로 보호."
+      ],
+      "outcomes": [
+        "Social-ready crop/export"
+      ],
+      "risks": [
+        "유리/거울은 안전과 주변 반사 노출 주의.",
+        "효과가 얼굴을 가리면 시선이 분산."
+      ],
+      "evidence": [
+        {
+          "name": "거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+          "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md"
+        }
+      ]
+    },
+    {
+      "id": "rec_general_reflection_mirror_puddle_prism",
+      "channel": "general",
+      "name": "General recommendation — 거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+      "rank_score": 0.82,
+      "techniques": [
+        "웅덩이는 폰을 낮게 내려 반사면을 크게 만든다.",
+        "거울은 프레임 안 프레임처럼 사용.",
+        "프리즘/CD/유리컵은 렌즈 가장자리에 살짝 대고 빛 번짐을 만든다.",
+        "결과 컷과 BTS 컷을 함께 저장.",
+        "불필요한 손/소품 가장자리는 Remove/Heal."
+      ],
+      "parameters": [
+        "Highlights -20~-60로 반사 하이라이트 보호.",
+        "Contrast +5~+20, Dehaze +3~+12.",
+        "Prism 색은 Saturation +5~+15, 피부는 mask로 보호."
+      ],
+      "outcomes": [
+        "Natural skin tone",
+        "Background separation",
+        "Highlight preservation",
+        "Face clarity"
+      ],
+      "risks": [
+        "유리/거울은 안전과 주변 반사 노출 주의.",
+        "효과가 얼굴을 가리면 시선이 분산."
+      ],
+      "evidence": [
+        {
+          "name": "거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+          "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md"
+        }
+      ]
+    },
+    {
+      "id": "rec_personalized_reflection_mirror_puddle_prism",
+      "channel": "personalized",
+      "name": "Personalized recommendation — 거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+      "rank_score": 0.7,
+      "techniques": [
+        "웅덩이는 폰을 낮게 내려 반사면을 크게 만든다.",
+        "거울은 프레임 안 프레임처럼 사용.",
+        "프리즘/CD/유리컵은 렌즈 가장자리에 살짝 대고 빛 번짐을 만든다.",
+        "결과 컷과 BTS 컷을 함께 저장.",
+        "불필요한 손/소품 가장자리는 Remove/Heal."
+      ],
+      "parameters": [
+        "Highlights -20~-60로 반사 하이라이트 보호.",
+        "Contrast +5~+20, Dehaze +3~+12.",
+        "Prism 색은 Saturation +5~+15, 피부는 mask로 보호."
+      ],
+      "outcomes": [],
+      "risks": [
+        "유리/거울은 안전과 주변 반사 노출 주의.",
+        "효과가 얼굴을 가리면 시선이 분산."
+      ],
+      "evidence": [
+        {
+          "name": "거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+          "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "type": "HAS_SUBJECT",
+      "id": "subject_person_or_city",
+      "name": "person or city",
+      "labels": [
+        "SceneFacet",
+        "Subject"
+      ]
+    },
+    {
+      "type": "HAS_FACET",
+      "id": "prop_mirror_prism_puddle",
+      "name": "mirror prism puddle",
+      "labels": [
+        "Prop",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_ENVIRONMENT",
+      "id": "environment_urban_or_nature",
+      "name": "urban or nature",
+      "labels": [
+        "Environment",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "USES_LENS",
+      "id": "lens_0.5x_1x_2x",
+      "name": "0.5x 1x 2x",
+      "labels": [
+        "Lens",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_EDIT_STYLE",
+      "id": "editstyle_creative_reflection",
+      "name": "creative reflection",
+      "labels": [
+        "EditStyle",
+        "SceneFacet"
+      ]
+    },
+    {
+      "type": "HAS_TREND_SIGNAL",
+      "id": "trendsignal_playful_visual_hook",
+      "name": "playful visual hook",
+      "labels": [
+        "SceneFacet",
+        "TrendSignal"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_reflection_mirror_puddle_prism_reflection_doubles_subject",
+      "name": "reflection DOUBLES_subject",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_reflection_mirror_puddle_prism_low_angle_enhances_puddle",
+      "name": "low_angle ENHANCES_puddle",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_reflection_mirror_puddle_prism_prism_creates_light_leak",
+      "name": "prism CREATES_light_leak",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "type": "USES_TECHNIQUE",
+      "id": "rel_reflection_mirror_puddle_prism_symmetry_increases_visual_interest",
+      "name": "symmetry INCREASES_visual_interest",
+      "labels": [
+        "Technique"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evidence_raw_scenarios_reflection_mirror_puddle_prism.md",
+      "name": "거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+      "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md"
+    }
+  ],
+  "query": "도시 야경을 유리창 반사와 같이 찍고 싶은데 반사가 지저분하고 사진이 산만해요. 더 감성적으로 만드는 방법이 있을까요?",
+  "query_id": "10_city_window_reflection",
+  "expected_user_intent": "도시 반사/유리/네온, 창의적 반사, 하이라이트 제어"
+}

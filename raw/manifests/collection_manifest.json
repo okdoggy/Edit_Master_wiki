@@ -1,0 +1,1759 @@
+{
+  "collected_at": "2026-04-16",
+  "copyright_policy": "No full copyrighted source articles copied; metadata, links, short excerpt cues, and original Korean notes only.",
+  "counts": {
+    "sns": 12,
+    "youtube": 7,
+    "magazine": 15,
+    "lightroom": 13
+  },
+  "total": 47,
+  "entries": [
+    {
+      "category": "sns",
+      "slug": "austin_mann",
+      "title": "Austin Mann",
+      "type": "creator / photographer",
+      "platform": "Instagram @austinmann; X @austinmann",
+      "priority": "A",
+      "device_scope": "iPhone / mobile-first travel",
+      "credibility": "Longtime travel photographer and iPhone camera reviewer; workshop bio positions him as an iPhone-photography authority.",
+      "urls": [
+        "https://iphonejack.pro/",
+        "https://santafeworkshops.com/instructors/austin-mann/",
+        "https://x.com/austinmann",
+        "https://www.instagram.com/austinmann/"
+      ],
+      "topics": [
+        "travel storytelling",
+        "composition",
+        "natural light",
+        "real-world iPhone camera tests",
+        "camera feature evaluation"
+      ],
+      "korean_tags": [
+        "아이폰사진",
+        "여행사진",
+        "자연광",
+        "구도",
+        "카메라리뷰"
+      ],
+      "excerpt": "Leading iPhone-photography authority; real-world camera field testing.",
+      "insight": "기기 스펙보다 “여행 현장 조건에서 어떤 기능이 실제 장면 해결에 도움이 되는가”를 보는 관점이 강함.",
+      "file": "raw/sns/austin_mann.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때"
+    },
+    {
+      "category": "sns",
+      "slug": "tyler_stalman",
+      "title": "Tyler Stalman",
+      "type": "creator / photographer / educator",
+      "platform": "Instagram @stalman; X @stalman; YouTube @stalman",
+      "priority": "A",
+      "device_scope": "iPhone / creator workflow",
+      "credibility": "Established photographer/creator with dedicated iPhone photography course and camera-workflow content.",
+      "urls": [
+        "https://stalman.com/course",
+        "https://stalman.com/blog/Blog%20Post%20Title%20One-w6jys-p6zsc-4bsax-kn6km-z67b5-erclk-fjace-wtbdn-nlynj",
+        "https://x.com/stalman",
+        "https://www.instagram.com/stalman/",
+        "https://www.youtube.com/@stalman"
+      ],
+      "topics": [
+        "capture workflow",
+        "mobile photo/video",
+        "camera settings",
+        "creator production",
+        "practical reviews"
+      ],
+      "korean_tags": [
+        "아이폰워크플로우",
+        "크리에이터촬영",
+        "모바일촬영",
+        "카메라설정"
+      ],
+      "excerpt": "Dedicated iPhone-focused course and creator camera workflow content.",
+      "insight": "사진과 영상의 경계를 함께 다루므로 SNS 콘텐츠 제작 관점에서 촬영-편집-게시까지 한 흐름으로 보기 좋음.",
+      "file": "raw/sns/tyler_stalman.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "sns",
+      "slug": "iphone_photography_school_emil_pakarklis",
+      "title": "iPhone Photography School / Emil Pakarklis",
+      "type": "education brand / creator",
+      "platform": "Instagram @iPhone_Photography_School; TikTok @iphonephotographyschool; YouTube @iphone_photography_school",
+      "priority": "A",
+      "device_scope": "iPhone",
+      "credibility": "Long-running iPhone-photography education brand; official site identifies founder Emil Pakarklis.",
+      "urls": [
+        "https://iphonephotographyschool.com/about/",
+        "https://iphonephotographyschool.com/instagram-tips/",
+        "https://www.tiktok.com/@iphonephotographyschool",
+        "https://www.youtube.com/@iphone_photography_school"
+      ],
+      "topics": [
+        "iPhone camera settings",
+        "hidden features",
+        "composition",
+        "macro",
+        "night mode",
+        "editing"
+      ],
+      "korean_tags": [
+        "아이폰사진",
+        "촬영팁",
+        "숨은기능",
+        "구도",
+        "야간촬영",
+        "매크로"
+      ],
+      "excerpt": "Long-running iPhone photography education brand.",
+      "insight": "초보자가 바로 따라 할 수 있는 “설정 → 촬영 → 결과 비교”형 팁을 많이 수집할 수 있는 핵심 계정.",
+      "file": "raw/sns/iphone_photography_school_emil_pakarklis.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "무엇을 찍어도 사진이 산만하고 초점/밝기가 흔들릴 때"
+    },
+    {
+      "category": "sns",
+      "slug": "pei_ketron",
+      "title": "Pei Ketron",
+      "type": "photographer / instructor",
+      "platform": "Instagram @pketron",
+      "priority": "A",
+      "device_scope": "iPhone + Lightroom Mobile",
+      "credibility": "Santa Fe Workshops describes her iPhone camera and Lightroom Mobile instruction.",
+      "urls": [
+        "https://santafeworkshops.com/workshop-categories/digital-printing/",
+        "https://santafeworkshops.com/workshop/pei-ketron/",
+        "https://www.instagram.com/pketron/"
+      ],
+      "topics": [
+        "capture-to-edit workflow",
+        "Lightroom Mobile",
+        "printing from iPhone",
+        "travel and environment"
+      ],
+      "korean_tags": [
+        "아이폰사진",
+        "라이트룸모바일",
+        "촬영후보정",
+        "프린트",
+        "워크플로우"
+      ],
+      "excerpt": "Teaches iPhone camera features and Lightroom Mobile workflows.",
+      "insight": "스마트폰 사진을 SNS용에서 끝내지 않고 인쇄/작품화까지 연결하는 워크플로우 참고 가치가 큼.",
+      "file": "raw/sns/pei_ketron.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "sns",
+      "slug": "sam_youkilis",
+      "title": "Sam Youkilis",
+      "type": "visual storyteller / Instagram photographer",
+      "platform": "Instagram @samyoukilis",
+      "priority": "A",
+      "device_scope": "iPhone / everyday documentary",
+      "credibility": "Represented by Mini Title; Vogue covered his iPhone-based visual storytelling and photo book.",
+      "urls": [
+        "https://www.minititle.com/sam-youkilis",
+        "https://www.vogue.com/article/sam-youkilis-presents-his-first-photo-book-somewhere-interview",
+        "https://www.instagram.com/samyoukilis/"
+      ],
+      "topics": [
+        "everyday-life storytelling",
+        "sequencing",
+        "color observation",
+        "motion",
+        "documentary smartphone shooting"
+      ],
+      "korean_tags": [
+        "아이폰사진",
+        "일상기록",
+        "다큐멘터리",
+        "시퀀싱",
+        "색감"
+      ],
+      "excerpt": "Known for iPhone-based visual storytelling and everyday-life indexing.",
+      "insight": "단일 컷의 기술보다 반복 관찰, 시간대, 색, 제스처를 묶는 편집/시퀀싱 인사이트가 좋음.",
+      "file": "raw/sns/sam_youkilis.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "거리·여행·일상에서 순간을 놓치지 않고 찍을 때"
+    },
+    {
+      "category": "sns",
+      "slug": "yoni_mayeri",
+      "title": "Yoni Mayeri",
+      "type": "iPhoneography instructor",
+      "platform": "Instagram @yoni_iphone_photography",
+      "priority": "B",
+      "device_scope": "iPhone / iPhoneography",
+      "credibility": "Stanford and Berkeley course listings identify her as an iPhoneography instructor.",
+      "urls": [
+        "https://continuingstudies.stanford.edu/courses/detail/20252_PHOTO-32",
+        "https://olli.berkeley.edu/sites/default/files/AR_2022_23_FINAL.pdf",
+        "https://olli.berkeley.edu/sites/default/files/course/documents/iphoneography_olli_syllabus_2021_summer.pdf",
+        "https://www.instagram.com/yoni_iphone_photography/"
+      ],
+      "topics": [
+        "iPhoneography fundamentals",
+        "landscape",
+        "nature",
+        "botanicals",
+        "editing workflows"
+      ],
+      "korean_tags": [
+        "아이폰그래피",
+        "기초촬영",
+        "자연사진",
+        "풍경",
+        "후보정"
+      ],
+      "excerpt": "Course materials list iPhoneography instruction and top-ten iPhoneography tips.",
+      "insight": "교육 커리큘럼형 자료라 입문자용 목차/학습 순서 설계에 유용함.",
+      "file": "raw/sns/yoni_mayeri.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "무엇을 찍어도 사진이 산만하고 초점/밝기가 흔들릴 때"
+    },
+    {
+      "category": "sns",
+      "slug": "nicolai_ahn",
+      "title": "Nicolai Ahn",
+      "type": "Korean photographer / creator",
+      "platform": "Instagram @nikolaiahn",
+      "priority": "A",
+      "device_scope": "iPhone / Korean creative portraiture",
+      "credibility": "Korean creator/photographer featured by Vogue Korea in Apple iPhone 15 Pro Max exhibition context.",
+      "urls": [
+        "https://nikolaiahn.com/",
+        "https://www.vogue.co.kr/2024/04/12/%EC%95%A0%ED%94%8C%EA%B3%BC-7%EB%AA%85%EC%9D%98-%EC%9E%91%EA%B0%80%EA%B0%80-%EA%B7%B8%EB%A0%A4%EB%82%B8-%EC%82%AC%EC%A7%84%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%98%88%EC%88%A0%EC%9D%98-%ED%98%84%EC%A3%BC/",
+        "https://www.instagram.com/nikolaiahn/"
+      ],
+      "topics": [
+        "creative portraiture",
+        "memory-driven storytelling",
+        "Korean context",
+        "exhibition-grade iPhone work"
+      ],
+      "korean_tags": [
+        "한국작가",
+        "아이폰사진",
+        "인물사진",
+        "전시",
+        "스토리텔링"
+      ],
+      "excerpt": "Featured in a Vogue Korea article about Apple and seven artists using iPhone 15 Pro Max.",
+      "insight": "한국어 자료화 시 “아이폰으로도 전시/브랜드 협업 수준의 작업 가능” 사례로 중요.",
+      "file": "raw/sns/nicolai_ahn.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "스마트폰으로 자연스러운 인물 사진을 찍을 때"
+    },
+    {
+      "category": "sns",
+      "slug": "brendan_o_se",
+      "title": "Brendan Ó Sé",
+      "type": "iPhone photographer / educator",
+      "platform": "Instagram linked from personal site",
+      "priority": "A",
+      "device_scope": "iPhone / street / abstract",
+      "credibility": "iPhone Photographer of the Year 2017; part of Apple World Gallery / Shot on iPhone 6 campaign.",
+      "urls": [
+        "https://brendanose.com/instagram/",
+        "https://brendanose.com/shot-on-iphone-6-wins/",
+        "https://www.ippawards.com/2015-winning-photographers/",
+        "https://iphonephotographyschool.com/brendan-o-se/"
+      ],
+      "topics": [
+        "street photography",
+        "always-with-you camera",
+        "abstract composition",
+        "Instagram sharing",
+        "iPhone awards"
+      ],
+      "korean_tags": [
+        "아이폰사진",
+        "스트리트",
+        "추상사진",
+        "인스타그램",
+        "수상작"
+      ],
+      "excerpt": "The whole photographic process was made simple on the iPhone and Instagram.",
+      "insight": "스마트폰의 핵심 강점은 “항상 들고 있음”과 즉시 공유/반복 학습이라는 점을 잘 보여줌.",
+      "file": "raw/sns/brendan_o_se.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "거리·여행·일상에서 순간을 놓치지 않고 찍을 때"
+    },
+    {
+      "category": "sns",
+      "slug": "dan_rubin",
+      "title": "Dan Rubin",
+      "type": "mobile photographer / educator",
+      "platform": "Instagram @danrubin",
+      "priority": "B",
+      "device_scope": "iPhone / mobile editing",
+      "credibility": "Skillshare profile describes him as an early Instagram beta tester and speaker at the first mobile photography conference.",
+      "urls": [
+        "https://www.skillshare.com/en/classes/learn-mobile-photo-editing-apps-for-beauty-and-efficiency/1195481754",
+        "https://www.instagram.com/danrubin/"
+      ],
+      "topics": [
+        "mobile photo editing",
+        "Instagram polish",
+        "app stack",
+        "travel/lifestyle photography"
+      ],
+      "korean_tags": [
+        "모바일보정",
+        "인스타그램",
+        "앱편집",
+        "여행사진",
+        "라이프스타일"
+      ],
+      "excerpt": "Tips and tricks for polishing photos for Instagram and social media with iPhone apps.",
+      "insight": "인스타그램 피드 완성도 관점의 앱 조합/보정 루틴 분석에 적합.",
+      "file": "raw/sns/dan_rubin.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "인스타그램·틱톡·블로그에 올릴 최종본을 만들 때"
+    },
+    {
+      "category": "sns",
+      "slug": "jordi_koalitic",
+      "title": "Jordi Koalitic / Koalitic Visuals",
+      "type": "creative photography social creator",
+      "platform": "Instagram @jordi.koalitic; TikTok @jordi.koalitic; YouTube",
+      "priority": "A",
+      "device_scope": "Smartphone-friendly creative tricks / practical effects",
+      "credibility": "Digital Camera World and EL PAÍS cite his practical-effect, social-first creative photography; widely followed on TikTok/Instagram.",
+      "urls": [
+        "https://www.digitalcameraworld.com/news/you-have-to-see-these-incredible-guitar-images-shot-on-a-smartphone-theyre-not-composites",
+        "https://english.elpais.com/culture/2023-03-05/how-to-get-the-most-out-of-cellphone-photo-editing-tips-from-professional-photographers.html",
+        "https://www.shutterbug.com/content/5-easy-smartphone-tricks-will-make-your-videos-go-viral",
+        "https://www.instagram.com/jordi.koalitic/",
+        "https://www.tiktok.com/@jordi.koalitic"
+      ],
+      "topics": [
+        "practical effects",
+        "forced perspective",
+        "BTS reels",
+        "creative hacks",
+        "short-form viral visuals"
+      ],
+      "korean_tags": [
+        "스마트폰촬영",
+        "틱톡촬영",
+        "인스타릴스",
+        "강제원근",
+        "창의적트릭"
+      ],
+      "excerpt": "Created using only practical effects; experts in creative photography.",
+      "insight": "원리보다 “준비물 + 촬영 위치 + BTS 공개”가 강점. 숏폼용 촬영 아이디어 원천으로 매우 유용.",
+      "file": "raw/sns/jordi_koalitic.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "Jordi Koalitic/COOPH식 SNS용 창의적 트릭 사진을 만들 때"
+    },
+    {
+      "category": "sns",
+      "slug": "benjamin_lowy",
+      "title": "Benjamin Lowy",
+      "type": "photojournalist / mobile photography advocate",
+      "platform": "Instagram / social publishing",
+      "priority": "B",
+      "device_scope": "iPhone photojournalism",
+      "credibility": "TIME assigned him to cover Hurricane Sandy with an iPhone; one iPhone shot became TIME print cover.",
+      "urls": [
+        "https://time.com/3426309/in-the-eye-of-the-storm-capturing-sandys-wrath/",
+        "https://abcnews.go.com/blogs/technology/2012/11/iphone-photo-of-hurricane-sandy-makes-the-cover-of-time",
+        "https://www.dpreview.com/articles/8868846516/2012-the-year-in-mobile-photography"
+      ],
+      "topics": [
+        "photojournalism",
+        "real-time social publishing",
+        "iPhone as artistic choice",
+        "documentary evidence"
+      ],
+      "korean_tags": [
+        "아이폰보도사진",
+        "포토저널리즘",
+        "실시간공유",
+        "다큐멘터리"
+      ],
+      "excerpt": "TIME assigned Lowy to cover Hurricane Sandy with an iPhone.",
+      "insight": "스마트폰은 저품질 대체재가 아니라 접근성/즉시성/비가시성 면에서 보도사진의 도구가 될 수 있음.",
+      "file": "raw/sns/benjamin_lowy.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "거리·여행·일상에서 순간을 놓치지 않고 찍을 때"
+    },
+    {
+      "category": "sns",
+      "slug": "dimpy_bhalotia",
+      "title": "Dimpy Bhalotia",
+      "type": "iPhone photographer / IPPAWARDS winner",
+      "platform": "Instagram / award portfolio",
+      "priority": "B",
+      "device_scope": "iPhone street/fine art",
+      "credibility": "Grand Prize winner at iPhone Photography Awards; also Female in Focus recognition.",
+      "urls": [
+        "https://www.ippawards.com/2020-winning-photographers/",
+        "https://www.washingtonpost.com/photography/2020/07/22/these-are-winners-13th-annual-iphone-photography-awards/",
+        "https://hypebeast.com/2020/7/apple-2020-iphone-photography-awards-winners-news",
+        "https://www.ippawards.com/"
+      ],
+      "topics": [
+        "street photography",
+        "fine art mobile photography",
+        "composition",
+        "black-and-white / graphic moments"
+      ],
+      "korean_tags": [
+        "아이폰수상작",
+        "스트리트",
+        "구도",
+        "순간포착",
+        "파인아트"
+      ],
+      "excerpt": "Grand Prize Winner, Photographer of the Year category, iPhone Photography Awards.",
+      "insight": "대회 수상작 분석용: 빛/그림자/실루엣/결정적 순간 등 일반 사진 원리가 스마트폰에도 그대로 적용됨.",
+      "file": "raw/sns/dimpy_bhalotia.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때"
+    },
+    {
+      "category": "youtube",
+      "slug": "adobe_lightroom_youtube",
+      "title": "Adobe Lightroom YouTube",
+      "type": "official YouTube channel",
+      "platform": "YouTube @Lightroom",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile / editing",
+      "credibility": "Official Adobe Lightroom channel; authoritative for current mobile editing workflows.",
+      "urls": [
+        "https://www.youtube.com/@Lightroom",
+        "https://www.youtube.com/watch?v=F-_vxX29-sg",
+        "https://www.adobe.com/products/photoshop-lightroom/mobile.html",
+        "https://www.adobe.com/learn/lightroom-cc/web/lightroom-mobile-adjustments"
+      ],
+      "topics": [
+        "mobile editing order",
+        "white balance",
+        "tone curve",
+        "color grading",
+        "masking",
+        "lens blur",
+        "travel edits"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "공식채널",
+        "색보정",
+        "마스킹",
+        "여행사진"
+      ],
+      "excerpt": "5 Lightroom for Mobile tips to elevate travel photos.",
+      "insight": "기능 명칭/최신 UI 확인은 공식 Adobe 채널과 Learn 문서를 기준으로 삼는 것이 안전.",
+      "file": "raw/youtube/adobe_lightroom_youtube.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 5,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "youtube",
+      "slug": "iphone_photography_school_youtube",
+      "title": "iPhone Photography School YouTube",
+      "type": "YouTube education channel",
+      "platform": "YouTube @iphone_photography_school",
+      "priority": "A",
+      "device_scope": "iPhone",
+      "credibility": "Dedicated iPhone-first education brand; SocialBlade/subagent note reported about 902K subscribers.",
+      "urls": [
+        "https://www.youtube.com/@iphone_photography_school",
+        "https://www.youtube.com/watch?v=t7J5GFeIIoM",
+        "https://socialblade.com/youtube/c/emilpakarklis",
+        "https://www.shutterbug.com/content/using-iphones-night-mode-shoot-long-exposure-photos-video",
+        "https://www.shutterbug.com/content/7-smartphone-tips-shooting-photographs-will-make-you-proud-video"
+      ],
+      "topics": [
+        "macro",
+        "exposure control",
+        "night mode",
+        "composition",
+        "phone-only shooting"
+      ],
+      "korean_tags": [
+        "아이폰사진",
+        "유튜브",
+        "매크로",
+        "노출",
+        "야간촬영"
+      ],
+      "excerpt": "Secrets to Stunning iPhone Macro Photos.",
+      "insight": "스마트폰 촬영 초보가 바로 써먹는 세팅/구도/모드별 팁을 영상 단위로 정리하기 좋음.",
+      "file": "raw/youtube/iphone_photography_school_youtube.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때"
+    },
+    {
+      "category": "youtube",
+      "slug": "cooph_youtube",
+      "title": "COOPH",
+      "type": "photography education YouTube channel",
+      "platform": "YouTube @TheCooph",
+      "priority": "A",
+      "device_scope": "Smartphone / general photography",
+      "credibility": "Long-running photography education brand; subagent note reported about 1M subscribers.",
+      "urls": [
+        "https://www.youtube.com/@TheCooph",
+        "https://www.youtube.com/watch?v=VkdU5sZ_0hI",
+        "https://socialblade.com/youtube/c/thecooph/similarrank/views",
+        "https://www.shutterbug.com/content/heres-how-take-great-landscape-photos-your-smartphone-video",
+        "https://www.shutterbug.com/content/7-classic-smartphone-photography-tips-tricks-videos"
+      ],
+      "topics": [
+        "creative smartphone tricks",
+        "composition",
+        "landscape",
+        "DIY setups",
+        "quick hacks"
+      ],
+      "korean_tags": [
+        "스마트폰사진",
+        "창의적촬영",
+        "DIY",
+        "풍경",
+        "구도"
+      ],
+      "excerpt": "5 awesome smartphone photography tips.",
+      "insight": "전문 기기 없이 생활 소품으로 장면을 만드는 아이디어 수집에 적합.",
+      "file": "raw/youtube/cooph_youtube.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "Jordi Koalitic/COOPH식 SNS용 창의적 트릭 사진을 만들 때"
+    },
+    {
+      "category": "youtube",
+      "slug": "mango_street_youtube",
+      "title": "Mango Street",
+      "type": "photography education YouTube channel",
+      "platform": "YouTube @MangoStreet",
+      "priority": "A",
+      "device_scope": "iPhone + Lightroom Mobile",
+      "credibility": "Broad photography education channel; subagent note reported about 1.05M subscribers.",
+      "urls": [
+        "https://www.youtube.com/@MangoStreet",
+        "https://www.youtube.com/watch?v=HjVUe98mG8E",
+        "https://www.youtube.com/watch?v=6TzYOXl7tBc",
+        "https://socialblade.com/youtube/c/mangostreet/similarrank/subscribers"
+      ],
+      "topics": [
+        "iPhone photography",
+        "Lightroom Mobile",
+        "color workflow",
+        "quick edits",
+        "social-ready images"
+      ],
+      "korean_tags": [
+        "아이폰사진",
+        "라이트룸모바일",
+        "색보정",
+        "SNS사진",
+        "유튜브"
+      ],
+      "excerpt": "Take better iPhone photos with Lightroom Mobile.",
+      "insight": "촬영 팁과 보정 룩을 함께 다뤄 “촬영 때 남겨야 할 편집 여지”를 학습하기 좋음.",
+      "file": "raw/youtube/mango_street_youtube.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "youtube",
+      "slug": "evan_ranft_youtube",
+      "title": "Evan Ranft",
+      "type": "photography educator YouTube channel",
+      "platform": "YouTube @RanftEvan",
+      "priority": "B",
+      "device_scope": "iPhone RAW + Lightroom Mobile",
+      "credibility": "Established photo educator; subagent note reported about 345K subscribers.",
+      "urls": [
+        "https://www.youtube.com/@RanftEvan",
+        "https://www.youtube.com/watch?v=pnaSMvmlWnc",
+        "https://www.youtube.com/watch?v=87TEUKmnmcg",
+        "https://socialblade.com/youtube/handle/ranftevan/achievements"
+      ],
+      "topics": [
+        "iPhone RAW editing",
+        "Lightroom Mobile workflow",
+        "pro editing habits",
+        "street/photo critique"
+      ],
+      "korean_tags": [
+        "아이폰RAW",
+        "라이트룸모바일",
+        "프로워크플로우",
+        "보정루틴"
+      ],
+      "excerpt": "My iPhone 14 Pro RAW Editing Workflow using Lightroom Mobile.",
+      "insight": "RAW/DNG를 왜 찍고 어떤 순서로 만지는지 실전 편집 루틴을 추출하기 좋음.",
+      "file": "raw/youtube/evan_ranft_youtube.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "youtube",
+      "slug": "jordi_koalitic_youtube",
+      "title": "Jordi Koalitic YouTube / Shorts",
+      "type": "creative photography YouTube/TikTok creator",
+      "platform": "YouTube / TikTok / Instagram",
+      "priority": "B",
+      "device_scope": "Smartphone-friendly practical effects",
+      "credibility": "Shutterbug and Digital Camera World cite his smartphone/video trick demonstrations.",
+      "urls": [
+        "https://www.shutterbug.com/content/5-easy-smartphone-tricks-will-make-your-videos-go-viral",
+        "https://www.digitalcameraworld.com/news/you-have-to-see-these-incredible-guitar-images-shot-on-a-smartphone-theyre-not-composites",
+        "https://www.youtube.com/@JordiKoalitic"
+      ],
+      "topics": [
+        "photo tricks",
+        "viral video ideas",
+        "BTS demonstrations",
+        "forced perspective",
+        "low-budget sets"
+      ],
+      "korean_tags": [
+        "사진트릭",
+        "숏폼촬영",
+        "스마트폰영상",
+        "강제원근",
+        "BTS"
+      ],
+      "excerpt": "Quick and easy smartphone tricks presented through visual demonstrations.",
+      "insight": "텍스트 팁보다 영상/숏폼에서 “결과 → 세팅 공개” 구조를 분석해야 함.",
+      "file": "raw/youtube/jordi_koalitic_youtube.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "Jordi Koalitic/COOPH식 SNS용 창의적 트릭 사진을 만들 때"
+    },
+    {
+      "category": "youtube",
+      "slug": "tyler_stalman_youtube",
+      "title": "Tyler Stalman YouTube",
+      "type": "creator / camera workflow YouTube channel",
+      "platform": "YouTube @stalman",
+      "priority": "B",
+      "device_scope": "iPhone / camera tech",
+      "credibility": "Photographer/creator with dedicated iPhone course and active camera workflow content.",
+      "urls": [
+        "https://www.youtube.com/@stalman",
+        "https://stalman.com/course",
+        "https://www.instagram.com/stalman/"
+      ],
+      "topics": [
+        "iPhone camera workflow",
+        "creator production",
+        "photo/video settings",
+        "review-based learning"
+      ],
+      "korean_tags": [
+        "아이폰촬영",
+        "카메라리뷰",
+        "유튜브",
+        "크리에이터워크플로우"
+      ],
+      "excerpt": "Dedicated iPhone photography course from Tyler Stalman.",
+      "insight": "영상 중심 크리에이터에게 필요한 사진/영상 설정 차이를 비교 수집하기 좋음.",
+      "file": "raw/youtube/tyler_stalman_youtube.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "magazine",
+      "slug": "apple_support_night_mode",
+      "title": "Apple Support — iPhone Night mode",
+      "type": "official documentation",
+      "platform": "Apple Support",
+      "priority": "A",
+      "device_scope": "iPhone",
+      "credibility": "Official Apple, model/OS-specific guide.",
+      "urls": [
+        "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios"
+      ],
+      "topics": [
+        "Night mode",
+        "low light",
+        "tripod/stability",
+        "exposure timing",
+        "motion reduction"
+      ],
+      "korean_tags": [
+        "아이폰",
+        "야간촬영",
+        "저조도",
+        "삼각대",
+        "흔들림방지"
+      ],
+      "excerpt": "Night mode automatically brightens photos.",
+      "insight": "야간 모드는 단일 버튼이 아니라 안정성/노출시간/움직임 관리가 결합된 기능으로 기록.",
+      "file": "raw/magazine/apple_support_night_mode.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "아이폰으로 밤거리·실내 저조도·야경을 찍을 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "apple_support_photos_ai",
+      "title": "Apple Support — Apple Intelligence in Photos",
+      "type": "official documentation",
+      "platform": "Apple Support",
+      "priority": "B",
+      "device_scope": "iPhone / Photos app",
+      "credibility": "Official Apple support page for current Photos app AI workflow.",
+      "urls": [
+        "https://support.apple.com/guide/iphone/use-apple-intelligence-in-photos-iphf7de217f0/ios"
+      ],
+      "topics": [
+        "photo search",
+        "Clean Up",
+        "object removal",
+        "AI editing",
+        "photo discovery"
+      ],
+      "korean_tags": [
+        "아이폰",
+        "사진앱",
+        "AI편집",
+        "오브젝트제거",
+        "검색"
+      ],
+      "excerpt": "Describe what you want to find.",
+      "insight": "스마트폰 촬영 이후 큐레이션/검색/정리까지 포함한 사진 경험이 중요해지고 있음.",
+      "file": "raw/magazine/apple_support_photos_ai.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "google_pixel_camera_coach",
+      "title": "Google Blog — Pixel Camera Coach",
+      "type": "official vendor blog",
+      "platform": "Google Blog",
+      "priority": "A",
+      "device_scope": "Pixel",
+      "credibility": "Official Google product blog.",
+      "urls": [
+        "https://blog.google/products/pixel/how-to-use-camera-coach/"
+      ],
+      "topics": [
+        "framing",
+        "lighting",
+        "composition",
+        "guided shooting",
+        "camera mode suggestions"
+      ],
+      "korean_tags": [
+        "픽셀",
+        "카메라코치",
+        "구도",
+        "조명",
+        "촬영가이드"
+      ],
+      "excerpt": "Tips on how to improve your photos.",
+      "insight": "AI가 촬영 후 보정뿐 아니라 촬영 전 구도/조명 의사결정에 개입하는 흐름을 보여줌.",
+      "file": "raw/magazine/google_pixel_camera_coach.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "무엇을 찍어도 사진이 산만하고 초점/밝기가 흔들릴 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "google_photos_help",
+      "title": "Google Photos Help",
+      "type": "official help hub",
+      "platform": "Google Support",
+      "priority": "B",
+      "device_scope": "Pixel / Android / cross-platform",
+      "credibility": "Official Google Photos help center.",
+      "urls": [
+        "https://support.google.com/photos"
+      ],
+      "topics": [
+        "editing",
+        "albums",
+        "backup",
+        "AI-created edits",
+        "Pixel photo workflows"
+      ],
+      "korean_tags": [
+        "구글포토",
+        "편집",
+        "백업",
+        "앨범",
+        "AI기능"
+      ],
+      "excerpt": "Edit a photo or video on your Pixel.",
+      "insight": "촬영 데이터 관리/백업/검색이 스마트폰 사진 습관의 일부로 들어감.",
+      "file": "raw/magazine/google_photos_help.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "samsung_camera_modes_settings",
+      "title": "Samsung Support — Camera modes and settings",
+      "type": "official documentation",
+      "platform": "Samsung Support",
+      "priority": "A",
+      "device_scope": "Galaxy",
+      "credibility": "Official Samsung support, device/model-specific feature overview.",
+      "urls": [
+        "https://www.samsung.com/us/support/answer/ANS10001353/"
+      ],
+      "topics": [
+        "Pro mode",
+        "Expert RAW",
+        "Night mode",
+        "grid lines",
+        "portrait",
+        "panorama",
+        "motion photo"
+      ],
+      "korean_tags": [
+        "갤럭시",
+        "프로모드",
+        "ExpertRAW",
+        "그리드",
+        "인물",
+        "파노라마"
+      ],
+      "excerpt": "Night, Pro, Expert Raw, Grid lines.",
+      "insight": "갤럭시 계열은 Pro/Expert RAW와 기본 카메라 모드 분리를 명확히 태깅해야 함.",
+      "file": "raw/magazine/samsung_camera_modes_settings.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 5,
+      "lead_tip": "달 촬영 — 사용자가 예시로 든 “10배 줌 + Pro mode” 케이스"
+    },
+    {
+      "category": "magazine",
+      "slug": "samsung_low_light_galaxy",
+      "title": "Samsung Explore — Master low-light photography with Galaxy",
+      "type": "official vendor editorial",
+      "platform": "Samsung Explore",
+      "priority": "A",
+      "device_scope": "Galaxy",
+      "credibility": "Official Samsung practical tips page.",
+      "urls": [
+        "https://www.samsung.com/us/explore/photography/master-low-light-photography-with-galaxy/"
+      ],
+      "topics": [
+        "Night mode",
+        "low-light scenes",
+        "multi-frame processing",
+        "handheld stability"
+      ],
+      "korean_tags": [
+        "갤럭시",
+        "저조도",
+        "야간촬영",
+        "멀티프레임",
+        "흔들림방지"
+      ],
+      "excerpt": "Combine a series of images into one clear photo.",
+      "insight": "저조도 결과물은 센서만이 아니라 멀티프레임 처리와 흔들림 억제의 결합으로 이해해야 함.",
+      "file": "raw/magazine/samsung_low_light_galaxy.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 5,
+      "lead_tip": "밤 인물 + 빛 궤적 — Samsung Newsroom식 light drawing"
+    },
+    {
+      "category": "magazine",
+      "slug": "adobe_lightroom_mobile_adjustments",
+      "title": "Adobe Learn — Lightroom mobile adjustments",
+      "type": "official tutorial",
+      "platform": "Adobe Learn",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Official Adobe Learn tutorial.",
+      "urls": [
+        "https://www.adobe.com/learn/lightroom-cc/web/lightroom-mobile-adjustments"
+      ],
+      "topics": [
+        "brightness",
+        "color",
+        "straighten",
+        "angle fixes",
+        "object removal",
+        "mobile workflow"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "색보정",
+        "수평맞춤",
+        "오브젝트제거",
+        "후보정"
+      ],
+      "excerpt": "Adjust the brightness and color.",
+      "insight": "보정 루틴 기본 spine: 노출/색 → 수평/구도 정리 → 국소 수정.",
+      "file": "raw/magazine/adobe_lightroom_mobile_adjustments.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "인물·제품은 살리고 배경은 정리하고 싶을 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "national_geographic_camera_phone",
+      "title": "National Geographic — Camera phone pictures",
+      "type": "magazine / editorial",
+      "platform": "National Geographic",
+      "priority": "A",
+      "device_scope": "cross-platform camera phone",
+      "credibility": "Iconic photo publication with evergreen technique advice.",
+      "urls": [
+        "https://www.nationalgeographic.com/photography/article/camera-phone-photos"
+      ],
+      "topics": [
+        "natural light",
+        "portrait lighting",
+        "composition",
+        "travel scenes"
+      ],
+      "korean_tags": [
+        "내셔널지오그래픽",
+        "카메라폰",
+        "자연광",
+        "인물",
+        "구도"
+      ],
+      "excerpt": "Avoid direct sunlight.",
+      "insight": "장비 기능보다 자연광 읽기와 불리한 빛을 피하는 기본기가 핵심으로 반복됨.",
+      "file": "raw/magazine/national_geographic_camera_phone.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "스마트폰으로 자연스러운 인물 사진을 찍을 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "petapixel_10_smartphone_tips",
+      "title": "PetaPixel — 10 tips and tricks for better smartphone photos",
+      "type": "photo editorial",
+      "platform": "PetaPixel",
+      "priority": "A",
+      "device_scope": "cross-platform smartphone",
+      "credibility": "Respected photography editorial site; practical but opinionated advice.",
+      "urls": [
+        "https://petapixel.com/2023/01/03/10-tips-and-tricks-for-shooting-better-smartphone-photos/"
+      ],
+      "topics": [
+        "composition",
+        "editing apps",
+        "movement",
+        "general phone-photo workflow"
+      ],
+      "korean_tags": [
+        "스마트폰사진",
+        "촬영팁",
+        "앱보정",
+        "구도",
+        "후보정"
+      ],
+      "excerpt": "No photo leaves my phone...",
+      "insight": "촬영과 보정을 분리하지 않고 “폰 안에서 완성”하는 워크플로우 관점이 강함.",
+      "file": "raw/magazine/petapixel_10_smartphone_tips.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "techradar_android_photography_tips",
+      "title": "TechRadar — Android phone photography tips",
+      "type": "tech editorial",
+      "platform": "TechRadar",
+      "priority": "B",
+      "device_scope": "Android",
+      "credibility": "Mainstream tech editorial with beginner-friendly phone tips.",
+      "urls": [
+        "https://www.techradar.com/phones/supercharge-your-android-phone-photography-with-my-five-easy-tips"
+      ],
+      "topics": [
+        "gridlines",
+        "HDR",
+        "pro settings",
+        "digital zoom avoidance",
+        "beginner tips"
+      ],
+      "korean_tags": [
+        "안드로이드",
+        "그리드",
+        "HDR",
+        "프로설정",
+        "디지털줌"
+      ],
+      "excerpt": "Gridlines will also help you better balance a shot.",
+      "insight": "초보자 체크리스트: 렌즈 닦기, 그리드, 줌 회피, HDR/Pro 설정 이해.",
+      "file": "raw/magazine/techradar_android_photography_tips.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "무엇을 찍어도 사진이 산만하고 초점/밝기가 흔들릴 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "digital_camera_world_mobile_tips",
+      "title": "Digital Camera World — Mobile photography tips",
+      "type": "photo magazine",
+      "platform": "Digital Camera World",
+      "priority": "A",
+      "device_scope": "cross-platform mobile",
+      "credibility": "Long-running photo magazine with practical mobile basics.",
+      "urls": [
+        "https://www.digitalcameraworld.com/tutorials/mobile-photography-tips"
+      ],
+      "topics": [
+        "mobile basics",
+        "low-light awareness",
+        "everyday shooting habits",
+        "composition"
+      ],
+      "korean_tags": [
+        "모바일사진",
+        "기초팁",
+        "저조도",
+        "장면구성",
+        "에버그린"
+      ],
+      "excerpt": "12 essential mobile photography tips.",
+      "insight": "스마트폰 사진의 에버그린 기본기 목록을 뽑는 데 적합.",
+      "file": "raw/magazine/digital_camera_world_mobile_tips.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "무엇을 찍어도 사진이 산만하고 초점/밝기가 흔들릴 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "amateur_photographer_android_tips",
+      "title": "Amateur Photographer — Android camera photography tips",
+      "type": "photo magazine",
+      "platform": "Amateur Photographer",
+      "priority": "B",
+      "device_scope": "Android",
+      "credibility": "Established photography magazine, technique-focused.",
+      "urls": [
+        "https://amateurphotographer.com/technique/camera_skills/android-camera-photography-tips-68069"
+      ],
+      "topics": [
+        "physical shutter",
+        "digital zoom limits",
+        "burst mode",
+        "self-timer",
+        "aspect ratio"
+      ],
+      "korean_tags": [
+        "안드로이드",
+        "촬영버튼",
+        "버스트",
+        "디지털줌",
+        "비율"
+      ],
+      "excerpt": "Use your smartphone to capture great shots.",
+      "insight": "스마트폰 촬영 조작법을 “안정성/타이밍/비율 선택”으로 정리하기 좋음.",
+      "file": "raw/magazine/amateur_photographer_android_tips.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "무엇을 찍어도 사진이 산만하고 초점/밝기가 흔들릴 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "time_apple_instagram_shot_on_iphone",
+      "title": "TIME — Apple Instagram celebrates iPhone photographers",
+      "type": "news / tech culture",
+      "platform": "TIME",
+      "priority": "B",
+      "device_scope": "iPhone / Instagram",
+      "credibility": "Major news magazine reporting Apple’s Shot on iPhone Instagram launch.",
+      "urls": [
+        "https://time.com/4888318/apple-instagram-account/"
+      ],
+      "topics": [
+        "Shot on iPhone",
+        "Instagram curation",
+        "mobile photographer discovery",
+        "hashtag ecosystem"
+      ],
+      "korean_tags": [
+        "애플",
+        "ShotOniPhone",
+        "인스타그램",
+        "큐레이션",
+        "모바일작가"
+      ],
+      "excerpt": "Curate photos tagged with #ShotOniPhone.",
+      "insight": "SNS 작가 발굴은 해시태그/브랜드 큐레이션/공식 계정 featured 구조를 함께 봐야 함.",
+      "file": "raw/magazine/time_apple_instagram_shot_on_iphone.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "인스타그램·틱톡·블로그에 올릴 최종본을 만들 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "el_pais_cellphone_editing_tips",
+      "title": "EL PAÍS — Cellphone photo editing tips from professional photographers",
+      "type": "culture / editorial",
+      "platform": "EL PAÍS English",
+      "priority": "B",
+      "device_scope": "smartphone editing / social creators",
+      "credibility": "Mainstream newspaper culture section citing professional photographers and social creators.",
+      "urls": [
+        "https://english.elpais.com/culture/2023-03-05/how-to-get-the-most-out-of-cellphone-photo-editing-tips-from-professional-photographers.html"
+      ],
+      "topics": [
+        "cellphone editing",
+        "Jordi Koalitic",
+        "Gianfranco Bulgarelli",
+        "TikTok/Instagram creators",
+        "retouching philosophy"
+      ],
+      "korean_tags": [
+        "폰사진보정",
+        "전문가팁",
+        "틱톡",
+        "인스타그램",
+        "후보정"
+      ],
+      "excerpt": "Photo retouching is 50% of photography.",
+      "insight": "스마트폰 사진 고수들은 촬영보다 보정/선별/공개 과정까지 하나의 창작으로 보는 경향이 있음.",
+      "file": "raw/magazine/el_pais_cellphone_editing_tips.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "사진 전체 필터가 아니라 특정 색만 고치고 싶을 때"
+    },
+    {
+      "category": "magazine",
+      "slug": "vogue_korea_apple_iphone15_artists",
+      "title": "Vogue Korea — Apple and seven artists with iPhone 15 Pro Max",
+      "type": "Korean magazine / culture",
+      "platform": "Vogue Korea",
+      "priority": "A",
+      "device_scope": "iPhone / Korean artists",
+      "credibility": "Korean magazine coverage of Apple exhibition featuring seven artists using iPhone 15 Pro Max.",
+      "urls": [
+        "https://www.vogue.co.kr/2024/04/12/%EC%95%A0%ED%94%8C%EA%B3%BC-7%EB%AA%85%EC%9D%98-%EC%9E%91%EA%B0%80%EA%B0%80-%EA%B7%B8%EB%A0%A4%EB%82%B8-%EC%82%AC%EC%A7%84%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%98%88%EC%88%A0%EC%9D%98-%ED%98%84%EC%A3%BC/"
+      ],
+      "topics": [
+        "Korean artists",
+        "iPhone 15 Pro Max",
+        "exhibition",
+        "creative portrait/story"
+      ],
+      "korean_tags": [
+        "한국어자료",
+        "아이폰15프로맥스",
+        "전시",
+        "작가사례",
+        "보그코리아"
+      ],
+      "excerpt": "Apple and seven artists drew the present of photography.",
+      "insight": "한국어 데이터셋에서 국내 작가/브랜드 협업 사례를 연결하는 앵커.",
+      "file": "raw/magazine/vogue_korea_apple_iphone15_artists.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "스마트폰으로 자연스러운 인물 사진을 찍을 때"
+    },
+    {
+      "category": "lightroom",
+      "slug": "adobe_ai_assisted_masking_mobile",
+      "title": "Adobe Learn — AI-assisted masking in Lightroom Mobile",
+      "type": "official tutorial",
+      "platform": "Adobe Learn",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Official Adobe Learn tutorial; subagent noted Jan 12, 2026 publication.",
+      "urls": [
+        "https://www.adobe.com/learn/lightroom-cc/web/ai-assisted-masking-lightroom-mobile"
+      ],
+      "topics": [
+        "AI masking",
+        "quick actions",
+        "subject mask",
+        "sky mask",
+        "background mask",
+        "range masks"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "AI마스킹",
+        "피사체선택",
+        "하늘선택",
+        "로컬보정"
+      ],
+      "excerpt": "AI-assisted masking tools.",
+      "insight": "스마트폰 보정의 고급화: 전체 필터보다 피사체/하늘/배경을 분리해 의도를 만드는 방향.",
+      "file": "raw/lightroom/adobe_ai_assisted_masking_mobile.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "인물·제품은 살리고 배경은 정리하고 싶을 때"
+    },
+    {
+      "category": "lightroom",
+      "slug": "adobe_masking_mobile_ios",
+      "title": "Adobe Help — Masking in Lightroom for mobile iOS",
+      "type": "official reference",
+      "platform": "Adobe Help",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile iOS",
+      "credibility": "Official Adobe Help reference.",
+      "urls": [
+        "https://helpx.adobe.com/lightroom-cc/using/masking-mobile-ios.html"
+      ],
+      "topics": [
+        "Select Subject",
+        "Select Sky",
+        "Select Background",
+        "brush",
+        "linear gradient",
+        "radial gradient",
+        "range masks"
+      ],
+      "korean_tags": [
+        "라이트룸iOS",
+        "마스킹",
+        "브러시",
+        "그라디언트",
+        "범위마스크"
+      ],
+      "excerpt": "Select Subject, Select Sky.",
+      "insight": "기능 명칭/메뉴 구조 확인용 canonical reference.",
+      "file": "raw/lightroom/adobe_masking_mobile_ios.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "인물·제품은 살리고 배경은 정리하고 싶을 때"
+    },
+    {
+      "category": "lightroom",
+      "slug": "adobe_presets_mobile_learn",
+      "title": "Adobe Learn — Streamline editing with presets on mobile",
+      "type": "official tutorial",
+      "platform": "Adobe Learn",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Official Adobe Learn tutorial; subagent noted Dec 22, 2025 publication.",
+      "urls": [
+        "https://www.adobe.com/learn/lightroom-cc/web/use-presets-in-lightroom-mobile"
+      ],
+      "topics": [
+        "adaptive presets",
+        "saved presets",
+        "recommended looks",
+        "Amount slider",
+        "custom preset"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "프리셋",
+        "AdaptivePreset",
+        "Amount",
+        "커스텀프리셋"
+      ],
+      "excerpt": "Adaptive presets.",
+      "insight": "프리셋은 복붙 룩이 아니라 Amount/마스크/추천 룩으로 조절하는 출발점으로 봐야 함.",
+      "file": "raw/lightroom/adobe_presets_mobile_learn.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "라이트룸 인기 프리셋/Community 편집을 내 사진에 적용할 때"
+    },
+    {
+      "category": "lightroom",
+      "slug": "adobe_presets_lightroom_ios",
+      "title": "Adobe Help — Presets in Lightroom for mobile iOS",
+      "type": "official reference",
+      "platform": "Adobe Help",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile iOS",
+      "credibility": "Official Adobe Help reference for preset formats and import/export.",
+      "urls": [
+        "https://helpx.adobe.com/lightroom-cc/using/presets-lightroom-ios.html"
+      ],
+      "topics": [
+        "import presets",
+        "manage presets",
+        "export presets",
+        "XMP",
+        "DNG",
+        "lrtemplate"
+      ],
+      "korean_tags": [
+        "라이트룸iOS",
+        "프리셋가져오기",
+        "XMP",
+        "DNG",
+        "프리셋관리"
+      ],
+      "excerpt": "Presets usually come as .xmp, DNG...",
+      "insight": "인기 프리셋/라이트룸 글 수집 시 파일 포맷과 호환성을 함께 기록해야 함.",
+      "file": "raw/lightroom/adobe_presets_lightroom_ios.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "라이트룸 인기 프리셋/Community 편집을 내 사진에 적용할 때"
+    },
+    {
+      "category": "lightroom",
+      "slug": "adobe_color_adjustment_mobile",
+      "title": "Adobe Learn — Color adjustment on phone or tablet",
+      "type": "official tutorial",
+      "platform": "Adobe Learn",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Official Adobe Learn tutorial.",
+      "urls": [
+        "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment"
+      ],
+      "topics": [
+        "Color Mix",
+        "Targeted Adjustment",
+        "hue",
+        "saturation",
+        "luminance",
+        "mobile UI"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "컬러믹스",
+        "HSL",
+        "색상",
+        "채도",
+        "휘도"
+      ],
+      "excerpt": "Fine-tune individual colors using Color Mix.",
+      "insight": "스마트폰 사진 고수의 색감은 필터보다 색상별 HSL 선택 조정에서 많이 나옴.",
+      "file": "raw/lightroom/adobe_color_adjustment_mobile.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "사진 전체 필터가 아니라 특정 색만 고치고 싶을 때"
+    },
+    {
+      "category": "lightroom",
+      "slug": "adobe_edit_photos_mobile_ios",
+      "title": "Adobe Help — Edit photos with presets, filters, local adjustments in Lightroom mobile iOS",
+      "type": "official overview",
+      "platform": "Adobe Help",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile iOS",
+      "credibility": "Official Adobe Help overview.",
+      "urls": [
+        "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html"
+      ],
+      "topics": [
+        "custom presets",
+        "masking",
+        "remove",
+        "HDR",
+        "blur",
+        "color grading",
+        "full edit panels"
+      ],
+      "korean_tags": [
+        "라이트룸iOS",
+        "색보정",
+        "마스킹",
+        "HDR",
+        "블러",
+        "컬러그레이딩"
+      ],
+      "excerpt": "Color Grading sliders.",
+      "insight": "전체 편집 패널 목차를 만들 때 가장 좋은 기준 문서.",
+      "file": "raw/lightroom/adobe_edit_photos_mobile_ios.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 5,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "lightroom",
+      "slug": "adobe_lightroom_mobile_faq",
+      "title": "Adobe Lightroom for mobile FAQ",
+      "type": "official FAQ",
+      "platform": "Adobe Support",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Official Adobe FAQ; subagent noted last updated Jun 2, 2025.",
+      "urls": [
+        "https://helpx.adobe.com/mobile-apps/help/lightroom-mobile-faq.html"
+      ],
+      "topics": [
+        "RAW support",
+        "DNG",
+        "device compatibility",
+        "sync",
+        "premium features",
+        "mobile limits"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "FAQ",
+        "RAW",
+        "DNG",
+        "동기화",
+        "호환성"
+      ],
+      "excerpt": "Supports JPEG, PNG, and Adobe DNG.",
+      "insight": "RAW/DNG 수집과 기기별 호환성 판단의 기준점.",
+      "file": "raw/lightroom/adobe_lightroom_mobile_faq.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "lightroom",
+      "slug": "adobe_in_app_learning_community_ios",
+      "title": "Adobe Help — In-app learning and inspiration / Community",
+      "type": "official reference",
+      "platform": "Adobe Help",
+      "priority": "A",
+      "device_scope": "Lightroom Mobile iOS",
+      "credibility": "Official Adobe Help on Discover/Community.",
+      "urls": [
+        "https://helpx.adobe.com/lightroom-cc/using/in-app-learning-ios.html"
+      ],
+      "topics": [
+        "Community",
+        "Discover renamed",
+        "step-by-step edit replay",
+        "remix",
+        "save edits as preset"
+      ],
+      "korean_tags": [
+        "라이트룸커뮤니티",
+        "Discover",
+        "편집리플레이",
+        "리믹스",
+        "프리셋저장"
+      ],
+      "excerpt": "Discover is renamed to Community.",
+      "insight": "사용자가 말한 “라이트룸 인기글”은 현재 Community/Discover 자료로 추적하는 것이 적합.",
+      "file": "raw/lightroom/adobe_in_app_learning_community_ios.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "라이트룸 인기글/Community에서 고수 보정법을 훔쳐 배우고 싶을 때"
+    },
+    {
+      "category": "lightroom",
+      "slug": "phlearn_lightroom_mobile_beginner",
+      "title": "PHLEARN — Lightroom Mobile beginner guide",
+      "type": "tutorial / education",
+      "platform": "PHLEARN",
+      "priority": "B",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Well-known photo-editing training brand.",
+      "urls": [
+        "https://phlearn.com/tutorial/intro-to-lightroom-mobile/"
+      ],
+      "topics": [
+        "light correction",
+        "color correction",
+        "selective edits",
+        "AI tools",
+        "RAW vs JPEG",
+        "export/sharing"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "입문가이드",
+        "색보정",
+        "선택보정",
+        "RAW"
+      ],
+      "excerpt": "All from your phone.",
+      "insight": "공식 문서보다 실제 편집 흐름 설명이 친절해 입문자 가이드 작성에 좋음.",
+      "file": "raw/lightroom/phlearn_lightroom_mobile_beginner.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "lightroom",
+      "slug": "petapixel_masks_lightroom_mobile",
+      "title": "PetaPixel — Editing with masks in Lightroom Mobile",
+      "type": "tutorial / editorial",
+      "platform": "PetaPixel",
+      "priority": "B",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Major photography publication with smartphone-only masking demo.",
+      "urls": [
+        "https://petapixel.com/2022/02/28/how-to-edit-with-masks-in-lightroom-mobile/"
+      ],
+      "topics": [
+        "Select Sky",
+        "Select Subject",
+        "brush masking",
+        "targeted exposure",
+        "targeted color",
+        "smartphone workflow"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "마스크보정",
+        "하늘선택",
+        "피사체선택",
+        "스마트폰보정"
+      ],
+      "excerpt": "All done on a smartphone.",
+      "insight": "마스킹을 실제 사진 개선 사례로 설명할 때 참고.",
+      "file": "raw/lightroom/petapixel_masks_lightroom_mobile.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "인물·제품은 살리고 배경은 정리하고 싶을 때"
+    },
+    {
+      "category": "lightroom",
+      "slug": "envato_lightroom_mobile_dng_camera",
+      "title": "Envato Tuts+ — Shoot RAW with Lightroom Mobile DNG camera",
+      "type": "tutorial",
+      "platform": "Envato Tuts+",
+      "priority": "B",
+      "device_scope": "Lightroom Mobile camera / DNG",
+      "credibility": "Established tutorial publisher with hands-on DNG capture workflow.",
+      "urls": [
+        "https://photography.tutsplus.com/tutorials/how-to-shoot-raw-photos-with-lightroom-mobiles-camera--cms-37089"
+      ],
+      "topics": [
+        "DNG capture",
+        "RAW workflow",
+        "camera file format",
+        "editing latitude",
+        "mobile capture"
+      ],
+      "korean_tags": [
+        "DNG촬영",
+        "RAW촬영",
+        "라이트룸카메라",
+        "파일포맷",
+        "후보정여지"
+      ],
+      "excerpt": "Set the file format to DNG.",
+      "insight": "촬영 단계에서 RAW/DNG를 선택해야 하는 이유와 후보정 여지를 설명하는 자료.",
+      "file": "raw/lightroom/envato_lightroom_mobile_dng_camera.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 3,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "lightroom",
+      "slug": "fstoppers_lightroom_mobile_powerful_edits",
+      "title": "Fstoppers — Powerful edits anywhere with Lightroom Mobile",
+      "type": "tutorial / editorial",
+      "platform": "Fstoppers",
+      "priority": "B",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Respected photography education site.",
+      "urls": [
+        "https://fstoppers.com/lightroom/unlock-powerful-photo-edits-anywhere-lightroom-mobile-696778"
+      ],
+      "topics": [
+        "cloud sync",
+        "raw capture",
+        "presets",
+        "exposure",
+        "color grading",
+        "geometry corrections"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "클라우드동기화",
+        "RAW",
+        "프리셋",
+        "컬러그레이딩",
+        "기하보정"
+      ],
+      "excerpt": "Full-featured editing tool.",
+      "insight": "모바일 라이트룸을 데스크톱 대체/보완 워크플로우로 보는 관점.",
+      "file": "raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    },
+    {
+      "category": "lightroom",
+      "slug": "digital_camera_world_get_started_lightroom_mobile",
+      "title": "Digital Camera World — Get started with Lightroom Mobile",
+      "type": "photo magazine tutorial",
+      "platform": "Digital Camera World",
+      "priority": "B",
+      "device_scope": "Lightroom Mobile",
+      "credibility": "Established photo magazine introduction to Lightroom Mobile.",
+      "urls": [
+        "https://www.digitalcameraworld.com/tutorials/get-started-with-lightroom-mobile"
+      ],
+      "topics": [
+        "quick edits",
+        "smartphone software",
+        "Android/iOS availability",
+        "social sharing",
+        "mobile workflow"
+      ],
+      "korean_tags": [
+        "라이트룸모바일",
+        "입문",
+        "빠른보정",
+        "소셜공유",
+        "모바일워크플로우"
+      ],
+      "excerpt": "Quick but powerful edits to your photos.",
+      "insight": "초보자에게 왜 Lightroom Mobile을 써야 하는지 설명하는 에버그린 자료.",
+      "file": "raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md",
+      "content_type": "actionable_tip_cards",
+      "updated_at": "2026-04-17",
+      "tip_card_count": 4,
+      "lead_tip": "후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광"
+    }
+  ],
+  "derived_guides": [
+    {
+      "category": "techniques",
+      "title": "카메라 줌/렌즈별 상황 가이드",
+      "file": "raw/techniques/zoom_lens_situation_guide.md"
+    },
+    {
+      "category": "techniques",
+      "title": "야간·인물·음식·매크로 모드별 촬영 가이드",
+      "file": "raw/techniques/camera_modes_night_portrait_food_macro.md"
+    },
+    {
+      "category": "techniques",
+      "title": "스마트폰 음식 사진 실전 레시피",
+      "file": "raw/techniques/food_photography_recipes.md"
+    },
+    {
+      "category": "trends",
+      "title": "SNS 인물·여행 사진 보정 트렌드 타임라인",
+      "file": "raw/trends/sns_editing_trends_by_year.md"
+    },
+    {
+      "category": "trends",
+      "title": "인물·여행 사진 보정 스타일별 Lightroom Mobile 레시피",
+      "file": "raw/trends/portrait_travel_editing_styles.md"
+    },
+    {
+      "category": "trends",
+      "title": "전문가/인기 스타일 보정 레시피 — Lightroom Mobile 중심",
+      "file": "raw/trends/professional_popular_editing_recipes.md"
+    }
+  ],
+  "derived_guide_count": 6,
+  "updated_at": "2026-04-17",
+  "scenario_count": 30,
+  "scenario_files": [
+    "raw/scenarios/architecture_interior_wide.md",
+    "raw/scenarios/autumn_maple_woman_portrait.md",
+    "raw/scenarios/backlit_silhouette_sunset.md",
+    "raw/scenarios/beach_backlit_portrait.md",
+    "raw/scenarios/cafe_drink_dessert_closeup.md",
+    "raw/scenarios/cafe_flatlay_dessert.md",
+    "raw/scenarios/cherry_blossom_flower_portrait.md",
+    "raw/scenarios/city_night_long_exposure.md",
+    "raw/scenarios/city_window_reflection.md",
+    "raw/scenarios/concert_stage_low_light.md",
+    "raw/scenarios/crowded_landmark_portrait.md",
+    "raw/scenarios/dim_restaurant_food.md",
+    "raw/scenarios/fashion_ootd_portrait.md",
+    "raw/scenarios/fireworks_skyline.md",
+    "raw/scenarios/flower_macro_bokeh.md",
+    "raw/scenarios/golden_hour_travel_scale.md",
+    "raw/scenarios/group_travel_selfie.md",
+    "raw/scenarios/harsh_noon_beach_portrait.md",
+    "raw/scenarios/indoor_party_group.md",
+    "raw/scenarios/marketplace_street_food_story.md",
+    "raw/scenarios/mirror_selfie_ootd.md",
+    "raw/scenarios/museum_gallery_portrait.md",
+    "raw/scenarios/pets_children_action.md",
+    "raw/scenarios/rain_neon_street_portrait.md",
+    "raw/scenarios/reflection_mirror_puddle_prism.md",
+    "raw/scenarios/selfie_profile_portrait.md",
+    "raw/scenarios/small_product_listing_photo.md",
+    "raw/scenarios/snow_portrait_clean_winter.md",
+    "raw/scenarios/waterfall_silky_water.md",
+    "raw/scenarios/window_light_cafe_portrait.md"
+  ],
+  "recommendation_files": [
+    "raw/recommendation/graphify_recommendation_schema.md",
+    "raw/recommendation/scenario_corpus_index.md",
+    "raw/recommendation/metadata_standards_mapping.md",
+    "raw/recommendation/user_query_scene_recommendation_schema.md",
+    "raw/recommendation/scene_first_neo4j_schema.md",
+    "raw/recommendation/natural_answer_renderer_guidelines.md",
+    "raw/recommendation/scenario_matching_lexicon.md"
+  ],
+  "scene_first_graph": {
+    "version": "v2_alias_renderer",
+    "nodes": 989,
+    "edges": 2796,
+    "query_alias_nodes": 58,
+    "cypher": "graphify-out/cypher_scene_recommender.txt",
+    "schema_docs": [
+      "raw/recommendation/user_query_scene_recommendation_schema.md",
+      "raw/recommendation/scene_first_neo4j_schema.md",
+      "raw/recommendation/natural_answer_renderer_guidelines.md",
+      "raw/recommendation/scenario_matching_lexicon.md"
+    ]
+  }
+}
