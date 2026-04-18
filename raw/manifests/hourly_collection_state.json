@@ -8,7 +8,10 @@
     "https://www.reddit.com/r/iPhoneography/comments/1sotkh6/iphone_17_pro_max_main_camera_lens",
     "https://www.reddit.com/r/Lightroom/comments/1sledk1/confused_about_masking_refining_selections",
     "https://www.reddit.com/r/postprocessing/comments/1somxjo/beforeafter_bnw_edit",
-    "https://www.reddit.com/r/AskPhotography/comments/1soz36w/would_someone_be_able_to_tell_me_more_about_a"
+    "https://www.reddit.com/r/AskPhotography/comments/1soz36w/would_someone_be_able_to_tell_me_more_about_a",
+    "https://www.reddit.com/r/Lightroom/comments/1sjrk97/batch_auto_upright_auto_settings_tonecolor_for",
+    "https://www.reddit.com/r/AskPhotography/comments/1sp1fyk/asked_to_shoot_a_wedding_as_a_favour",
+    "https://www.reddit.com/r/mobilephotography/comments/1sontoi/raw_photos_with_edit_on_adobe_lightroommoto_edge"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -19,7 +22,10 @@
     "iphone 17 pro max main camera lens",
     "confused about masking refining selections",
     "before after bnw edit",
-    "would someone be able tell me more about film camera acquired"
+    "would someone be able tell me more about film camera acquired",
+    "batch auto upright auto settings tone color selected photos",
+    "asked shoot wedding as favour",
+    "raw photos edit adobe lightroom moto edge 50 fusion"
   ],
   "runs": [
     {
@@ -198,13 +204,70 @@
         "low_score": 88,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T16:59:09+00:00",
+      "created_file": "raw/hourly/2026-04-18-1659-batch-auto-upright-auto-settings-tone-color-selected-photos.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "Batch Auto Upright + Auto Settings (Tone/Color) for selected photos",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sjrk97/batch_auto_upright_auto_settings_tonecolor_for/",
+          "published_at": "2026-04-12T21:41:52+00:00",
+          "summary": "I could not find a good way to apply Auto Upright (Transform > Auto) to multiple photos at once in Lightroom Classic. You can sync develop settings, but Auto Upright needs to be calculated individually per image, so syncing just copies the correction from one photo to all others, which defeats the purpose. That gap is why I built this plugin. What it does: Select photos in Library, run the plugin from Library > Plug-in Extras > Apply Auto Settings to Selected. It processes each photo individually: first applies Auto Upright (perspective correction calculated per image), then optionally applies Auto Settings (Tone and Color, the Ctrl+U equivalent). Both operations are checkboxes you can toggle independently. Delay between photos is configurable. How it works: Auto Upright uses the Lightroom SDK (photo:applyDevelopSettings with PerspectiveUpright = 1). Auto Settings has no SDK equivalent, so the plugin simulates the Ctrl+U keystroke via a VBScript helper while in Develop mode. Windows only for now. The repo includes only the LR Classic 15 & Windows 11 plugin. But if you need to build it for different OS /LR version there is a detailed instructions file that anyone can paste into Claude (or any other AI code builder) to generate a customized version of the plugin for their OS and Lightroom version and if you build that via AI following those instructions no coding knowledge is required. GitHub: https://github.com/vkorost/lightroom-auto-settings-plugin Free, MIT licensed. submitted by /u/vkorost [link] [comments]",
+          "fetched_text": "",
+          "score": 26,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Asked to shoot a wedding as a favour?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sp1fyk/asked_to_shoot_a_wedding_as_a_favour/",
+          "published_at": "2026-04-18T15:58:25+00:00",
+          "summary": "OK not the ceremony itself but everything after that. It’s a “just take photos as you’ll be bringing your camera anyway” - which is true! But I want to do a decent job. Thing is I’m mainly landscape / street / macro, I don’t do portrait and people. Was thinking of taking my Fuji XT5 and XF 16-55mk2 and Godox 860III (which I need to quickly learn how to use with people!) - is it worth me getting a decent prime like the Viltrox 75mm f1.2? It’s been on my wish list for a while. Any other tips? They don’t want specific people photographed together or anything. More of a “as you go” thing. I did shoot a wedding for a relative 17 years ago which was such a stressful experience I quit photography entirely for 15 years.. He’s a good friend, and I know everything is on a strict budget, hence the ask. submitted by /u/yezzer [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "telephoto_macro_focus_control",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/mobilephotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/mobilephotography/top/.rss?t=day",
+          "title": "RAW photos with edit on Adobe Lightroom(Moto edge 50 fusion)",
+          "url": "https://www.reddit.com/r/mobilephotography/comments/1sontoi/raw_photos_with_edit_on_adobe_lightroommoto_edge/",
+          "published_at": "2026-04-18T04:41:01+00:00",
+          "summary": "submitted by /u/matureboyhere [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "lightroom_color_masking",
+            "raw_sensor_pro_mode"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 184,
+        "duplicates": 12,
+        "low_score": 91,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T15:55:24+00:00",
+  "last_run_at": "2026-04-18T16:59:09+00:00",
   "last_stats": {
-    "pool": 182,
-    "duplicates": 9,
-    "low_score": 88,
+    "pool": 184,
+    "duplicates": 12,
+    "low_score": 91,
     "selected": 3
   }
 }
