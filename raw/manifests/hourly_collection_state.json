@@ -14,7 +14,10 @@
     "https://www.reddit.com/r/mobilephotography/comments/1sontoi/raw_photos_with_edit_on_adobe_lightroommoto_edge",
     "https://www.reddit.com/r/Lightroom/comments/1smjfk8/is_it_possible_to_make_flaggedpicked_photos",
     "https://www.reddit.com/r/AskPhotography/comments/1sp0zgk/type_of_camera_for_mid_level_photographer_that",
-    "https://digital-photography-school.com/how-to-create-your-own-lightroom-presets"
+    "https://digital-photography-school.com/how-to-create-your-own-lightroom-presets",
+    "https://www.reddit.com/r/AskPhotography/comments/1soiw60/camera_advice_for_aero_photography",
+    "https://www.reddit.com/r/Lightroom/comments/1sk5y18/boring_backgrounds_skies",
+    "https://fstoppers.com/lightroom/10-lightroom-secrets-will-change-how-edit-photos-901713"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -31,7 +34,10 @@
     "raw photos edit adobe lightroom moto edge 50 fusion",
     "it possible make flagged picked photos visibly distinct from unflagged",
     "type camera mid level photographer won break my bank",
-    "create your own lightroom presets step by step"
+    "create your own lightroom presets step by step",
+    "camera advice aero photography",
+    "boring backgrounds skies",
+    "10 lightroom secrets will change you edit photos"
   ],
   "runs": [
     {
@@ -323,13 +329,68 @@
         "low_score": 84,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T19:10:46+00:00",
+      "created_file": "raw/hourly/2026-04-18-1910-camera-advice-aero-photography.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Camera advice for aero photography?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1soiw60/camera_advice_for_aero_photography/",
+          "published_at": "2026-04-18T00:45:13+00:00",
+          "summary": "I shoot with a Sony a6000(rebuilt) with the 55-210mm long lens. I’m aware the lens is not the best for the distance I’m shooting at, but spot access is limited and a new lens is expensive. The photos are rough to say the least. I had to edit a lot of specs out as well. Currently I kinda just let the camera shoot in auto shutter priority mode with minor adjustments to my iso and I think the f spot is auto as well, I could be wrong 🤷🏼‍♂️ Should I look into a new lens for the Sony/ my old ass Canon Rebel t1? I have plenty for that camera already as well. Photos shot on the a6000 submitted by /u/TraditionalVariety82 [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "Boring backgrounds / skies",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sk5y18/boring_backgrounds_skies/",
+          "published_at": "2026-04-13T09:38:31+00:00",
+          "summary": "https://preview.redd.it/8pgzmgqegxug1.jpg?width=4537&format=pjpg&auto=webp&s=a22a9a4404aa6dbad9ff1cf7b1991243dba6785a https://preview.redd.it/ppe1jgqegxug1.jpg?width=6000&format=pjpg&auto=webp&s=5f0b978c3a72c72d69f54a5366c107df8297e898 https://preview.redd.it/rz2e1gqegxug1.jpg?width=6000&format=pjpg&auto=webp&s=76c94ed32442043ae2849402baf63ff0f4a13263 Pretty much tittle! I've had these photos for a couple of years now and I do not know how to treat them in editing. I would like to either make the background more interesting (no AI replacement of sky tho, not a big fan) or just maybe ignore the background on focus only on the jets with some layers? Would massively appreciate any tips! submitted by /u/Defracs [link] [comments]",
+          "fetched_text": "",
+          "score": 22,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "10 Lightroom Secrets That Will Change How You Edit Photos",
+          "url": "https://fstoppers.com/lightroom/10-lightroom-secrets-will-change-how-edit-photos-901713?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-18T15:03:01+00:00",
+          "summary": "Lightroom has more depth than most people ever tap into, and after 15 years of using it, Serge Ramelli has a clear sense of which techniques actually move the needle. These aren't beginner tips about sliders; several of them involve AI-powered masking tricks and a dodge-and-burn workflow that can fundamentally change the way a finished image looks. [ Read More ]",
+          "fetched_text": "",
+          "score": 21,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 181,
+        "duplicates": 17,
+        "low_score": 85,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T17:54:07+00:00",
+  "last_run_at": "2026-04-18T19:10:46+00:00",
   "last_stats": {
-    "pool": 180,
-    "duplicates": 14,
-    "low_score": 84,
+    "pool": 181,
+    "duplicates": 17,
+    "low_score": 85,
     "selected": 3
   }
 }
