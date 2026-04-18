@@ -118,3 +118,23 @@
 원칙:
 - 기존 raw 내용을 재포장하지 않고, 신규 외부 URL 기반으로 별도 파일 생성.
 - 각 파일은 동일하게 “상황 → 작업 순서 → 시작값 → 주의점 → 근거” 구조를 유지.
+
+## 시간 단위 증분 수집 — raw/hourly
+
+- 자동 수집 스크립트: `scripts/collect_hourly_raw.py`
+- 저장 위치: `raw/hourly/YYYY-MM-DD-HHMM-*.md`
+- 실행 주기: launchd 설정 시 1시간마다 실행
+- 중복 방지: 기존 `raw/**/*.md`, `raw/manifests/sources.csv`, `raw/manifests/hourly_collection_state.json`의 URL과 제목 fingerprint를 기준으로 이미 수집된 항목을 건너뜀
+- 원칙: 인터넷에서 새로 확인한 SNS/커뮤니티/전문 매체 신호만 추가하고, 기존 raw를 짜깁기하지 않음. 원문 전문은 복사하지 않고 출처 URL과 한국어 실전 팁 카드로 요약함.
+
+## 온라인 자동 수집 — GitHub Actions
+
+- 워크플로: `.github/workflows/hourly-raw-collector.yml`
+- 실행 주기: GitHub Actions `schedule`로 매시간 17분에 실행 (`17 * * * *`)
+- 수동 실행: GitHub Actions 탭에서 `Hourly raw collector` → `Run workflow`
+- 커밋 방식: 새 raw content/index 변경이 있을 때만 `github-actions[bot]`이 commit/push
+- 빈 실행 처리: 새 raw 파일 없이 `hourly_collection_state.json`만 바뀐 경우는 commit하지 않음
+- 주의: GitHub scheduled workflow는 GitHub 큐 상황에 따라 지연될 수 있고, public repo는 장기간 활동이 없으면 schedule이 비활성화될 수 있음
+
+로컬 macOS LaunchAgent는 Mac이 켜져 있을 때만 동작하는 fallback이다. 온라인 누적이 목적이면 GitHub Actions를 우선 사용한다.
+

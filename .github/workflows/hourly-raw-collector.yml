@@ -1,0 +1,63 @@
+name: Hourly raw collector
+
+on:
+  schedule:
+    # Run hourly, offset from the top of the hour to reduce GitHub Actions queue delays.
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-raw-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Collect new raw SNS/community photo techniques
+        run: python3 scripts/collect_hourly_raw.py --max-items 3 --min-score 9
+
+      - name: Commit raw updates if new data was collected
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Do not commit state-only empty runs. Only commit when raw content or indexes changed.
+          if [[ -z "$(git status --porcelain raw/hourly raw/manifests/sources.csv raw/manifests/source_matrix.md raw/README.md)" ]]; then
+            echo "No new raw content collected. Skipping commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add raw/hourly \
+            raw/manifests/sources.csv \
+            raw/manifests/source_matrix.md \
+            raw/manifests/hourly_collection_state.json \
+            raw/README.md
+
+          if git diff --cached --quiet; then
+            echo "No staged raw changes. Skipping commit."
+            exit 0
+          fi
+
+          git commit \
+            -m "Preserve hourly photo-trend raw signals" \
+            -m "The scheduled collector found new external SNS/community/professional photo technique signals and stored them as raw actionable tip cards instead of rewriting existing corpus entries." \
+            -m "Constraint: New data must be sourced from internet-discovered external URLs, not stitched from existing raw notes" \
+            -m "Rejected: Commit empty hourly state-only runs | creates noisy history without new raw evidence" \
+            -m "Confidence: medium" \
+            -m "Scope-risk: narrow" \
+            -m "Tested: python3 scripts/collect_hourly_raw.py during setup; GitHub Actions workflow relies on repository GITHUB_TOKEN" \
+            -m "Not-tested: Long-term scheduled run reliability under GitHub Actions queue delays"
+
+          git push

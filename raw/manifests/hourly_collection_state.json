@@ -1,0 +1,85 @@
+{
+  "seen_urls": [
+    "https://fstoppers.com/travel/proper-camera-settings-travel-and-street-photography-901681",
+    "https://digital-photography-school.com/10-composition-mistakes-that-are-quietly-ruining-your-photos-and-how-to-fix-them",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdG9NemdITHRRQUYxYjRZRjBPQU1ZbnlzZENGaW1PNWl1SXU2eHAxa0dyVVBidHJhclhtOFpTbm8tWnFIQXh1UGg1UHR3NEk4cXhTTkFjZ2lFdDRDQzZ3cFVYTlRlMlhiLVRlejVTTnZmWGpUUnBvdG9CamwyLXBwNm1jVHB0RnM2eDkyVnBDZU5rcnRFNGptSTlmLVBtaWhfUDhLM0l1Tmw1MEhZTnlCdHJoYTl4MGx0T0w5MlZWS1RiSEJjU2VPSmpvVmtiR2h2ODBOUjFCVFdrUldmZnJNc2tjb0NKOTA?oc=5"
+  ],
+  "seen_title_fingerprints": [
+    "proper camera settings travel street photography",
+    "10 composition mistakes quietly ruining your photos fix them",
+    "best mobile photo editing apps 2026 android ios dailyhunt"
+  ],
+  "runs": [
+    {
+      "run_at": "2026-04-18T22:25:40+09:00",
+      "created_file": null,
+      "stats": {
+        "pool": 176,
+        "duplicates": 3,
+        "low_score": 173,
+        "selected": 0
+      }
+    },
+    {
+      "run_at": "2026-04-18T22:26:07+09:00",
+      "created_file": "raw/hourly/2026-04-18-2226-proper-camera-settings-travel-street-photography.md",
+      "selected": [
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "The Proper Camera Settings for Travel and Street Photography",
+          "url": "https://fstoppers.com/travel/proper-camera-settings-travel-and-street-photography-901681?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-17T00:03:02+09:00",
+          "summary": "Shooting in the wrong exposure mode or using the wrong autofocus setup can cost you the shot. For travel and street work especially, your camera settings aren't just technical preferences; they shape what's even possible in the moment. [ Read More ]",
+          "fetched_text": "",
+          "score": 25,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "Digital Photography School",
+          "source_kind": "professional",
+          "feed_url": "https://digital-photography-school.com/feed/",
+          "title": "10 Composition Mistakes That Are Quietly Ruining Your Photos (And How to Fix Them)",
+          "url": "https://digital-photography-school.com/10-composition-mistakes-that-are-quietly-ruining-your-photos-and-how-to-fix-them/",
+          "published_at": "2026-03-27T08:09:53+09:00",
+          "summary": "The post 10 Composition Mistakes That Are Quietly Ruining Your Photos (And How to Fix Them) appeared first on Digital Photography School . It was authored by Sime . You’ve got a decent camera. You understand exposure. But something about your photos still feels… off. More often than not, the culprit isn’t your gear — it’s composition. The good news? These mistakes are easy to spot once you know what to look for, and even easier to fix. Here are ten composition habits that […] The post 10 Composition Mistakes That Are Quietly Ruining Your Photos (And How to Fix Them) appeared first on Digital Photography School . It was authored by Sime .",
+          "fetched_text": "",
+          "score": 25,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "Google News search — Galaxy iPhone smartphone camera technique RAW Lightroom when:14d",
+          "source_kind": "search",
+          "feed_url": "https://news.google.com/rss/search?q=Galaxy+iPhone+smartphone+camera+technique+RAW+Lightroom+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
+          "title": "Best Mobile Photo Editing Apps in 2026 for Android and iOS - Dailyhunt",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdG9NemdITHRRQUYxYjRZRjBPQU1ZbnlzZENGaW1PNWl1SXU2eHAxa0dyVVBidHJhclhtOFpTbm8tWnFIQXh1UGg1UHR3NEk4cXhTTkFjZ2lFdDRDQzZ3cFVYTlRlMlhiLVRlejVTTnZmWGpUUnBvdG9CamwyLXBwNm1jVHB0RnM2eDkyVnBDZU5rcnRFNGptSTlmLVBtaWhfUDhLM0l1Tmw1MEhZTnlCdHJoYTl4MGx0T0w5MlZWS1RiSEJjU2VPSmpvVmtiR2h2ODBOUjFCVFdrUldmZnJNc2tjb0NKOTA?oc=5",
+          "published_at": "2026-04-06T03:25:44+09:00",
+          "summary": "Best Mobile Photo Editing Apps in 2026 for Android and iOS Dailyhunt",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 65,
+        "duplicates": 1,
+        "low_score": 32,
+        "selected": 3
+      }
+    }
+  ],
+  "last_run_at": "2026-04-18T22:26:07+09:00",
+  "last_stats": {
+    "pool": 65,
+    "duplicates": 1,
+    "low_score": 32,
+    "selected": 3
+  }
+}
