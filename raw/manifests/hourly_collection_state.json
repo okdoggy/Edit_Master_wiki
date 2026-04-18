@@ -23,7 +23,10 @@
     "https://www.reddit.com/r/postprocessing/comments/1sp0ixw/before_after_tried_changing_the_colors_into_a",
     "https://www.reddit.com/r/AskPhotography/comments/1sp29n9/1_my_budget_is_2800_including_body_and_lenses_uk",
     "https://www.reddit.com/r/postprocessing/comments/1soyj7j/how_is_this_edit_beforeafter",
-    "https://www.reddit.com/r/Lightroom/comments/1snclmr/hdr_merge_hdr_edit"
+    "https://www.reddit.com/r/Lightroom/comments/1snclmr/hdr_merge_hdr_edit",
+    "https://www.reddit.com/r/postprocessing/comments/1sp8yx2/need_help_afterbefore",
+    "https://www.reddit.com/r/AskPhotography/comments/1sp8y6e/what_app_do_you_use_for_photo_editing_on_an",
+    "https://fstoppers.com/reviews/one-year-gfx-100rf-two-repairs-mixed-autofocus-and-still-worth-it-901711"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -49,7 +52,10 @@
     "before after tried changing colors into split complementary palette having hard time making it look realistic any tips",
     "my budget 2800 including body lenses uk pounds sterling budget includes camera body subject would be mix wildlife",
     "edit before after",
-    "hdr merge hdr edit"
+    "hdr merge hdr edit",
+    "need help after before",
+    "what app do you use photo editing android tablet",
+    "one year gfx 100rf two repairs mixed autofocus still worth it"
   ],
   "runs": [
     {
@@ -508,12 +514,68 @@
         "low_score": 89,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T21:51:34+00:00",
+      "created_file": "raw/hourly/2026-04-18-2151-need-help-after-before.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "Need Help! (After/Before)",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sp8yx2/need_help_afterbefore/",
+          "published_at": "2026-04-18T20:47:00+00:00",
+          "summary": "I've been working on this photo for hours and just can't seem to get it right. This is my first time editing underwater photos and i'm really struggling with bringing back those lost Reds or Yellows. (This was shot on RAW at around 25ft deep). I'm editing on Lightroom and I've done everything from color grading to messing with the point curve and I don't have a great direction. I could really use some tips and tricks to make this look a little more natural. Any help is appreciated! submitted by /u/jphunter16 [link] [comments]",
+          "fetched_text": "",
+          "score": 27,
+          "tags": [
+            "lightroom_color_masking",
+            "raw_sensor_pro_mode"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "What app do you use for Photo Editing on an Android Tablet?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sp8y6e/what_app_do_you_use_for_photo_editing_on_an/",
+          "published_at": "2026-04-18T20:46:11+00:00",
+          "summary": "I am looking for an alternative to light room mobile that is free but still allows subject masking. For whatever reason, my tablet will not allow subject masking in LR. Does anyone have any recommendations for an alternative? Open source preferrered! submitted by /u/Huntsmen04 [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "One Year With the GFX 100RF: Two Repairs, Mixed Autofocus, and Still Worth It?",
+          "url": "https://fstoppers.com/reviews/one-year-gfx-100rf-two-repairs-mixed-autofocus-and-still-worth-it-901711?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-18T11:03:01+00:00",
+          "summary": "The Fujifilm GFX 100RF launched to a divided audience. Some people couldn't get past the f/4 lens. Others saw a 102-megapixel medium format camera in a compact body and immediately understood what Fujifilm was going for. [ Read More ]",
+          "fetched_text": "",
+          "score": 18,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "film_grain_nostalgia"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 183,
+        "duplicates": 22,
+        "low_score": 89,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T20:54:33+00:00",
+  "last_run_at": "2026-04-18T21:51:34+00:00",
   "last_stats": {
-    "pool": 182,
-    "duplicates": 23,
+    "pool": 183,
+    "duplicates": 22,
     "low_score": 89,
     "selected": 3
   }
