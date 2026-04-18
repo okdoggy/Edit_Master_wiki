@@ -29,7 +29,10 @@
     "https://fstoppers.com/reviews/one-year-gfx-100rf-two-repairs-mixed-autofocus-and-still-worth-it-901711",
     "https://www.reddit.com/r/AskPhotography/comments/1sozoep/what_setup_shall_i_use_for_portraits",
     "https://www.reddit.com/r/postprocessing/comments/1sol2t8/skiing_beforeafter",
-    "https://www.reddit.com/r/Lightroom/comments/1sk6cp6/whats_actually_in_your_daytoday_photography_setup"
+    "https://www.reddit.com/r/Lightroom/comments/1sk6cp6/whats_actually_in_your_daytoday_photography_setup",
+    "https://www.reddit.com/r/AskPhotography/comments/1spbfw4/how_to_practically_apply_hyperfocal_distance_when",
+    "https://fstoppers.com/video-editing/adobe-announces-frameio-drive-streamline-video-sharing-among-creatives-901682",
+    "https://www.reddit.com/r/postprocessing/comments/1sp0oje/beforeafter_this_is_my_personal_favorite"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -61,7 +64,10 @@
     "one year gfx 100rf two repairs mixed autofocus still worth it",
     "what setup shall use portraits",
     "skiing before after",
-    "what actually your day day photography setup"
+    "what actually your day day photography setup",
+    "practically apply hyperfocal distance when you re actually out shooting",
+    "adobe announces frame io drive streamline video sharing among creatives",
+    "before after my personal favorite"
   ],
   "runs": [
     {
@@ -630,13 +636,67 @@
         "low_score": 88,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T23:52:21+00:00",
+      "created_file": "raw/hourly/2026-04-18-2352-practically-apply-hyperfocal-distance-when-you-re-actually-out-shootin.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "How to practically apply hyperfocal distance when you're actually out shooting?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1spbfw4/how_to_practically_apply_hyperfocal_distance_when/",
+          "published_at": "2026-04-18T22:29:46+00:00",
+          "summary": "I have a couple of fast lenses that I use for night photography, but of course when wide open and relying on the camera to autofocus, either the subject or the background will be in focus, but usually not both. I get the concept of hyperfocal distance (theoretical focal distance at which everything will be in focus from 1/2 the distance to the focal point all the way to infinity). But my question is, how do you practically apply this idea in the moment when you don't have time to calculate a distance or look up the hyperfocal table in PhotoPills, etc. I heard one Youtuber say they simply select a focus point on the back of their camera that's one-third of the way up from the bottom. Not sure if that's a good way to guesstimate the hyperfocal distance or not. What do people who use hyperfocal distance focussing actually do in practice? submitted by /u/paulgs [link] [comments]",
+          "fetched_text": "",
+          "score": 31,
+          "tags": [
+            "low_light_night_social"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "Adobe Announces Frame.io Drive to Streamline Video Sharing Among Creatives",
+          "url": "https://fstoppers.com/video-editing/adobe-announces-frameio-drive-streamline-video-sharing-among-creatives-901682?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-16T05:39:43+00:00",
+          "summary": "Unlike photography, video production often involves more than one person. There are sound technicians, editors, color gradeers, camera operators, directors and art directors. It is also common for team members to share multiple versions of edited footage. Managing these files and providing easy access to everyone on the team is a priority for every video production team. Today, Adobe is announcing Frame.io Drive to make sharing files and edits easy. [ Read More ]",
+          "fetched_text": "",
+          "score": 17,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "Before/After - this is my personal favorite",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sp0oje/beforeafter_this_is_my_personal_favorite/",
+          "published_at": "2026-04-18T15:29:10+00:00",
+          "summary": "The Shiekh Zayed Grand Mosque in Abu Dhabi. I do wish I could capture it in the day but here we are. Got this one while walking back to the car. submitted by /u/Time_Reporter449 [link] [comments]",
+          "fetched_text": "",
+          "score": 16,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 182,
+        "duplicates": 30,
+        "low_score": 89,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T22:56:15+00:00",
+  "last_run_at": "2026-04-18T23:52:21+00:00",
   "last_stats": {
-    "pool": 181,
-    "duplicates": 27,
-    "low_score": 88,
+    "pool": 182,
+    "duplicates": 30,
+    "low_score": 89,
     "selected": 3
   }
 }
