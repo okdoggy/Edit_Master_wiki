@@ -2,12 +2,18 @@
   "seen_urls": [
     "https://fstoppers.com/travel/proper-camera-settings-travel-and-street-photography-901681",
     "https://digital-photography-school.com/10-composition-mistakes-that-are-quietly-ruining-your-photos-and-how-to-fix-them",
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdG9NemdITHRRQUYxYjRZRjBPQU1ZbnlzZENGaW1PNWl1SXU2eHAxa0dyVVBidHJhclhtOFpTbm8tWnFIQXh1UGg1UHR3NEk4cXhTTkFjZ2lFdDRDQzZ3cFVYTlRlMlhiLVRlejVTTnZmWGpUUnBvdG9CamwyLXBwNm1jVHB0RnM2eDkyVnBDZU5rcnRFNGptSTlmLVBtaWhfUDhLM0l1Tmw1MEhZTnlCdHJoYTl4MGx0T0w5MlZWS1RiSEJjU2VPSmpvVmtiR2h2ODBOUjFCVFdrUldmZnJNc2tjb0NKOTA?oc=5"
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdG9NemdITHRRQUYxYjRZRjBPQU1ZbnlzZENGaW1PNWl1SXU2eHAxa0dyVVBidHJhclhtOFpTbm8tWnFIQXh1UGg1UHR3NEk4cXhTTkFjZ2lFdDRDQzZ3cFVYTlRlMlhiLVRlejVTTnZmWGpUUnBvdG9CamwyLXBwNm1jVHB0RnM2eDkyVnBDZU5rcnRFNGptSTlmLVBtaWhfUDhLM0l1Tmw1MEhZTnlCdHJoYTl4MGx0T0w5MlZWS1RiSEJjU2VPSmpvVmtiR2h2ODBOUjFCVFdrUldmZnJNc2tjb0NKOTA?oc=5",
+    "https://www.reddit.com/r/Lightroom/comments/1slp1io/how_to_achieve_glowy_creamy_skin_tones_and_these",
+    "https://www.reddit.com/r/AskPhotography/comments/1soy29y/how_to_edit_this_photo",
+    "https://www.reddit.com/r/iPhoneography/comments/1sotkh6/iphone_17_pro_max_main_camera_lens"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
     "10 composition mistakes quietly ruining your photos fix them",
-    "best mobile photo editing apps 2026 android ios dailyhunt"
+    "best mobile photo editing apps 2026 android ios dailyhunt",
+    "achieve glowy creamy skin tones these types edits",
+    "edit photo",
+    "iphone 17 pro max main camera lens"
   ],
   "runs": [
     {
@@ -73,13 +79,69 @@
         "low_score": 32,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T15:00:04+00:00",
+      "created_file": "raw/hourly/2026-04-18-1500-achieve-glowy-creamy-skin-tones-these-types-edits.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "How to achieve glowy, creamy skin tones and these types of edits??",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1slp1io/how_to_achieve_glowy_creamy_skin_tones_and_these/",
+          "published_at": "2026-04-14T23:22:40+00:00",
+          "summary": "I'm trying to teach myself to edit in this manner, as I'm obsessed with this editing style. I know this photographer uses a preset she purchased, but I'd like to learn to achieve it on my own so I can learn lightroom better in this regard. Here's a RAW image and it edited to the best of my ability to match this style. Helppp https://preview.redd.it/8jgbfslto8vg1.png?width=1488&format=png&auto=webp&s=7f9701c205527be4726570a9b79c64ac054f3bb8 https://preview.redd.it/r4x4f3b2p8vg1.jpg?width=5464&format=pjpg&auto=webp&s=e498ad755e348e33610e2cc575242036930a8ae5 https://preview.redd.it/mujsp3b2p8vg1.jpg?width=5464&format=pjpg&auto=webp&s=5e6dce08c77736895548e7736cbc1bc2af295293 submitted by /u/Fine_Sheepherder9302 [link] [comments]",
+          "fetched_text": "",
+          "score": 32,
+          "tags": [
+            "lightroom_color_masking",
+            "raw_sensor_pro_mode"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "How to edit this photo?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1soy29y/how_to_edit_this_photo/",
+          "published_at": "2026-04-18T13:45:34+00:00",
+          "summary": "I have a photo on my phone with a colleague where the zipper is slightly open on my jeans. I wanted to use it for a retirement slideshow for her. Are there any free AI/editing apps that I can use while preserving the quality of the photo? I tried one through a web search and the zip was fixed but the photo ended up blurry. submitted by /u/LSki92 [link] [comments]",
+          "fetched_text": "",
+          "score": 27,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "Iphone 17 pro max main camera lens",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1sotkh6/iphone_17_pro_max_main_camera_lens/",
+          "published_at": "2026-04-18T10:03:24+00:00",
+          "summary": "Hello, I was comparing photos taken by the iphone 17 pro max main camera lens with the same taken by the regular iphone 15 under similar setting, and was surprised to see the iphone 15 producing much sharper photos in different scenes. When zooming into the photo i often see that the iphone 15 captures more detail than the 17 pro max. The first photo is taken by the 15 and the other by the 17 pro. I know that we can use the telephoto lens for zoom in the 17 pro max which does produce good shots, but I am pretty disappointed with the main camera lens. Generally i dont notice much improvement in the main camera lens for day to day photos even when compared with my samsung galaxy from 2022. The only difference is the telephoto cam. Therefore, I wanted to ask if anyone else has noticed this issue? Or could it be that i have a faulty model? submitted by /u/Mr_M26 [link] [comments]",
+          "fetched_text": "",
+          "score": 25,
+          "tags": [
+            "telephoto_macro_focus_control",
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 182,
+        "duplicates": 6,
+        "low_score": 92,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T22:26:07+09:00",
+  "last_run_at": "2026-04-18T15:00:04+00:00",
   "last_stats": {
-    "pool": 65,
-    "duplicates": 1,
-    "low_score": 32,
+    "pool": 182,
+    "duplicates": 6,
+    "low_score": 92,
     "selected": 3
   }
 }
