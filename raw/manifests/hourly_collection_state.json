@@ -20,7 +20,10 @@
     "https://fstoppers.com/lightroom/10-lightroom-secrets-will-change-how-edit-photos-901713",
     "https://www.reddit.com/r/Lightroom/comments/1sju582/is_the_real_ai_denoise_ever_coming_back",
     "https://digital-photography-school.com/6-tips-for-photographing-dogs-in-action",
-    "https://www.reddit.com/r/postprocessing/comments/1sp0ixw/before_after_tried_changing_the_colors_into_a"
+    "https://www.reddit.com/r/postprocessing/comments/1sp0ixw/before_after_tried_changing_the_colors_into_a",
+    "https://www.reddit.com/r/AskPhotography/comments/1sp29n9/1_my_budget_is_2800_including_body_and_lenses_uk",
+    "https://www.reddit.com/r/postprocessing/comments/1soyj7j/how_is_this_edit_beforeafter",
+    "https://www.reddit.com/r/Lightroom/comments/1snclmr/hdr_merge_hdr_edit"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -43,7 +46,10 @@
     "10 lightroom secrets will change you edit photos",
     "real ai denoise ever coming back",
     "10 tips breathtaking dog action photography",
-    "before after tried changing colors into split complementary palette having hard time making it look realistic any tips"
+    "before after tried changing colors into split complementary palette having hard time making it look realistic any tips",
+    "my budget 2800 including body lenses uk pounds sterling budget includes camera body subject would be mix wildlife",
+    "edit before after",
+    "hdr merge hdr edit"
   ],
   "runs": [
     {
@@ -447,13 +453,68 @@
         "low_score": 87,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T20:54:33+00:00",
+      "created_file": "raw/hourly/2026-04-18-2054-my-budget-2800-including-body-lenses-uk-pounds-sterling-budget-include.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "(1) my budget is £2800 including body and lenses, uk, pounds sterling (2) budget includes camera and body (3) subject would be a mix of wildlife (macro) and street/ landscape (4) thinking of focusing on photography but would be a big help if there is a good hybrid camera in my budget?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sp29n9/1_my_budget_is_2800_including_body_and_lenses_uk/",
+          "published_at": "2026-04-18T16:30:17+00:00",
+          "summary": "submitted by /u/lil_nuubz [link] [comments]",
+          "fetched_text": "",
+          "score": 20,
+          "tags": [
+            "telephoto_macro_focus_control"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "How is this edit? Before/After",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1soyj7j/how_is_this_edit_beforeafter/",
+          "published_at": "2026-04-18T14:05:17+00:00",
+          "summary": "Should i make the whole water blue or is the dual tone looking okay? submitted by /u/Affectionate_Wolf458 [link] [comments]",
+          "fetched_text": "",
+          "score": 19,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        },
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "HDR merge + HDR edit",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1snclmr/hdr_merge_hdr_edit/",
+          "published_at": "2026-04-16T18:47:58+00:00",
+          "summary": "Hello everyone! I’ve recently experimented with Lightroom HDR edit and had an idea of the following: What if I make bracketed shots from a high-contrast scenery and then merge the raw files into a single DNG with right click on them Photo merge->HDR. And now on this merged DNG I start the HDR post process in develop module -> basic -> HDR button for high dynamic range capable screens. Does anyone has any experience with this approach? Would it make any advantage over starting from a single raw file and do the post HDR processing on that? TIA. submitted by /u/bakogee [link] [comments]",
+          "fetched_text": "",
+          "score": 18,
+          "tags": [
+            "lightroom_color_masking",
+            "raw_sensor_pro_mode"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 182,
+        "duplicates": 23,
+        "low_score": 89,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T19:54:41+00:00",
+  "last_run_at": "2026-04-18T20:54:33+00:00",
   "last_stats": {
     "pool": 182,
-    "duplicates": 20,
-    "low_score": 87,
+    "duplicates": 23,
+    "low_score": 89,
     "selected": 3
   }
 }
