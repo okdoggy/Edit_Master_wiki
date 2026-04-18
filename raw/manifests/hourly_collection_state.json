@@ -11,7 +11,10 @@
     "https://www.reddit.com/r/AskPhotography/comments/1soz36w/would_someone_be_able_to_tell_me_more_about_a",
     "https://www.reddit.com/r/Lightroom/comments/1sjrk97/batch_auto_upright_auto_settings_tonecolor_for",
     "https://www.reddit.com/r/AskPhotography/comments/1sp1fyk/asked_to_shoot_a_wedding_as_a_favour",
-    "https://www.reddit.com/r/mobilephotography/comments/1sontoi/raw_photos_with_edit_on_adobe_lightroommoto_edge"
+    "https://www.reddit.com/r/mobilephotography/comments/1sontoi/raw_photos_with_edit_on_adobe_lightroommoto_edge",
+    "https://www.reddit.com/r/Lightroom/comments/1smjfk8/is_it_possible_to_make_flaggedpicked_photos",
+    "https://www.reddit.com/r/AskPhotography/comments/1sp0zgk/type_of_camera_for_mid_level_photographer_that",
+    "https://digital-photography-school.com/how-to-create-your-own-lightroom-presets"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -25,7 +28,10 @@
     "would someone be able tell me more about film camera acquired",
     "batch auto upright auto settings tone color selected photos",
     "asked shoot wedding as favour",
-    "raw photos edit adobe lightroom moto edge 50 fusion"
+    "raw photos edit adobe lightroom moto edge 50 fusion",
+    "it possible make flagged picked photos visibly distinct from unflagged",
+    "type camera mid level photographer won break my bank",
+    "create your own lightroom presets step by step"
   ],
   "runs": [
     {
@@ -261,13 +267,69 @@
         "low_score": 91,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T17:54:07+00:00",
+      "created_file": "raw/hourly/2026-04-18-1754-it-possible-make-flagged-picked-photos-visibly-distinct-from-unflagged.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "Is it possible to make flagged/picked photos visibly distinct from unflagged?",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1smjfk8/is_it_possible_to_make_flaggedpicked_photos/",
+          "published_at": "2026-04-15T21:22:34+00:00",
+          "summary": "Similar to how when you reject a photo, it darkens, is there a way I can make photos I've \"picked\" be easily identified when looking at all photos in the grid/filmstrip? I want to be able to see how many photos I've selected from a particular set of poses/scenes. I'm new to Lightroom and a cursory Google search only led me to how to filter and how to flag. If it matters--I am not the one editing the photos, only selecting them. UPDATE: It appears this is only visible on the Square Grid view, NOT Photo Grid. submitted by /u/angels-cry [link] [comments]",
+          "fetched_text": "",
+          "score": 24,
+          "tags": [
+            "low_light_night_social",
+            "lightroom_color_masking",
+            "film_grain_nostalgia"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Type of Camera for Mid Level Photographer that won’t break my bank?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sp0zgk/type_of_camera_for_mid_level_photographer_that/",
+          "published_at": "2026-04-18T15:40:38+00:00",
+          "summary": "I’ve used entry level camera before and I’m pretty solid on those. I want to switch to a mirrorless one that would be great for family photography, portraits, and maybe even some small weddings. I’ve seen some photographers using the Canon EOS R6 Mark II Mirrorless camera with the 24-70mm Lens but that’s around 5k from what I’ve seen. Is there anything that’s less expensive but will have a similar feel to very clear photos? Thank you so much for your help. I work full time rn but looking to do this on the side and get back to my art roots since I do have a BFA. Also, Nikon vs Canon? What are people’s thoughts on that? 1) Budget, country, and currency: USA, Dollar, and 3,000 (2) What equipment, if any, you have now and why is it no longer meeting your needs? Nikon D5000 (it’s so old and not mirrorless) (3) What kinds of subjects do you intend to shoot? Peoples portraits, family, pets, small weddings, at dusk on beach (4) Is it primarily for photography, videography, or both? Photos submitted by /u/No_Equipment6913 [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Digital Photography School",
+          "source_kind": "professional",
+          "feed_url": "https://digital-photography-school.com/feed/",
+          "title": "How to Create Your Own Lightroom Presets (Step By Step)",
+          "url": "https://digital-photography-school.com/how-to-create-your-own-lightroom-presets/",
+          "published_at": "2026-03-03T02:44:56+00:00",
+          "summary": "The post How to Create Your Own Lightroom Presets (Step By Step) appeared first on Digital Photography School . It was authored by Andrew S. Gibson . How can you create and save presets in Lightroom? In this article, I’m going to take you through the simple process, step by step. By the time you’re done, you’ll be able to confidently make presets of your own – and I’ll even show you how to make and apply import presets for high-quality, lightning-fast […] The post How to Create Your Own Lightroom Presets (Step By Step) appeared first on Digital Photography School . It was authored by Andrew S. Gibson .",
+          "fetched_text": "",
+          "score": 22,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 180,
+        "duplicates": 14,
+        "low_score": 84,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T16:59:09+00:00",
+  "last_run_at": "2026-04-18T17:54:07+00:00",
   "last_stats": {
-    "pool": 184,
-    "duplicates": 12,
-    "low_score": 91,
+    "pool": 180,
+    "duplicates": 14,
+    "low_score": 84,
     "selected": 3
   }
 }
