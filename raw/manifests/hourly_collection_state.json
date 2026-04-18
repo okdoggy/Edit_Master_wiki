@@ -5,7 +5,10 @@
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdG9NemdITHRRQUYxYjRZRjBPQU1ZbnlzZENGaW1PNWl1SXU2eHAxa0dyVVBidHJhclhtOFpTbm8tWnFIQXh1UGg1UHR3NEk4cXhTTkFjZ2lFdDRDQzZ3cFVYTlRlMlhiLVRlejVTTnZmWGpUUnBvdG9CamwyLXBwNm1jVHB0RnM2eDkyVnBDZU5rcnRFNGptSTlmLVBtaWhfUDhLM0l1Tmw1MEhZTnlCdHJoYTl4MGx0T0w5MlZWS1RiSEJjU2VPSmpvVmtiR2h2ODBOUjFCVFdrUldmZnJNc2tjb0NKOTA?oc=5",
     "https://www.reddit.com/r/Lightroom/comments/1slp1io/how_to_achieve_glowy_creamy_skin_tones_and_these",
     "https://www.reddit.com/r/AskPhotography/comments/1soy29y/how_to_edit_this_photo",
-    "https://www.reddit.com/r/iPhoneography/comments/1sotkh6/iphone_17_pro_max_main_camera_lens"
+    "https://www.reddit.com/r/iPhoneography/comments/1sotkh6/iphone_17_pro_max_main_camera_lens",
+    "https://www.reddit.com/r/Lightroom/comments/1sledk1/confused_about_masking_refining_selections",
+    "https://www.reddit.com/r/postprocessing/comments/1somxjo/beforeafter_bnw_edit",
+    "https://www.reddit.com/r/AskPhotography/comments/1soz36w/would_someone_be_able_to_tell_me_more_about_a"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -13,7 +16,10 @@
     "best mobile photo editing apps 2026 android ios dailyhunt",
     "achieve glowy creamy skin tones these types edits",
     "edit photo",
-    "iphone 17 pro max main camera lens"
+    "iphone 17 pro max main camera lens",
+    "confused about masking refining selections",
+    "before after bnw edit",
+    "would someone be able tell me more about film camera acquired"
   ],
   "runs": [
     {
@@ -135,13 +141,70 @@
         "low_score": 92,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T15:55:24+00:00",
+      "created_file": "raw/hourly/2026-04-18-1555-confused-about-masking-refining-selections.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "confused about masking + refining selections",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sledk1/confused_about_masking_refining_selections/",
+          "published_at": "2026-04-14T16:52:10+00:00",
+          "summary": "i used photoshop for many years, and have just recently started using lightroom on my ipad to edit photos. i’ve heard really good things about this program and while there are many parts about it i really like, i feel like i’m missing something. is there a way to refine the auto-selected background? i’m wanting to blur the background of a photo, but the auto tool for background selection is interpreting a couple foreground elements as background ones, and i’ve yet to find a way to add/remove to this selection. i tried using the masking tool, which is pretty much what i was looking for in terms of being able to add/subtract from a selection, but from the masking tool it seems to be limited in the amount of editing i can do on a masked section, and i’m not seeing any way to blur it like the auto-selected version. my question about refining auto-selected areas sorta extends to anything, not just the background or with blurring, outside of masking. like i said i really like a lot of the features on this program, and what it does well it does very well, but i feel like certain aspects of it are limited where similar programs aren’t. if that’s just the way this program is, that’s totally understandable! i just want to make sure i’m getting the most out of it, and not missing something obvious that would improve my results. thanks in advanced ☺️ submitted by /u/laputabot [link] [comments]",
+          "fetched_text": "",
+          "score": 27,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "Before/After (BnW Edit)",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1somxjo/beforeafter_bnw_edit/",
+          "published_at": "2026-04-18T03:56:57+00:00",
+          "summary": "How is the edit? Also i intentionally blew out the sky a bit to mimic old black and white film cinema cameras. submitted by /u/Affectionate_Wolf458 [link] [comments]",
+          "fetched_text": "",
+          "score": 24,
+          "tags": [
+            "lightroom_color_masking",
+            "film_grain_nostalgia"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Would someone be able to tell me more about a film camera I acquired?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1soz36w/would_someone_be_able_to_tell_me_more_about_a/",
+          "published_at": "2026-04-18T14:27:36+00:00",
+          "summary": "Hello, everyone! My grandfather died a couple years ago. While visiting my grandma this weekend, we found his old film camera, and it came with four lenses. I am pretty amateur when it comes to photography and still use my old rebel t6 DSLR. I have always been interested in film but haven't had the finances to invest in a new camera or even upgrade my own, so this couldn't have come into my life at a better time. I have to be honest I am completely clueless about film, I have mostly been a model for photographers on the other side of the lens. I would love to learn more about this camera and the lenses that came with it if anyone could provide any details. As you can see, some of the lenses came without lens caps and everything as a whole needs a good cleaning and some TLC, but I couldn't be more excited to get started on this film journey. Thanks for any information anyone can provide! submitted by /u/airbender7777 [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "film_grain_nostalgia"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 182,
+        "duplicates": 9,
+        "low_score": 88,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T15:00:04+00:00",
+  "last_run_at": "2026-04-18T15:55:24+00:00",
   "last_stats": {
     "pool": 182,
-    "duplicates": 6,
-    "low_score": 92,
+    "duplicates": 9,
+    "low_score": 88,
     "selected": 3
   }
 }
