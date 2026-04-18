@@ -72,3 +72,11 @@
 | recommendation | 2 | graphify/recommender schema and scenario index | `raw/recommendation/graphify_recommendation_schema.md` |
 
 | trends | 전문가/인기 스타일 보정 레시피 | teal-orange, pastel beach, food glow, film, autumn, snow | `raw/trends/professional_popular_editing_recipes.md` |
+
+## Incremental sources — 2026-04-18 (new external domains)
+
+| Category | Priority | Source | 대표 팁 상황 | File | URL |
+|---|---|---|---|---|---|
+| magazine | A | Sony Support — Photography Pro modes on Xperia | 움직이는 피사체에서 셔터 우선(S mode)로 실패 줄이기 | `raw/magazine/sony_photography_pro_modes.md` | https://www.sony.com/electronics/support/articles/00246274 |
+| magazine | A | Xiaomi Support — What is phone camera Pro mode | Pro mode에서 WB/F/S/ISO/EV/LENS/Metering을 장면별로 조정 | `raw/magazine/xiaomi_phone_pro_mode.md` | https://www.mi.com/uk/support/article/KA-36371/ |
+| magazine | A | YouTube Help — Shorts creation and upload specs | 숏폼 업로드를 위한 비율/길이/해상도 기준 반영 | `raw/magazine/youtube_shorts_specs.md` | https://support.google.com/youtube/answer/10059070 |

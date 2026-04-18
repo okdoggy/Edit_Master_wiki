@@ -97,3 +97,24 @@
 - `실전 시작점`: 출처의 원칙을 바탕으로 실제 촬영 때 테스트할 범위. 기기·빛·거리마다 조정 필요.
 
 원문 전문 복사는 하지 않는다. 대신 실전 팁과 출처 URL을 저장한다.
+
+## 보강 — 다국어 매칭/토큰 정규화/5W1H 슬롯 (2026-04-18)
+
+- 한국어+영어 혼합 질의 대응 alias 사전: `raw/recommendation/scenario_matching_lexicon.md`
+- 토큰 정규화 플레이북: `raw/recommendation/token_normalization_playbook.md`
+- 질의 슬롯 스키마(언제/누가/어디서/무엇을/어떻게): `raw/recommendation/query_slot_schema_5w1h.md`
+
+핵심 목표:
+- 영어뿐 아니라 한국어/코드믹스 질의의 scenario 매칭률 개선.
+- `Woman`, `tok_woman`, `subject:woman` 같은 분산 토큰을 canonical token으로 통합.
+- scenario/recommendation 연결에 5W1H 슬롯을 강제해서 검색 경로를 안정화.
+
+## 신규 외부 출처 raw 추가 (기존 출처와 다른 소스)
+
+- Sony Support (Xperia Photography Pro 모드): `raw/magazine/sony_photography_pro_modes.md`
+- Xiaomi Support (Phone camera Pro mode): `raw/magazine/xiaomi_phone_pro_mode.md`
+- YouTube Help (Shorts 규격/정책): `raw/magazine/youtube_shorts_specs.md`
+
+원칙:
+- 기존 raw 내용을 재포장하지 않고, 신규 외부 URL 기반으로 별도 파일 생성.
+- 각 파일은 동일하게 “상황 → 작업 순서 → 시작값 → 주의점 → 근거” 구조를 유지.

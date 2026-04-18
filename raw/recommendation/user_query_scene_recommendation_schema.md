@@ -95,6 +95,26 @@ ImageObservation
 - 사용자 쿼리에는 “무엇이 보이는가 / 무엇이 문제인가 / 어떤 결과를 원하는가”가 먼저 필요하다.
 - 따라서 source는 핵심 경로의 뒤쪽 `SUPPORTED_BY`로 이동해야 한다.
 
+
+## 5W1H 슬롯 라우팅 (언제/누가/어디서/무엇을/어떻게)
+
+사용자 질의에서 다음 슬롯을 우선 추출해 scenario 검색 점수에 반영한다.
+
+- 언제(`when`): 아침/낮/밤/계절
+- 누가(`who`): iPhone/Galaxy/Pixel, Lightroom/Photoshop
+- 어디서(`where`): 실내/야외/카페/거리/해변/미술관
+- 무엇을(`what`): 인스타 업로드, 유행 스타일, 별 촬영, 제품 사진
+- 어떻게(`how`): 2x 줌, Pro mode, ISO/셔터/EV
+
+권장 검색 순서:
+
+```text
+slot match (where+what+how)
+→ language-normalized alias match (KR/EN)
+→ issue adjustment
+→ recommendation ranking
+```
+
 ## Neo4j query shape
 
 ```cypher
