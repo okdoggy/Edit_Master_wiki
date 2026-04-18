@@ -8,10 +8,14 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
   group: hourly-raw-collector
   cancel-in-progress: false
+
+env:
+  RAW_BRANCH: automation/hourly-raw-collector
 
 jobs:
   collect:
@@ -22,22 +26,39 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Prepare raw collection branch
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+          if git ls-remote --exit-code --heads origin "$RAW_BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$RAW_BRANCH:$RAW_BRANCH"
+            git checkout "$RAW_BRANCH"
+            # Keep the automation branch current with main when possible, while never pushing to main.
+            git merge --no-edit origin/main
+          else
+            git checkout -b "$RAW_BRANCH" origin/main
+          fi
+
       - name: Collect new raw SNS/community photo techniques
         run: python3 scripts/collect_hourly_raw.py --max-items 3 --min-score 9
 
-      - name: Commit raw updates if new data was collected
+      - name: Commit raw updates to automation branch
+        id: commit
         shell: bash
         run: |
           set -euo pipefail
 
           # Do not commit state-only empty runs. Only commit when raw content or indexes changed.
           if [[ -z "$(git status --porcelain raw/hourly raw/manifests/sources.csv raw/manifests/source_matrix.md raw/README.md)" ]]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No new raw content collected. Skipping commit."
             exit 0
           fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add raw/hourly \
             raw/manifests/sources.csv \
@@ -46,18 +67,65 @@ jobs:
             raw/README.md
 
           if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No staged raw changes. Skipping commit."
             exit 0
           fi
 
           git commit \
             -m "Preserve hourly photo-trend raw signals" \
-            -m "The scheduled collector found new external SNS/community/professional photo technique signals and stored them as raw actionable tip cards instead of rewriting existing corpus entries." \
+            -m "The scheduled collector found new external SNS/community/professional photo technique signals and stored them as raw actionable tip cards on the automation branch for human review before main." \
             -m "Constraint: New data must be sourced from internet-discovered external URLs, not stitched from existing raw notes" \
+            -m "Constraint: Scheduled raw data must not push directly to main" \
+            -m "Rejected: Direct main push from schedule | bypasses review and can pollute the canonical corpus" \
             -m "Rejected: Commit empty hourly state-only runs | creates noisy history without new raw evidence" \
             -m "Confidence: medium" \
             -m "Scope-risk: narrow" \
-            -m "Tested: python3 scripts/collect_hourly_raw.py during setup; GitHub Actions workflow relies on repository GITHUB_TOKEN" \
-            -m "Not-tested: Long-term scheduled run reliability under GitHub Actions queue delays"
+            -m "Tested: collector and workflow syntax before enabling branch/PR flow" \
+            -m "Not-tested: First live scheduled PR update after push"
 
-          git push
+          git push origin "HEAD:$RAW_BRANCH"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update pull request for review
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          cat > /tmp/hourly-raw-pr-body.md <<'BODY'
+          ## Summary
+
+          This PR contains automatically collected hourly raw data for smartphone/SNS/community/professional photography techniques.
+
+          The scheduled workflow writes to this automation branch only. It does **not** push directly to `main`.
+
+          ## Review checklist
+
+          - Confirm each new `raw/hourly/*.md` entry is based on external URLs, not stitched from existing raw notes.
+          - Confirm the entry follows the existing actionable tip-card style.
+          - Confirm no copyrighted source article text is copied wholesale.
+          - Confirm `raw/manifests/sources.csv` and `raw/manifests/source_matrix.md` index the new file correctly.
+
+          ## Automation notes
+
+          - Empty runs are skipped.
+          - URL and title-fingerprint dedupe are applied before writing files.
+          - Some external feeds may fail intermittently; the collector continues with available sources.
+          BODY
+
+          if gh pr view "$RAW_BRANCH" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            gh pr edit "$RAW_BRANCH" \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "Review hourly raw photo-technique updates" \
+              --body-file /tmp/hourly-raw-pr-body.md
+          else
+            gh pr create \
+              --repo "$GITHUB_REPOSITORY" \
+              --base main \
+              --head "$RAW_BRANCH" \
+              --title "Review hourly raw photo-technique updates" \
+              --body-file /tmp/hourly-raw-pr-body.md
+          fi
