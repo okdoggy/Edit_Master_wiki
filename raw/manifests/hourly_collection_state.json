@@ -17,7 +17,10 @@
     "https://digital-photography-school.com/how-to-create-your-own-lightroom-presets",
     "https://www.reddit.com/r/AskPhotography/comments/1soiw60/camera_advice_for_aero_photography",
     "https://www.reddit.com/r/Lightroom/comments/1sk5y18/boring_backgrounds_skies",
-    "https://fstoppers.com/lightroom/10-lightroom-secrets-will-change-how-edit-photos-901713"
+    "https://fstoppers.com/lightroom/10-lightroom-secrets-will-change-how-edit-photos-901713",
+    "https://www.reddit.com/r/Lightroom/comments/1sju582/is_the_real_ai_denoise_ever_coming_back",
+    "https://digital-photography-school.com/6-tips-for-photographing-dogs-in-action",
+    "https://www.reddit.com/r/postprocessing/comments/1sp0ixw/before_after_tried_changing_the_colors_into_a"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -37,7 +40,10 @@
     "create your own lightroom presets step by step",
     "camera advice aero photography",
     "boring backgrounds skies",
-    "10 lightroom secrets will change you edit photos"
+    "10 lightroom secrets will change you edit photos",
+    "real ai denoise ever coming back",
+    "10 tips breathtaking dog action photography",
+    "before after tried changing colors into split complementary palette having hard time making it look realistic any tips"
   ],
   "runs": [
     {
@@ -384,13 +390,70 @@
         "low_score": 85,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-18T19:54:41+00:00",
+      "created_file": "raw/hourly/2026-04-18-1954-real-ai-denoise-ever-coming-back.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "Is the real AI denoise ever coming back?",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sju582/is_the_real_ai_denoise_ever_coming_back/",
+          "published_at": "2026-04-12T23:29:15+00:00",
+          "summary": "Lightroom's initial ai denoise tool was like magic, in the worse lighting conditions with high ISO it could just remove any grain. The new denoise does not create a new DNG but is garbage, 100% strength and when exported and looked at fullscreen the graininess is incredibly obvious and nothing like the old output. Are we ever going to get the good denoise back? I cant revert back to an old version from almost a year ago forever. submitted by /u/jrryul [link] [comments]",
+          "fetched_text": "",
+          "score": 22,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail",
+            "raw_sensor_pro_mode",
+            "film_grain_nostalgia"
+          ]
+        },
+        {
+          "source_name": "Digital Photography School",
+          "source_kind": "professional",
+          "feed_url": "https://digital-photography-school.com/feed/",
+          "title": "10 Tips for Breathtaking Dog Action Photography",
+          "url": "https://digital-photography-school.com/6-tips-for-photographing-dogs-in-action/",
+          "published_at": "2026-03-03T02:44:51+00:00",
+          "summary": "The post 10 Tips for Breathtaking Dog Action Photography appeared first on Digital Photography School . It was authored by Kelly Wolfe . This article was updated in January 2024 with contributions from Kelly Wolfe, Dave Spates, and Jaymes Dempsey. Photographing dogs in action is an absolute thrill. One moment they’re a ball of energy, and the next, they’re soaring through the air to catch a Frisbee. Those freeze-frame shots elicit smiles from everyone who sees them. But […] The post 10 Tips for Breathtaking Dog Action Photography appeared first on Digital Photography School . It was authored by Kelly Wolfe .",
+          "fetched_text": "",
+          "score": 20,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "Before > After. Tried changing the colors into a split complementary palette, having a hard time making it look realistic 😩 Any tips ?",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sp0ixw/before_after_tried_changing_the_colors_into_a/",
+          "published_at": "2026-04-18T15:23:06+00:00",
+          "summary": "submitted by /u/Jack_Micheals04 [link] [comments]",
+          "fetched_text": "",
+          "score": 19,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 182,
+        "duplicates": 20,
+        "low_score": 87,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-18T19:10:46+00:00",
+  "last_run_at": "2026-04-18T19:54:41+00:00",
   "last_stats": {
-    "pool": 181,
-    "duplicates": 17,
-    "low_score": 85,
+    "pool": 182,
+    "duplicates": 20,
+    "low_score": 87,
     "selected": 3
   }
 }
