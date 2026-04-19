@@ -65,7 +65,10 @@
     "https://www.reddit.com/r/iPhoneography/comments/1sp8498/iphone_17pro_edit_lightroom",
     "https://www.reddit.com/r/AskPhotography/comments/1spwi6a/how_to_properly_care_for_a_camera_to_ensure_its",
     "https://www.reddit.com/r/Lightroom/comments/1sobgxa/failed_to_generate_firefly_link",
-    "https://fstoppers.com/business/10-things-go-wrong-during-client-consultation-and-how-redirect-each-one-901248"
+    "https://fstoppers.com/business/10-things-go-wrong-during-client-consultation-and-how-redirect-each-one-901248",
+    "https://www.reddit.com/r/postprocessing/comments/1spy6sk/beforeafter_after_the_really_good_feedback_i",
+    "https://www.reddit.com/r/AskPhotography/comments/1sprodz/first_wildlife_setup",
+    "https://www.reddit.com/r/iPhoneography/comments/1spub1f/iphone_16_pro_no_editing_maybe_one_of_the_best"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -133,7 +136,10 @@
     "iphone 17pro edit lightroom",
     "properly care camera ensure its longevity",
     "failed generate firefly link",
-    "10 things go wrong during client consultation redirect each one"
+    "10 things go wrong during client consultation redirect each one",
+    "before after after really good feedback received my last post have decided try another editing exercise any feedback",
+    "first wildlife setup",
+    "iphone 16 pro no editing maybe one best pics ve ever taken it"
   ],
   "runs": [
     {
@@ -1369,13 +1375,67 @@
         "low_score": 84,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T17:54:28+00:00",
+      "created_file": "raw/hourly/2026-04-19-1754-before-after-after-really-good-feedback-received-my-last-post-have-dec.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "(Before/After) After the really good feedback I received in my last post, I have decided to try another editing exercise. Any feedback would be highly appreciated",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1spy6sk/beforeafter_after_the_really_good_feedback_i/",
+          "published_at": "2026-04-19T16:48:30+00:00",
+          "summary": "When I was editing the curves, I initially leaned into a cooler look. However the third image has a look closer to the original. Your feedback would be really helpful as I'm still very much an amateur submitted by /u/SlavBoii420 [link] [comments]",
+          "fetched_text": "",
+          "score": 22,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "First wildlife setup?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sprodz/first_wildlife_setup/",
+          "published_at": "2026-04-19T12:30:07+00:00",
+          "summary": "Hey, I want to get a proper Lens for wildlife and I already have a canon camera and lenses with EF mounts so I want to stay there, but my current camera is very beginner camera, its an EOS1100D so I´d like to atleast make a little camera upgrade aswell. Im thinking about the lens \"Sigma 150-600mm f5-6.3 DG OS HSM Contemporary (Canon EF)\" & for the camera a \"Canon EOS 7D Mark II\". Would this be a good pairing? Should I also get a teleconverter? submitted by /u/No_Cricket_4560 [link] [comments]",
+          "fetched_text": "",
+          "score": 16,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "iPhone 16 pro, no editing, maybe one of the best pics I’ve ever taken with it",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1spub1f/iphone_16_pro_no_editing_maybe_one_of_the_best/",
+          "published_at": "2026-04-19T14:21:59+00:00",
+          "summary": "submitted by /u/rafael_elias21 [link] [comments]",
+          "fetched_text": "",
+          "score": 13,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 186,
+        "duplicates": 44,
+        "low_score": 92,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T16:59:34+00:00",
+  "last_run_at": "2026-04-19T17:54:28+00:00",
   "last_stats": {
-    "pool": 180,
-    "duplicates": 43,
-    "low_score": 84,
+    "pool": 186,
+    "duplicates": 44,
+    "low_score": 92,
     "selected": 3
   }
 }
