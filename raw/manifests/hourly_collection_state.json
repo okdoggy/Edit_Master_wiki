@@ -38,7 +38,10 @@
     "https://www.reddit.com/r/iPhoneography/comments/1sp2rkr/casually_show_a_short_on_youtube_on_how_to_get",
     "https://www.reddit.com/r/AskPhotography/comments/1spe9zj/how_to_light_a_backdrop",
     "https://www.reddit.com/r/iPhoneography/comments/1spjx96/jpeg_straight_out_the_camera",
-    "https://fstoppers.com/gear/9-things-i-wish-i-knew-i-bought-my-first-serious-camera-901254"
+    "https://fstoppers.com/gear/9-things-i-wish-i-knew-i-bought-my-first-serious-camera-901254",
+    "https://www.reddit.com/r/AskPhotography/comments/1sp493l/sony_fdrax53_touchscreen_not_working_any_help",
+    "https://fstoppers.com/documentary/monster-house-effect-how-find-narrative-ordinary-ruins-900225",
+    "https://www.reddit.com/r/iPhoneography/comments/1sp4p2f/shot_on_iphone_12"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -79,7 +82,10 @@
     "casually show short youtube get fuji look fxn dig results",
     "light backdrop",
     "jpeg straight out camera",
-    "things wish knew before bought my first serious camera"
+    "things wish knew before bought my first serious camera",
+    "sony fdr ax53 touchscreen not working any help",
+    "monster house effect find narrative ordinary ruins",
+    "shot iphone 12"
   ],
   "runs": [
     {
@@ -813,13 +819,69 @@
         "low_score": 92,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T07:47:08+00:00",
+      "created_file": "raw/hourly/2026-04-19-0747-sony-fdr-ax53-touchscreen-not-working-any-help.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Sony FDR-AX53 touchscreen not working, any help?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sp493l/sony_fdrax53_touchscreen_not_working_any_help/",
+          "published_at": "2026-04-18T17:45:19+00:00",
+          "summary": "I am renting this camera for a school assignment from school but it is current vacation so I can’t get in contact with anyone from that department, :( When i turn it on it starts with this screen but no matter where i click nothing works and i can’t do anything with it as a whole now as i can’t record or anything. (Or atleast haven’t found how to) We have never worked or used a camera before so i am very unfamiliar with them but online i can’t find any other way to get it to work besides hard reset maybe or a internal issue with a ribbon cable, I don’t want to touch it or do something slightly risky seeing that it is rented :( I saw something about holding the manual button and using the lens to scroll or such but couldn’t figure that out either. Does anyone know if i can fix this any how at home without doing anything risky, or do i just have to wait thill after the vacation and be in a bit of a delay in my assignment. submitted by /u/SecretResist6284 [link] [comments]",
+          "fetched_text": "",
+          "score": 19,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "raw_sensor_pro_mode"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "The 'Monster House' Effect: How to Find Narrative in Ordinary Ruins",
+          "url": "https://fstoppers.com/documentary/monster-house-effect-how-find-narrative-ordinary-ruins-900225?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-17T16:03:02+00:00",
+          "summary": "There's a stretch of Highway 69 outside Muskogee that I've driven enough times to stop noticing it. You know the kind of road I mean — your brain goes into cruise control, the scenery becomes background noise, and you're just trying to get where you're going without getting stuck behind a log truck doing 42 in a 65. And then one day, something snaps you out of it. [ Read More ]",
+          "fetched_text": "",
+          "score": 16,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "Shot on iPhone 12",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1sp4p2f/shot_on_iphone_12/",
+          "published_at": "2026-04-18T18:02:13+00:00",
+          "summary": "Deosai,Pakistan Edited in Lightroom quite the scenic roadtrip :) submitted by /u/iamoutsideurhouse [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 190,
+        "duplicates": 33,
+        "low_score": 91,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T06:09:17+00:00",
+  "last_run_at": "2026-04-19T07:47:08+00:00",
   "last_stats": {
     "pool": 190,
-    "duplicates": 30,
-    "low_score": 92,
+    "duplicates": 33,
+    "low_score": 91,
     "selected": 3
   }
 }
