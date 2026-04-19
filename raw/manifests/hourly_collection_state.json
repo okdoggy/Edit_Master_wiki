@@ -53,7 +53,10 @@
     "https://www.reddit.com/r/Lightroom/comments/1sjl4ki/lightroom_1tb_and_classic",
     "https://www.reddit.com/r/postprocessing/comments/1sppj10/how_to_make_this_more_film_in_edit",
     "https://www.reddit.com/r/iPhoneography/comments/1spp89s/photos_of_the_night_sky_captured_using_a_iphone",
-    "https://www.reddit.com/r/AskPhotography/comments/1spal7p/is_the_nikon_z50ii_a_good_first_camera_or_are"
+    "https://www.reddit.com/r/AskPhotography/comments/1spal7p/is_the_nikon_z50ii_a_good_first_camera_or_are",
+    "https://www.reddit.com/r/AskPhotography/comments/1sps52x/can_you_remove_the_ir_filter_on_a_camera_sensor",
+    "https://digital-photography-school.com/five-useful-lightroom-keyboard-shortcuts",
+    "https://www.reddit.com/r/postprocessing/comments/1sp4hxx/why_is_this_happening"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -109,7 +112,10 @@
     "lightroom 1tb classic",
     "make more film edit",
     "photos night sky captured using iphone 17 without tripod",
-    "nikon z50ii good first camera there better alternatives same price"
+    "nikon z50ii good first camera there better alternatives same price",
+    "can you remove ir filter camera sensor then use lens filter block ir essentially get normal images again",
+    "lightroom keyboard shortcuts everyone should know",
+    "why happening"
   ],
   "runs": [
     {
@@ -1125,13 +1131,69 @@
         "low_score": 91,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T13:35:52+00:00",
+      "created_file": "raw/hourly/2026-04-19-1335-can-you-remove-ir-filter-camera-sensor-then-use-lens-filter-block-ir-e.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Can you remove the IR filter on a camera sensor, and then use a lens filter to block IR and essentially get normal images again?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sps52x/can_you_remove_the_ir_filter_on_a_camera_sensor/",
+          "published_at": "2026-04-19T12:51:27+00:00",
+          "summary": "Just wondering if you could possibly use an IR converted camera as a regular camera using filters. I don't know anything about infrared photography or astrophotography, but the thought of converting my Canon 600D/T3i does interest me. It's my only proper camera, so if I *do* ever convert it/get it converted, I wanna know if there would still be a way to use it as a normal camera using filters and such. Apologies if my question is bad or badly worded, any answers are appreciated! submitted by /u/LukasTheHunter22 [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "raw_sensor_pro_mode"
+          ]
+        },
+        {
+          "source_name": "Digital Photography School",
+          "source_kind": "professional",
+          "feed_url": "https://digital-photography-school.com/feed/",
+          "title": "5 Lightroom Keyboard Shortcuts Everyone Should Know",
+          "url": "https://digital-photography-school.com/five-useful-lightroom-keyboard-shortcuts/",
+          "published_at": "2026-02-17T01:32:59+00:00",
+          "summary": "The post 5 Lightroom Keyboard Shortcuts Everyone Should Know appeared first on Digital Photography School . It was authored by Andrew S. Gibson . Lightroom is a fantastic program that’s designed for fast and efficient editing, but if you make all your adjustments using your mouse, you may notice that each little operation starts to add up – until you’ve spent hours upon hours moving your cursor, clicking the mouse, and more. Fortunately, Adobe built in plenty of handy […] The post 5 Lightroom Keyboard Shortcuts Everyone Should Know appeared first on Digital Photography School . It was authored by Andrew S. Gibson .",
+          "fetched_text": "",
+          "score": 14,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "Why is this happening…?",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sp4hxx/why_is_this_happening/",
+          "published_at": "2026-04-18T17:54:47+00:00",
+          "summary": "So… I was trying to save this dark pic and started to like how it turned out just to find its actually incredibly noisy when I full screen… it’s like that when I save it too… is what I’m seeing a lie? How do I trust that what I’m editing is actually how it looks? iOS Lightroom 11.3 submitted by /u/Grand_Grand5452 [link] [comments]",
+          "fetched_text": "",
+          "score": 13,
+          "tags": [
+            "low_light_night_social",
+            "lightroom_color_masking"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 191,
+        "duplicates": 42,
+        "low_score": 93,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T11:51:50+00:00",
+  "last_run_at": "2026-04-19T13:35:52+00:00",
   "last_stats": {
-    "pool": 192,
+    "pool": 191,
     "duplicates": 42,
-    "low_score": 91,
+    "low_score": 93,
     "selected": 3
   }
 }
