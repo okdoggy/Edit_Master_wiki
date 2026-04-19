@@ -62,7 +62,10 @@
     "https://www.reddit.com/r/postprocessing/comments/1spt281/beforeafter_tried_messing_around_a_bit_on",
     "https://www.reddit.com/r/AskPhotography/comments/1spuskh/i_have_fungus_in_my_canon_digital_95_is_lens_can",
     "https://www.reddit.com/r/postprocessing/comments/1spv5aa/critique_my_editing",
-    "https://www.reddit.com/r/iPhoneography/comments/1sp8498/iphone_17pro_edit_lightroom"
+    "https://www.reddit.com/r/iPhoneography/comments/1sp8498/iphone_17pro_edit_lightroom",
+    "https://www.reddit.com/r/AskPhotography/comments/1spwi6a/how_to_properly_care_for_a_camera_to_ensure_its",
+    "https://www.reddit.com/r/Lightroom/comments/1sobgxa/failed_to_generate_firefly_link",
+    "https://fstoppers.com/business/10-things-go-wrong-during-client-consultation-and-how-redirect-each-one-901248"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -127,7 +130,10 @@
     "before after tried messing around bit snapseed shot nothing phone 2a",
     "have fungus my canon digital 95 lens can someone help me fix it am out luck",
     "critique my editing",
-    "iphone 17pro edit lightroom"
+    "iphone 17pro edit lightroom",
+    "properly care camera ensure its longevity",
+    "failed generate firefly link",
+    "10 things go wrong during client consultation redirect each one"
   ],
   "runs": [
     {
@@ -1308,13 +1314,68 @@
         "low_score": 85,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T16:59:34+00:00",
+      "created_file": "raw/hourly/2026-04-19-1659-properly-care-camera-ensure-its-longevity.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "How to properly care for a camera to ensure its longevity?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1spwi6a/how_to_properly_care_for_a_camera_to_ensure_its/",
+          "published_at": "2026-04-19T15:45:16+00:00",
+          "summary": "Recently my D5300 had a mirror lockup at a shutter count of 20000. I don't know what caused it, potentially it was kept in a drawer by my mum for many years. I am now looking to buying a new camera, but I am anxious about it breaking early on like its predecessor. It'd be great to hear some more seasoned advised about how to ensure that doesn't happen to the next camera to at the very least ease my worries thank you for your time submitted by /u/Frequent_Locksmith69 [link] [comments]",
+          "fetched_text": "",
+          "score": 24,
+          "tags": [
+            "raw_sensor_pro_mode"
+          ]
+        },
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "\"Failed to Generate Firefly Link\"",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sobgxa/failed_to_generate_firefly_link/",
+          "published_at": "2026-04-17T19:46:09+00:00",
+          "summary": "I happened to see in a video on the new features today that there is a \"mood board\" creation, thought I would try it. However, when I do, I get a \"Failed to Generate a Firefly Link\" after about 30 seconds. I turned off Little Snitch, my VPN (which wasn't live but does some filtering anyway) and verified that the Mac firewall was off. Still the same error. Mac OS 15.7.6, Lightroom Classic 15.3 submitted by /u/DeliciousCut4854 [link] [comments]",
+          "fetched_text": "",
+          "score": 13,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "10 Things That Go Wrong During a Client Consultation and How to Redirect Each One",
+          "url": "https://fstoppers.com/business/10-things-go-wrong-during-client-consultation-and-how-redirect-each-one-901248?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-17T21:03:01+00:00",
+          "summary": "The consultation is supposed to be the easy part. The client reaches out, you meet (in person, by phone, or over video), you discuss what they want, you explain what you offer, and you both walk away aligned on the vision, the scope, and the price. That is the theory. In practice, the consultation is where every mismatched expectation, unrealistic budget, and conflicting creative vision reveals itself, and your ability to navigate those reveals determines whether the conversation ends with a booking or a polite \"I'll think about it\" that means no. [ Read More ]",
+          "fetched_text": "",
+          "score": 13,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 180,
+        "duplicates": 43,
+        "low_score": 84,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T15:55:26+00:00",
+  "last_run_at": "2026-04-19T16:59:34+00:00",
   "last_stats": {
-    "pool": 185,
-    "duplicates": 45,
-    "low_score": 85,
+    "pool": 180,
+    "duplicates": 43,
+    "low_score": 84,
     "selected": 3
   }
 }
