@@ -41,7 +41,10 @@
     "https://fstoppers.com/gear/9-things-i-wish-i-knew-i-bought-my-first-serious-camera-901254",
     "https://www.reddit.com/r/AskPhotography/comments/1sp493l/sony_fdrax53_touchscreen_not_working_any_help",
     "https://fstoppers.com/documentary/monster-house-effect-how-find-narrative-ordinary-ruins-900225",
-    "https://www.reddit.com/r/iPhoneography/comments/1sp4p2f/shot_on_iphone_12"
+    "https://www.reddit.com/r/iPhoneography/comments/1sp4p2f/shot_on_iphone_12",
+    "https://www.reddit.com/r/AskPhotography/comments/1sp5x1h/how_to_go_about_looking_for_a_photographer_for_a",
+    "https://www.reddit.com/r/mobilephotography/comments/1sozs9d/struggling_with_phone_photography_redmi_14c_5g_is",
+    "https://www.reddit.com/r/Lightroom/comments/1sozp1k/i_need_a_new_hdr_capable_monitor_suggestions"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -85,7 +88,10 @@
     "things wish knew before bought my first serious camera",
     "sony fdr ax53 touchscreen not working any help",
     "monster house effect find narrative ordinary ruins",
-    "shot iphone 12"
+    "shot iphone 12",
+    "go about looking photographer music album shoot",
+    "struggling phone photography redmi 14c 5g it me phone my editing",
+    "need new hdr capable monitor suggestions"
   ],
   "runs": [
     {
@@ -875,13 +881,68 @@
         "low_score": 91,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T09:07:59+00:00",
+      "created_file": "raw/hourly/2026-04-19-0907-go-about-looking-photographer-music-album-shoot.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "How to go about looking for a photographer for a music album shoot?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sp5x1h/how_to_go_about_looking_for_a_photographer_for_a/",
+          "published_at": "2026-04-18T18:48:23+00:00",
+          "summary": "Hello to you all, I wanted to come on here to ask about how to go about to look and hire a photographer for an album shoot. I’m an amateur music producer and artist who wants to at least get some photo stills to representation the vision I have for my story. However, I don’t know to professionally go about it. I attend a university and have limited budget but don’t mind fixing that as I find my photographer. Any advice helps, Thanks! submitted by /u/Dazzling_Place_5429 [link] [comments]",
+          "fetched_text": "",
+          "score": 18,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "Reddit r/mobilephotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/mobilephotography/top/.rss?t=day",
+          "title": "Struggling with phone photography (Redmi 14C 5G) — is it me, the phone, or my editing?",
+          "url": "https://www.reddit.com/r/mobilephotography/comments/1sozs9d/struggling_with_phone_photography_redmi_14c_5g_is/",
+          "published_at": "2026-04-18T14:55:21+00:00",
+          "summary": "submitted by /u/Odd_Mess_4615 [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "I need a new HDR capable monitor - suggestions?",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sozp1k/i_need_a_new_hdr_capable_monitor_suggestions/",
+          "published_at": "2026-04-18T14:51:51+00:00",
+          "summary": "My old SDR monitor just isn’t cutting it for the HDR stuff I do. Some details - I mainly use this monitor for photo editing, use a Mac and Lightroom/PS mostly, and have calibration gear. I have been very impressed with the new Apple Studio XDR monitor, except for the price aspect. Does anyone know any good competitors to that, mini-led, lots of nits for hdr stuff, etc? The reviews I’ve been reading are confusing and seem to be shilling certain brands depending on which one I’m reading. submitted by /u/sduck409 [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 190,
+        "duplicates": 35,
+        "low_score": 93,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T07:47:08+00:00",
+  "last_run_at": "2026-04-19T09:07:59+00:00",
   "last_stats": {
     "pool": 190,
-    "duplicates": 33,
-    "low_score": 91,
+    "duplicates": 35,
+    "low_score": 93,
     "selected": 3
   }
 }
