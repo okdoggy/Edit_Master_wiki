@@ -68,7 +68,10 @@
     "https://fstoppers.com/business/10-things-go-wrong-during-client-consultation-and-how-redirect-each-one-901248",
     "https://www.reddit.com/r/postprocessing/comments/1spy6sk/beforeafter_after_the_really_good_feedback_i",
     "https://www.reddit.com/r/AskPhotography/comments/1sprodz/first_wildlife_setup",
-    "https://www.reddit.com/r/iPhoneography/comments/1spub1f/iphone_16_pro_no_editing_maybe_one_of_the_best"
+    "https://www.reddit.com/r/iPhoneography/comments/1spub1f/iphone_16_pro_no_editing_maybe_one_of_the_best",
+    "https://www.reddit.com/r/AskPhotography/comments/1sq0mb7/photographers_who_despise_post_processing_how_do",
+    "https://petapixel.com/2026/04/19/sirui-unveils-ultra-wide-and-telephoto-vp-1-lenses-for-full-frame-mirrorless-cameras",
+    "https://www.reddit.com/r/postprocessing/comments/1sq0w8y/after_before_used_snapseed_for_editing"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -139,7 +142,10 @@
     "10 things go wrong during client consultation redirect each one",
     "before after after really good feedback received my last post have decided try another editing exercise any feedback",
     "first wildlife setup",
-    "iphone 16 pro no editing maybe one best pics ve ever taken it"
+    "iphone 16 pro no editing maybe one best pics ve ever taken it",
+    "photographers who despise post processing do you cope",
+    "sirui unveils ultra wide telephoto vp lenses full frame mirrorless cameras",
+    "after before used snapseed editing"
   ],
   "runs": [
     {
@@ -1429,12 +1435,66 @@
         "low_score": 92,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T19:10:35+00:00",
+      "created_file": "raw/hourly/2026-04-19-1910-photographers-who-despise-post-processing-do-you-cope.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Photographers who despise post processing: How do you cope?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sq0mb7/photographers_who_despise_post_processing_how_do/",
+          "published_at": "2026-04-19T18:16:45+00:00",
+          "summary": "There are some who live for the editing, retouching, and color grading process and then there's me. I hate it. I love B&W for many reasons and is my primary choice when it comes to processing but one particular reason is there's less hassle than color. With that said I'd like to get out of my comfort zone and process more in color but dread all the extra work and expectations that comes along with it. I have a small studio with the basic knowledge and tools to ensure consistency (white balance, grey card/color checker, etc) but it's the post work that I get extremely anxious about. I'm familiar enough with Photoshop to perform most advanced techniques and would love to take my work to the next step but even basic retouching like D&B can feel grueling at times which isn't ideal for someone who is impatient and gets bored....ohhhh shiny...distracted rather easily. Anyway, for those of you in the same boat, how do you cope? Any tips, tricks, or resources that have made it easier or less stressful? submitted by /u/GunterJanek [link] [comments]",
+          "fetched_text": "",
+          "score": 22,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "PetaPixel",
+          "source_kind": "professional",
+          "feed_url": "https://petapixel.com/feed/",
+          "title": "Sirui Unveils Ultra-Wide and Telephoto VP-1 Lenses for Full-Frame Mirrorless Cameras",
+          "url": "https://petapixel.com/2026/04/19/sirui-unveils-ultra-wide-and-telephoto-vp-1-lenses-for-full-frame-mirrorless-cameras/",
+          "published_at": "2026-04-19T18:01:06+00:00",
+          "summary": "Alongside a trio of new IronStar 1.5x anamorphic lenses for full-frame cameras, Sirui also unveiled three new Vision Prime 1 Series full-frame lenses at NAB 2026. The company unveiled new 15mm, 75mm, and 150mm Vision Prime 1 (VP-1) lenses, each promising \"exceptional bokeh, outstanding low-light performance, and superior optical quality.\" [ Read More ]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "telephoto_macro_focus_control"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "After / Before used snapseed for editing",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sq0w8y/after_before_used_snapseed_for_editing/",
+          "published_at": "2026-04-19T18:26:51+00:00",
+          "summary": "submitted by /u/furious_xime-69 [link] [comments]",
+          "fetched_text": "",
+          "score": 13,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 186,
+        "duplicates": 46,
+        "low_score": 92,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T17:54:28+00:00",
+  "last_run_at": "2026-04-19T19:10:35+00:00",
   "last_stats": {
     "pool": 186,
-    "duplicates": 44,
+    "duplicates": 46,
     "low_score": 92,
     "selected": 3
   }
