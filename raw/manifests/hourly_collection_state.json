@@ -80,7 +80,10 @@
     "https://www.reddit.com/r/iPhoneography/comments/1spo5cr/iphone16leica_luxapp",
     "https://www.reddit.com/r/iPhoneography/comments/1sq46xw/what_are_your_thoughts",
     "https://www.reddit.com/r/mobilephotography/comments/1sq4a93/pixel_9_pro_xl_jpg_snapseed_edit",
-    "https://www.reddit.com/r/AskPhotography/comments/1spwmmv/what_can_i_do_with_my_broken_lens"
+    "https://www.reddit.com/r/AskPhotography/comments/1spwmmv/what_can_i_do_with_my_broken_lens",
+    "https://www.reddit.com/r/AskPhotography/comments/1sq62lu/best_external_flash_for_sony_30mm_f35_macro",
+    "https://www.reddit.com/r/Lightroom/comments/1spic2w/help_cant_find_photos",
+    "https://www.reddit.com/r/postprocessing/comments/1spf09s/san_diego_bay_beforeafter"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -163,7 +166,10 @@
     "iphone16 leica lux app",
     "what your thoughts",
     "pixel pro xl jpg snapseed edit",
-    "what can do my broken lens"
+    "what can do my broken lens",
+    "best external flash sony 30mm macro",
+    "help can find photos",
+    "san diego bay before after"
   ],
   "runs": [
     {
@@ -1672,13 +1678,68 @@
         "low_score": 96,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T22:57:08+00:00",
+      "created_file": "raw/hourly/2026-04-19-2257-best-external-flash-sony-30mm-macro.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Best external flash for Sony 30mm f/3.5 Macro?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sq62lu/best_external_flash_for_sony_30mm_f35_macro/",
+          "published_at": "2026-04-19T21:43:10+00:00",
+          "summary": "Hi all, I‘ve been trying to get better pictures with my Sony 30mm f/3.5 Macro lens (camera is a Sony a6400). I know a lot of people use external flashes to improve their macro photography, but I haven’t been able to find much information about using them with this specific lens. If anyone here has used this lens (or a similar macro lens), what would you recommend? submitted by /u/Saka_Haumavarga [link] [comments]",
+          "fetched_text": "",
+          "score": 20,
+          "tags": [
+            "telephoto_macro_focus_control"
+          ]
+        },
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "HELP!! Can’t find photos",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1spic2w/help_cant_find_photos/",
+          "published_at": "2026-04-19T03:55:52+00:00",
+          "summary": "My LRC is saying missing photographs, i’ve done everything that anyone has said to do. i’ve clicked find photograph, find folder, synching it (which is wont), moving the folder, renaming it,restarted my computer and LRC, etc. and it’s still gone. I backed it up onto an SSD and it’s nowhere to be found there either. all of my other photos and albums are still on my computer and SSD but this one photoshoot is not, and i haven’t changed anything it was fine yesterday. The only thing that i’ve noticed is it saying the folder it’s in is invisible but idk if that changes anything. Please help. I need to get this recovered. Can they be gone permanently? Now i can’t even find anything on my hard drive it’s like wiped too. but all of my photos are still in lightroom so im not so worried about this but if anyone know what to do with that id appreciate that too. submitted by /u/No-Hospital-2565 [link] [comments]",
+          "fetched_text": "",
+          "score": 12,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "San Diego Bay (Before/After)",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1spf09s/san_diego_bay_beforeafter/",
+          "published_at": "2026-04-19T01:12:39+00:00",
+          "summary": "The preview looks strange but this is xpan dimensions! Before/After; trip to San Diego submitted by /u/pbankey [link] [comments]",
+          "fetched_text": "",
+          "score": 12,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 184,
+        "duplicates": 46,
+        "low_score": 95,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T21:52:43+00:00",
+  "last_run_at": "2026-04-19T22:57:08+00:00",
   "last_stats": {
-    "pool": 189,
+    "pool": 184,
     "duplicates": 46,
-    "low_score": 96,
+    "low_score": 95,
     "selected": 3
   }
 }
