@@ -59,7 +59,10 @@
     "https://www.reddit.com/r/postprocessing/comments/1sp4hxx/why_is_this_happening",
     "https://fstoppers.com/education/best-camera-settings-advice-thats-keeping-your-photography-mediocre-901725",
     "https://www.reddit.com/r/AskPhotography/comments/1spu4pg/what_are_these_splotches_on_my_film_is_this_a",
-    "https://www.reddit.com/r/postprocessing/comments/1spt281/beforeafter_tried_messing_around_a_bit_on"
+    "https://www.reddit.com/r/postprocessing/comments/1spt281/beforeafter_tried_messing_around_a_bit_on",
+    "https://www.reddit.com/r/AskPhotography/comments/1spuskh/i_have_fungus_in_my_canon_digital_95_is_lens_can",
+    "https://www.reddit.com/r/postprocessing/comments/1spv5aa/critique_my_editing",
+    "https://www.reddit.com/r/iPhoneography/comments/1sp8498/iphone_17pro_edit_lightroom"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -121,7 +124,10 @@
     "why happening",
     "best camera settings advice keeping your photography mediocre",
     "what these splotches my film camera problem film problem development problem",
-    "before after tried messing around bit snapseed shot nothing phone 2a"
+    "before after tried messing around bit snapseed shot nothing phone 2a",
+    "have fungus my canon digital 95 lens can someone help me fix it am out luck",
+    "critique my editing",
+    "iphone 17pro edit lightroom"
   ],
   "runs": [
     {
@@ -1248,13 +1254,67 @@
         "low_score": 88,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T15:55:26+00:00",
+      "created_file": "raw/hourly/2026-04-19-1555-have-fungus-my-canon-digital-95-lens-can-someone-help-me-fix-it-am-out.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "I have fungus in my Canon Digital 95 IS lens. Can someone help me fix it, or am I out of luck?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1spuskh/i_have_fungus_in_my_canon_digital_95_is_lens_can/",
+          "published_at": "2026-04-19T14:40:52+00:00",
+          "summary": "I recently acquired a Canon Digital IXUS 95 IS and noticed what appears to be fungus inside the lens. Photo 1: The camera itself. Photo 2: The fungus visible when aiming the camera at a bright background (this shot was taken while zoomed in). When I point the camera at something bright, such as a screen or light source, the fungus patterns inside the lens become quite apparent. It is more visible when zoomed in, but at normal focal distances, it appears blurrier. However, it is still noticeable in regular photos. The fungus is also significantly affecting image quality—approximately one-fourth of the image looks degraded due to this issue. Is this something that can realistically be cleaned/repaired, or is it not worth the effort for this model? Also, if repair is possible, would it require a full lens disassembly or are there any safer methods? Any advice or experience would help. submitted by /u/Mammoth-Menu9134 [link] [comments]",
+          "fetched_text": "",
+          "score": 21,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "Critique my editing",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1spv5aa/critique_my_editing/",
+          "published_at": "2026-04-19T14:54:38+00:00",
+          "summary": "Hi I would love some constructive criticism regarding editing and composition! Here are a few photos from a shoot I did but I feel like there’s something missing and that’s making them lack luster and I’m not sure if it’s my composition or something post processing! Help a girl out please!! I would love constructive criticism so I can continue to grow :) submitted by /u/Spare_Temporary396 [link] [comments]",
+          "fetched_text": "",
+          "score": 16,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "iPhone 17pro edit Lightroom",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1sp8498/iphone_17pro_edit_lightroom/",
+          "published_at": "2026-04-18T20:13:40+00:00",
+          "summary": "submitted by /u/Jacob__photo [link] [comments]",
+          "fetched_text": "",
+          "score": 14,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 185,
+        "duplicates": 45,
+        "low_score": 85,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T14:59:52+00:00",
+  "last_run_at": "2026-04-19T15:55:26+00:00",
   "last_stats": {
-    "pool": 188,
-    "duplicates": 44,
-    "low_score": 88,
+    "pool": 185,
+    "duplicates": 45,
+    "low_score": 85,
     "selected": 3
   }
 }
