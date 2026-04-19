@@ -71,7 +71,10 @@
     "https://www.reddit.com/r/iPhoneography/comments/1spub1f/iphone_16_pro_no_editing_maybe_one_of_the_best",
     "https://www.reddit.com/r/AskPhotography/comments/1sq0mb7/photographers_who_despise_post_processing_how_do",
     "https://petapixel.com/2026/04/19/sirui-unveils-ultra-wide-and-telephoto-vp-1-lenses-for-full-frame-mirrorless-cameras",
-    "https://www.reddit.com/r/postprocessing/comments/1sq0w8y/after_before_used_snapseed_for_editing"
+    "https://www.reddit.com/r/postprocessing/comments/1sq0w8y/after_before_used_snapseed_for_editing",
+    "https://www.reddit.com/r/AskPhotography/comments/1sq19ph/how_to_take_better_pregnancy_photos",
+    "https://fstoppers.com/reviews/ulanzi-d200x-and-dial-review-can-they-improve-your-editing-workflow-900870",
+    "https://www.reddit.com/r/mobilephotography/comments/1spp4lp/water_in_tivoli_s10"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -145,7 +148,10 @@
     "iphone 16 pro no editing maybe one best pics ve ever taken it",
     "photographers who despise post processing do you cope",
     "sirui unveils ultra wide telephoto vp lenses full frame mirrorless cameras",
-    "after before used snapseed editing"
+    "after before used snapseed editing",
+    "take better pregnancy photos",
+    "ulanzi d200x dial review can they improve your editing workflow",
+    "water tivoli s10"
   ],
   "runs": [
     {
@@ -1489,13 +1495,67 @@
         "low_score": 92,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T19:55:24+00:00",
+      "created_file": "raw/hourly/2026-04-19-1955-take-better-pregnancy-photos.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "How to take better pregnancy photos?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sq19ph/how_to_take_better_pregnancy_photos/",
+          "published_at": "2026-04-19T18:40:23+00:00",
+          "summary": "Hey all! My girlfriend is currently almost 26 weeks pregnant and she has been wanting me to take good pregnancy photos of her, I try my best to do it but I’ve never been the greatest at taking photos 😅, my main question for here is are there specific settings I should be setting on my phone camera settings? Is there any specific angles that catch the light differently? Would laying down when I the photos make them look better? I tried googling this stuff as well but so much varying information I figured I’d try here. We had been at the pool today for example and I thought the photos I took were nice but they just weren’t what she wanted and I want to make sure I do whatever possible to get her these photos, so any help would be much appreciated! submitted by /u/boombp2726 [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "Ulanzi D200X and Dial Review: Can They Improve Your Editing Workflow?",
+          "url": "https://fstoppers.com/reviews/ulanzi-d200x-and-dial-review-can-they-improve-your-editing-workflow-900870?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-17T17:03:02+00:00",
+          "summary": "Most editing tools promise to speed up your workflow. Very few actually change how you work. After testing the Ulanzi D200X and Dial in real-world use, I wanted to see if either could genuinely reduce time at the desk or if they just add another layer to the process. As a photographer and videographer, I spend more time at my desk than I would like to admit. A large part of running a photography business happens away from the camera. Editing, file management, emails, and planning all take time, so having a setup that supports workflow, efficiency, and comfort matters. [ Read More ]",
+          "fetched_text": "",
+          "score": 13,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/mobilephotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/mobilephotography/top/.rss?t=day",
+          "title": "Water in Tivoli (S10+)",
+          "url": "https://www.reddit.com/r/mobilephotography/comments/1spp4lp/water_in_tivoli_s10/",
+          "published_at": "2026-04-19T10:18:24+00:00",
+          "summary": "Edited with Adobe Lightroom and shot with the Samsung Galaxy S10+. Open for Advice submitted by /u/garagly10 [link] [comments]",
+          "fetched_text": "",
+          "score": 12,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 185,
+        "duplicates": 47,
+        "low_score": 91,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T19:10:35+00:00",
+  "last_run_at": "2026-04-19T19:55:24+00:00",
   "last_stats": {
-    "pool": 186,
-    "duplicates": 46,
-    "low_score": 92,
+    "pool": 185,
+    "duplicates": 47,
+    "low_score": 91,
     "selected": 3
   }
 }
