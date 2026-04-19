@@ -50,7 +50,10 @@
     "https://digital-photography-school.com/raw-vs-jpeg-whats-the-difference-and-which-should-you-be-shooting",
     "https://www.reddit.com/r/AskPhotography/comments/1spf9nj/need_help_identifying_lens_mount_could_anyone",
     "https://petapixel.com/2026/04/19/how-to-make-your-photos-more-meaningful",
-    "https://www.reddit.com/r/Lightroom/comments/1sjl4ki/lightroom_1tb_and_classic"
+    "https://www.reddit.com/r/Lightroom/comments/1sjl4ki/lightroom_1tb_and_classic",
+    "https://www.reddit.com/r/postprocessing/comments/1sppj10/how_to_make_this_more_film_in_edit",
+    "https://www.reddit.com/r/iPhoneography/comments/1spp89s/photos_of_the_night_sky_captured_using_a_iphone",
+    "https://www.reddit.com/r/AskPhotography/comments/1spal7p/is_the_nikon_z50ii_a_good_first_camera_or_are"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -103,7 +106,10 @@
     "raw vs jpeg what difference which should you be shooting",
     "need help identifying lens mount could anyone assist",
     "make your photos more meaningful",
-    "lightroom 1tb classic"
+    "lightroom 1tb classic",
+    "make more film edit",
+    "photos night sky captured using iphone 17 without tripod",
+    "nikon z50ii good first camera there better alternatives same price"
   ],
   "runs": [
     {
@@ -1063,13 +1069,69 @@
         "low_score": 92,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T11:51:50+00:00",
+      "created_file": "raw/hourly/2026-04-19-1151-make-more-film-edit.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "How to make this more film in edit",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sppj10/how_to_make_this_more_film_in_edit/",
+          "published_at": "2026-04-19T10:41:25+00:00",
+          "summary": "I’m hoping to get some advice on how I can edit this photo to keep it more of a film looks as I’m not the best at this, and isolate the subject. I’ve tried different filters in Lightroom but nothings that great. Thanks submitted by /u/yozzaa [link] [comments]",
+          "fetched_text": "",
+          "score": 32,
+          "tags": [
+            "lightroom_color_masking",
+            "film_grain_nostalgia"
+          ]
+        },
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "Photos of the night sky captured using a iPhone 17 (without a tripod)",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1spp89s/photos_of_the_night_sky_captured_using_a_iphone/",
+          "published_at": "2026-04-19T10:24:14+00:00",
+          "summary": "(The second photo is the unedited version) Also, how do I reduce the bright spot near the centre of the camera? submitted by /u/shreyanfr [link] [comments]",
+          "fetched_text": "",
+          "score": 17,
+          "tags": [
+            "low_light_night_social"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Is the Nikon Z50II a good first camera, or are there better alternatives for the same price?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1spal7p/is_the_nikon_z50ii_a_good_first_camera_or_are/",
+          "published_at": "2026-04-18T21:52:58+00:00",
+          "summary": "(1) Budget, country, and currency: United States, around or less than 1500 USD (after taxes) (2) What equipment, if any, you have now and why is it no longer meeting your needs? I don't currently have any equipment (3) What kinds of subjects do you intend to shoot? Landscapes and wildlife (4) Is it primarily for photography, videography, or both? Both Hey everyone, I'm currently looking for a camera for my wife. She has always been interested in photography, particularly landscapes and wildlife, and she always manages to get some pretty good photos with her phone whenever we go somewhere new. We are going on vacation in a month, and since we'll be far from home and see some unique places and a few national parks, I would like to help her get into photography (mainly photography, but also short videos that we'll compile into a montage at the end of the trip). I haven't owned a camera in over 10 years and know very little about the current camera market, but I've tried to look for some advice here. Personally, I really enjoyed the feel of Nikon cameras, and my wife seems to also lean towards Nikon a little more based on the cameras she's used. I'm also leaning towards a mirrorless camera rather than a DSLR, since I'll be bringing it on hikes and they seem to be significantly lighter than all the DSLRs. With that in mind I looked at the Nikon website and got drawn towards the Z50II, which is the cheapest mirrorless with a viewfinder. I can get a 10% discount on their website, so the two-lens kit (DX16-50/3.5-6.3 & DX50-250/4.5-6.3) comes to ~1350 USD after sales tax. My questions are: 1) Would that be a good body/lens combination for photographing both landscapes that are far away and wildlife that will be significantly closer? 2) Would you all recommend that I try and find something that is cheaper/better on craigslist or ebay? And if so, what to look for to make sure the camera is in good condition? If you have any other feedback about this specific model, or anything related to this, please feel free to include it in your response. Thank you all submitted by /u/Longjumping-Pain7647 [link] [comments]",
+          "fetched_text": "",
+          "score": 14,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "raw_sensor_pro_mode"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 192,
+        "duplicates": 42,
+        "low_score": 91,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T11:01:37+00:00",
+  "last_run_at": "2026-04-19T11:51:50+00:00",
   "last_stats": {
-    "pool": 190,
-    "duplicates": 39,
-    "low_score": 92,
+    "pool": 192,
+    "duplicates": 42,
+    "low_score": 91,
     "selected": 3
   }
 }
