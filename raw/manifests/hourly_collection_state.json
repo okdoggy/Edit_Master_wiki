@@ -35,7 +35,10 @@
     "https://www.reddit.com/r/postprocessing/comments/1sp0oje/beforeafter_this_is_my_personal_favorite",
     "https://www.reddit.com/r/AskPhotography/comments/1spc7nd/how_do_i_make_my_event_photography_look_less_flat",
     "https://www.reddit.com/r/postprocessing/comments/1spgdak/birdie_in_butterfly_house_beforeafter",
-    "https://www.reddit.com/r/iPhoneography/comments/1sp2rkr/casually_show_a_short_on_youtube_on_how_to_get"
+    "https://www.reddit.com/r/iPhoneography/comments/1sp2rkr/casually_show_a_short_on_youtube_on_how_to_get",
+    "https://www.reddit.com/r/AskPhotography/comments/1spe9zj/how_to_light_a_backdrop",
+    "https://www.reddit.com/r/iPhoneography/comments/1spjx96/jpeg_straight_out_the_camera",
+    "https://fstoppers.com/gear/9-things-i-wish-i-knew-i-bought-my-first-serious-camera-901254"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -73,7 +76,10 @@
     "before after my personal favorite",
     "do make my event photography look less flat",
     "birdie butterfly house before after",
-    "casually show short youtube get fuji look fxn dig results"
+    "casually show short youtube get fuji look fxn dig results",
+    "light backdrop",
+    "jpeg straight out camera",
+    "things wish knew before bought my first serious camera"
   ],
   "runs": [
     {
@@ -751,11 +757,67 @@
         "low_score": 92,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T06:09:17+00:00",
+      "created_file": "raw/hourly/2026-04-19-0609-light-backdrop.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "How to light a backdrop?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1spe9zj/how_to_light_a_backdrop/",
+          "published_at": "2026-04-19T00:37:01+00:00",
+          "summary": "Hey everybody! I run an open air photobooth on the side and was wondering what the best way to light my backdrop would be. It's an 8x8' pillowcase style tension backdrop and so far I've been managing ok with a Godox Ad400 Pro and a white 33\" non reflective umbrella angled at 45° away from the guests. The center is properly lit but the photos get darker towards the corners. I was thinking of using two speedlights on stands on either side of the backdrop angled toward the opposite corners but am worried about (intoxicated) guests tripping over them. Would this still work if I attach them to clamps to the top of the backdrop and angle them down? That way they would be off the floor and no longer tripping hazards? I'm a hobbyist photographer that never really dipped their hand into studio lighting so I'd appreciate any and all advice or suggestions! Thanks in advance! submitted by /u/mournfulroses [link] [comments]",
+          "fetched_text": "",
+          "score": 20,
+          "tags": [
+            "low_light_night_social",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "JPEG straight out the camera",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1spjx96/jpeg_straight_out_the_camera/",
+          "published_at": "2026-04-19T05:19:23+00:00",
+          "summary": "No editing done - Only White boarders added. Can You guess the phone? submitted by /u/God_I_Hope_Its_Urine [link] [comments]",
+          "fetched_text": "",
+          "score": 16,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "9 Things I Wish I Knew Before I Bought My First \"Serious\" Camera",
+          "url": "https://fstoppers.com/gear/9-things-i-wish-i-knew-i-bought-my-first-serious-camera-901254?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-18T21:03:01+00:00",
+          "summary": "I bought a Canon 7D because it had a bigger number than the 6D, more autofocus points, and a faster burst rate. I thought I was buying the better camera. What I did not understand was that the 6D's larger sensor would have given me cleaner high-ISO performance, shallower depth of field, and better dynamic range, all things that mattered far more for the portraits and low-light work I actually wanted to shoot. The 7D was excellent. But I bought it for the wrong reasons. If I could go back and sit down with myself the week before that purchase, here is what I would say. [ Read More ]",
+          "fetched_text": "",
+          "score": 16,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "raw_sensor_pro_mode"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 190,
+        "duplicates": 30,
+        "low_score": 92,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T03:50:49+00:00",
+  "last_run_at": "2026-04-19T06:09:17+00:00",
   "last_stats": {
-    "pool": 192,
+    "pool": 190,
     "duplicates": 30,
     "low_score": 92,
     "selected": 3
