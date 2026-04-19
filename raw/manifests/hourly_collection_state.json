@@ -47,7 +47,10 @@
     "https://www.reddit.com/r/Lightroom/comments/1sozp1k/i_need_a_new_hdr_capable_monitor_suggestions",
     "https://www.reddit.com/r/AskPhotography/comments/1splou1/any_recommendations_for_cameras_to_shoot_lower",
     "https://www.reddit.com/r/Lightroom/comments/1sjrioh/help_with_performance_issues_in_lrc",
-    "https://digital-photography-school.com/raw-vs-jpeg-whats-the-difference-and-which-should-you-be-shooting"
+    "https://digital-photography-school.com/raw-vs-jpeg-whats-the-difference-and-which-should-you-be-shooting",
+    "https://www.reddit.com/r/AskPhotography/comments/1spf9nj/need_help_identifying_lens_mount_could_anyone",
+    "https://petapixel.com/2026/04/19/how-to-make-your-photos-more-meaningful",
+    "https://www.reddit.com/r/Lightroom/comments/1sjl4ki/lightroom_1tb_and_classic"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -97,7 +100,10 @@
     "need new hdr capable monitor suggestions",
     "any recommendations cameras shoot lower light environments",
     "help performance issues lrc",
-    "raw vs jpeg what difference which should you be shooting"
+    "raw vs jpeg what difference which should you be shooting",
+    "need help identifying lens mount could anyone assist",
+    "make your photos more meaningful",
+    "lightroom 1tb classic"
   ],
   "runs": [
     {
@@ -1000,12 +1006,69 @@
         "low_score": 92,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T11:01:37+00:00",
+      "created_file": "raw/hourly/2026-04-19-1101-need-help-identifying-lens-mount-could-anyone-assist.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Need help identifying lens mount could anyone assist?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1spf9nj/need_help_identifying_lens_mount_could_anyone/",
+          "published_at": "2026-04-19T01:25:10+00:00",
+          "summary": "Hello, I am getting into vintage SLR film photography and picked this lens up for 10$ in amazing condition. The elderly man said it was for a canon fd mount but it doesn’t fit my canon ae1. He had a few canons on sale so I understand why he thought it was an FD mount. I need to know what mount this is and if I can find an adapter for it. I posted an image of a small sticker I found on the lens. Also if it cannot be adapted for my canon is there an adapter I could get for my Sony emount? submitted by /u/Lunarcycleilluminate [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "film_grain_nostalgia"
+          ]
+        },
+        {
+          "source_name": "PetaPixel",
+          "source_kind": "professional",
+          "feed_url": "https://petapixel.com/feed/",
+          "title": "How to Make Your Photos More Meaningful",
+          "url": "https://petapixel.com/2026/04/19/how-to-make-your-photos-more-meaningful/",
+          "published_at": "2026-04-19T11:00:50+00:00",
+          "summary": "Your photos have meaning intrinsically linked to your own and your viewers' personalities and subjectivities. Understanding how that works helps us to break free from bland, mundane images and create something more compelling. [ Read More ]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "Lightroom 1tb and classic",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sjl4ki/lightroom_1tb_and_classic/",
+          "published_at": "2026-04-12T17:41:49+00:00",
+          "summary": "I have lightroom photography package with Photoshop. I'm a casual hobbiest but looking to save some money. I don't use Photoshop so was looking to sign up to the lightroom 1tb package. I use lightroom classic so wouldn't really use the 1tb storage so I have a few questions. Would classic remain the same for this package? Can I transfer my classic setup to cloud including original photos if I wanted. I believe classic stores previews in the cloud so takes up less storage. Has anyone had any success with alternative solutions. I've tried darktable but found it a lot more difficult to use. Sorry if these questions have already been asked. submitted by /u/New-Sprinkles-4262 [link] [comments]",
+          "fetched_text": "",
+          "score": 14,
+          "tags": [
+            "low_light_night_social",
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 190,
+        "duplicates": 39,
+        "low_score": 92,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T10:02:49+00:00",
+  "last_run_at": "2026-04-19T11:01:37+00:00",
   "last_stats": {
-    "pool": 189,
-    "duplicates": 37,
+    "pool": 190,
+    "duplicates": 39,
     "low_score": 92,
     "selected": 3
   }
