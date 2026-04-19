@@ -44,7 +44,10 @@
     "https://www.reddit.com/r/iPhoneography/comments/1sp4p2f/shot_on_iphone_12",
     "https://www.reddit.com/r/AskPhotography/comments/1sp5x1h/how_to_go_about_looking_for_a_photographer_for_a",
     "https://www.reddit.com/r/mobilephotography/comments/1sozs9d/struggling_with_phone_photography_redmi_14c_5g_is",
-    "https://www.reddit.com/r/Lightroom/comments/1sozp1k/i_need_a_new_hdr_capable_monitor_suggestions"
+    "https://www.reddit.com/r/Lightroom/comments/1sozp1k/i_need_a_new_hdr_capable_monitor_suggestions",
+    "https://www.reddit.com/r/AskPhotography/comments/1splou1/any_recommendations_for_cameras_to_shoot_lower",
+    "https://www.reddit.com/r/Lightroom/comments/1sjrioh/help_with_performance_issues_in_lrc",
+    "https://digital-photography-school.com/raw-vs-jpeg-whats-the-difference-and-which-should-you-be-shooting"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -91,7 +94,10 @@
     "shot iphone 12",
     "go about looking photographer music album shoot",
     "struggling phone photography redmi 14c 5g it me phone my editing",
-    "need new hdr capable monitor suggestions"
+    "need new hdr capable monitor suggestions",
+    "any recommendations cameras shoot lower light environments",
+    "help performance issues lrc",
+    "raw vs jpeg what difference which should you be shooting"
   ],
   "runs": [
     {
@@ -936,13 +942,71 @@
         "low_score": 93,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T10:02:49+00:00",
+      "created_file": "raw/hourly/2026-04-19-1002-any-recommendations-cameras-shoot-lower-light-environments.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Any recommendations for cameras to shoot lower light environments?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1splou1/any_recommendations_for_cameras_to_shoot_lower/",
+          "published_at": "2026-04-19T06:57:21+00:00",
+          "summary": "Hey all, I need a bit of help trying to buy a camera. I’ve been using a point and shoot film camera for the last year and the results have been great and I managed to snag a job at a local bar/club taking photos. My problem is that film is kinda costly and while the place is very down to cover my costs, they’re asking me if I could use a digital camera for certain events, as sometimes groups that we host at the venue don’t really care about the look of film and just wants as many pictures as possible. I was just wondering if anyone had any advice on which camera or which type of camera I should be looking at for this. It’s pretty much all low light photography and I know I’ll need a flash of some kind but I’m kinda new to photography so I’m not really sure what else to be looking for, especially when it comes to digital. I’ve been looking online a bit and unfortunately this is just a bit specific so it’s hard to find any good resources. (1) Budget, country, and currency: Ideally sub 400ish CAD in total, but I’ll take any recommendations that are a bit more if they really fit what I’m looking for. If you think I can get what I need for cheaper I’d be happy to hear it. (2) What equipment, if any, you have now and why is it no longer meeting your needs? None whatsoever (at least in terms of digital) (3) What kinds of subjects do you intend to shoot? People, crowds, a lot of movement. (4) Is it primarily for photography, videography, or both? Only for photography TLDR: just looking for recommendations for a digital camera to take pictures of people in low light, fast moving environments, and what lens/es to get. Any info super appreciated, thanks! submitted by /u/HarryPoutini [link] [comments]",
+          "fetched_text": "",
+          "score": 20,
+          "tags": [
+            "low_light_night_social",
+            "ai_authenticity_guardrail",
+            "film_grain_nostalgia"
+          ]
+        },
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "Help with performance issues in LRC",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sjrioh/help_with_performance_issues_in_lrc/",
+          "published_at": "2026-04-12T21:40:05+00:00",
+          "summary": "Hey all, I hope this is the right spot and I have spent some time reading through other similar threads about issues with performance. What I am running in to: Lightroom Classic locks, crashes and generates previews incredibly slowly and seems to get worse the longer I leave it open. I have tried many things including: I have updated my bios updated all of my drivers changed my cache to 150 gb bought and installed new SSD to only house previews and my catalogue installed more ram (up to 64 at this point) I am noticing is small improvements, but again after it is open for a few minutes it begins to degrade in performance, gets slower and scrolling through my pictures takes minutes for the previews to load. One thing I just noticed is that one of my SSD which houses my raw files, but not my catalogue or cache starts ramping up to high active time (100%) with small read and write speeds. It is not always the same drive that this happens to. https://preview.redd.it/cyhyfo8qwtug1.png?width=1355&format=png&auto=webp&s=f9da229bdf8a54eaeb792f39b50b0bb2a5e0eb53 it then stays there until I close lightroom. I have run chkdsk many times on this Sata drive. Anyone run into anything like this? Is this my performance culprit? I have been trying to fix this for some time any help would be appreciated thank you! I am running: Lightroom Classic version: 15.2.1 [ 202603161217] Operating system: Windows 11 - Business Edition Version: 11.0.26200 Application architecture: x64 System architecture: x64 Logical processor count: 24 Processor speed: 4.6GHz SqLite Version: 3.36.0 Adobe GSDK Version: 1.4.0.212 CPU Utilisation: 2.0% Power Source: Plugged In Built-in memory: 64628.6 MB Dedicated GPU memory used by Lightroom: 911.2MB / 16337.2MB (5%) Real memory available to Lightroom: 64628.6 MB Real memory used by Lightroom: 11152.8 MB (17.2%) Virtual memory used by Lightroom: 14276.6 MB GDI objects count: 966 USER objects count: 3450 Process handles count: 9461 Memory cache size: 14405.0MB Internal Camera Raw version: 18.2.2 [ 2512 ] Maximum thread count used by Camera Raw: 5 Camera Raw SIMD optimization: SSE2,AVX,AVX2 Camera Raw virtual memory: 2894MB / 32314MB (8%) Camera Raw real memory: 2899MB / 64628MB (4%) Cache1: NT- RAM:0.0MB, VRAM:0.0MB, Combined:0.0MB Cache2: m:14405.0MB, n:0.0MB U-main: 144.0MB System DPI setting: 144 DPI (high DPI mode) Desktop composition enabled: Yes Standard Preview Size: 2880 pixels Displays: 1) 1920x1080, 2) 1920x1080, 3) 3840x2160 Graphics Processor Info: DirectX: AMD Radeon RX 6950 XT Init State: GPU for Export supported by default User Preference: Auto Enable HDR in Library: ON GPU for Preview Generation: Auto (S5_15) Application folder: C:\\Program Files\\Adobe\\Adobe Lightroom Classic Library Path: F:\\Lightroom\\Lightroom Catalog\\Lightroom Catalog-v13-3.lrcat Settings Folder: C:\\Users\\...\\AppData\\Roaming\\Adobe\\Lightroom submitted by /u/Imaginary_Lifeguard6 [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail",
+            "raw_sensor_pro_mode"
+          ]
+        },
+        {
+          "source_name": "Digital Photography School",
+          "source_kind": "professional",
+          "feed_url": "https://digital-photography-school.com/feed/",
+          "title": "RAW vs JPEG: What’s the Difference and Which Should You Be Shooting?",
+          "url": "https://digital-photography-school.com/raw-vs-jpeg-whats-the-difference-and-which-should-you-be-shooting/",
+          "published_at": "2026-03-25T09:50:39+00:00",
+          "summary": "The post RAW vs JPEG: What’s the Difference and Which Should You Be Shooting? appeared first on Digital Photography School . It was authored by Sime . RAW vs JPEG If you’ve poked around your camera’s menu settings, you’ve probably come across an option that says something like “Image Quality” or “File Format” — and two choices staring back at you: RAW and JPEG. Most beginners shrug and leave it on JPEG because, well, it’s the default. But understanding this one setting […] The post RAW vs JPEG: What’s the Difference and Which Should You Be Shooting? appeared first on Digital Photography School . It was authored by Sime .",
+          "fetched_text": "",
+          "score": 14,
+          "tags": [
+            "raw_sensor_pro_mode"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 189,
+        "duplicates": 37,
+        "low_score": 92,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T09:07:59+00:00",
+  "last_run_at": "2026-04-19T10:02:49+00:00",
   "last_stats": {
-    "pool": 190,
-    "duplicates": 35,
-    "low_score": 93,
+    "pool": 189,
+    "duplicates": 37,
+    "low_score": 92,
     "selected": 3
   }
 }
