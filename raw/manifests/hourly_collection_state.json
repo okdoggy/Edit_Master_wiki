@@ -83,7 +83,10 @@
     "https://www.reddit.com/r/AskPhotography/comments/1spwmmv/what_can_i_do_with_my_broken_lens",
     "https://www.reddit.com/r/AskPhotography/comments/1sq62lu/best_external_flash_for_sony_30mm_f35_macro",
     "https://www.reddit.com/r/Lightroom/comments/1spic2w/help_cant_find_photos",
-    "https://www.reddit.com/r/postprocessing/comments/1spf09s/san_diego_bay_beforeafter"
+    "https://www.reddit.com/r/postprocessing/comments/1spf09s/san_diego_bay_beforeafter",
+    "https://www.reddit.com/r/postprocessing/comments/1sq74b9/dubai_random_building_beforeafter",
+    "https://www.reddit.com/r/AskPhotography/comments/1sq7w7n/help_im_shooting_a_bunch_of_portraits_how_should",
+    "https://fstoppers.com/film/title-pentax-645-vs-mamiya-m645-1000s-which-645-film-slr-should-buy-900261"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -169,7 +172,10 @@
     "what can do my broken lens",
     "best external flash sony 30mm macro",
     "help can find photos",
-    "san diego bay before after"
+    "san diego bay before after",
+    "dubai random building before after",
+    "help shooting bunch portraits should deliver them",
+    "title pentax 645 vs mamiya m645 1000s which 645 film slr should you buy"
   ],
   "runs": [
     {
@@ -1733,13 +1739,70 @@
         "low_score": 95,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T23:54:34+00:00",
+      "created_file": "raw/hourly/2026-04-19-2354-dubai-random-building-before-after.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "DUBAI RANDOM building (before/after)",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sq74b9/dubai_random_building_beforeafter/",
+          "published_at": "2026-04-19T22:26:14+00:00",
+          "summary": "Shot on samsung s20 FE Edited on lightroom. submitted by /u/Rough_Shoe8748 [link] [comments]",
+          "fetched_text": "",
+          "score": 24,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Help! I'm shooting a bunch of portraits. How should I deliver them?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sq7w7n/help_im_shooting_a_bunch_of_portraits_how_should/",
+          "published_at": "2026-04-19T22:59:23+00:00",
+          "summary": "I am a wedding and real estate photographer who was asked to do a charity event in town. They want to offer free family portraits to anyone that wants one. I'm totally down, I like the cause, and think this will be a fun event. However, I'm not sure how to deliver digital photos to dozens of people. Anyone done anything similar? Is there a good app or way to deliver digital photos to a bunch of different individuals? My first thought was having folks fill out a card with their name and email. Take a photo of the card before the portrait, and just email people. But, is there a more modern streamlined way? Maybe a QR code for an app with a unique instance? I dunno, I feel super lost, lol. I'm also going to have polaroids available for some instant gratification and for anyone uncomfortable giving out their email. Typically, as a wedding photographer I make personalized digital galleries, but I want to avoid creating 50 different galleries on my usual site. That sounds like a logistical nightmare. Any help or ideas would be amazing! submitted by /u/lzphoto [link] [comments]",
+          "fetched_text": "",
+          "score": 19,
+          "tags": [
+            "low_light_night_social",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "Title: Pentax 645 vs Mamiya M645 1000S: Which 645 Film SLR Should You Buy?",
+          "url": "https://fstoppers.com/film/title-pentax-645-vs-mamiya-m645-1000s-which-645-film-slr-should-buy-900261?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-19T21:03:01+00:00",
+          "summary": "If you're trying to choose between the original Pentax 645 and the Mamiya M645 1000S, you're not really asking about features. You're asking which one will make your portraits and landscapes look the way you want. I shot both systems with my favorite focal lengths — Pentax 45mm and 55mm, Mamiya 75mm and 150mm — and what surprised me wasn't sharpness. It was behavior. One camera encouraged speed and familiarity. The other made me simplify and commit. [ Read More ]",
+          "fetched_text": "",
+          "score": 13,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "film_grain_nostalgia"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 186,
+        "duplicates": 49,
+        "low_score": 92,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T22:57:08+00:00",
+  "last_run_at": "2026-04-19T23:54:34+00:00",
   "last_stats": {
-    "pool": 184,
-    "duplicates": 46,
-    "low_score": 95,
+    "pool": 186,
+    "duplicates": 49,
+    "low_score": 92,
     "selected": 3
   }
 }
