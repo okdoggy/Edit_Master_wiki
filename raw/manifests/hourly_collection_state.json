@@ -74,7 +74,10 @@
     "https://www.reddit.com/r/postprocessing/comments/1sq0w8y/after_before_used_snapseed_for_editing",
     "https://www.reddit.com/r/AskPhotography/comments/1sq19ph/how_to_take_better_pregnancy_photos",
     "https://fstoppers.com/reviews/ulanzi-d200x-and-dial-review-can-they-improve-your-editing-workflow-900870",
-    "https://www.reddit.com/r/mobilephotography/comments/1spp4lp/water_in_tivoli_s10"
+    "https://www.reddit.com/r/mobilephotography/comments/1spp4lp/water_in_tivoli_s10",
+    "https://www.reddit.com/r/AskPhotography/comments/1sq44eh/would_you_publicly_out_a_faketographer_who_tries",
+    "https://www.reddit.com/r/mobilephotography/comments/1sq35hx/iphone_17_all_without_editing_software",
+    "https://www.reddit.com/r/iPhoneography/comments/1spo5cr/iphone16leica_luxapp"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -151,7 +154,10 @@
     "after before used snapseed editing",
     "take better pregnancy photos",
     "ulanzi d200x dial review can they improve your editing workflow",
-    "water tivoli s10"
+    "water tivoli s10",
+    "would you publicly out faketographer who tries sell other people works as their own",
+    "iphone 17 all without editing software",
+    "iphone16 leica lux app"
   ],
   "runs": [
     {
@@ -1549,13 +1555,68 @@
         "low_score": 91,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T20:55:29+00:00",
+      "created_file": "raw/hourly/2026-04-19-2055-would-you-publicly-out-faketographer-who-tries-sell-other-people-works.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Would you publicly out a faketographer who tries to sell other people's works as their own?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sq44eh/would_you_publicly_out_a_faketographer_who_tries/",
+          "published_at": "2026-04-19T20:27:49+00:00",
+          "summary": "With the rise of AI I'm seeing lots of \"fauxtographers\" or \"faketographers\". People passing off AI as their own work. I'm in the process of setting up an online gallery where people can submit their work, I handle the printing, distribution etc and the creative gets a cut. One evening I'm speaking to what appears to be a great photographer, with a decent following on socials and a good online presence. Without thinking anything of it, I onboarded them, spent a whole day creating mockups and descriptions for their listings, published their artist page and was excited to start promoting their work. With one more product to go, I did a reverse image search to get information on the location of the shot. To my utter surprise, this image was originally posted online 3 years prior to when it was apparently taken. And with different colours. Turns out, most of this \"photographer's\" work is just stolen from other creatives, ran through AI to make it all look consistent across their portfolios and then published. To try and catch this person out, I wrote up a contract asking them to sign. Saying that they own all the rights to every photo they send my way and they are legally entitled to profit from the photos. The \"artist\" or should I just say fraudster, was more than happy to sign the document. And when I asked again if all of the works shared are definitely theirs, they insisted. By this time I had already spoken to the actual photographers of some of the pics, and got confirmation that it wasn't the work of the person I'd just published to my website. After calling them out, they apologised for any confusion as they had accidentally sent me images from their \"inspiration\" or \"reference\" folder. And admitted that these pieces were not theirs. Despite having them across Instagram and other portfolios with long AI written descriptions on where they took the photos, their process and other waffle about the mood and more. From now on, I'm going to be running checks on every single submission that comes through. I should have been more vigilant to begin with, but better late than never. This waste of time, and awful thought that people are not only like this, but are thriving on socials with tens of thousands of genuine followers, tonnes of engagement and likely profiting from the hard work of others, it's left an awful taste and I genuinely want revenge. I'm coming to this community to see if I should either just let it lie and move on? Lesson learned? Or, should I share all the screenshots, written contract, and evidence I have on this person publicly and hope that it destroys their so far positive reputation? submitted by /u/adamrhodesuk [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "sns_vertical_carousel",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/mobilephotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/mobilephotography/top/.rss?t=day",
+          "title": "iPhone 17 - All without editing software",
+          "url": "https://www.reddit.com/r/mobilephotography/comments/1sq35hx/iphone_17_all_without_editing_software/",
+          "published_at": "2026-04-19T19:50:51+00:00",
+          "summary": "submitted by /u/Gulaseyes [link] [comments]",
+          "fetched_text": "",
+          "score": 13,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "iPhone16+Leica Lux(APP)",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1spo5cr/iphone16leica_luxapp/",
+          "published_at": "2026-04-19T09:20:19+00:00",
+          "summary": "Taking some photos while jogging in the light rain in Prague. submitted by /u/Designer_Spare4631 [link] [comments]",
+          "fetched_text": "",
+          "score": 12,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 187,
+        "duplicates": 46,
+        "low_score": 95,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T19:55:24+00:00",
+  "last_run_at": "2026-04-19T20:55:29+00:00",
   "last_stats": {
-    "pool": 185,
-    "duplicates": 47,
-    "low_score": 91,
+    "pool": 187,
+    "duplicates": 46,
+    "low_score": 95,
     "selected": 3
   }
 }
