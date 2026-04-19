@@ -77,7 +77,10 @@
     "https://www.reddit.com/r/mobilephotography/comments/1spp4lp/water_in_tivoli_s10",
     "https://www.reddit.com/r/AskPhotography/comments/1sq44eh/would_you_publicly_out_a_faketographer_who_tries",
     "https://www.reddit.com/r/mobilephotography/comments/1sq35hx/iphone_17_all_without_editing_software",
-    "https://www.reddit.com/r/iPhoneography/comments/1spo5cr/iphone16leica_luxapp"
+    "https://www.reddit.com/r/iPhoneography/comments/1spo5cr/iphone16leica_luxapp",
+    "https://www.reddit.com/r/iPhoneography/comments/1sq46xw/what_are_your_thoughts",
+    "https://www.reddit.com/r/mobilephotography/comments/1sq4a93/pixel_9_pro_xl_jpg_snapseed_edit",
+    "https://www.reddit.com/r/AskPhotography/comments/1spwmmv/what_can_i_do_with_my_broken_lens"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -157,7 +160,10 @@
     "water tivoli s10",
     "would you publicly out faketographer who tries sell other people works as their own",
     "iphone 17 all without editing software",
-    "iphone16 leica lux app"
+    "iphone16 leica lux app",
+    "what your thoughts",
+    "pixel pro xl jpg snapseed edit",
+    "what can do my broken lens"
   ],
   "runs": [
     {
@@ -1610,13 +1616,69 @@
         "low_score": 95,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-19T21:52:43+00:00",
+      "created_file": "raw/hourly/2026-04-19-2152-what-your-thoughts.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "What are your thoughts 💭?",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1sq46xw/what_are_your_thoughts/",
+          "published_at": "2026-04-19T20:30:29+00:00",
+          "summary": "I am 14 years old and I tried taking some photos with my mum’s new phone and I think they turned out pretty nice (I am used to filming cars btw). I edited them in Lightroom Mobile Free version and if someone wants the raw images I can share them too! submitted by /u/Known_Pudding_6515 [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "lightroom_color_masking",
+            "raw_sensor_pro_mode",
+            "film_grain_nostalgia"
+          ]
+        },
+        {
+          "source_name": "Reddit r/mobilephotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/mobilephotography/top/.rss?t=day",
+          "title": "Pixel 9 Pro XL | JPG | Snapseed Edit",
+          "url": "https://www.reddit.com/r/mobilephotography/comments/1sq4a93/pixel_9_pro_xl_jpg_snapseed_edit/",
+          "published_at": "2026-04-19T20:34:06+00:00",
+          "summary": "submitted by /u/Baigsyboy [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "What can I do with my broken lens?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1spwmmv/what_can_i_do_with_my_broken_lens/",
+          "published_at": "2026-04-19T15:50:04+00:00",
+          "summary": "Hey everyone, I need some advice on my Nikon lens. As you can see in the photos, the plastic bayonet mount is damaged. Two out of the three locking tabs have snapped off at the base. Image 1 shows the only one left, while images 2 and 3 show the fracture points. Because of this, I can't mount the lens to my camera anymore. A professional repair would cost around €170, and refurbish platforms won't accept it in this condition. I hate the idea of just throwing it away—it feels wrong to trash a lens that otherwise works fine. Does anyone have experience with DIY mount replacements, or do you know a place where I could donate it for parts? Someone wants it? submitted by /u/Agitated-Present-398 [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 189,
+        "duplicates": 46,
+        "low_score": 96,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T20:55:29+00:00",
+  "last_run_at": "2026-04-19T21:52:43+00:00",
   "last_stats": {
-    "pool": 187,
+    "pool": 189,
     "duplicates": 46,
-    "low_score": 95,
+    "low_score": 96,
     "selected": 3
   }
 }
