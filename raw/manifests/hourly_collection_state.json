@@ -89,7 +89,10 @@
     "https://fstoppers.com/film/title-pentax-645-vs-mamiya-m645-1000s-which-645-film-slr-should-buy-900261",
     "https://www.reddit.com/r/AskPhotography/comments/1sqbqa0/how_to_edit_photos_like_geoffrey_goddard",
     "https://www.reddit.com/r/postprocessing/comments/1sq8mpi/patagonia_dreariness_afterbeforeafter",
-    "https://www.reddit.com/r/iPhoneography/comments/1sq8lx1/caution_not_an_ai_captured_this_massive_beasts_on"
+    "https://www.reddit.com/r/iPhoneography/comments/1sq8lx1/caution_not_an_ai_captured_this_massive_beasts_on",
+    "https://www.reddit.com/r/AskPhotography/comments/1sqdfxy/photographing_a_live_drone_show_tips_appreciated",
+    "https://www.reddit.com/r/Lightroom/comments/1sqgltd/lightroom_incorrectly_flagging_duplicates",
+    "https://fstoppers.com/reviews/fujifilm-gfx100rf-might-be-best-travel-camera-youre-not-considering-901728"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -181,7 +184,10 @@
     "title pentax 645 vs mamiya m645 1000s which 645 film slr should you buy",
     "edit photos like geoffrey goddard",
     "patagonia dreariness after before after",
-    "caution not ai captured massive beasts offroading event phone 16 edited snapseed app"
+    "caution not ai captured massive beasts offroading event phone 16 edited snapseed app",
+    "photographing live drone show tips appreciated",
+    "lightroom incorrectly flagging duplicates",
+    "fujifilm gfx100rf might be best travel camera you re not considering"
   ],
   "runs": [
     {
@@ -1859,13 +1865,68 @@
         "low_score": 90,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-20T06:28:03+00:00",
+      "created_file": "raw/hourly/2026-04-20-0628-photographing-live-drone-show-tips-appreciated.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "Photographing a Live Drone Show? (Tips Appreciated)",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sqdfxy/photographing_a_live_drone_show_tips_appreciated/",
+          "published_at": "2026-04-20T03:09:15+00:00",
+          "summary": "Howdy all! I have the opportunity to photograph a drone show next week and I want to do a great job. I've been doing photography professionally for a few years now but this is definitely a first. I initially assumed that the technical workflow would be similar to fireworks, but upon thinking further, that's probably not the case. I want to capture as much detail as I can when the drones are in the air but I also don't want to heavily de-noise the images in post. Does anyone have any insight and example images they can show that illustrate what camera settings & approach will lead to the best results? My thoughts: Likely shoot on a tripod with a 70-200 from a good vantage point. If the drones don't really move much during the show (like when they form into an image) drop the shutter speed and stop down the aperture to f4 or so. Keep the ISO as close to base as possible without clipping black too much) If there are foreground elements (a cityscape, bridge, etc. in the setting) make sure I'm not clipping in the highs or lows but the drones in the sky get the priority I'm probably overthinking this but I haven't been to a drone show before and don't want to be trying to figure it out on the fly. submitted by /u/mcblifty [link] [comments]",
+          "fetched_text": "",
+          "score": 30,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/Lightroom top/week",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/Lightroom/top/.rss?t=week",
+          "title": "Lightroom incorrectly flagging duplicates",
+          "url": "https://www.reddit.com/r/Lightroom/comments/1sqgltd/lightroom_incorrectly_flagging_duplicates/",
+          "published_at": "2026-04-20T05:50:38+00:00",
+          "summary": "I'm trying to import images from my local drive onto my cloud, and while I was editing, I would occasionally make a duplicate of an image and then edit it differently (So they are different photos). When importing to the cloud, it keeps not letting me import all of these images, even though I've tried renaming them completely unrelated names. submitted by /u/Trayp00 [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "lightroom_color_masking"
+          ]
+        },
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "The Fujifilm GFX100RF Might Be the Best Travel Camera You're Not Considering",
+          "url": "https://fstoppers.com/reviews/fujifilm-gfx100rf-might-be-best-travel-camera-youre-not-considering-901728?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-19T15:03:02+00:00",
+          "summary": "Choosing a camera to pack for a spontaneous train trip sounds simple until you realize your heavier kit is the reason you leave it at home. The Fujifilm GFX100RF sits in an unusual position: 100 megapixels, medium format, and small enough to slip into a daypack without a second thought. [ Read More ]",
+          "fetched_text": "",
+          "score": 12,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "film_grain_nostalgia"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 187,
+        "duplicates": 51,
+        "low_score": 88,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-20T03:53:12+00:00",
+  "last_run_at": "2026-04-20T06:28:03+00:00",
   "last_stats": {
-    "pool": 186,
-    "duplicates": 50,
-    "low_score": 90,
+    "pool": 187,
+    "duplicates": 51,
+    "low_score": 88,
     "selected": 3
   }
 }
