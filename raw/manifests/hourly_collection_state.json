@@ -95,7 +95,10 @@
     "https://fstoppers.com/reviews/fujifilm-gfx100rf-might-be-best-travel-camera-youre-not-considering-901728",
     "https://fstoppers.com/opinion/does-black-and-white-photography-actually-look-more-artistic-color-901712",
     "https://digital-photography-school.com/tamron-wins-more-tipa-gold",
-    "https://www.diyphotography.net/laowa-announces-parfocal-broadcast-and-probe-zoom-lenses-at-nab-2026"
+    "https://www.diyphotography.net/laowa-announces-parfocal-broadcast-and-probe-zoom-lenses-at-nab-2026",
+    "https://www.reddit.com/r/postprocessing/comments/1sqjklu/i_built_a_lightningfast_photo_culling_tool_for",
+    "https://www.reddit.com/r/mobilephotography/comments/1sqhrlj/iphone_15_alugbati",
+    "https://www.reddit.com/r/AskPhotography/comments/1sqei5b/what_lighting_gear_would_you_choose_for_a"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -193,7 +196,10 @@
     "fujifilm gfx100rf might be best travel camera you re not considering",
     "does black white photography actually look more artistic than color",
     "tamron wins more tipa gold",
-    "laowa announces parfocal broadcast probe zoom lenses at nab 2026"
+    "laowa announces parfocal broadcast probe zoom lenses at nab 2026",
+    "built lightning fast photo culling tool high res raw files quickcull",
+    "iphone 15 alugbati",
+    "what lighting gear would you choose photobooth shoot"
   ],
   "runs": [
     {
@@ -1980,13 +1986,70 @@
         "low_score": 36,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-20T11:43:21+00:00",
+      "created_file": "raw/hourly/2026-04-20-1143-built-lightning-fast-photo-culling-tool-high-res-raw-files-quickcull.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "I built a lightning-fast photo culling tool for high-res RAW files (QuickCull)",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sqjklu/i_built_a_lightningfast_photo_culling_tool_for/",
+          "published_at": "2026-04-20T08:42:51+00:00",
+          "summary": "Hi everyone! I’m a photographer who got tired of the lag in Lightroom and Bridge when sorting through thousands of photos after a shoot. I built QuickCull ( https://quickcull.in ) to solve this. It’s designed to be a \"zero-lag\" browser specifically for culling. It renders thumbnails instantly so you can fly through a gallery and pick your keepers in seconds. What makes it different: Speed: No more \"loading\" spinners while scrolling. Focused: It doesn't try to edit; it just helps you sort and move on. Keyboard-First: Fast tagging/rating shortcuts. It's currently [Free/Beta/Paid], and I’d love to get feedback from this community on how to make it better for your specific workflow. submitted by /u/bhavyeshacharya [link] [comments]",
+          "fetched_text": "",
+          "score": 24,
+          "tags": [
+            "lightroom_color_masking",
+            "ai_authenticity_guardrail",
+            "raw_sensor_pro_mode"
+          ]
+        },
+        {
+          "source_name": "Reddit r/mobilephotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/mobilephotography/top/.rss?t=day",
+          "title": "iphone 15 | Alugbati",
+          "url": "https://www.reddit.com/r/mobilephotography/comments/1sqhrlj/iphone_15_alugbati/",
+          "published_at": "2026-04-20T06:55:41+00:00",
+          "summary": "Shot on iPhone15 using the analog film/camera of Hipstamatic app. I know its technically just a filter, but in a world of ultra sharp digital photos these days, there’s something about that grainy, low res look that reminds me to touch grass-either that, or I’m just too old. submitted by /u/joseimperial [link] [comments]",
+          "fetched_text": "",
+          "score": 23,
+          "tags": [
+            "ai_authenticity_guardrail",
+            "film_grain_nostalgia"
+          ]
+        },
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "What lighting gear would you choose for a Photobooth shoot?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sqei5b/what_lighting_gear_would_you_choose_for_a/",
+          "published_at": "2026-04-20T04:00:56+00:00",
+          "summary": "I'm a total amateur, but I'm going to be doing a family portrait type of thing at my church for Mother's Day, like a fancier photobooth. There will be a background and me taking photos on my Nikon Z6iii. The ambient lighting is overhead LED or fluorescent, depending on if they finish the retrofit by then. I have a constant light with an umbrella and some little LED video lights, but I'd like to have some better lighting. I only have a cheap [Neewer NW645II] ( https://cameradecision.com/flashes/compare/Neewer-NW645II-N-vs-Neewer-750II ) flash. I'm debating between getting a more versatile off-camera flash and trigger, something along the Godox X3 line, or get inexpensive studio flashes. Because this is for church, my wife has blessed the purchase, to a certain extent. If this goes well, I will be doing this sort of thing regularly at church. So, doing studio flashes is not that out of the question, plus I've been playing with portraits at home. If you were me, which way would you go, and which flashes would you choose? submitted by /u/_Shoeless_ [link] [comments]",
+          "fetched_text": "",
+          "score": 18,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 188,
+        "duplicates": 51,
+        "low_score": 93,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-20T09:19:54+00:00",
+  "last_run_at": "2026-04-20T11:43:21+00:00",
   "last_stats": {
-    "pool": 76,
-    "duplicates": 19,
-    "low_score": 36,
+    "pool": 188,
+    "duplicates": 51,
+    "low_score": 93,
     "selected": 3
   }
 }
