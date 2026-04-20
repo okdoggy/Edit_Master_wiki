@@ -1,9 +1,8 @@
 name: Hourly raw collector
 
 on:
-  schedule:
-    # Run hourly, offset from the top of the hour to reduce GitHub Actions queue delays.
-    - cron: '17 * * * *'
+  # Automatic hourly collection is disabled. Keep manual dispatch available
+  # so the collector can still be run intentionally from GitHub Actions.
   workflow_dispatch:
 
 permissions:
