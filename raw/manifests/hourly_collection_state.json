@@ -92,7 +92,10 @@
     "https://www.reddit.com/r/iPhoneography/comments/1sq8lx1/caution_not_an_ai_captured_this_massive_beasts_on",
     "https://www.reddit.com/r/AskPhotography/comments/1sqdfxy/photographing_a_live_drone_show_tips_appreciated",
     "https://www.reddit.com/r/Lightroom/comments/1sqgltd/lightroom_incorrectly_flagging_duplicates",
-    "https://fstoppers.com/reviews/fujifilm-gfx100rf-might-be-best-travel-camera-youre-not-considering-901728"
+    "https://fstoppers.com/reviews/fujifilm-gfx100rf-might-be-best-travel-camera-youre-not-considering-901728",
+    "https://fstoppers.com/opinion/does-black-and-white-photography-actually-look-more-artistic-color-901712",
+    "https://digital-photography-school.com/tamron-wins-more-tipa-gold",
+    "https://www.diyphotography.net/laowa-announces-parfocal-broadcast-and-probe-zoom-lenses-at-nab-2026"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -187,7 +190,10 @@
     "caution not ai captured massive beasts offroading event phone 16 edited snapseed app",
     "photographing live drone show tips appreciated",
     "lightroom incorrectly flagging duplicates",
-    "fujifilm gfx100rf might be best travel camera you re not considering"
+    "fujifilm gfx100rf might be best travel camera you re not considering",
+    "does black white photography actually look more artistic than color",
+    "tamron wins more tipa gold",
+    "laowa announces parfocal broadcast probe zoom lenses at nab 2026"
   ],
   "runs": [
     {
@@ -1920,13 +1926,67 @@
         "low_score": 88,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-20T09:19:54+00:00",
+      "created_file": "raw/hourly/2026-04-20-0919-does-black-white-photography-actually-look-more-artistic-than-color.md",
+      "selected": [
+        {
+          "source_name": "Fstoppers",
+          "source_kind": "professional",
+          "feed_url": "https://fstoppers.com/feed",
+          "title": "Does Black and White Photography Actually Look More Artistic Than Color?",
+          "url": "https://fstoppers.com/opinion/does-black-and-white-photography-actually-look-more-artistic-color-901712?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+          "published_at": "2026-04-18T13:03:01+00:00",
+          "summary": "Choosing between black and white and color is one of the oldest arguments in photography, and most takes on it stay shallow. This video doesn't claim to settle the debate, but it does offer a genuinely useful framework for thinking about when and why each choice works. [ Read More ]",
+          "fetched_text": "",
+          "score": 12,
+          "tags": [
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Digital Photography School",
+          "source_kind": "professional",
+          "feed_url": "https://digital-photography-school.com/feed/",
+          "title": "Tamron Wins more TIPA gold!",
+          "url": "https://digital-photography-school.com/tamron-wins-more-tipa-gold/",
+          "published_at": "2026-04-18T00:43:36+00:00",
+          "summary": "The post Tamron Wins more TIPA gold! appeared first on Digital Photography School . It was authored by Sime . Tamron, a leading provider of high-quality lenses, announces the presentation by the Technical Image Press Association (TIPA) of its TIPA Award 2026 to two lenses; 16-30mm F/2.8 Di III VXD G2 (Model A064) for “BEST FULL FRAME WIDE-ANGLE ZOOM LENS” and 35-100mm F/2.8 Di III VXD (Model A078) for “BEST FULL FRAME TRAVEL LENS”. With […] The post Tamron Wins more TIPA gold! appeared first on Digital Photography School . It was authored by Sime .",
+          "fetched_text": "",
+          "score": 12,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        },
+        {
+          "source_name": "DIYPhotography",
+          "source_kind": "professional",
+          "feed_url": "https://www.diyphotography.net/feed/",
+          "title": "Laowa Announces Parfocal, Broadcast, and Probe Zoom Lenses at NAB 2026",
+          "url": "https://www.diyphotography.net/laowa-announces-parfocal-broadcast-and-probe-zoom-lenses-at-nab-2026/",
+          "published_at": "2026-04-17T09:38:32+00:00",
+          "summary": "Laowa, the flagship brand of Anhui ChangGeng Optical Technology Company Limited (Venus Optics), made a striking impact at NAB Show 2026 with the introduction of... The post Laowa Announces Parfocal, Broadcast, and Probe Zoom Lenses at NAB 2026 appeared first on DIY Photography .",
+          "fetched_text": "",
+          "score": 12,
+          "tags": [
+            "general_mobile_photo_signal"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 76,
+        "duplicates": 19,
+        "low_score": 36,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-20T06:28:03+00:00",
+  "last_run_at": "2026-04-20T09:19:54+00:00",
   "last_stats": {
-    "pool": 187,
-    "duplicates": 51,
-    "low_score": 88,
+    "pool": 76,
+    "duplicates": 19,
+    "low_score": 36,
     "selected": 3
   }
 }
