@@ -86,7 +86,10 @@
     "https://www.reddit.com/r/postprocessing/comments/1spf09s/san_diego_bay_beforeafter",
     "https://www.reddit.com/r/postprocessing/comments/1sq74b9/dubai_random_building_beforeafter",
     "https://www.reddit.com/r/AskPhotography/comments/1sq7w7n/help_im_shooting_a_bunch_of_portraits_how_should",
-    "https://fstoppers.com/film/title-pentax-645-vs-mamiya-m645-1000s-which-645-film-slr-should-buy-900261"
+    "https://fstoppers.com/film/title-pentax-645-vs-mamiya-m645-1000s-which-645-film-slr-should-buy-900261",
+    "https://www.reddit.com/r/AskPhotography/comments/1sqbqa0/how_to_edit_photos_like_geoffrey_goddard",
+    "https://www.reddit.com/r/postprocessing/comments/1sq8mpi/patagonia_dreariness_afterbeforeafter",
+    "https://www.reddit.com/r/iPhoneography/comments/1sq8lx1/caution_not_an_ai_captured_this_massive_beasts_on"
   ],
   "seen_title_fingerprints": [
     "proper camera settings travel street photography",
@@ -175,7 +178,10 @@
     "san diego bay before after",
     "dubai random building before after",
     "help shooting bunch portraits should deliver them",
-    "title pentax 645 vs mamiya m645 1000s which 645 film slr should you buy"
+    "title pentax 645 vs mamiya m645 1000s which 645 film slr should you buy",
+    "edit photos like geoffrey goddard",
+    "patagonia dreariness after before after",
+    "caution not ai captured massive beasts offroading event phone 16 edited snapseed app"
   ],
   "runs": [
     {
@@ -1796,13 +1802,70 @@
         "low_score": 92,
         "selected": 3
       }
+    },
+    {
+      "run_at": "2026-04-20T03:53:12+00:00",
+      "created_file": "raw/hourly/2026-04-20-0353-edit-photos-like-geoffrey-goddard.md",
+      "selected": [
+        {
+          "source_name": "Reddit r/AskPhotography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/AskPhotography/top/.rss?t=day",
+          "title": "How to edit photos like Geoffrey Goddard?",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sqbqa0/how_to_edit_photos_like_geoffrey_goddard/",
+          "published_at": "2026-04-20T01:50:24+00:00",
+          "summary": "What type of editing is required to get colors and light similar to these photos by Geoffrey Goddard? They are incredibly painterly and… even (not sure if that’s the right word). Is it a reduction of contrast?? For more, please visit his instagram @geoffreygoddardphotography . Thanks! submitted by /u/Grand-Long7398 [link] [comments]",
+          "fetched_text": "",
+          "score": 34,
+          "tags": [
+            "sns_vertical_carousel",
+            "ai_authenticity_guardrail"
+          ]
+        },
+        {
+          "source_name": "Reddit r/postprocessing top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/postprocessing/top/.rss?t=day",
+          "title": "Patagonia Dreariness - After/before/After",
+          "url": "https://www.reddit.com/r/postprocessing/comments/1sq8mpi/patagonia_dreariness_afterbeforeafter/",
+          "published_at": "2026-04-19T23:31:24+00:00",
+          "summary": "The lighting was poor this day. Tried to salvage what I could. First crop is for instagram submitted by /u/space_cowboy_jr [link] [comments]",
+          "fetched_text": "",
+          "score": 18,
+          "tags": [
+            "sns_vertical_carousel",
+            "lightroom_color_masking"
+          ]
+        },
+        {
+          "source_name": "Reddit r/iPhoneography top/day",
+          "source_kind": "community",
+          "feed_url": "https://www.reddit.com/r/iPhoneography/top/.rss?t=day",
+          "title": "Caution Not An AI Captured This Massive Beasts On Offroading Event (I Phone 16) And Edited In (SnapSeed App)",
+          "url": "https://www.reddit.com/r/iPhoneography/comments/1sq8lx1/caution_not_an_ai_captured_this_massive_beasts_on/",
+          "published_at": "2026-04-19T23:30:25+00:00",
+          "summary": "Follow For More On My Insta Page:- @toxiclicks_07 https://www.instagram.com/toxiclicks\\_07?igsh=emRyYmlhbG10eGky&utm\\_source=qr submitted by /u/Logical_Muffin_8413 [link] [comments]",
+          "fetched_text": "",
+          "score": 15,
+          "tags": [
+            "sns_vertical_carousel",
+            "ai_authenticity_guardrail"
+          ]
+        }
+      ],
+      "stats": {
+        "pool": 186,
+        "duplicates": 50,
+        "low_score": 90,
+        "selected": 3
+      }
     }
   ],
-  "last_run_at": "2026-04-19T23:54:34+00:00",
+  "last_run_at": "2026-04-20T03:53:12+00:00",
   "last_stats": {
     "pool": 186,
-    "duplicates": 49,
-    "low_score": 92,
+    "duplicates": 50,
+    "low_score": 90,
     "selected": 3
   }
 }
