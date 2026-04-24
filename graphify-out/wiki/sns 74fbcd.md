@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/austin_mann.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # sns [74fbcd]
@@ -24,4 +24,4 @@ tags:
 - [[Yoni Mayeri]] - `IN_CATEGORY` [EXTRACTED]
 - [[iPhone Photography School  Emil Pakarklis]] - `IN_CATEGORY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

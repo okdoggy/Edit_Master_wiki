@@ -1,13 +1,13 @@
 ---
 type: community
 cohesion: 0.02
-members: 172
+members: 158
 ---
 
 # Evidence Sources
 
 **Cohesion:** 0.02 - loosely connected
-**Members:** 172 nodes
+**Members:** 158 nodes
 
 ## Members
 - [[0.5x]] - document - raw/techniques/zoom_lens_situation_guide.md
@@ -15,7 +15,6 @@ members: 172
 - [[1x 75d19a]] - document - raw/techniques/zoom_lens_situation_guide.md
 - [[2x 6839c8]] - document - raw/techniques/zoom_lens_situation_guide.md
 - [[3x]] - document - raw/techniques/zoom_lens_situation_guide.md
-- [[3분 쇼츠]] - document - raw/magazine/youtube_shorts_specs.md
 - [[5x]] - document - raw/techniques/zoom_lens_situation_guide.md
 - [[AI기능]] - document - raw/magazine/google_photos_help.md
 - [[Amateur Photographer — Android camera photography tips]] - document - raw/magazine/amateur_photographer_android_tips.md
@@ -26,7 +25,7 @@ members: 172
 - [[Galaxy 달 사진 Scene Optimiser + 100x + Zoom Lock b10e1f]] - document - raw/magazine/samsung_low_light_galaxy.md
 - [[Google Blog — Pixel Camera Coach]] - document - raw/magazine/google_pixel_camera_coach.md
 - [[Google Photos Help]] - document - raw/magazine/google_photos_help.md
-- [[HDR]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[HDR 78bafe]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
 - [[Pixel 4K video + still photo로 음식 액션 잡기]] - document - raw/techniques/food_photography_recipes.md
 - [[Pixel Night Sight 사람은 멈추고, 폰은 기대기 637bf3]] - document - raw/magazine/google_pixel_camera_coach.md
 - [[Pixel Night Sight 사람은 멈추고, 폰은 기대기 a8ae77]] - document - raw/magazine/google_photos_help.md
@@ -49,7 +48,6 @@ members: 172
 - [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 f5070d]] - document - raw/magazine/google_pixel_camera_coach.md
 - [[Tip 1. 밤 인물 + 빛 궤적 — Samsung Newsroom식 light drawing]] - document - raw/magazine/samsung_low_light_galaxy.md
 - [[Tip 1. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 05fd82]] - document - raw/magazine/google_photos_help.md
-- [[Tip 1. 세로정사각 비율과 길이 조건 먼저 고정]] - document - raw/magazine/youtube_shorts_specs.md
 - [[Tip 1. 식당 음식 — 플래시 대신 창가테이블 빛]] - document - raw/techniques/food_photography_recipes.md
 - [[Tip 1. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/magazine/apple_support_night_mode.md
 - [[Tip 1. 야간 모드 — “밝게”가 아니라 “흔들림 없이 필요한 만큼”]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
@@ -59,7 +57,6 @@ members: 172
 - [[Tip 2. 갤럭시로 달 표면을 선명하게 찍고 싶을 때 a98b3d]] - document - raw/magazine/samsung_camera_modes_settings.md
 - [[Tip 2. 갤럭시로 별·은하수·어두운 밤하늘을 찍을 때]] - document - raw/magazine/samsung_low_light_galaxy.md
 - [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 be6004]] - document - raw/magazine/amateur_photographer_android_tips.md
-- [[Tip 2. 게시 목적(무엇을)과 플랫폼(누가)에 맞춘 크롭 전략]] - document - raw/magazine/youtube_shorts_specs.md
 - [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 535705]] - document - raw/magazine/apple_support_night_mode.md
 - [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 2e6025]] - document - raw/magazine/google_pixel_camera_coach.md
 - [[Tip 2. 인물 모드 — 배경을 흐리는 것보다 거리 설계가 먼저]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
@@ -69,7 +66,6 @@ members: 172
 - [[Tip 3. 갤럭시로 별·은하수·어두운 밤하늘을 찍을 때]] - document - raw/magazine/samsung_camera_modes_settings.md
 - [[Tip 3. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 830fa8]] - document - raw/magazine/google_photos_help.md
 - [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 732696]] - document - raw/magazine/google_pixel_camera_coach.md
-- [[Tip 3. 업로드 정책 변화 날짜를 메타데이터로 저장]] - document - raw/magazine/youtube_shorts_specs.md
 - [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 de8a49]] - document - raw/magazine/techradar_android_photography_tips.md
 - [[Tip 3. 음식 모드 — “맛있게” 보이지만 과포화는 줄이기]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
 - [[Tip 3. 인물 주변에 네온라이트 페인팅 효과를 만들 때]] - document - raw/magazine/samsung_low_light_galaxy.md
@@ -89,19 +85,15 @@ members: 172
 - [[Tip 5. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 d641ee]] - document - raw/magazine/samsung_camera_modes_settings.md
 - [[Tip 6. 5x — 여행 레이어와 먼 디테일]] - document - raw/techniques/zoom_lens_situation_guide.md
 - [[Tip 7. 10x 이상 — 달, 무대, 기록용 디테일]] - document - raw/techniques/zoom_lens_situation_guide.md
-- [[YouTube Help — Shorts creation and upload specs]] - document - raw/magazine/youtube_shorts_specs.md
-- [[YouTube Shorts]] - document - raw/magazine/youtube_shorts_specs.md
 - [[adobe.comhow-to-take-better-pictures-with-your-iphone]] - document - raw/magazine/apple_support_night_mode.md
 - [[amateurphotographer.comandroid-camera-photography-tips-68069]] - document - raw/magazine/amateur_photographer_android_tips.md
-- [[blog.googlefour-tips-taking-delectable-food-photos-pixel-2 0bb5ae]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[blog.googlehow-to-use-camera-coach]] - document - raw/magazine/google_pixel_camera_coach.md
 - [[blog.googlesee-light-night-sight]] - document - raw/magazine/google_photos_help.md
 - [[blog.googletips-how-to-use-pixel-new-panorama-mode]] - document - raw/magazine/google_photos_help.md
 - [[blog.googletravel-photography-101-teampixel 095ba8]] - document - raw/magazine/google_photos_help.md
 - [[iPhone Macro 2cm 접근과 Macro Control]] - document - raw/magazine/apple_support_night_mode.md
 - [[iPhone Night mode Portrait]] - document - raw/magazine/apple_support_night_mode.md
 - [[iPhone으로 달 찍기 AEAF Lock + 노출 낮추기]] - document - raw/magazine/apple_support_night_mode.md
-- [[magazine]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[iphonephotographyschool.comnight-sky]] - document - raw/magazine/apple_support_night_mode.md
 - [[samsung.comANS10001353]] - document - raw/magazine/samsung_camera_modes_settings.md
 - [[samsung.comANS10001377]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
 - [[samsung.comapp]] - document - raw/magazine/apple_support_night_mode.md
@@ -112,13 +104,11 @@ members: 172
 - [[samsung.comhow-to-use-the-cameras-pro-mode-on-samsung-galaxy-phones]] - document - raw/magazine/apple_support_night_mode.md
 - [[samsung.commaster-low-light-photography-with-galaxy]] - document - raw/magazine/samsung_low_light_galaxy.md
 - [[samsung.comwhat-are-the-different-camera-modes-and-how-do-i-use-them]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
-- [[store.google.comtake-great-food-shots-with-pixel]] - document - raw/techniques/food_photography_recipes.md
+- [[store.google.comtake-great-food-shots-with-pixel 36dca8]] - document - raw/techniques/food_photography_recipes.md
 - [[support.apple.comios 474401]] - document - raw/magazine/apple_support_night_mode.md
 - [[support.apple.comios 519af2]] - document - raw/techniques/zoom_lens_situation_guide.md
 - [[support.apple.comios e9b4d3]] - document - raw/techniques/zoom_lens_situation_guide.md
-- [[support.google.com10059070]] - document - raw/magazine/youtube_shorts_specs.md
-- [[support.google.com14106982]] - document - raw/magazine/google_photos_help.md
-- [[support.google.com15424877]] - document - raw/magazine/youtube_shorts_specs.md
+- [[support.google.com14106982]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
 - [[support.google.com7158570]] - document - raw/magazine/apple_support_night_mode.md
 - [[support.google.comphotos]] - document - raw/magazine/google_photos_help.md
 - [[techniques]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
@@ -135,7 +125,6 @@ members: 172
 - [[멀티프레임]] - document - raw/magazine/samsung_low_light_galaxy.md
 - [[모드별 공식 검증값 추가 a5f731]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
 - [[바로 쓰는 팁 카드 1b1140]] - document - raw/magazine/amateur_photographer_android_tips.md
-- [[바로 쓰는 팁 카드 263f07]] - document - raw/magazine/youtube_shorts_specs.md
 - [[바로 쓰는 팁 카드 3c67b4]] - document - raw/magazine/apple_support_night_mode.md
 - [[바로 쓰는 팁 카드 882137]] - document - raw/magazine/samsung_camera_modes_settings.md
 - [[바로 쓰는 팁 카드 8cbd0a]] - document - raw/magazine/google_pixel_camera_coach.md
@@ -147,13 +136,11 @@ members: 172
 - [[비율]] - document - raw/magazine/amateur_photographer_android_tips.md
 - [[빠른 선택표]] - document - raw/techniques/zoom_lens_situation_guide.md
 - [[삼각대]] - document - raw/magazine/apple_support_night_mode.md
-- [[세로비율]] - document - raw/magazine/youtube_shorts_specs.md
 - [[스마트폰 음식 사진 실전 레시피]] - document - raw/techniques/food_photography_recipes.md
 - [[안드로이드]] - document - raw/magazine/amateur_photographer_android_tips.md
 - [[앨범]] - document - raw/magazine/google_photos_help.md
 - [[야간·인물·음식·매크로 모드별 촬영 가이드]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
 - [[야간모드]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
-- [[업로드 규격]] - document - raw/magazine/youtube_shorts_specs.md
 - [[음식모드]] - document - raw/techniques/camera_modes_night_portrait_food_macro.md
 - [[음식사진]] - document - raw/techniques/food_photography_recipes.md
 - [[이 소스에서 더 캐야 할 것 363119]] - document - raw/magazine/amateur_photographer_android_tips.md
@@ -170,7 +157,6 @@ members: 172
 - [[추가 검증 촬영 레시피 — Pixel 6c234f]] - document - raw/magazine/google_photos_help.md
 - [[추가 검증 촬영 레시피 — iPhone 091f98]] - document - raw/magazine/apple_support_night_mode.md
 - [[출처 6009ad]] - document - raw/magazine/amateur_photographer_android_tips.md
-- [[출처 6dc0b4]] - document - raw/magazine/youtube_shorts_specs.md
 - [[출처 ff2a30]] - document - raw/magazine/techradar_android_photography_tips.md
 - [[카메라 줌렌즈별 상황 가이드]] - document - raw/techniques/zoom_lens_situation_guide.md
 - [[카메라코치]] - document - raw/magazine/google_pixel_camera_coach.md
@@ -191,21 +177,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 24 edges to [[_COMMUNITY_Trends & Recipes]]
-- 21 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 16 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 11 edges to [[_COMMUNITY_Trends & Recipes 10]]
-- 8 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 6]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 9]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
+- 49 edges to [[_COMMUNITY_Trends & Recipes]]
+- 16 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 2]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 10]]
 
 ## Top bridge nodes
-- [[스마트폰 음식 사진 실전 레시피]] - degree 34, connects to 6 communities
-- [[야간·인물·음식·매크로 모드별 촬영 가이드]] - degree 32, connects to 5 communities
-- [[Samsung Explore — Master low-light photography with Galaxy]] - degree 31, connects to 5 communities
-- [[Apple Support — iPhone Night mode]] - degree 30, connects to 5 communities
-- [[Samsung Support — Camera modes and settings]] - degree 31, connects to 4 communities
+- [[스마트폰 음식 사진 실전 레시피]] - degree 34, connects to 5 communities
+- [[야간·인물·음식·매크로 모드별 촬영 가이드]] - degree 32, connects to 4 communities
+- [[Google Blog — Pixel Camera Coach]] - degree 31, connects to 3 communities
+- [[Apple Support — iPhone Night mode]] - degree 30, connects to 3 communities
+- [[Samsung Support — Camera modes and settings]] - degree 31, connects to 2 communities

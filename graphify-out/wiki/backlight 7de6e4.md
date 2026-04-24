@@ -12,7 +12,7 @@ tags:
 
 ## Connections
 - [[hair glow]] - `CREATES` [EXTRACTED]
-- [[rim light]] - `CREATES` [EXTRACTED]
+- [[rim light 5da773]] - `CREATES` [EXTRACTED]
 - [[silhouette 16ddda]] - `CREATES` [EXTRACTED]
 - [[노을 실루엣 — 감성 여행커플인물 67c933]] - `USES_CONCEPT` [EXTRACTED]
 - [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 4b8f9b]] - `USES_CONCEPT` [EXTRACTED]

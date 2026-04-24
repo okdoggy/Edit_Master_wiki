@@ -27,7 +27,7 @@ tags:
 - [[samsung.comcamera-features]] - `SUPPORTED_BY` [EXTRACTED]
 - [[samsung.comhow-to-use-the-cameras-pro-mode-on-samsung-galaxy-phones]] - `SUPPORTED_BY` [EXTRACTED]
 - [[samsung.comsamsung-night-mode-camera]] - `SUPPORTED_BY` [EXTRACTED]
-- [[support.apple.com102519]] - `SUPPORTED_BY` [EXTRACTED]
+- [[support.apple.com102519 8dbf6a]] - `SUPPORTED_BY` [EXTRACTED]
 - [[support.apple.comios 474401]] - `SUPPORTED_BY` [EXTRACTED]
 - [[support.apple.comios 938b6c]] - `SUPPORTED_BY` [EXTRACTED]
 - [[support.apple.comios acf715]] - `SUPPORTED_BY` [EXTRACTED]

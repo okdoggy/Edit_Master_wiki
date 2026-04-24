@@ -20,6 +20,11 @@ class HarnessConfig:
     source_graph_path: Path
     eval_path: Path
     personalization_dir: Path
+    raw_incoming_dir: Path
+    raw_source_notes_dir: Path
+    raw_intake_runs_dir: Path
+    raw_min_sources: int
+    raw_max_similarity: float
     min_top1: float
     answer_smoke_query: str
     default_user_id: str
@@ -41,6 +46,7 @@ def load_config(config_path: Path | None = None) -> HarnessConfig:
     paths = data.get("paths", {})
     quality = data.get("quality", {})
     user = data.get("user", {})
+    raw_intake = data.get("raw_intake", {})
 
     return HarnessConfig(
         root=root,
@@ -50,6 +56,11 @@ def load_config(config_path: Path | None = None) -> HarnessConfig:
         source_graph_path=resolve_path(root, paths.get("source_graph", "graphify-out/graph.json")),
         eval_path=resolve_path(root, paths.get("eval", "tests/eval_queries.json")),
         personalization_dir=resolve_path(root, paths.get("personalization", "data/personalization")),
+        raw_incoming_dir=resolve_path(root, raw_intake.get("incoming", "raw/_incoming/scenarios")),
+        raw_source_notes_dir=resolve_path(root, raw_intake.get("source_notes", "raw/_incoming/source_notes")),
+        raw_intake_runs_dir=resolve_path(root, raw_intake.get("runs", "data/raw_intake_runs")),
+        raw_min_sources=int(raw_intake.get("min_sources", 2)),
+        raw_max_similarity=float(raw_intake.get("max_similarity", 0.72)),
         min_top1=float(quality.get("min_top1", 1.0)),
         answer_smoke_query=str(
             quality.get("answer_smoke_query", "카페 창가 인물 사진을 자연스럽게 보정하고 싶어요")

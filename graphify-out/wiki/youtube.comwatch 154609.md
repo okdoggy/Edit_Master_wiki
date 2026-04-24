@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/evan_ranft_youtube.md"
 type: "document"
-community: "Trends & Recipes 11"
+community: "Trends & Recipes 18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_11
+  - community/Trends_&_Recipes_18
 ---
 
 # youtube.com/watch [154609]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Evan Ranft]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_18

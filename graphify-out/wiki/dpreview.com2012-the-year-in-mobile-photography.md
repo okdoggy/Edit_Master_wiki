@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/benjamin_lowy.md"
 type: "document"
-community: "Trends & Recipes 10"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_10
+  - community/Trends_&_Recipes
 ---
 
 # dpreview.com/2012-the-year-in-mobile-photography
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Benjamin Lowy]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_edit_photos_mobile_ios.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # RAW
@@ -45,4 +45,4 @@ tags:
 - [[iPhone Photography School  Emil Pakarklis]] - `MENTIONS_TAG` [EXTRACTED]
 - [[iPhone Photography School YouTube]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

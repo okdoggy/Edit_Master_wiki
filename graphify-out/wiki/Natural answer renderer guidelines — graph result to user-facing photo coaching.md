@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/natural_answer_renderer_guidelines.md"
 type: "document"
-community: "Recommendation Sources"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Recommendation_Sources
+  - community/Evidence_Sources_2
 ---
 
 # Natural answer renderer guidelines — graph result to user-facing photo coaching
@@ -22,4 +22,4 @@ tags:
 - [[지금 사진을 보정한다면]] - `HAS_SECTION` [EXTRACTED]
 - [[한 줄 진단]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

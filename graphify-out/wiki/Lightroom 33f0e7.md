@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_ai_assisted_masking_mobile.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # Lightroom [33f0e7]
@@ -29,4 +29,4 @@ tags:
 - [[PetaPixel — Editing with masks in Lightroom Mobile]] - `MENTIONS_TAG` [EXTRACTED]
 - [[스마트폰 음식 사진 실전 레시피]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

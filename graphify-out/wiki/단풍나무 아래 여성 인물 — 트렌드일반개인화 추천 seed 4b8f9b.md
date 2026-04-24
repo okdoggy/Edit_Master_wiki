@@ -35,7 +35,7 @@ tags:
 - [[personalization-seed]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[portrait]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[portrait or photo]] - `USES_MODE` [EXTRACTED]
-- [[rim light]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[rim light 5da773]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[samsung.comhow-to-pull-off-the-perfect-fall-photoshoot]] - `SUPPORTED_BY` [EXTRACTED]
 - [[seasonal fall color]] - `FOLLOWS_TREND` [EXTRACTED]
 - [[skin tone]] - `TARGETS_CONCEPT` [EXTRACTED]

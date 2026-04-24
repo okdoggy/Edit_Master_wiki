@@ -1,6 +1,6 @@
 [project]
 name = "edit-master-wiki"
-version = "0.1"
+version = "0.2"
 description = "Harness for the Edit Master photo-coach wiki and recommender runtime."
 readme = "README.md"
 requires-python = ">=3.11"

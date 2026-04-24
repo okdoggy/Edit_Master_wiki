@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/cafe_flatlay_dessert.md"
 type: "document"
-community: "Trends & Recipes 8"
+community: "Scenarios Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_8
+  - community/Scenarios_Sources
 ---
 
 # 촬영 레시피 [df3e5f]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[카페 디저트 플랫레이 — 수평과 왜곡 잡기 c6c857]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_8
+#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources

@@ -13,6 +13,8 @@ __pycache__/
 
 # local personalization memory
 data/personalization/
+data/raw_intake_runs/
+raw/_incoming/
 
 # graphify transient/cache files
 graphify-out/cache/

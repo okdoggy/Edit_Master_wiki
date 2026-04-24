@@ -1,0 +1,78 @@
+---
+source_file: "raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md"
+type: "document"
+community: "Trends & Recipes 8"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes_8
+---
+
+# 역광 HDR 하이라이트 복구 — 밝은 배경과 피사체 디테일을 함께 살리기 [807cbb]
+
+## Connections
+- [[EditStylecontrolled hdr realism]] - `USES_CONCEPT` [EXTRACTED]
+- [[HDR로 하늘 디테일 살리는 법]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+- [[Issueclipped highlights]] - `USES_CONCEPT` [EXTRACTED]
+- [[Issueflat overprocessed hdr]] - `USES_CONCEPT` [EXTRACTED]
+- [[Issuehdr ghosting]] - `USES_CONCEPT` [EXTRACTED]
+- [[Lightroom에서 하이라이트만 줄이고 싶어요]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+- [[Parameterexposure minus 0 3 to minus 1 0 ev]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[Parameterhighlights minus 30 to minus 70]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[Parametersubject exposure plus 0 2 to plus 0 7]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[Preferencecinematic backlight glow SELECTS EditStylesoft backlight subject lift]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[Preferencenatural clean detail SELECTS EditStylecontrolled hdr realism]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[RecommendationVariantgeneral balanced backlight]] - `USES_CONCEPT` [EXTRACTED]
+- [[RecommendationVariantpersonalized low retouch glow]] - `USES_CONCEPT` [EXTRACTED]
+- [[RecommendationVarianttrend hdr display]] - `USES_CONCEPT` [EXTRACTED]
+- [[Scenariobacklight hdr highlight recovery 2026]] - `USES_CONCEPT` [EXTRACTED]
+- [[StyleRecipeprotect highlights lift subject mask]] - `USES_CONCEPT` [EXTRACTED]
+- [[Techniqueexpose for highlights]] - `USES_CONCEPT` [EXTRACTED]
+- [[Techniquehdr output tone mapping]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[Techniquelightroom luminance range mask]] - `USES_CONCEPT` [EXTRACTED]
+- [[Techniquesmartphone auto hdr]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[Techniquesubject mask shadow lift]] - `USES_CONCEPT` [EXTRACTED]
+- [[TrendSignalhdr display realism 2026]] - `USES_CONCEPT` [EXTRACTED]
+- [[TrendSignalnatural high dynamic range mobile]] - `USES_CONCEPT` [EXTRACTED]
+- [[backlight 1ebbd4]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[backlight hdr highlight recovery 2026]] - `USES_CONCEPT` [EXTRACTED]
+- [[backlit subject]] - `HAS_SUBJECT` [EXTRACTED]
+- [[cinematic backlight glow]] - `MATCHES_PREFERENCE` [EXTRACTED]
+- [[clipped highlights]] - `ADJUSTED_BY_ISSUE` [EXTRACTED]
+- [[controlled hdr realism]] - `SUPPORTS_STYLE` [EXTRACTED]
+- [[expertphotography.comexpose-for-the-highlights]] - `SUPPORTED_BY` [EXTRACTED]
+- [[expose for highlights]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[exposure minus 0 3 to minus 1 0 ev]] - `SETS_PARAMETER` [EXTRACTED]
+- [[flat overprocessed hdr]] - `ADJUSTED_BY_ISSUE` [EXTRACTED]
+- [[general balanced backlight]] - `USES_CONCEPT` [EXTRACTED]
+- [[hdr 6435be]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[hdr capture and sdr safe export]] - `USES_STYLE_RECIPE` [EXTRACTED]
+- [[hdr display realism 2026]] - `FOLLOWS_TREND` [EXTRACTED]
+- [[hdr ghosting]] - `ADJUSTED_BY_ISSUE` [EXTRACTED]
+- [[hdr output tone mapping]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[helpx.adobe.comhdr-output.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[helpx.adobe.commasking.html b30805]] - `SUPPORTED_BY` [EXTRACTED]
+- [[highlight recovery smartphone 2026]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+- [[highlight_recovery]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[highlights minus 30 to minus 70]] - `SETS_PARAMETER` [EXTRACTED]
+- [[lightroom luminance range mask]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[lightroom_masking]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[natural clean detail]] - `MATCHES_PREFERENCE` [EXTRACTED]
+- [[natural high dynamic range mobile]] - `FOLLOWS_TREND` [EXTRACTED]
+- [[personalized low retouch glow]] - `USES_CONCEPT` [EXTRACTED]
+- [[protect highlights lift subject mask]] - `USES_STYLE_RECIPE` [EXTRACTED]
+- [[sammobile.comwhat-is-hdr-mode-in-phone-cameras]] - `SUPPORTED_BY` [EXTRACTED]
+- [[shadows plus 15 to plus 45]] - `SETS_PARAMETER` [EXTRACTED]
+- [[smartphone auto hdr]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[smartphone_photography]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[soft backlight subject lift]] - `SUPPORTS_STYLE` [EXTRACTED]
+- [[subject exposure plus 0 2 to plus 0 7]] - `SETS_PARAMETER` [EXTRACTED]
+- [[subject mask shadow lift]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[support.apple.comHT211798]] - `SUPPORTED_BY` [EXTRACTED]
+- [[trend hdr display]] - `USES_CONCEPT` [EXTRACTED]
+- [[whites minus 5 to minus 25]] - `SETS_PARAMETER` [EXTRACTED]
+- [[밝은 창문 배경 사진 보정]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+- [[역광 HDR 하이라이트 복구 — 밝은 배경과 피사체 디테일을 함께 살리기 77c71d]] - `DESCRIBES_SCENARIO` [EXTRACTED]
+- [[역광에서 얼굴은 어둡고 하늘은 날아가요]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_8

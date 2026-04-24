@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/el_pais_cellphone_editing_tips.md"
 type: "document"
-community: "Trends & Recipes 13"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_13
+  - community/Trends_&_Recipes
 ---
 
 # Tip 3. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 [b12707]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[EL PAÍS — Cellphone photo editing tips from professional photographers]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

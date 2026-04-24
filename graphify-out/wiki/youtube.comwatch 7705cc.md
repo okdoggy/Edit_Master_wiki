@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/mango_street_youtube.md"
 type: "document"
-community: "Trends & Recipes 11"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_11
+  - community/Trends_&_Recipes
 ---
 
 # youtube.com/watch [7705cc]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Mango Street]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

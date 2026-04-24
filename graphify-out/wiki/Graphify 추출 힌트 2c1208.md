@@ -1,0 +1,16 @@
+---
+source_file: "raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md"
+type: "document"
+community: "Trends & Recipes 16"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes_16
+---
+
+# Graphify 추출 힌트 [2c1208]
+
+## Connections
+- [[제품소품 커머스 썸네일 — 반사 제어와 색 정확도 bb72a5]] - `HAS_SECTION` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_16

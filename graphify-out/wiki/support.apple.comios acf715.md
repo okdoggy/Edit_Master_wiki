@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/apple_support_night_mode.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes_3
 ---
 
 # support.apple.com/ios [acf715]
@@ -32,4 +32,4 @@ tags:
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - `SUPPORTED_BY` [EXTRACTED]
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

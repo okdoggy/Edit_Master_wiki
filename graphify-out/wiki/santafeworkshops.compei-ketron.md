@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/pei_ketron.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # santafeworkshops.com/pei-ketron
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Pei Ketron]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

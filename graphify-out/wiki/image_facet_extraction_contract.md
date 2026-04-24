@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/image_facet_extraction_contract.md"
 type: "document"
-community: "Recommendation Sources"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Recommendation_Sources
+  - community/Evidence_Sources_2
 ---
 
 # image_facet_extraction_contract
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Image facet extraction contract — photo observation to scene graph]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

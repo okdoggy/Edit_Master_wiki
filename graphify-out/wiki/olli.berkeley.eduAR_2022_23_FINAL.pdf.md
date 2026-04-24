@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/yoni_mayeri.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # olli.berkeley.edu/AR_2022_23_FINAL.pdf
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Yoni Mayeri]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

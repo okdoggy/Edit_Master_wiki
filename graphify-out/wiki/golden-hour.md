@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 4b8f9b]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 26c0ca]] - `HAS_SCENE_TAG` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

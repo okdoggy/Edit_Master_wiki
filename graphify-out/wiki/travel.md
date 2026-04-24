@@ -1,5 +1,5 @@
 ---
-source_file: "raw/scenarios/architecture_interior_wide.md"
+source_file: "raw/_incoming/scenarios/travel_street_social_crop_2026.md"
 type: "document"
 community: "Trends & Recipes 4"
 tags:
@@ -17,6 +17,7 @@ tags:
 - [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 53a815]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 5188da]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[여행·거리 스토리텔링 소셜 크롭 2026 859578]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - `HAS_SCENE_TAG` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

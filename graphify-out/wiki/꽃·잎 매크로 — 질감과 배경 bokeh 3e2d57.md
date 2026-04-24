@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/flower_macro_bokeh.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_3
 ---
 
 # 꽃·잎 매크로 — 질감과 배경 bokeh [3e2d57]
@@ -37,4 +37,4 @@ tags:
 - [[ultrawide macro or 2x]] - `USES_LENS` [EXTRACTED]
 - [[꽃·잎 매크로 — 질감과 배경 bokeh 17e99a]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

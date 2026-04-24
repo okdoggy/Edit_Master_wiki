@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/adobe_lightroom_youtube.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # Adobe Lightroom YouTube
@@ -43,4 +43,4 @@ tags:
 - [[최신 Lightroom Mobile 검증 레시피 0a19ef]] - `HAS_SECTION` [EXTRACTED]
 - [[프리셋]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/scenario_matching_lexicon.md"
 type: "document"
-community: "Recommendation Sources"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Recommendation_Sources
+  - community/Evidence_Sources_2
 ---
 
 # Bilingual scenario matching lexicon — Korean/English scene query aliases
@@ -20,4 +20,4 @@ tags:
 - [[목적 c6fbc0]] - `HAS_SECTION` [EXTRACTED]
 - [[점수 계산 힌트]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

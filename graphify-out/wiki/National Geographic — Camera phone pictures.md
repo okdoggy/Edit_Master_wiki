@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/national_geographic_camera_phone.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # National Geographic — Camera phone pictures
@@ -29,4 +29,4 @@ tags:
 - [[출처 84eb95]] - `HAS_SECTION` [EXTRACTED]
 - [[카메라폰]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

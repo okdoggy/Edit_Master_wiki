@@ -1,91 +1,81 @@
 ---
 type: community
-cohesion: 0.03
-members: 76
+cohesion: 0.04
+members: 66
 ---
 
 # Trends & Recipes 9
 
-**Cohesion:** 0.03 - loosely connected
-**Members:** 76 nodes
+**Cohesion:** 0.04 - loosely connected
+**Members:** 66 nodes
 
 ## Members
-- [[0.5x 1x 2x]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[EV negative]] - document - raw/scenarios/city_window_reflection.md
-- [[Graphify 추출 힌트 79921a]] - document - raw/scenarios/city_window_reflection.md
-- [[adobe.comneon-light-photography.html]] - document - raw/scenarios/city_window_reflection.md
-- [[bhphotovideo.comseven-tips-for-photographing-cities-at-night]] - document - raw/scenarios/city_window_reflection.md
-- [[blown city lights]] - document - raw/scenarios/city_window_reflection.md
-- [[business.adobe.comcreative-trends-report.html]] - document - raw/recommendation/graphify_recommendation_schema.md
-- [[city]] - document - raw/scenarios/city_window_reflection.md
-- [[city lights aa93ec]] - document - raw/scenarios/city_window_reflection.md
-- [[city neon]] - document - raw/scenarios/city_window_reflection.md
-- [[color cast]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[composition]] - document - raw/scenarios/city_window_reflection.md
-- [[creative]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[creative reflection]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[dark clothing]] - document - raw/scenarios/city_window_reflection.md
-- [[exposure time]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[layering]] - document - raw/scenarios/city_window_reflection.md
-- [[light leak]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[low angle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[messy reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[mirror]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[mirror prism puddle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[moody]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[moody cinematic]] - document - raw/scenarios/city_night_long_exposure.md
-- [[motion blur]] - document - raw/scenarios/dim_restaurant_food.md
-- [[neon]] - document - raw/scenarios/city_window_reflection.md
-- [[neon backlight]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[neon light]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[night]] - document - raw/scenarios/city_window_reflection.md
-- [[night mode]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[night or photo]] - document - raw/scenarios/city_window_reflection.md
-- [[night or portrait]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[person or city]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[playful visual hook]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[prism 02434e]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[prism 2fcae6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[puddle a6f2d6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[puddle e05a3f]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[rain]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[rain neon street]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[reddit.comhow_can_i_prevent_these_reflections_on_the_glass]] - document - raw/scenarios/city_window_reflection.md
-- [[reddit.comis_there_anyway_to_get_rid_of_the_window]] - document - raw/scenarios/city_window_reflection.md
-- [[reflection c937e1]] - document - raw/scenarios/city_window_reflection.md
-- [[reflection ef584d]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[samsung.comcreative-photography-tricks-thatll-get-you-all-the-likes]] - document - raw/magazine/samsung_camera_modes_settings.md
-- [[self reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[skin tone]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[sns f490e5]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[street]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[subject]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[subject mask]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[symmetry]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[travelphotographymagazine.comproblems]] - document - raw/scenarios/city_window_reflection.md
-- [[urban or nature]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[visual interest]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[wet ground]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[window]] - document - raw/scenarios/city_window_reflection.md
-- [[window reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[window reflection city night]] - document - raw/scenarios/city_window_reflection.md
-- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[네온 반사 사진]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 반사]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 7546cf]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - document - raw/scenarios/city_window_reflection.md
-- [[반사가 지저분]] - document - raw/scenarios/city_window_reflection.md
-- [[반영한 외부 근거 935dd6]] - document - raw/scenarios/city_window_reflection.md
-- [[보정 레시피 c12f40]] - document - raw/scenarios/city_window_reflection.md
-- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[시나리오 수정 포인트 ca648f]] - document - raw/scenarios/city_window_reflection.md
-- [[실패 방지  주의점 a7011e]] - document - raw/scenarios/city_window_reflection.md
-- [[유리창 야경 반사]] - document - raw/scenarios/city_window_reflection.md
-- [[전문가커뮤니티 근거 반영 f5c967]] - document - raw/scenarios/city_window_reflection.md
-- [[창문에 비친 도시]] - document - raw/scenarios/city_window_reflection.md
-- [[촬영 레시피 551c08]] - document - raw/scenarios/city_window_reflection.md
-- [[추천 시스템용 요약 b1e01a]] - document - raw/scenarios/city_window_reflection.md
-- [[호텔 창밖 야경]] - document - raw/scenarios/city_window_reflection.md
+- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 094789]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 b50060]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[EditStylenatural clean portrait]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[Graphify 추출 힌트 e1dd42]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[Preferencenatural skin SELECTS EditStylenatural clean portrait]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[RecommendationVariantgeneral true to life skin]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[RecommendationVariantpersonalized low retouch or glow]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[RecommendationVarianttrend bright skin]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[Scenarioportrait skin tone 2026]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[StyleRecipesoft light tele portrait skin tone]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[Techniqueface mask lightroom]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[Techniqueportrait mode depth control]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[Techniquesoft indirect light]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[TrendSignalauthentic natural skin 2026]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[adobe.comai-portrait-mask-lightroom]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[apple.comapple-unveils-iphone-17-pro-and-iphone-17-pro-max]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[authentic natural skin 2026]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[background-separation]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[bright clean portrait style]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[busy background f9b316]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[clean background]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[depth blur moderate]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[face exposure plus 0 10 to 0 35]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[face mask lightroom]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[face-exposure]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[general true to life skin]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[highlights minus 10 to 30]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[issuebusy background]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[issueorange skin cast]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[issueoverblurred hair edges]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[issueunderexposed face]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[lens 2x or 3x]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[natural clean portrait]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[natural skin 5babf7]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[orange luminance plus 5 to 18]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[orange skin cast]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[overblurred hair edges]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[parameterdepth blur moderate]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[parameterface exposure plus 0 10 to 0 35]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[parameterlens 2x or 3x]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[parameterorange luminance plus 5 to 18]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[personalized low retouch or glow]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[portrait mode depth control]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[portrait skin tone 2026]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[single person portrait]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[skin-tone]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[smartphone-2026]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[soft indirect light]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[soft light tele portrait skin tone]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[subject distance 2 to 8 feet]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[support.google.com14731640]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[support.google.com9940184]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[texture minus 5 to 15]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[trend bright skin]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[underexposed face 70ca9d]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[반영한 외부 근거 b0de6c]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[보정 레시피 c13dba]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[시나리오 수정 포인트 90badb]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[실패 방지  주의점 eaa738]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[인물 사진 얼굴만 어둡고 배경이 복잡해요]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[전문가공식SNS 근거 반영 0e1bda]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[촬영 레시피 de17dc]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[추천 시스템용 요약 d1197e]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[폰으로 얼굴색 자연스럽게 찍고 싶어]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[프로필 사진 배경 흐림과 피부톤을 같이 맞추고 싶어]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
+- [[피부가 너무 주황색으로 보여요]] - document - raw/_incoming/scenarios/portrait_skin_tone_2026.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -95,19 +85,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 8 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 7 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 6]]
-- 4 edges to [[_COMMUNITY_Scenarios Sources]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 2 edges to [[_COMMUNITY_Evidence Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
+- 3 edges to [[_COMMUNITY_Scenarios Sources]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 20]]
 
 ## Top bridge nodes
-- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - degree 28, connects to 5 communities
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - degree 36, connects to 3 communities
-- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - degree 25, connects to 3 communities
-- [[subject mask]] - degree 6, connects to 2 communities
-- [[motion blur]] - degree 3, connects to 2 communities
+- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 b50060]] - degree 62, connects to 4 communities
+- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 094789]] - degree 11, connects to 1 community

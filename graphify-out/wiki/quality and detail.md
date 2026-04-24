@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/dim_restaurant_food.md"
 type: "document"
-community: "Trends & Recipes 8"
+community: "Trends & Recipes 7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_8
+  - community/Trends_&_Recipes_7
 ---
 
 # quality and detail
@@ -14,4 +14,4 @@ tags:
 - [[1x 2x 5bc41a]] - `BALANCES` [EXTRACTED]
 - [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - `TARGETS_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_8
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7

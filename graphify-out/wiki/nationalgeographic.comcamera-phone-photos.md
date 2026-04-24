@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/national_geographic_camera_phone.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_3
 ---
 
 # nationalgeographic.com/camera-phone-photos
@@ -24,4 +24,4 @@ tags:
 - [[폭포·계곡 물결 — 장노출Live 효과 688234]] - `SUPPORTED_BY` [EXTRACTED]
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

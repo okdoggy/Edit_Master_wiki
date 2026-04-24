@@ -20,7 +20,7 @@ tags:
 - [[beach 3684e3]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[beach 58bf3f]] - `IN_ENVIRONMENT` [EXTRACTED]
 - [[blog.googletravel-photography-101-teampixel cb83a0]] - `SUPPORTED_BY` [EXTRACTED]
-- [[blown highlights]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
+- [[blown highlights bdd7a0]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
 - [[blue-orange]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[cloud detail]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[face]] - `TARGETS_CONCEPT` [EXTRACTED]

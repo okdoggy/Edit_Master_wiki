@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/autumn_maple_woman_portrait.md"
 type: "document"
-community: "Trends & Recipes 9"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_9
+  - community/Trends_&_Recipes_3
 ---
 
 # subject mask
@@ -18,4 +18,4 @@ tags:
 - [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - `USES_CONCEPT` [EXTRACTED]
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - `USES_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

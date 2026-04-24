@@ -1,5 +1,5 @@
 ---
-source_file: "raw/scenarios/beach_backlit_portrait.md"
+source_file: "raw/scenarios/backlit_rim_light_portrait.md"
 type: "document"
 community: "Trends & Recipes 3"
 tags:
@@ -17,6 +17,7 @@ tags:
 - [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - `HAS_SUBJECT` [EXTRACTED]
 - [[벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일 8f1f9b]] - `HAS_SUBJECT` [EXTRACTED]
 - [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - `HAS_SUBJECT` [EXTRACTED]
+- [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 26c0ca]] - `HAS_SUBJECT` [EXTRACTED]
 - [[카페 창가 인물 — 자연광인플루언서 프로필 2cc46c]] - `HAS_SUBJECT` [EXTRACTED]
 - [[패션OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed e84e93]] - `HAS_SUBJECT` [EXTRACTED]
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - `HAS_SUBJECT` [EXTRACTED]

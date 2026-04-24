@@ -11,6 +11,7 @@ from typing import Any
 
 from .graph_loader import DEFAULT_GRAPH_PATH, Node, SceneGraph
 from .image_facets import ImageObservation, observation_from_vision_json
+from .normalization import extract_slots
 from .personalization import UserPreferenceProfile
 from .scenario_matcher import MatchResult, ScenarioMatcher
 from .source_bridge import DEFAULT_SOURCE_GRAPH_PATH, ExternalEvidence, SourceRecommenderBridge
@@ -200,8 +201,14 @@ class NaturalAnswerRenderer:
         personalized = first_channel(recs, "personalized")
 
         diagnosis = self._diagnosis(match, scenario, general)
+        query_slots = extract_slots(query)
         reshoot = select_items((general.techniques if general else []) + (trend.techniques if trend else []), limit=4)
-        edit = select_items((general.parameters if general else []) + (personalized.parameters if personalized else []), limit=4)
+        edit = select_items(
+            issue_adjustments_for(query_slots)
+            + (general.parameters if general else [])
+            + (personalized.parameters if personalized else []),
+            limit=4,
+        )
         risks = select_items((general.risks if general else []) + (trend.risks if trend else []), limit=2)
 
         lines = [diagnosis, ""]
@@ -289,6 +296,17 @@ def select_items(items: list[str], limit: int) -> list[str]:
         if len(selected) >= limit:
             break
     return selected
+
+
+def issue_adjustments_for(slots) -> list[str]:
+    adjustments: list[str] = []
+    if "issue:hair_highlight_clipping" in slots.issues:
+        adjustments.append("머리카락/테두리 빛은 작은 마스크로 Highlights -25~-50, Whites -10~-30부터 낮춘다.")
+    elif "issue:blown_highlights" in slots.issues:
+        adjustments.append("날아간 밝은 영역은 전체 노출보다 Highlights/Whites를 먼저 낮추고 필요한 곳만 마스크로 보정한다.")
+    if "light:backlight" in slots.how and "issue:underexposed_face" in slots.issues:
+        adjustments.append("얼굴은 Subject mask로 Exposure/Shadows만 살리고 배경 하이라이트와 분리한다.")
+    return adjustments
 
 
 def clean_name(value: str) -> str:

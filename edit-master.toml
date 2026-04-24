@@ -6,6 +6,13 @@ source_graph = "graphify-out/graph.json"
 eval = "tests/eval_queries.json"
 personalization = "data/personalization"
 
+[raw_intake]
+incoming = "raw/_incoming/scenarios"
+source_notes = "raw/_incoming/source_notes"
+runs = "data/raw_intake_runs"
+min_sources = 2
+max_similarity = 0.72
+
 [quality]
 min_top1 = 1.0
 answer_smoke_query = "카페 창가 인물 사진을 자연스럽게 보정하고 싶어요"

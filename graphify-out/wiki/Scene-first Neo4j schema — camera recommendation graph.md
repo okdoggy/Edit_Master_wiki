@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/scene_first_neo4j_schema.md"
 type: "document"
-community: "Recommendation Sources"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Recommendation_Sources
+  - community/Evidence_Sources_2
 ---
 
 # Scene-first Neo4j schema — camera recommendation graph
@@ -19,4 +19,4 @@ tags:
 - [[neo4j_scene_schema]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 - [[recommendation]] - `IN_CATEGORY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

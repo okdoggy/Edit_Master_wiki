@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/metadata_standards_mapping.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Evidence_Sources_2
 ---
 
 # Photo metadata standards mapping — Schema.org/IPTC/Exif to recommender graph
@@ -31,4 +31,4 @@ tags:
 - [[추천용 추론 필드]] - `HAS_SECTION` [EXTRACTED]
 - [[표준 기반 필드]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

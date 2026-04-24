@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/scenario_corpus_index.md"
 type: "document"
-community: "Recommendation Sources"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Recommendation_Sources
+  - community/Evidence_Sources_2
 ---
 
 # Scenario Corpus Index — graphify용 촬영/보정 상황 seed
@@ -16,4 +16,4 @@ tags:
 - [[사용법]] - `HAS_SECTION` [EXTRACTED]
 - [[추가된 scenario files]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

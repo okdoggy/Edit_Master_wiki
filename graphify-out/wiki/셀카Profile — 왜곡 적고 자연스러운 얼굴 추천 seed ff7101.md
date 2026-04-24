@@ -17,7 +17,7 @@ tags:
 - [[close front camera]] - `USES_CONCEPT` [EXTRACTED]
 - [[face distortion]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[front camera]] - `USES_CONCEPT` [EXTRACTED]
-- [[natural skin]] - `SUPPORTS_STYLE` [EXTRACTED]
+- [[natural skin f8cd2b]] - `SUPPORTS_STYLE` [EXTRACTED]
 - [[pose]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[samsung.comhow-to-capture-your-best-profile-picture]] - `SUPPORTED_BY` [EXTRACTED]
 - [[selfie or portrait selfie]] - `USES_MODE` [EXTRACTED]

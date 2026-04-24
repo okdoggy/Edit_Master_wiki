@@ -48,15 +48,22 @@ SCENARIO_SLOT_HINTS: dict[str, dict[str, set[str]]] = {
         "when": {"time:noon", "time:day"},
         "where": {"place:beach"},
         "what": {"intent:portrait"},
-        "how": {"lens_mode:2x", "mode:portrait"},
+        "how": {"lens_mode:2x", "mode:portrait", "light:harsh_light"},
         "issues": {"issue:underexposed_face", "issue:blown_highlights"},
+    },
+    "scenario_backlit_silhouette_sunset": {
+        "when": {"time:golden_hour"},
+        "what": {"intent:portrait", "intent:couple_portrait"},
+        "how": {"lens_mode:1x", "lens_mode:2x", "light:backlight", "light:rim_light"},
+        "issues": {"issue:underexposed_face", "issue:blown_highlights", "issue:hair_highlight_clipping"},
+        "preferences": {"pref:warm", "pref:cinematic"},
     },
     "scenario_beach_backlit_portrait": {
         "when": {"time:golden_hour", "season:summer"},
         "where": {"place:beach"},
         "what": {"intent:portrait", "intent:trendy_style"},
-        "how": {"lens_mode:2x", "mode:portrait"},
-        "issues": {"issue:underexposed_face", "issue:blown_highlights"},
+        "how": {"lens_mode:2x", "mode:portrait", "light:backlight", "light:rim_light"},
+        "issues": {"issue:underexposed_face", "issue:blown_highlights", "issue:hair_highlight_clipping"},
     },
     "scenario_fashion_ootd_portrait": {
         "where": {"place:street"},
@@ -309,6 +316,13 @@ class ScenarioMatcher:
             bonus += 0.35
         if query_slots.filled_slot_count >= 3 and len(matched_slots) >= 3:
             bonus += 0.45
+        if entry.id == "scenario_backlit_silhouette_sunset":
+            if (
+                "light:rim_light" in query_slots.how
+                and "issue:hair_highlight_clipping" in query_slots.issues
+                and "intent:portrait" not in query_slots.what
+            ):
+                bonus += 0.9
         # Prevent broad story scenarios from swallowing concrete food/cafe queries.
         if entry.id == "scenario_marketplace_street_food_story":
             if "place:market" in set(query_slots.where):
@@ -329,6 +343,8 @@ class ScenarioMatcher:
                 penalty += 2.6
             if "place:cafe" in where and "intent:flatlay" in what:
                 penalty += 2.4
+            if "intent:portrait" in what and not ({"intent:food", "intent:story"} & what or "place:market" in where):
+                penalty += 1.2
             if {"issue:mixed_white_balance", "issue:motion_blur"} & issues and "place:market" not in where:
                 penalty += 0.8
 

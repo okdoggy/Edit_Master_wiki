@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/rain_neon_street_portrait.md"
 type: "document"
-community: "Trends & Recipes 9"
+community: "Trends & Recipes 5"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_9
+  - community/Trends_&_Recipes_5
 ---
 
 # 비 오는 밤 네온 거리 인물 — moody city look [33c92b]
@@ -13,12 +13,12 @@ tags:
 ## Connections
 - [[1x 2x f4bb24]] - `USES_LENS` [EXTRACTED]
 - [[business.adobe.comcreative-trends-report.html]] - `SUPPORTED_BY` [EXTRACTED]
-- [[color cast]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[color cast a7233f]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[exposure time]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[helpx.adobe.comedit-photos-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[moody]] - `HAS_SCENE_TAG` [EXTRACTED]
-- [[moody cinematic]] - `SUPPORTS_STYLE` [EXTRACTED]
-- [[motion blur]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
+- [[moody cinematic 922489]] - `SUPPORTS_STYLE` [EXTRACTED]
+- [[motion blur cda978]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
 - [[neon]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[neon backlight]] - `USES_LIGHT` [EXTRACTED]
 - [[neon light]] - `USES_CONCEPT` [EXTRACTED]
@@ -40,4 +40,4 @@ tags:
 - [[wet ground]] - `USES_CONCEPT` [EXTRACTED]
 - [[비 오는 밤 네온 거리 인물 — moody city look e7cb56]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5

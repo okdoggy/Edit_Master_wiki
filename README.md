@@ -1,6 +1,6 @@
 # Edit Master Wiki
 
-현재 버전: `0.1`
+현재 버전: `0.2`
 
 스마트폰 촬영과 사진 편집을 전문가처럼 가이드하는 Learnable Agent를 만들기 위한 지식 기반 프로젝트입니다.
 
@@ -300,6 +300,43 @@ uv run edit-master validate
 ```
 
 legacy entrypoint인 `scripts/*.py`와 `python -m scripts.recommender...` 명령은 유지하지만, 일반 운영에서는 위 하네스 명령을 우선 사용합니다.
+
+## Source-backed raw intake harness
+
+새 raw 시나리오는 기존 raw를 짜깁기하지 않고 외부 근거를 먼저 수집한 뒤 추가합니다. 토픽을 직접 넣지 않으면 2026년 기준 최신 전문가/공식/creator 기반 촬영·보정 기법 토픽을 count만큼 생성합니다. 병렬 Codex/Claude 작업 패킷을 만들고, 후보 파일과 source note JSON을 검증한 뒤에만 `raw/scenarios`로 승격합니다.
+
+```powershell
+uv run edit-master raw intake --engine codex --parallel max --count 5
+```
+
+위 명령은 `brief -> dispatch -> validate`를 한 번에 실행합니다. 검증된 후보를 실제 graph에 반영하려면 결과를 확인한 뒤 아래 명령을 실행합니다.
+
+```powershell
+uv run edit-master raw promote --build
+```
+
+단계를 나누어 실행하려면:
+
+```powershell
+uv run edit-master raw brief --engine both --parallel max --count 5
+uv run edit-master raw dispatch --run-id latest --engine codex --parallel max
+uv run edit-master raw validate --scope incoming
+uv run edit-master raw promote --build
+```
+
+엄격 출처 검증에서 통과한 후보만 한 번에 승격하려면:
+
+```powershell
+uv run edit-master raw promote --strict-sources --passing-only --delete-incoming --build
+```
+
+실패 후보까지 incoming에서 정리하려면 `--delete-failed`를 추가합니다.
+
+```powershell
+uv run edit-master raw promote --strict-sources --passing-only --delete-incoming --delete-failed --build
+```
+
+각 후보는 `raw/_incoming/scenarios/{slug}.md`와 `raw/_incoming/source_notes/{slug}.json`을 함께 만들어야 합니다. `intake`/`dispatch`는 설치/인증된 `codex` 또는 `claude` CLI가 있을 때 사용합니다. 자세한 절차는 `docs/raw_intake_harness.md`를 참고합니다.
 
 ## 아직 남은 일
 

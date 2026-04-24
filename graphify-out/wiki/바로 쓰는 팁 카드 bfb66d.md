@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_color_adjustment_mobile.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes_2
 ---
 
 # 바로 쓰는 팁 카드 [bfb66d]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Adobe Learn — Color adjustment on phone or tablet]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/concert_stage_low_light.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 5"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_5
 ---
 
 # moody stage
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - `SUPPORTS_STYLE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5

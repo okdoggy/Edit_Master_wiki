@@ -58,5 +58,23 @@
     "query": "도시 야경을 유리창 반사와 같이 찍고 싶은데 반사가 지저분하고 사진이 산만해요. 더 감성적으로 만드는 방법이 있을까요?",
     "expected_scenario": "scenario_city_window_reflection",
     "intent": "도시 반사/유리/네온, 창의적 반사, 하이라이트 제어"
+  },
+  {
+    "id": "11_backlit_hair_highlight",
+    "query": "역광으로 인해 사람 머리 위로 쨍하게 보여. 어떻게 보정해야해?",
+    "expected_scenario": "scenario_beach_backlit_portrait",
+    "intent": "역광 인물, 머리 위 과한 하이라이트, hair glow/rim light 제어"
+  },
+  {
+    "id": "12_backlit_face_dark_hair_clip",
+    "query": "역광 인물 사진인데 얼굴은 어둡고 머리카락만 너무 밝게 날아갔어. 자연스럽게 살릴 수 있을까?",
+    "expected_scenario": "scenario_beach_backlit_portrait",
+    "intent": "역광 인물, 얼굴 암부 보정, 머리카락 하이라이트 클리핑"
+  },
+  {
+    "id": "13_rim_light_too_strong",
+    "query": "머리카락 테두리 빛은 예쁜데 하이라이트가 너무 세서 쨍해 보여. 어떤 식으로 낮춰야 해?",
+    "expected_scenario": "scenario_backlit_silhouette_sunset",
+    "intent": "rim light, 강한 테두리 빛, 하이라이트 완화"
   }
 ]

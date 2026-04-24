@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/agent_runtime_pipeline.md"
 type: "document"
-community: "Recommendation Sources"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Recommendation_Sources
+  - community/Evidence_Sources_2
 ---
 
 # recommendation
@@ -23,4 +23,4 @@ tags:
 - [[Scene-first Neo4j schema — camera recommendation graph]] - `IN_CATEGORY` [EXTRACTED]
 - [[User-query scene recommendation schema — image-first shootingediting recommender]] - `IN_CATEGORY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

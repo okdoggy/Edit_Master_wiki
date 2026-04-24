@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/iphone_photography_school_youtube.md"
 type: "document"
-community: "Trends & Recipes 10"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_10
+  - community/Trends_&_Recipes
 ---
 
 # socialblade.com/emilpakarklis
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[iPhone Photography School YouTube]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

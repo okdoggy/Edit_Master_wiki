@@ -890,7 +890,7 @@
         },
         {
           "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_neon_light_photog_4f917e62",
-          "label": "adobe.com/neon-light-photography.html",
+          "label": "adobe.com/neon-light-photography.html [442791]",
           "url": "https://www.adobe.com/creativecloud/photography/discover/neon-light-photography.html",
           "domain": "adobe.com",
           "source_file": "raw/scenarios/city_window_reflection.md"
@@ -2385,7 +2385,7 @@
         },
         {
           "id": "evidence_https_support_apple_com_guide_iphone_take_burst_mode_shots_ipha42c55cd0_f2e09b34",
-          "label": "support.apple.com/26",
+          "label": "support.apple.com/26 [3843dd]",
           "url": "https://support.apple.com/guide/iphone/take-burst-mode-shots-ipha42c55cd0/26/ios/26",
           "domain": "support.apple.com",
           "source_file": "raw/scenarios/pets_children_action.md"
