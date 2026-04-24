@@ -80,6 +80,19 @@ urls:
 - `graphify-out/GRAPH_REPORT.md`
 - `graphify-out/wiki/`
 
+Source graph와 추천 graph의 연결 상태는 bridge 스크립트로 확인합니다.
+
+```powershell
+& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.source_bridge --write
+```
+
+생성/검증 대상:
+
+- `graphify-out/source_recommender_bridge.json`
+- `graphify-out/SOURCE_RECOMMENDER_BRIDGE_REPORT.md`
+
+이 bridge는 `source_file` 기준으로 `graphify-out/graph.json`의 source/evidence 노드와 `graphify-out/scene_recommender_graph.json`의 Scenario/Recommendation을 연결합니다. raw가 늘어났을 때는 이 coverage가 깨지지 않는지 먼저 봅니다.
+
 현재 산출물은 두 성격으로 나뉩니다.
 
 - Source 중심 그래프: `graphify-out/graph.json`, `graphify-out/cypher.txt`
@@ -132,10 +145,16 @@ User Query
 & 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.scenario_matcher "어두운 레스토랑에서 파스타 사진이 노랗고 흐릿해요" --top-k 3
 ```
 
-이미지 설명 또는 외부 vision 결과를 graph-ready facet으로 바꾸는 예시:
+자연어 답변 생성 예시:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.image_facets --query "카페 창가에서 얼굴이 어둡고 배경이 지저분해요"
+& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.answer_renderer "카페 창가에서 인물 사진을 찍었는데 얼굴 한쪽이 어둡고 배경이 지저분해요"
+```
+
+Client가 이미지 분석 결과를 이미 만든 경우에는 JSON facet을 함께 넘길 수 있습니다. 이 저장소는 이미지 분석 모델을 직접 수행하지 않고, Client가 보낸 `subject/environment/light/issues/preferences` 같은 분석 결과를 추천 쿼리에 합치는 계약만 유지합니다.
+
+```powershell
+& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.answer_renderer "자연스럽게 보정하고 싶어요" --observation-json .\client_observation.json
 ```
 
 현재 주요 런타임 코드:
@@ -143,6 +162,8 @@ User Query
 - `scripts/recommender/scenario_matcher.py`
 - `scripts/recommender/normalization.py`
 - `scripts/recommender/graph_loader.py`
+- `scripts/recommender/source_bridge.py`
+- `scripts/recommender/answer_renderer.py`
 - `scripts/recommender/personalization.py`
 - `scripts/recommender/image_facets.py`
 - `scripts/evaluate_scene_matcher.py`
@@ -181,6 +202,7 @@ raw를 추가하거나 graph를 갱신할 때는 아래 루프를 따릅니다.
 raw 추가/수정
 -> scenario alias, graph_nodes, graph_edges, urls 확인
 -> graphify/wiki/graph 재생성
+-> source_bridge로 source graph와 추천 graph 연결 검증
 -> scripts/agent_pipeline.py 실행
 -> tests/eval_queries.json 회귀 평가 통과 확인
 -> graph.html에서 Scenario 중심성, 고립 노드, Evidence 연결 확인
@@ -200,6 +222,5 @@ raw 추가/수정
 
 ## 아직 남은 일
 
-- 실제 이미지 분석 모델을 `scripts/recommender/image_facets.py` 계약에 연결하기
-- 자연어 답변 renderer를 코드화하기
 - 사용자 피드백을 저장하고 `UserPreferenceProfile`로 추천 순위를 조정하기
+- 평가 쿼리를 늘려 자연어 답변 품질과 개인화 variant 차이를 회귀 테스트하기

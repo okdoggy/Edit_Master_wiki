@@ -18,6 +18,7 @@ if str(REPO_ROOT) not in sys.path:
 
 from scripts.evaluate_scene_matcher import DEFAULT_EVAL_PATH, evaluate
 from scripts.recommender.graph_loader import DEFAULT_GRAPH_PATH, SceneGraph
+from scripts.recommender.source_bridge import DEFAULT_SOURCE_GRAPH_PATH, SourceRecommenderBridge
 
 
 REQUIRED_SCENARIO_KEYS = ("scenario_tags:", "graph_nodes:", "graph_edges:", "urls:")
@@ -86,15 +87,22 @@ def validate_graph(graph_path: Path = DEFAULT_GRAPH_PATH) -> dict:
     }
 
 
-def run_pipeline(graph_path: Path, eval_path: Path, min_top1: float) -> dict:
+def validate_bridge(graph_path: Path = DEFAULT_GRAPH_PATH, source_graph_path: Path = DEFAULT_SOURCE_GRAPH_PATH) -> dict:
+    bridge = SourceRecommenderBridge.load(graph_path, source_graph_path)
+    return bridge.validate()
+
+
+def run_pipeline(graph_path: Path, eval_path: Path, min_top1: float, source_graph_path: Path = DEFAULT_SOURCE_GRAPH_PATH) -> dict:
     raw = validate_raw()
     graph = validate_graph(graph_path)
+    bridge = validate_bridge(graph_path, source_graph_path)
     matcher_eval = evaluate(eval_path, graph_path, top_k=5)
-    ok = raw["ok"] and graph["ok"] and matcher_eval["top1_accuracy"] >= min_top1
+    ok = raw["ok"] and graph["ok"] and bridge["ok"] and matcher_eval["top1_accuracy"] >= min_top1
     return {
         "ok": ok,
         "raw": raw,
         "graph": graph,
+        "bridge": bridge,
         "matcher_eval": {
             "total": matcher_eval["total"],
             "top1_accuracy": matcher_eval["top1_accuracy"],
@@ -117,12 +125,13 @@ def main(argv: list[str] | None = None) -> int:
         sys.stdout.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser(description="Validate and evaluate Learnable Agent assets.")
     parser.add_argument("--graph", type=Path, default=DEFAULT_GRAPH_PATH)
+    parser.add_argument("--source-graph", type=Path, default=DEFAULT_SOURCE_GRAPH_PATH)
     parser.add_argument("--eval", type=Path, default=DEFAULT_EVAL_PATH)
     parser.add_argument("--min-top1", type=float, default=0.8)
     parser.add_argument("--json", action="store_true")
     args = parser.parse_args(argv)
 
-    report = run_pipeline(args.graph, args.eval, args.min_top1)
+    report = run_pipeline(args.graph, args.eval, args.min_top1, args.source_graph)
     if args.json:
         print(json.dumps(report, ensure_ascii=False, indent=2))
     else:
@@ -133,6 +142,11 @@ def main(argv: list[str] | None = None) -> int:
         print(f"graph nodes/edges: {report['graph']['node_count']} / {report['graph']['edge_count']}")
         print(f"graph recommendations: {report['graph']['recommendation_count']} {report['graph']['recommendation_channels']}")
         print(f"graph isolates: {len(report['graph']['isolates'])}")
+        print(
+            "bridge coverage: "
+            f"{report['bridge']['linked_scenario_count']} / {report['bridge']['scenario_count']} "
+            f"(external evidence: {report['bridge']['external_evidence_count']})"
+        )
         print(f"matcher top1/top3: {report['matcher_eval']['top1_accuracy']:.3f} / {report['matcher_eval']['top3_accuracy']:.3f}")
         if report["matcher_eval"]["misses"]:
             print("matcher misses:")

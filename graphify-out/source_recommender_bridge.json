@@ -1,0 +1,3071 @@
+{
+  "validation": {
+    "ok": true,
+    "scenario_count": 30,
+    "linked_scenario_count": 30,
+    "link_coverage": 1.0,
+    "recommendation_count": 90,
+    "external_evidence_count": 178,
+    "scenarios_without_source": [],
+    "scenarios_without_external_evidence": [],
+    "recommendations_without_supported_by": [],
+    "recommendations_without_source_file": [],
+    "recommendations_without_source_graph_evidence": []
+  },
+  "records": [
+    {
+      "scenario_id": "scenario_architecture_interior_wide",
+      "scenario_name": "건축·실내 공간 — 초광각 왜곡 제어",
+      "source_file": "raw/scenarios/architecture_interior_wide.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "composition_level_verticals_5198dfed",
+        "concept_geometry_edit_a2fb649b",
+        "concept_keystone_f08cb6f5",
+        "concept_level_380a0482",
+        "concept_lines_1fc95a97",
+        "concept_space_1c43fa5f",
+        "concept_tilt_94599785",
+        "concept_ultrawide_ff2df28f",
+        "concept_verticals_0829f7fd",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_architecture_interior_wide_md_ebacfd46",
+        "edit_geometry_upright_0369288f",
+        "environment_interior_dba98bd9",
+        "evidence_https_blog_google_products_pixel_how_to_use_camera_coach_8c8c7274",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "lens_0_5x_1x_412ca1e1",
+        "risk_keystone_distortion_dc25d52e",
+        "scenario_architecture_interior_wide_cfcf3497",
+        "scenario_tags_architecture_6c912b57",
+        "scenario_tags_geometry_52a0a5dc",
+        "scenario_tags_interior_f586b19a",
+        "scenario_tags_travel_2c39531d",
+        "scenario_tags_ultrawide_c3f1e749",
+        "section_raw_scenarios_architecture_interior_wide_md_2284f5d2",
+        "section_raw_scenarios_architecture_interior_wide_md_42be1de3",
+        "section_raw_scenarios_architecture_interior_wide_md_99d414e0",
+        "section_raw_scenarios_architecture_interior_wide_md_da19848b",
+        "section_raw_scenarios_architecture_interior_wide_md_f4c2feca",
+        "section_raw_scenarios_architecture_interior_wide_md_graphify_b83c6f31",
+        "subject_building_or_room_02fd4dfd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/architecture_interior_wide.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_pixel_how_to_use_camera_coach_8c8c7274",
+          "label": "blog.google/how-to-use-camera-coach",
+          "url": "https://blog.google/products/pixel/how-to-use-camera-coach/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/architecture_interior_wide.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/architecture_interior_wide.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/architecture_interior_wide.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_architecture_interior_wide",
+        "rec_trend_architecture_interior_wide",
+        "rec_personalized_architecture_interior_wide"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_architecture_interior_wide.md",
+        "evidence_url_https___blog.google_products_pixel_how_to_use_camera_coach",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos"
+      ]
+    },
+    {
+      "scenario_id": "scenario_autumn_maple_woman_portrait",
+      "scenario_name": "단풍나무 아래 여성 인물 — 트렌드/일반/개인화 추천 seed",
+      "source_file": "raw/scenarios/autumn_maple_woman_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_2x_3x_c2ca5f46",
+        "concept_autumn_foliage_0d274ab9",
+        "concept_backlight_09c1b8df",
+        "concept_depth_b4088612",
+        "concept_face_distortion_486889b7",
+        "concept_leaf_foreground_cd1f465c",
+        "concept_maple_tree_e86e1681",
+        "concept_rim_light_648ab724",
+        "concept_skin_tone_67b374da",
+        "concept_subject_mask_edaa8b65",
+        "concept_warm_color_grade_aa791a72",
+        "concept_woman_ce9c658b",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_autumn_maple_woman_portrait_md_ae3f3bec",
+        "edit_style_warm_foliage_f38c77cf",
+        "environment_autumn_maple_tree_c13dd4cf",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+        "evidence_https_iphonephotographyschool_com_fall_a2fcfef1",
+        "evidence_https_iphonephotographyschool_com_leaves_3c18f19b",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_express_learn_blog_how_to_take_portrait_photos_with_40e3397f",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_photo_filters_21e3c406",
+        "evidence_https_www_samsung_com_us_explore_photography_how_to_pull_off_the_perfect_40c0c410",
+        "lens_2x_3x_portrait_a48f7b07",
+        "light_golden_hour_or_backlight_4fde224a",
+        "mode_portrait_or_photo_3c135db0",
+        "personal_signal_skin_tone_preference_5d4c83a1",
+        "satisfaction_signal_clear_face_warm_background_db8141d4",
+        "scenario_autumn_maple_woman_portrait_ad3f9e7f",
+        "scenario_tags_autumn_2ad11c7a",
+        "scenario_tags_foliage_c21919c4",
+        "scenario_tags_golden_hour_edbd4a4f",
+        "scenario_tags_maple_3f77f624",
+        "scenario_tags_personalization_seed_176b39bd",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_woman_da7f6f61",
+        "section_raw_scenarios_autumn_maple_woman_portrait_md_37065951",
+        "section_raw_scenarios_autumn_maple_woman_portrait_md_6c3054b7",
+        "section_raw_scenarios_autumn_maple_woman_portrait_md_73bd1b14",
+        "section_raw_scenarios_autumn_maple_woman_portrait_md_73cc5e17",
+        "section_raw_scenarios_autumn_maple_woman_portrait_md_b14b31b9",
+        "section_raw_scenarios_autumn_maple_woman_portrait_md_graphify_e9fa8d01",
+        "subject_woman_ff2ddc2f",
+        "trend_signal_seasonal_fall_color_5f254ba1"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/autumn_maple_woman_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_express_learn_blog_how_to_take_portrait_photos_with_40e3397f",
+          "label": "adobe.com/how-to-take-portrait-photos-with-your-phone",
+          "url": "https://www.adobe.com/express/learn/blog/how-to-take-portrait-photos-with-your-phone",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/autumn_maple_woman_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_photo_filters_21e3c406",
+          "label": "adobe.com/photo-filters",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/photo-filters",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/autumn_maple_woman_portrait.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+          "label": "helpx.adobe.com/masking-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/masking-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/autumn_maple_woman_portrait.md"
+        },
+        {
+          "id": "evidence_https_iphonephotographyschool_com_fall_a2fcfef1",
+          "label": "iphonephotographyschool.com/fall",
+          "url": "https://iphonephotographyschool.com/fall/",
+          "domain": "iphonephotographyschool.com",
+          "source_file": "raw/scenarios/autumn_maple_woman_portrait.md"
+        },
+        {
+          "id": "evidence_https_iphonephotographyschool_com_leaves_3c18f19b",
+          "label": "iphonephotographyschool.com/leaves",
+          "url": "https://iphonephotographyschool.com/leaves/",
+          "domain": "iphonephotographyschool.com",
+          "source_file": "raw/scenarios/autumn_maple_woman_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_explore_photography_how_to_pull_off_the_perfect_40c0c410",
+          "label": "samsung.com/how-to-pull-off-the-perfect-fall-photoshoot",
+          "url": "https://www.samsung.com/us/explore/photography/how-to-pull-off-the-perfect-fall-photoshoot/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/autumn_maple_woman_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/autumn_maple_woman_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_autumn_maple_woman_portrait",
+        "rec_trend_autumn_maple_woman_portrait",
+        "rec_personalized_autumn_maple_woman_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_autumn_maple_woman_portrait.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_masking_mobile_ios.html",
+        "evidence_url_https___iphonephotographyschool.com_fall",
+        "evidence_url_https___iphonephotographyschool.com_leaves",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_express_learn_blog_how_to_take_portrait_photos_with_your_phone",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_photo_filters",
+        "evidence_url_https___www.samsung.com_us_explore_photography_how_to_pull_off_the_perfect_fall_photoshoot"
+      ]
+    },
+    {
+      "scenario_id": "scenario_backlit_silhouette_sunset",
+      "scenario_name": "노을 실루엣 — 감성 여행/커플/인물",
+      "source_file": "raw/scenarios/backlit_silhouette_sunset.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_backlight_09c1b8df",
+        "concept_clear_outline_db0428a4",
+        "concept_emotion_934215b9",
+        "concept_negative_exposure_d4424649",
+        "concept_readability_b0baa926",
+        "concept_silhouette_1b3389a5",
+        "concept_sky_de01915d",
+        "concept_warm_gradient_25f65b88",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_backlit_silhouette_sunset_md_3190683e",
+        "edit_style_silhouette_warm_816256b4",
+        "environment_sunset_24a51588",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_portrait_lighting_f9abd498",
+        "evidence_https_www_adobe_com_creativecloud_photography_type_silhouette_photograph_e3f7ed01",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "lens_1x_2x_a951df28",
+        "light_strong_backlight_2eadb8c4",
+        "risk_lost_subject_shape_59f1ed9d",
+        "scenario_backlit_silhouette_sunset_65fdcdbc",
+        "scenario_tags_backlight_0bc3d7cc",
+        "scenario_tags_couple_6bc9666f",
+        "scenario_tags_silhouette_f0e66ac6",
+        "scenario_tags_sunset_c080379d",
+        "scenario_tags_travel_2c39531d",
+        "section_raw_scenarios_backlit_silhouette_sunset_md_1a8c880f",
+        "section_raw_scenarios_backlit_silhouette_sunset_md_5c33e8f9",
+        "section_raw_scenarios_backlit_silhouette_sunset_md_618dbd6e",
+        "section_raw_scenarios_backlit_silhouette_sunset_md_a6c132d3",
+        "section_raw_scenarios_backlit_silhouette_sunset_md_graphify_c208f9f5",
+        "section_raw_scenarios_backlit_silhouette_sunset_md_rim_light_e4077b01",
+        "subject_person_or_couple_ff218234"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/backlit_silhouette_sunset.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_portrait_lighting_f9abd498",
+          "label": "adobe.com/portrait-lighting.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/backlit_silhouette_sunset.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_type_silhouette_photograph_e3f7ed01",
+          "label": "adobe.com/silhouette-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/type/silhouette-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/backlit_silhouette_sunset.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/backlit_silhouette_sunset.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/backlit_silhouette_sunset.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_backlit_silhouette_sunset",
+        "rec_trend_backlit_silhouette_sunset",
+        "rec_personalized_backlit_silhouette_sunset"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_backlit_silhouette_sunset.md",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_portrait_lighting.html",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_type_silhouette_photography.html",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos"
+      ]
+    },
+    {
+      "scenario_id": "scenario_beach_backlit_portrait",
+      "scenario_name": "해변 역광 인물 — 여름/휴양지 SNS 스타일",
+      "source_file": "raw/scenarios/beach_backlit_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_2x_portrait_11d39e39",
+        "concept_backlight_09c1b8df",
+        "concept_cloud_detail_06978b6c",
+        "concept_face_61c4a376",
+        "concept_hair_glow_b31e95b1",
+        "concept_sky_mask_bb5a4160",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_beach_backlit_portrait_md_485a0d41",
+        "edit_style_warm_blue_travel_c9d7b2b7",
+        "environment_beach_9b509acd",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "lens_2x_portrait_6844f0ee",
+        "light_backlight_golden_hour_ce201d54",
+        "risk_blown_highlights_a6cf7296",
+        "scenario_beach_backlit_portrait_143ed7a0",
+        "scenario_tags_backlight_0bc3d7cc",
+        "scenario_tags_beach_21b1fd9f",
+        "scenario_tags_blue_orange_369e0da8",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_summer_7618a2ae",
+        "scenario_tags_travel_2c39531d",
+        "section_raw_scenarios_beach_backlit_portrait_md_02036256",
+        "section_raw_scenarios_beach_backlit_portrait_md_0571eb87",
+        "section_raw_scenarios_beach_backlit_portrait_md_136cae49",
+        "section_raw_scenarios_beach_backlit_portrait_md_67e69883",
+        "section_raw_scenarios_beach_backlit_portrait_md_77c622a0",
+        "section_raw_scenarios_beach_backlit_portrait_md_graphify_7c91d7f4",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/beach_backlit_portrait.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+          "label": "blog.google/travel-photography-101-teampixel [cb83a0]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/travel-photography-101-teampixel/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/beach_backlit_portrait.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+          "label": "helpx.adobe.com/masking-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/masking-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/beach_backlit_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/beach_backlit_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/beach_backlit_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_beach_backlit_portrait",
+        "rec_trend_beach_backlit_portrait",
+        "rec_personalized_beach_backlit_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_beach_backlit_portrait.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_travel_photography_101_teampixel",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_masking_mobile_ios.html",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos"
+      ]
+    },
+    {
+      "scenario_id": "scenario_cafe_drink_dessert_closeup",
+      "scenario_name": "카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기",
+      "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_cafe_drink_dessert_closeup_md_b387b822",
+        "edit_style_food_glow_a0d628dc",
+        "environment_cafe_table_9d2f28e3",
+        "evidence_https_blog_google_products_pixel_four_tips_taking_delectable_food_photos_8d1c31ba",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_helpx_adobe_com_ph_fil_lightroom_cc_how_to_mobile_food_photography_750f1f57",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_reddit_com_r_productphotography_comments_1sn1msr_how_to_get_fo_b4f1fff7",
+        "evidence_https_www_samsung_com_us_support_answer_ans10001377_1caa3d94",
+        "lens_2x_or_macro_6cab7669",
+        "light_side_or_back_light_9a286f64",
+        "mode_photo_or_macro_7b7d2840",
+        "query_aliases_query_aliases_07940934",
+        "query_aliases_query_aliases_0f4a4c80",
+        "query_aliases_query_aliases_294365c1",
+        "query_aliases_query_aliases_504b179b",
+        "query_aliases_query_aliases_70fcb4f0",
+        "query_aliases_query_aliases_a33fa7f5",
+        "risk_focus_miss_403f51d7",
+        "risk_highlight_reflection_db51a5ed",
+        "scenario_cafe_drink_dessert_closeup_40f3e4f8",
+        "scenario_tags_cafe_39dd06e1",
+        "scenario_tags_closeup_ea0b6315",
+        "scenario_tags_dessert_ca5cb9be",
+        "scenario_tags_drink_f0ad5990",
+        "scenario_tags_macro_efc6300b",
+        "scenario_tags_texture_56774a11",
+        "section_raw_scenarios_cafe_drink_dessert_closeup_md_07c0b3eb",
+        "section_raw_scenarios_cafe_drink_dessert_closeup_md_1a8a9598",
+        "section_raw_scenarios_cafe_drink_dessert_closeup_md_2e2b207b",
+        "section_raw_scenarios_cafe_drink_dessert_closeup_md_6df0501a",
+        "section_raw_scenarios_cafe_drink_dessert_closeup_md_98c3b448",
+        "section_raw_scenarios_cafe_drink_dessert_closeup_md_c21b5449",
+        "section_raw_scenarios_cafe_drink_dessert_closeup_md_cc4c91f2",
+        "section_raw_scenarios_cafe_drink_dessert_closeup_md_graphify_5d1b557d",
+        "subject_cafe_drink_dessert_871b1eeb"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_pixel_four_tips_taking_delectable_food_photos_8d1c31ba",
+          "label": "blog.google/four-tips-taking-delectable-food-photos-pixel-2 [0bb5ae]",
+          "url": "https://blog.google/products/pixel/four-tips-taking-delectable-food-photos-pixel-2/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_ph_fil_lightroom_cc_how_to_mobile_food_photography_750f1f57",
+          "label": "helpx.adobe.com/mobile-food-photography.html",
+          "url": "https://helpx.adobe.com/ph_fil/lightroom-cc/how-to/mobile-food-photography.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_productphotography_comments_1sn1msr_how_to_get_fo_b4f1fff7",
+          "label": "reddit.com/how_to_get_foodrestaurant_photos_like_these",
+          "url": "https://www.reddit.com/r/productphotography/comments/1sn1msr/how_to_get_foodrestaurant_photos_like_these/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_support_answer_ans10001377_1caa3d94",
+          "label": "samsung.com/ANS10001377",
+          "url": "https://www.samsung.com/us/support/answer/ANS10001377/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/cafe_drink_dessert_closeup.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_cafe_drink_dessert_closeup",
+        "rec_trend_cafe_drink_dessert_closeup",
+        "rec_personalized_cafe_drink_dessert_closeup"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_cafe_drink_dessert_closeup.md",
+        "evidence_url_https___blog.google_products_pixel_four_tips_taking_delectable_food_photos_pixel_2",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___helpx.adobe.com_ph_fil_lightroom_cc_how_to_mobile_food_photography.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.reddit.com_r_productphotography_comments_1sn1msr_how_to_get_foodrestaurant_photos_like_these",
+        "evidence_url_https___www.samsung.com_us_support_answer_ans10001377"
+      ]
+    },
+    {
+      "scenario_id": "scenario_cafe_flatlay_dessert",
+      "scenario_name": "카페 디저트 플랫레이 — 수평과 왜곡 잡기",
+      "source_file": "raw/scenarios/cafe_flatlay_dessert.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "composition_flatlay_topview_66de0421",
+        "concept_0_5x_6ef4e020",
+        "concept_1x_3c56c406",
+        "concept_geometry_edit_a2fb649b",
+        "concept_grid_level_84916176",
+        "concept_large_table_but_distorts_edges_ac3cc72a",
+        "concept_plate_distortion_1bc4bf10",
+        "concept_table_b8cf9f4d",
+        "concept_tilted_table_690e9c35",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_cafe_flatlay_dessert_md_30c21039",
+        "edit_style_food_cafe_warm_fe366ea6",
+        "environment_cafe_table_9d2f28e3",
+        "evidence_https_blog_google_products_pixel_four_tips_taking_delectable_food_photos_8d1c31ba",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_helpx_adobe_com_ph_fil_lightroom_cc_how_to_mobile_food_photography_750f1f57",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_reddit_com_r_foodphotography_comments_1n6jnmx_food_photography_1e67cb92",
+        "evidence_https_www_samsung_com_us_support_answer_ans10001377_1caa3d94",
+        "lens_1x_or_0_5x_fd976354",
+        "query_aliases_query_aliases_1506e867",
+        "query_aliases_query_aliases_390adf92",
+        "query_aliases_query_aliases_5472f81e",
+        "query_aliases_query_aliases_5b282037",
+        "query_aliases_query_aliases_76e8d07f",
+        "query_aliases_query_aliases_de0e946f",
+        "risk_edge_distortion_7b001432",
+        "risk_tilted_table_e5337f44",
+        "scenario_cafe_flatlay_dessert_1978c6a6",
+        "scenario_tags_cafe_39dd06e1",
+        "scenario_tags_coffee_f8e9f275",
+        "scenario_tags_dessert_ca5cb9be",
+        "scenario_tags_flatlay_e41883f3",
+        "scenario_tags_food_2eb8e941",
+        "scenario_tags_geometry_52a0a5dc",
+        "section_raw_scenarios_cafe_flatlay_dessert_md_0dd8e522",
+        "section_raw_scenarios_cafe_flatlay_dessert_md_665549e2",
+        "section_raw_scenarios_cafe_flatlay_dessert_md_701ef8b8",
+        "section_raw_scenarios_cafe_flatlay_dessert_md_715d57ee",
+        "section_raw_scenarios_cafe_flatlay_dessert_md_ac6b5c95",
+        "section_raw_scenarios_cafe_flatlay_dessert_md_b9cfe140",
+        "section_raw_scenarios_cafe_flatlay_dessert_md_fae3e37b",
+        "section_raw_scenarios_cafe_flatlay_dessert_md_graphify_58a585a0",
+        "subject_dessert_coffee_2dcd4dbd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/cafe_flatlay_dessert.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_pixel_four_tips_taking_delectable_food_photos_8d1c31ba",
+          "label": "blog.google/four-tips-taking-delectable-food-photos-pixel-2 [0bb5ae]",
+          "url": "https://blog.google/products/pixel/four-tips-taking-delectable-food-photos-pixel-2/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/cafe_flatlay_dessert.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/cafe_flatlay_dessert.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_ph_fil_lightroom_cc_how_to_mobile_food_photography_750f1f57",
+          "label": "helpx.adobe.com/mobile-food-photography.html",
+          "url": "https://helpx.adobe.com/ph_fil/lightroom-cc/how-to/mobile-food-photography.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/cafe_flatlay_dessert.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_foodphotography_comments_1n6jnmx_food_photography_1e67cb92",
+          "label": "reddit.com/food_photography_tips_on_restaurant_menu",
+          "url": "https://www.reddit.com/r/foodphotography/comments/1n6jnmx/food_photography_tips_on_restaurant_menu/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/cafe_flatlay_dessert.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_support_answer_ans10001377_1caa3d94",
+          "label": "samsung.com/ANS10001377",
+          "url": "https://www.samsung.com/us/support/answer/ANS10001377/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/cafe_flatlay_dessert.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/cafe_flatlay_dessert.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/cafe_flatlay_dessert.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_cafe_flatlay_dessert",
+        "rec_trend_cafe_flatlay_dessert",
+        "rec_personalized_cafe_flatlay_dessert"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_cafe_flatlay_dessert.md",
+        "evidence_url_https___blog.google_products_pixel_four_tips_taking_delectable_food_photos_pixel_2",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___helpx.adobe.com_ph_fil_lightroom_cc_how_to_mobile_food_photography.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.reddit.com_r_foodphotography_comments_1n6jnmx_food_photography_tips_on_restaurant_menu",
+        "evidence_url_https___www.samsung.com_us_support_answer_ans10001377"
+      ]
+    },
+    {
+      "scenario_id": "scenario_cherry_blossom_flower_portrait",
+      "scenario_name": "벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일",
+      "source_file": "raw/scenarios/cherry_blossom_flower_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_2x_portrait_11d39e39",
+        "concept_airy_style_11e0c7a2",
+        "concept_flower_background_4025f12b",
+        "concept_overcast_light_4d4f1138",
+        "concept_pink_tint_3850424b",
+        "concept_skin_ab6be1a4",
+        "concept_spring_trend_edf6d4d6",
+        "concept_subject_e306c150",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_cherry_blossom_flower_portrait_md_3c63afdc",
+        "edit_style_airy_pink_75ce35cf",
+        "environment_flower_tree_21a44d4f",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_portrait_lighting_f9abd498",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_nationalgeographic_com_photography_article_people_quick_tips_d8902316",
+        "lens_2x_portrait_6844f0ee",
+        "light_soft_overcast_d0218cf3",
+        "satisfaction_signal_soft_skin_clean_background_e3398bce",
+        "scenario_cherry_blossom_flower_portrait_ed05242d",
+        "scenario_tags_airy_c5e4c84f",
+        "scenario_tags_cherry_blossom_1cec9443",
+        "scenario_tags_flowers_b64963ae",
+        "scenario_tags_pink_5fe5ee7e",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_spring_843bcd1b",
+        "section_raw_scenarios_cherry_blossom_flower_portrait_md_1fdfc702",
+        "section_raw_scenarios_cherry_blossom_flower_portrait_md_5523bdd1",
+        "section_raw_scenarios_cherry_blossom_flower_portrait_md_6c245442",
+        "section_raw_scenarios_cherry_blossom_flower_portrait_md_6fab1982",
+        "section_raw_scenarios_cherry_blossom_flower_portrait_md_ea154625",
+        "section_raw_scenarios_cherry_blossom_flower_portrait_md_graphify_8b5a008b",
+        "subject_person_c51437fd",
+        "trend_signal_spring_blossom_d4461505"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/cherry_blossom_flower_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_portrait_lighting_f9abd498",
+          "label": "adobe.com/portrait-lighting.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/cherry_blossom_flower_portrait.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+          "label": "helpx.adobe.com/masking-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/masking-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/cherry_blossom_flower_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_people_quick_tips_d8902316",
+          "label": "nationalgeographic.com/people-quick-tips",
+          "url": "https://www.nationalgeographic.com/photography/article/people-quick-tips",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/cherry_blossom_flower_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/cherry_blossom_flower_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_cherry_blossom_flower_portrait",
+        "rec_trend_cherry_blossom_flower_portrait",
+        "rec_personalized_cherry_blossom_flower_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_cherry_blossom_flower_portrait.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_masking_mobile_ios.html",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_portrait_lighting.html",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_people_quick_tips"
+      ]
+    },
+    {
+      "scenario_id": "scenario_city_night_long_exposure",
+      "scenario_name": "도시 야경 장노출 — 빛줄기/스카이라인",
+      "source_file": "raw/scenarios/city_night_long_exposure.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_highlights_2ab8da31",
+        "concept_light_trails_f3bb6dc4",
+        "concept_long_exposure_9c085493",
+        "concept_low_iso_768a8ff3",
+        "concept_noise_8552386d",
+        "concept_protection_ebaa228c",
+        "concept_traffic_77569c03",
+        "concept_tripod_a3b201f3",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_city_night_long_exposure_md_19d3bc68",
+        "edit_style_moody_cinematic_603264fd",
+        "environment_night_city_0cbe9c8b",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_google_com_pixelcamera_answer_9708795_hl_en_27241951",
+        "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+        "lens_1x_2x_5x_47b75a4f",
+        "mode_pro_or_night_dcd88647",
+        "scenario_city_night_long_exposure_f4bfdad7",
+        "scenario_tags_city_night_e773e74f",
+        "scenario_tags_long_exposure_041c3db2",
+        "scenario_tags_skyline_19340008",
+        "scenario_tags_traffic_trails_91ea0de3",
+        "scenario_tags_tripod_61ae09ed",
+        "section_raw_scenarios_city_night_long_exposure_md_411993cb",
+        "section_raw_scenarios_city_night_long_exposure_md_4640a91c",
+        "section_raw_scenarios_city_night_long_exposure_md_66feb9d9",
+        "section_raw_scenarios_city_night_long_exposure_md_cb2e20a7",
+        "section_raw_scenarios_city_night_long_exposure_md_d3e26074",
+        "section_raw_scenarios_city_night_long_exposure_md_graphify_f1134caf",
+        "setting_low_iso_long_shutter_46339a80",
+        "subject_city_lights_d8b267b0"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/city_night_long_exposure.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+          "label": "samsung.com/samsung-night-mode-camera",
+          "url": "https://www.samsung.com/ae/mobile-phone-buying-guide/samsung-night-mode-camera/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/city_night_long_exposure.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/city_night_long_exposure.md"
+        },
+        {
+          "id": "evidence_https_support_google_com_pixelcamera_answer_9708795_hl_en_27241951",
+          "label": "support.google.com/9708795",
+          "url": "https://support.google.com/pixelcamera/answer/9708795?hl=en",
+          "domain": "support.google.com",
+          "source_file": "raw/scenarios/city_night_long_exposure.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_city_night_long_exposure",
+        "rec_trend_city_night_long_exposure",
+        "rec_personalized_city_night_long_exposure"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_city_night_long_exposure.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.google.com_pixelcamera_answer_9708795_hl_en",
+        "evidence_url_https___www.samsung.com_ae_mobile_phone_buying_guide_samsung_night_mode_camera"
+      ]
+    },
+    {
+      "scenario_id": "scenario_city_window_reflection",
+      "scenario_name": "도시 야경 유리창 반사 — 산만한 반사 정리",
+      "source_file": "raw/scenarios/city_window_reflection.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_city_lights_d5f5f86d",
+        "concept_dark_clothing_ec560e0e",
+        "concept_ev_negative_2ed6a4a3",
+        "concept_layering_679cc671",
+        "concept_self_reflection_61b7655b",
+        "concept_window_reflection_6c03028f",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_city_window_reflection_md_c5c1878b",
+        "edit_style_moody_cinematic_603264fd",
+        "environment_window_reflection_city_night_1f2f30d3",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_travelphotographymagazine_com_how_to_photograph_through_glass_60_s_c7e2a86e",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_neon_light_photog_4f917e62",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_bhphotovideo_com_explora_photography_tips_and_solutions_seven_dec24d2a",
+        "evidence_https_www_reddit_com_r_askphotography_comments_1hvpthv_is_there_anyway_t_7741a4fb",
+        "evidence_https_www_reddit_com_r_askphotography_comments_1rkm1rm_how_can_i_prevent_133e4237",
+        "lens_1x_2x_a951df28",
+        "light_city_neon_612c22f6",
+        "mode_night_or_photo_ebbdc00e",
+        "query_aliases_query_aliases_43928c5e",
+        "query_aliases_query_aliases_787458a6",
+        "query_aliases_query_aliases_a7db9536",
+        "query_aliases_query_aliases_c0f2c4d0",
+        "query_aliases_query_aliases_f4d3e45c",
+        "query_aliases_query_aliases_fb48f3d3",
+        "risk_blown_city_lights_58b1d9f0",
+        "risk_messy_reflection_1361a4c6",
+        "scenario_city_window_reflection_d1ea7d48",
+        "scenario_tags_city_29a10a80",
+        "scenario_tags_composition_a15f033d",
+        "scenario_tags_neon_9508b761",
+        "scenario_tags_night_aeba8edb",
+        "scenario_tags_reflection_9fc83b12",
+        "scenario_tags_window_2d3ce63a",
+        "section_raw_scenarios_city_window_reflection_md_0458abbb",
+        "section_raw_scenarios_city_window_reflection_md_2c9c3a8c",
+        "section_raw_scenarios_city_window_reflection_md_50d3f7c8",
+        "section_raw_scenarios_city_window_reflection_md_548b4893",
+        "section_raw_scenarios_city_window_reflection_md_66223934",
+        "section_raw_scenarios_city_window_reflection_md_667b5d24",
+        "section_raw_scenarios_city_window_reflection_md_66d471f4",
+        "section_raw_scenarios_city_window_reflection_md_graphify_f4a98615",
+        "subject_city_lights_d8b267b0"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/city_window_reflection.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_neon_light_photog_4f917e62",
+          "label": "adobe.com/neon-light-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/neon-light-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/city_window_reflection.md"
+        },
+        {
+          "id": "evidence_https_www_bhphotovideo_com_explora_photography_tips_and_solutions_seven_dec24d2a",
+          "label": "bhphotovideo.com/seven-tips-for-photographing-cities-at-night",
+          "url": "https://www.bhphotovideo.com/explora/photography/tips-and-solutions/seven-tips-for-photographing-cities-at-night",
+          "domain": "bhphotovideo.com",
+          "source_file": "raw/scenarios/city_window_reflection.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/city_window_reflection.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_askphotography_comments_1rkm1rm_how_can_i_prevent_133e4237",
+          "label": "reddit.com/how_can_i_prevent_these_reflections_on_the_glass",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1rkm1rm/how_can_i_prevent_these_reflections_on_the_glass/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/city_window_reflection.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_askphotography_comments_1hvpthv_is_there_anyway_t_7741a4fb",
+          "label": "reddit.com/is_there_anyway_to_get_rid_of_the_window",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1hvpthv/is_there_anyway_to_get_rid_of_the_window/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/city_window_reflection.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/city_window_reflection.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/city_window_reflection.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_city_window_reflection",
+        "rec_trend_city_window_reflection",
+        "rec_personalized_city_window_reflection"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_city_window_reflection.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___travelphotographymagazine.com_how_to_photograph_through_glass_60_second_problems",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_neon_light_photography.html",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.bhphotovideo.com_explora_photography_tips_and_solutions_seven_tips_for_photographing_cities_at_night",
+        "evidence_url_https___www.reddit.com_r_askphotography_comments_1hvpthv_is_there_anyway_to_get_rid_of_the_window",
+        "evidence_url_https___www.reddit.com_r_askphotography_comments_1rkm1rm_how_can_i_prevent_these_reflections_on_the_glass"
+      ]
+    },
+    {
+      "scenario_id": "scenario_concert_stage_low_light",
+      "scenario_name": "공연·무대 저조도 — 망원/하이라이트 보호",
+      "source_file": "raw/scenarios/concert_stage_low_light.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_clipping_14b6b034",
+        "concept_detail_c55df269",
+        "concept_fast_shutter_d658a172",
+        "concept_motion_167cd205",
+        "concept_noise_reduction_acd5a2c0",
+        "concept_spotlight_5fc0be9f",
+        "concept_stage_b852d869",
+        "concept_telephoto_3963f2a2",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_concert_stage_low_light_md_b5bba36d",
+        "edit_style_moody_stage_25d7bf9b",
+        "environment_stage_2175eac1",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_google_com_pixelcamera_answer_9708795_hl_en_27241951",
+        "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+        "lens_3x_5x_10x_d58e0075",
+        "light_spotlight_f0be7d8f",
+        "mode_photo_or_pro_b842d14f",
+        "risk_highlight_clipping_2d7055c8",
+        "scenario_concert_stage_low_light_7aa3b650",
+        "scenario_tags_concert_9cd9db43",
+        "scenario_tags_low_light_a82eabdf",
+        "scenario_tags_performance_0309bbb2",
+        "scenario_tags_stage_1a7a76f4",
+        "scenario_tags_telephoto_3a7847c5",
+        "section_raw_scenarios_concert_stage_low_light_md_14727d49",
+        "section_raw_scenarios_concert_stage_low_light_md_30742a4c",
+        "section_raw_scenarios_concert_stage_low_light_md_9dca6443",
+        "section_raw_scenarios_concert_stage_low_light_md_ba360e32",
+        "section_raw_scenarios_concert_stage_low_light_md_d830492d",
+        "section_raw_scenarios_concert_stage_low_light_md_graphify_fd4ff618",
+        "subject_performer_59cd5680"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/concert_stage_low_light.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+          "label": "samsung.com/samsung-night-mode-camera",
+          "url": "https://www.samsung.com/ae/mobile-phone-buying-guide/samsung-night-mode-camera/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/concert_stage_low_light.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/concert_stage_low_light.md"
+        },
+        {
+          "id": "evidence_https_support_google_com_pixelcamera_answer_9708795_hl_en_27241951",
+          "label": "support.google.com/9708795",
+          "url": "https://support.google.com/pixelcamera/answer/9708795?hl=en",
+          "domain": "support.google.com",
+          "source_file": "raw/scenarios/concert_stage_low_light.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_concert_stage_low_light",
+        "rec_trend_concert_stage_low_light",
+        "rec_personalized_concert_stage_low_light"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_concert_stage_low_light.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.google.com_pixelcamera_answer_9708795_hl_en",
+        "evidence_url_https___www.samsung.com_ae_mobile_phone_buying_guide_samsung_night_mode_camera"
+      ]
+    },
+    {
+      "scenario_id": "scenario_crowded_landmark_portrait",
+      "scenario_name": "관광지 랜드마크 인물 — 사람 많은 배경 정리",
+      "source_file": "raw/scenarios/crowded_landmark_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_crowded_landmark_portrait_md_9d6bd6f3",
+        "edit_style_warm_travel_3289e6fa",
+        "environment_crowded_landmark_2b2dea28",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "lens_2x_3x_or_1x_98eaa1c9",
+        "light_daylight_or_golden_hour_524cac9c",
+        "mode_photo_or_portrait_23146ff0",
+        "query_aliases_query_aliases_8ebb1d46",
+        "query_aliases_query_aliases_b196ff47",
+        "query_aliases_query_aliases_b1cd9b59",
+        "query_aliases_query_aliases_c8121d25",
+        "query_aliases_query_aliases_ecfbddd8",
+        "risk_busy_background_1359cede",
+        "risk_scale_lost_a0c9bb3c",
+        "scenario_crowded_landmark_portrait_9b7ad6b0",
+        "scenario_tags_crowd_96373bcc",
+        "scenario_tags_landmark_dec7946a",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_tourist_61458a03",
+        "scenario_tags_travel_2c39531d",
+        "section_raw_scenarios_crowded_landmark_portrait_md_4a2cd0de",
+        "section_raw_scenarios_crowded_landmark_portrait_md_4ddd1c77",
+        "section_raw_scenarios_crowded_landmark_portrait_md_a127af32",
+        "section_raw_scenarios_crowded_landmark_portrait_md_aaeb2895",
+        "section_raw_scenarios_crowded_landmark_portrait_md_bfe3274e",
+        "section_raw_scenarios_crowded_landmark_portrait_md_c3da9881",
+        "section_raw_scenarios_crowded_landmark_portrait_md_ee66817c",
+        "section_raw_scenarios_crowded_landmark_portrait_md_graphify_ca96a928",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/crowded_landmark_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/crowded_landmark_portrait.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+          "label": "blog.google/travel-photography-101-teampixel [cb83a0]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/travel-photography-101-teampixel/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/crowded_landmark_portrait.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/crowded_landmark_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/crowded_landmark_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/crowded_landmark_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/crowded_landmark_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_crowded_landmark_portrait",
+        "rec_trend_crowded_landmark_portrait",
+        "rec_personalized_crowded_landmark_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_crowded_landmark_portrait.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_travel_photography_101_teampixel",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos"
+      ]
+    },
+    {
+      "scenario_id": "scenario_dim_restaurant_food",
+      "scenario_name": "어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기",
+      "source_file": "raw/scenarios/dim_restaurant_food.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_1x_2x_c8fb90b1",
+        "concept_food_mask_1af7e496",
+        "concept_food_texture_2bb1840d",
+        "concept_quality_and_detail_60346d03",
+        "concept_texture_4f5b2c3e",
+        "concept_warm_mixed_light_11c632b2",
+        "concept_window_or_side_light_5ef5f123",
+        "concept_yellow_cast_7858b012",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_dim_restaurant_food_md_023758c3",
+        "edit_style_food_glow_a0d628dc",
+        "environment_dim_restaurant_632df025",
+        "evidence_https_blog_google_products_pixel_four_tips_taking_delectable_food_photos_8d1c31ba",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_helpx_adobe_com_ph_fil_lightroom_cc_how_to_mobile_food_photography_750f1f57",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_time_com_3603028_take_better_food_photos_iphone_3621764b",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_reddit_com_r_foodphotography_comments_1n6jnmx_food_photography_1e67cb92",
+        "evidence_https_www_reddit_com_r_productphotography_comments_1sn1msr_how_to_get_fo_b4f1fff7",
+        "evidence_https_www_samsung_com_us_support_answer_ans10001377_1caa3d94",
+        "lens_1x_2x_a951df28",
+        "light_warm_mixed_indoor_421719fc",
+        "mode_night_or_food_or_photo_8705483e",
+        "query_aliases_query_aliases_3f0c927d",
+        "query_aliases_query_aliases_671800ad",
+        "query_aliases_query_aliases_70ecc1a2",
+        "query_aliases_query_aliases_b848a289",
+        "query_aliases_query_aliases_d019a236",
+        "query_aliases_query_aliases_fcb5f251",
+        "risk_mixed_white_balance_5da6aa88",
+        "risk_motion_blur_b236961e",
+        "scenario_dim_restaurant_food_3790e7c4",
+        "scenario_tags_food_2eb8e941",
+        "scenario_tags_low_light_a82eabdf",
+        "scenario_tags_no_flash_1d00733e",
+        "scenario_tags_restaurant_d9c9bc21",
+        "scenario_tags_white_balance_5f95bc72",
+        "section_raw_scenarios_dim_restaurant_food_md_016a2927",
+        "section_raw_scenarios_dim_restaurant_food_md_2a38df18",
+        "section_raw_scenarios_dim_restaurant_food_md_3b5ce25b",
+        "section_raw_scenarios_dim_restaurant_food_md_74e2079e",
+        "section_raw_scenarios_dim_restaurant_food_md_beebfbe0",
+        "section_raw_scenarios_dim_restaurant_food_md_c7394f59",
+        "section_raw_scenarios_dim_restaurant_food_md_f3e5630f",
+        "section_raw_scenarios_dim_restaurant_food_md_graphify_38aaaa03",
+        "subject_food_643f09b1"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/dim_restaurant_food.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_pixel_four_tips_taking_delectable_food_photos_8d1c31ba",
+          "label": "blog.google/four-tips-taking-delectable-food-photos-pixel-2 [0bb5ae]",
+          "url": "https://blog.google/products/pixel/four-tips-taking-delectable-food-photos-pixel-2/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/dim_restaurant_food.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/dim_restaurant_food.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_ph_fil_lightroom_cc_how_to_mobile_food_photography_750f1f57",
+          "label": "helpx.adobe.com/mobile-food-photography.html",
+          "url": "https://helpx.adobe.com/ph_fil/lightroom-cc/how-to/mobile-food-photography.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/dim_restaurant_food.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_foodphotography_comments_1n6jnmx_food_photography_1e67cb92",
+          "label": "reddit.com/food_photography_tips_on_restaurant_menu",
+          "url": "https://www.reddit.com/r/foodphotography/comments/1n6jnmx/food_photography_tips_on_restaurant_menu/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/dim_restaurant_food.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_productphotography_comments_1sn1msr_how_to_get_fo_b4f1fff7",
+          "label": "reddit.com/how_to_get_foodrestaurant_photos_like_these",
+          "url": "https://www.reddit.com/r/productphotography/comments/1sn1msr/how_to_get_foodrestaurant_photos_like_these/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/dim_restaurant_food.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_support_answer_ans10001377_1caa3d94",
+          "label": "samsung.com/ANS10001377",
+          "url": "https://www.samsung.com/us/support/answer/ANS10001377/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/dim_restaurant_food.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/dim_restaurant_food.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_dim_restaurant_food",
+        "rec_trend_dim_restaurant_food",
+        "rec_personalized_dim_restaurant_food"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_dim_restaurant_food.md",
+        "evidence_url_https___blog.google_products_pixel_four_tips_taking_delectable_food_photos_pixel_2",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___helpx.adobe.com_ph_fil_lightroom_cc_how_to_mobile_food_photography.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___time.com_3603028_take_better_food_photos_iphone",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.reddit.com_r_foodphotography_comments_1n6jnmx_food_photography_tips_on_restaurant_menu",
+        "evidence_url_https___www.reddit.com_r_productphotography_comments_1sn1msr_how_to_get_foodrestaurant_photos_like_these",
+        "evidence_url_https___www.samsung.com_us_support_answer_ans10001377"
+      ]
+    },
+    {
+      "scenario_id": "scenario_fashion_ootd_portrait",
+      "scenario_name": "패션/OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed",
+      "source_file": "raw/scenarios/fashion_ootd_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_2x_lens_3fba38e3",
+        "concept_body_alignment_59f2fd05",
+        "concept_body_distortion_ce459f1e",
+        "concept_grid_2d08004a",
+        "concept_outfit_color_7744a174",
+        "concept_skin_tone_protection_b3fafb82",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_fashion_ootd_portrait_md_c5be0d32",
+        "edit_style_clean_influencer_bff3e1d4",
+        "environment_street_or_cafe_456d5815",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_take_id_photo_goo_2e89259e",
+        "evidence_https_support_apple_com_guide_iphone_take_a_selfie_iph1b88429a6_ios_f4423ab6",
+        "evidence_https_www_adobe_com_express_learn_blog_how_to_take_portrait_photos_with_40e3397f",
+        "evidence_https_www_samsung_com_us_explore_photography_still_life_how_to_capture_y_17868ee7",
+        "lens_2x_or_1x_183aabb3",
+        "mode_portrait_or_photo_3c135db0",
+        "personal_signal_outfit_color_priority_c80a9805",
+        "scenario_fashion_ootd_portrait_ffed1428",
+        "scenario_tags_fashion_ootd_portrait_full_body_instagram_05b973b0",
+        "section_raw_scenarios_fashion_ootd_portrait_md_0264c7f7",
+        "section_raw_scenarios_fashion_ootd_portrait_md_47417eac",
+        "section_raw_scenarios_fashion_ootd_portrait_md_92167041",
+        "section_raw_scenarios_fashion_ootd_portrait_md_aff1ac90",
+        "section_raw_scenarios_fashion_ootd_portrait_md_dfe828a5",
+        "section_raw_scenarios_fashion_ootd_portrait_md_graphify_d22909fe",
+        "subject_fashion_outfit_17eb9660",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_express_learn_blog_how_to_take_portrait_photos_with_40e3397f",
+          "label": "adobe.com/how-to-take-portrait-photos-with-your-phone",
+          "url": "https://www.adobe.com/express/learn/blog/how-to-take-portrait-photos-with-your-phone",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/fashion_ootd_portrait.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_take_id_photo_goo_2e89259e",
+          "label": "blog.google/take-id-photo-google-pixel-tips [8b48ba]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/take-id-photo-google-pixel-tips/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/fashion_ootd_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_explore_photography_still_life_how_to_capture_y_17868ee7",
+          "label": "samsung.com/how-to-capture-your-best-profile-picture",
+          "url": "https://www.samsung.com/us/explore/photography/still-life/how-to-capture-your-best-profile-picture/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/fashion_ootd_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_a_selfie_iph1b88429a6_ios_f4423ab6",
+          "label": "support.apple.com/ios [ad5a3c]",
+          "url": "https://support.apple.com/guide/iphone/take-a-selfie-iph1b88429a6/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/fashion_ootd_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_fashion_ootd_portrait",
+        "rec_trend_fashion_ootd_portrait",
+        "rec_personalized_fashion_ootd_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_fashion_ootd_portrait.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_take_id_photo_google_pixel_tips",
+        "evidence_url_https___support.apple.com_guide_iphone_take_a_selfie_iph1b88429a6_ios",
+        "evidence_url_https___www.adobe.com_express_learn_blog_how_to_take_portrait_photos_with_your_phone",
+        "evidence_url_https___www.samsung.com_us_explore_photography_still_life_how_to_capture_your_best_profile_picture"
+      ]
+    },
+    {
+      "scenario_id": "scenario_fireworks_skyline",
+      "scenario_name": "불꽃놀이와 스카이라인 — 하이라이트 보호/연속 확보",
+      "source_file": "raw/scenarios/fireworks_skyline.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_bright_subject_db4d1a12",
+        "concept_burst_video_baecedb4",
+        "concept_color_cbb272e7",
+        "concept_context_cb8705b9",
+        "concept_fireworks_af45b3bd",
+        "concept_low_iso_768a8ff3",
+        "concept_peak_shape_439b85fe",
+        "concept_wide_lens_d6f89a8f",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_fireworks_skyline_md_eb4a40cc",
+        "environment_night_skyline_edf87c0d",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+        "lens_1x_0_5x_3015ce72",
+        "mode_night_or_pro_3dd0a8ab",
+        "risk_overexposure_2d5c7069",
+        "scenario_fireworks_skyline_00ef8008",
+        "scenario_tags_burst_1af5584d",
+        "scenario_tags_fireworks_411f8c62",
+        "scenario_tags_long_exposure_041c3db2",
+        "scenario_tags_night_aeba8edb",
+        "scenario_tags_skyline_19340008",
+        "section_raw_scenarios_fireworks_skyline_md_01098dd0",
+        "section_raw_scenarios_fireworks_skyline_md_4b3e2840",
+        "section_raw_scenarios_fireworks_skyline_md_8e20e7ee",
+        "section_raw_scenarios_fireworks_skyline_md_bcf1a280",
+        "section_raw_scenarios_fireworks_skyline_md_e4c1f0bb",
+        "section_raw_scenarios_fireworks_skyline_md_graphify_b255601d",
+        "setting_low_iso_2eff2d99",
+        "subject_fireworks_c71bcf30"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/fireworks_skyline.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/fireworks_skyline.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+          "label": "samsung.com/samsung-night-mode-camera",
+          "url": "https://www.samsung.com/ae/mobile-phone-buying-guide/samsung-night-mode-camera/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/fireworks_skyline.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/fireworks_skyline.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_fireworks_skyline",
+        "rec_trend_fireworks_skyline",
+        "rec_personalized_fireworks_skyline"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_fireworks_skyline.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.samsung.com_ae_mobile_phone_buying_guide_samsung_night_mode_camera"
+      ]
+    },
+    {
+      "scenario_id": "scenario_flower_macro_bokeh",
+      "scenario_name": "꽃·잎 매크로 — 질감과 배경 bokeh",
+      "source_file": "raw/scenarios/flower_macro_bokeh.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_background_distance_305dff10",
+        "concept_bokeh_f17f8ade",
+        "concept_color_mix_c3cc185a",
+        "concept_detail_c55df269",
+        "concept_green_c9f106b3",
+        "concept_macro_5025f580",
+        "concept_soft_light_40b931f6",
+        "concept_texture_4f5b2c3e",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_flower_macro_bokeh_md_907a8a0e",
+        "edit_style_detail_bokeh_f0505d6d",
+        "environment_nature_3df591b9",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+        "evidence_https_iphonephotographyschool_com_leaves_3c18f19b",
+        "evidence_https_support_apple_com_en_mz_guide_iphone_iphfaacf2eb0_ios_d43b4b0a",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "lens_ultrawide_macro_or_2x_ce8ed497",
+        "light_soft_side_light_f50ae473",
+        "mode_macro_8abd237e",
+        "scenario_flower_macro_bokeh_5668a73a",
+        "scenario_tags_bokeh_bde54d33",
+        "scenario_tags_flowers_b64963ae",
+        "scenario_tags_leaves_bf18c59b",
+        "scenario_tags_macro_efc6300b",
+        "scenario_tags_nature_3cd4a271",
+        "section_raw_scenarios_flower_macro_bokeh_md_21591097",
+        "section_raw_scenarios_flower_macro_bokeh_md_2c598c81",
+        "section_raw_scenarios_flower_macro_bokeh_md_4b6f8632",
+        "section_raw_scenarios_flower_macro_bokeh_md_63c74d65",
+        "section_raw_scenarios_flower_macro_bokeh_md_7aa7c1d8",
+        "section_raw_scenarios_flower_macro_bokeh_md_graphify_875dcfc8",
+        "subject_flower_or_leaf_6d24e754"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/flower_macro_bokeh.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+          "label": "helpx.adobe.com/masking-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/masking-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/flower_macro_bokeh.md"
+        },
+        {
+          "id": "evidence_https_iphonephotographyschool_com_leaves_3c18f19b",
+          "label": "iphonephotographyschool.com/leaves",
+          "url": "https://iphonephotographyschool.com/leaves/",
+          "domain": "iphonephotographyschool.com",
+          "source_file": "raw/scenarios/flower_macro_bokeh.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/flower_macro_bokeh.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_mz_guide_iphone_iphfaacf2eb0_ios_d43b4b0a",
+          "label": "support.apple.com/ios [0cb978]",
+          "url": "https://support.apple.com/en-mz/guide/iphone/iphfaacf2eb0/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/flower_macro_bokeh.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_flower_macro_bokeh",
+        "rec_trend_flower_macro_bokeh",
+        "rec_personalized_flower_macro_bokeh"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_flower_macro_bokeh.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_masking_mobile_ios.html",
+        "evidence_url_https___iphonephotographyschool.com_leaves",
+        "evidence_url_https___support.apple.com_en_mz_guide_iphone_iphfaacf2eb0_ios",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos"
+      ]
+    },
+    {
+      "scenario_id": "scenario_golden_hour_travel_scale",
+      "scenario_name": "여행 골든아워 — wide/detail/scale 3컷 추천",
+      "source_file": "raw/scenarios/golden_hour_travel_scale.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_detail_shot_b0f9a936",
+        "concept_golden_hour_053f34a5",
+        "concept_location_3511c698",
+        "concept_memory_abe7c122",
+        "concept_scale_subject_39dd70c1",
+        "concept_size_b73483bc",
+        "concept_skin_ab6be1a4",
+        "concept_wide_shot_65bc3a72",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_golden_hour_travel_scale_md_89f168ac",
+        "edit_style_warm_travel_3289e6fa",
+        "environment_landmark_d8ec9bec",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "lens_0_5x_1x_2x_5x_77bad07a",
+        "light_golden_hour_f53234df",
+        "scenario_golden_hour_travel_scale_c14c49cc",
+        "scenario_tags_golden_hour_edbd4a4f",
+        "scenario_tags_landscape_c7025915",
+        "scenario_tags_scale_d485a85c",
+        "scenario_tags_storytelling_9cc4d2c0",
+        "scenario_tags_travel_2c39531d",
+        "section_raw_scenarios_golden_hour_travel_scale_md_254ad663",
+        "section_raw_scenarios_golden_hour_travel_scale_md_2ff24d25",
+        "section_raw_scenarios_golden_hour_travel_scale_md_3de3e846",
+        "section_raw_scenarios_golden_hour_travel_scale_md_d9af0f7b",
+        "section_raw_scenarios_golden_hour_travel_scale_md_e2a88215",
+        "section_raw_scenarios_golden_hour_travel_scale_md_graphify_e3984109",
+        "shot_set_wide_detail_scale_b0482968",
+        "subject_traveler_1acc03b5"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/golden_hour_travel_scale.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+          "label": "blog.google/travel-photography-101-teampixel [cb83a0]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/travel-photography-101-teampixel/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/golden_hour_travel_scale.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/golden_hour_travel_scale.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/golden_hour_travel_scale.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_golden_hour_travel_scale",
+        "rec_trend_golden_hour_travel_scale",
+        "rec_personalized_golden_hour_travel_scale"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_golden_hour_travel_scale.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_travel_photography_101_teampixel",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos"
+      ]
+    },
+    {
+      "scenario_id": "scenario_group_travel_selfie",
+      "scenario_name": "단체 여행 셀피/그룹샷 — 얼굴 왜곡 줄이기",
+      "source_file": "raw/scenarios/group_travel_selfie.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "composition_face_center_8b4bd7d1",
+        "concept_edge_distortion_42fb9b80",
+        "concept_faces_823e51a0",
+        "concept_group_9c53cde6",
+        "concept_landmark_context_a3d79a07",
+        "concept_stability_b1801583",
+        "concept_story_cdd45f48",
+        "concept_timer_22f59979",
+        "concept_ultrawide_ff2df28f",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_group_travel_selfie_md_60cd34ff",
+        "environment_travel_landmark_5fb7d746",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+        "evidence_https_blog_google_products_pixel_pixel_group_photo_features_ai_f356ba22",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_guide_iphone_take_a_selfie_iph1b88429a6_ios_f4423ab6",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "evidence_https_www_samsung_com_us_support_answer_ans10004858_b008c031",
+        "lens_0_5x_1x_front_b94b75b7",
+        "mode_selfie_or_timer_419b382c",
+        "risk_edge_distortion_7b001432",
+        "scenario_group_travel_selfie_7d6a4c57",
+        "scenario_tags_group_d291e215",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_selfie_a9a1ecb4",
+        "scenario_tags_travel_2c39531d",
+        "scenario_tags_wide_088e2f81",
+        "section_raw_scenarios_group_travel_selfie_md_0bb1d5fa",
+        "section_raw_scenarios_group_travel_selfie_md_0c5eb223",
+        "section_raw_scenarios_group_travel_selfie_md_133bd126",
+        "section_raw_scenarios_group_travel_selfie_md_3c6c21b7",
+        "section_raw_scenarios_group_travel_selfie_md_6d14df4c",
+        "section_raw_scenarios_group_travel_selfie_md_graphify_df843442",
+        "subject_group_58b014fa"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_blog_google_products_pixel_pixel_group_photo_features_ai_f356ba22",
+          "label": "blog.google/pixel-group-photo-features-ai",
+          "url": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/group_travel_selfie.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+          "label": "blog.google/travel-photography-101-teampixel [cb83a0]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/travel-photography-101-teampixel/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/group_travel_selfie.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/group_travel_selfie.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/group_travel_selfie.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_support_answer_ans10004858_b008c031",
+          "label": "samsung.com/ANS10004858",
+          "url": "https://www.samsung.com/us/support/answer/ANS10004858/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/group_travel_selfie.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/group_travel_selfie.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_a_selfie_iph1b88429a6_ios_f4423ab6",
+          "label": "support.apple.com/ios [ad5a3c]",
+          "url": "https://support.apple.com/guide/iphone/take-a-selfie-iph1b88429a6/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/group_travel_selfie.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_group_travel_selfie",
+        "rec_trend_group_travel_selfie",
+        "rec_personalized_group_travel_selfie"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_group_travel_selfie.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_travel_photography_101_teampixel",
+        "evidence_url_https___blog.google_products_pixel_pixel_group_photo_features_ai",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_guide_iphone_take_a_selfie_iph1b88429a6_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos",
+        "evidence_url_https___www.samsung.com_us_support_answer_ans10004858"
+      ]
+    },
+    {
+      "scenario_id": "scenario_harsh_noon_beach_portrait",
+      "scenario_name": "한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기",
+      "source_file": "raw/scenarios/harsh_noon_beach_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_2x_portrait_11d39e39",
+        "concept_distortion_067071a9",
+        "concept_face_61c4a376",
+        "concept_face_shadow_b7ada5a6",
+        "concept_harsh_sun_e3334502",
+        "concept_highlights_2ab8da31",
+        "concept_sky_mask_bb5a4160",
+        "concept_subject_mask_edaa8b65",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_harsh_noon_beach_portrait_md_9e9d9570",
+        "edit_style_bright_blue_travel_25e760fc",
+        "environment_noon_beach_feb71e4d",
+        "evidence_https_blog_adobe_com_en_publish_2022_10_27_beach_photography_tips_techni_bd4532a1",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_portrait_lighting_f9abd498",
+        "evidence_https_www_adobe_com_creativecloud_photography_technique_golden_hour_html_46c818d2",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "lens_1x_2x_portrait_4d4280c8",
+        "light_harsh_overhead_sun_d63cb719",
+        "mode_photo_or_portrait_23146ff0",
+        "query_aliases_query_aliases_30dc6a00",
+        "query_aliases_query_aliases_74fe2e7f",
+        "query_aliases_query_aliases_758400aa",
+        "query_aliases_query_aliases_a597b596",
+        "query_aliases_query_aliases_c4e998a6",
+        "query_aliases_query_aliases_cb63af0b",
+        "risk_blown_highlights_a6cf7296",
+        "risk_harsh_shadow_37651349",
+        "scenario_harsh_noon_beach_portrait_fb6bbc82",
+        "scenario_tags_beach_21b1fd9f",
+        "scenario_tags_harsh_sun_2bc3fc25",
+        "scenario_tags_noon_26888126",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_shadow_ab22c919",
+        "scenario_tags_sky_7da809ba",
+        "section_raw_scenarios_harsh_noon_beach_portrait_md_0a72d0bb",
+        "section_raw_scenarios_harsh_noon_beach_portrait_md_20cd8e69",
+        "section_raw_scenarios_harsh_noon_beach_portrait_md_24858664",
+        "section_raw_scenarios_harsh_noon_beach_portrait_md_2fcc5197",
+        "section_raw_scenarios_harsh_noon_beach_portrait_md_8ca132d8",
+        "section_raw_scenarios_harsh_noon_beach_portrait_md_a170c0e0",
+        "section_raw_scenarios_harsh_noon_beach_portrait_md_e5518e12",
+        "section_raw_scenarios_harsh_noon_beach_portrait_md_graphify_ea9aa992",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/harsh_noon_beach_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_technique_golden_hour_html_46c818d2",
+          "label": "adobe.com/golden-hour.html",
+          "url": "https://www.adobe.com/creativecloud/photography/technique/golden-hour.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/harsh_noon_beach_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_portrait_lighting_f9abd498",
+          "label": "adobe.com/portrait-lighting.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/harsh_noon_beach_portrait.md"
+        },
+        {
+          "id": "evidence_https_blog_adobe_com_en_publish_2022_10_27_beach_photography_tips_techni_bd4532a1",
+          "label": "blog.adobe.com/beach-photography-tips-techniques",
+          "url": "https://blog.adobe.com/en/publish/2022/10/27/beach-photography-tips-techniques",
+          "domain": "blog.adobe.com",
+          "source_file": "raw/scenarios/harsh_noon_beach_portrait.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+          "label": "blog.google/travel-photography-101-teampixel [cb83a0]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/travel-photography-101-teampixel/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/harsh_noon_beach_portrait.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/harsh_noon_beach_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/harsh_noon_beach_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/harsh_noon_beach_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_harsh_noon_beach_portrait",
+        "rec_trend_harsh_noon_beach_portrait",
+        "rec_personalized_harsh_noon_beach_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_harsh_noon_beach_portrait.md",
+        "evidence_url_https___blog.adobe.com_en_publish_2022_10_27_beach_photography_tips_techniques",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_travel_photography_101_teampixel",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_portrait_lighting.html",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_technique_golden_hour.html",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment"
+      ]
+    },
+    {
+      "scenario_id": "scenario_indoor_party_group",
+      "scenario_name": "실내 생일파티·모임 단체사진 — 어두운 실내와 움직임",
+      "source_file": "raw/scenarios/indoor_party_group.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_indoor_party_group_md_122ec8df",
+        "edit_style_warm_documentary_251322a9",
+        "environment_indoor_party_2b8edd03",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_take_holiday_phot_60cc1dc9",
+        "evidence_https_blog_google_products_pixel_pixel_group_photo_features_ai_f356ba22",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+        "lens_1x_or_0_5x_fd976354",
+        "light_warm_low_light_74a5bb60",
+        "mode_photo_or_night_short_277f6b20",
+        "query_aliases_query_aliases_65914b59",
+        "query_aliases_query_aliases_78726ffc",
+        "query_aliases_query_aliases_7d80931e",
+        "query_aliases_query_aliases_d95d0f96",
+        "query_aliases_query_aliases_f866498e",
+        "risk_mixed_white_balance_5da6aa88",
+        "risk_motion_blur_b236961e",
+        "scenario_indoor_party_group_e0eb4137",
+        "scenario_tags_birthday_2db58dc7",
+        "scenario_tags_group_d291e215",
+        "scenario_tags_indoor_7f25e4d2",
+        "scenario_tags_low_light_a82eabdf",
+        "scenario_tags_motion_0cee5226",
+        "scenario_tags_party_a396b401",
+        "section_raw_scenarios_indoor_party_group_md_09ecf213",
+        "section_raw_scenarios_indoor_party_group_md_49de1675",
+        "section_raw_scenarios_indoor_party_group_md_76b91c48",
+        "section_raw_scenarios_indoor_party_group_md_76f69b02",
+        "section_raw_scenarios_indoor_party_group_md_b805c415",
+        "section_raw_scenarios_indoor_party_group_md_bffff51b",
+        "section_raw_scenarios_indoor_party_group_md_f5d72a9c",
+        "section_raw_scenarios_indoor_party_group_md_graphify_9584d7bb",
+        "subject_group_58b014fa"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/indoor_party_group.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_pixel_pixel_group_photo_features_ai_f356ba22",
+          "label": "blog.google/pixel-group-photo-features-ai",
+          "url": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/indoor_party_group.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_take_holiday_phot_60cc1dc9",
+          "label": "blog.google/take-holiday-photos-night-sight-portrait-mode",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/take-holiday-photos-night-sight-portrait-mode/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/indoor_party_group.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/indoor_party_group.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+          "label": "samsung.com/samsung-night-mode-camera",
+          "url": "https://www.samsung.com/ae/mobile-phone-buying-guide/samsung-night-mode-camera/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/indoor_party_group.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/indoor_party_group.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/indoor_party_group.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_indoor_party_group",
+        "rec_trend_indoor_party_group",
+        "rec_personalized_indoor_party_group"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_indoor_party_group.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_take_holiday_photos_night_sight_portrait_mode",
+        "evidence_url_https___blog.google_products_pixel_pixel_group_photo_features_ai",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.samsung.com_ae_mobile_phone_buying_guide_samsung_night_mode_camera"
+      ]
+    },
+    {
+      "scenario_id": "scenario_marketplace_street_food_story",
+      "scenario_name": "시장·길거리 음식 스토리 — 사람/손/음식/장소 묶기",
+      "source_file": "raw/scenarios/marketplace_street_food_story.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_2x_d69ea584",
+        "concept_consistent_wb_b0e37e0c",
+        "concept_human_hands_2502ea88",
+        "concept_place_828dda30",
+        "concept_series_11baea65",
+        "concept_story_cdd45f48",
+        "concept_texture_4f5b2c3e",
+        "concept_wide_shot_65bc3a72",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_marketplace_street_food_story_md_b7f1218c",
+        "edit_style_warm_documentary_251322a9",
+        "environment_market_d11a5ece",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_four_tips_taking_1963ae95",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_iphonephotographyschool_com_food_cf5bfcc6",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_nationalgeographic_com_photography_article_people_quick_tips_d8902316",
+        "human_element_hands_vendor_7e42d991",
+        "lens_1x_2x_a951df28",
+        "scenario_marketplace_street_food_story_eadf88ae",
+        "scenario_tags_documentary_c0dd8d78",
+        "scenario_tags_food_2eb8e941",
+        "scenario_tags_market_dd692f2c",
+        "scenario_tags_story_8647e061",
+        "scenario_tags_street_food_7575ef66",
+        "scenario_tags_travel_2c39531d",
+        "section_raw_scenarios_marketplace_street_food_story_md_0ffa3b23",
+        "section_raw_scenarios_marketplace_street_food_story_md_3a750071",
+        "section_raw_scenarios_marketplace_street_food_story_md_508fc798",
+        "section_raw_scenarios_marketplace_street_food_story_md_91335e74",
+        "section_raw_scenarios_marketplace_street_food_story_md_a82fff7a",
+        "section_raw_scenarios_marketplace_street_food_story_md_graphify_4be87e26",
+        "shot_set_wide_detail_human_a9bad799",
+        "subject_street_food_21def581"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/marketplace_street_food_story.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_four_tips_taking_1963ae95",
+          "label": "blog.google/four-tips-taking-delectable-food-photos-pixel-2 [c5cce1]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/four-tips-taking-delectable-food-photos-pixel-2/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/marketplace_street_food_story.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/marketplace_street_food_story.md"
+        },
+        {
+          "id": "evidence_https_iphonephotographyschool_com_food_cf5bfcc6",
+          "label": "iphonephotographyschool.com/food",
+          "url": "https://iphonephotographyschool.com/food/",
+          "domain": "iphonephotographyschool.com",
+          "source_file": "raw/scenarios/marketplace_street_food_story.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_people_quick_tips_d8902316",
+          "label": "nationalgeographic.com/people-quick-tips",
+          "url": "https://www.nationalgeographic.com/photography/article/people-quick-tips",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/marketplace_street_food_story.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_marketplace_street_food_story",
+        "rec_trend_marketplace_street_food_story",
+        "rec_personalized_marketplace_street_food_story"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_marketplace_street_food_story.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_four_tips_taking_delectable_food_photos_pixel_2",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___iphonephotographyschool.com_food",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_people_quick_tips"
+      ]
+    },
+    {
+      "scenario_id": "scenario_mirror_selfie_ootd",
+      "scenario_name": "거울 셀카 OOTD — 몸 비율과 거울 반사 정리",
+      "source_file": "raw/scenarios/mirror_selfie_ootd.md",
+      "source_node_ids": [
+        "camera_front_or_rear_camera_e3dfd671",
+        "category_scenarios_44716381",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_mirror_selfie_ootd_md_dd28e37b",
+        "edit_style_clean_influencer_bff3e1d4",
+        "environment_mirror_indoor_770581e5",
+        "evidence_https_blog_google_products_pixel_frame_10_tips_getting_great_portraits_p_fe0b37dc",
+        "evidence_https_blog_google_products_pixel_take_id_photo_google_pixel_tips_33f0394e",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_makeuseof_com_mirror_selfie_poses_23710a29",
+        "evidence_https_www_reddit_com_r_femalefashionadvice_comments_2iupe5_taking_outfit_37d41ce8",
+        "evidence_https_www_reddit_com_r_mtf_comments_nnzr6s_its_not_you_its_your_camera_p_435de69c",
+        "lens_1x_2x_a951df28",
+        "query_aliases_ootd_35c38d4b",
+        "query_aliases_query_aliases_1103c906",
+        "query_aliases_query_aliases_3e7dc224",
+        "query_aliases_query_aliases_a62dfa6e",
+        "query_aliases_query_aliases_d05f0066",
+        "query_aliases_query_aliases_ddaa58ff",
+        "risk_dirty_mirror_78e45fb8",
+        "risk_mirror_distortion_eda0fd57",
+        "scenario_mirror_selfie_ootd_7f93a28c",
+        "scenario_tags_body_alignment_ea439e90",
+        "scenario_tags_fashion_0b0c65f7",
+        "scenario_tags_indoor_7f25e4d2",
+        "scenario_tags_mirror_selfie_9d57b30b",
+        "scenario_tags_ootd_c97729d4",
+        "section_raw_scenarios_mirror_selfie_ootd_md_7cab242c",
+        "section_raw_scenarios_mirror_selfie_ootd_md_7d3b01e1",
+        "section_raw_scenarios_mirror_selfie_ootd_md_817303d4",
+        "section_raw_scenarios_mirror_selfie_ootd_md_9480e963",
+        "section_raw_scenarios_mirror_selfie_ootd_md_aa2a06cd",
+        "section_raw_scenarios_mirror_selfie_ootd_md_decc0fee",
+        "section_raw_scenarios_mirror_selfie_ootd_md_fdb476cb",
+        "section_raw_scenarios_mirror_selfie_ootd_md_graphify_fa5f7a6f",
+        "subject_fashion_outfit_17eb9660",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/mirror_selfie_ootd.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_pixel_frame_10_tips_getting_great_portraits_p_fe0b37dc",
+          "label": "blog.google/frame-10-tips-getting-great-portraits-pixel-2",
+          "url": "https://blog.google/products/pixel/frame-10-tips-getting-great-portraits-pixel-2/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/mirror_selfie_ootd.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_pixel_take_id_photo_google_pixel_tips_33f0394e",
+          "label": "blog.google/take-id-photo-google-pixel-tips [396574]",
+          "url": "https://blog.google/products/pixel/take-id-photo-google-pixel-tips/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/mirror_selfie_ootd.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/mirror_selfie_ootd.md"
+        },
+        {
+          "id": "evidence_https_www_makeuseof_com_mirror_selfie_poses_23710a29",
+          "label": "makeuseof.com/mirror-selfie-poses",
+          "url": "https://www.makeuseof.com/mirror-selfie-poses/",
+          "domain": "makeuseof.com",
+          "source_file": "raw/scenarios/mirror_selfie_ootd.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_mtf_comments_nnzr6s_its_not_you_its_your_camera_p_435de69c",
+          "label": "reddit.com/its_not_you_its_your_camera_photography_tips_for",
+          "url": "https://www.reddit.com/r/MtF/comments/nnzr6s/its_not_you_its_your_camera_photography_tips_for/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/mirror_selfie_ootd.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_femalefashionadvice_comments_2iupe5_taking_outfit_37d41ce8",
+          "label": "reddit.com/taking_outfit_photos_with_your_phone",
+          "url": "https://www.reddit.com/r/femalefashionadvice/comments/2iupe5/taking_outfit_photos_with_your_phone/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/mirror_selfie_ootd.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/mirror_selfie_ootd.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_mirror_selfie_ootd",
+        "rec_trend_mirror_selfie_ootd",
+        "rec_personalized_mirror_selfie_ootd"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_mirror_selfie_ootd.md",
+        "evidence_url_https___blog.google_products_pixel_frame_10_tips_getting_great_portraits_pixel_2",
+        "evidence_url_https___blog.google_products_pixel_take_id_photo_google_pixel_tips",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.makeuseof.com_mirror_selfie_poses",
+        "evidence_url_https___www.reddit.com_r_femalefashionadvice_comments_2iupe5_taking_outfit_photos_with_your_phone",
+        "evidence_url_https___www.reddit.com_r_mtf_comments_nnzr6s_its_not_you_its_your_camera_photography_tips_for"
+      ]
+    },
+    {
+      "scenario_id": "scenario_museum_gallery_portrait",
+      "scenario_name": "미술관·전시회 인물 — 플래시 없이 차분하게",
+      "source_file": "raw/scenarios/museum_gallery_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_museum_gallery_portrait_md_652cd9de",
+        "edit_style_minimal_clean_2aac6a1e",
+        "environment_museum_gallery_61d592dc",
+        "evidence_https_assets_rafmuseum_org_uk_app_uploads_2023_08_photography_resources_785d80f1",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_take_holiday_phot_60cc1dc9",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_lifepixel_com_photo_tutorials_6_tips_photographing_museums_gal_78de8f97",
+        "evidence_https_www_reddit_com_r_photography_comments_1llhctf_problems_with_reflec_9ac7fda7",
+        "lens_1x_2x_a951df28",
+        "light_mixed_gallery_spotlight_6052a0ed",
+        "mode_photo_or_portrait_23146ff0",
+        "query_aliases_query_aliases_2e28012c",
+        "query_aliases_query_aliases_4b109c8f",
+        "query_aliases_query_aliases_90e1f4df",
+        "query_aliases_query_aliases_b9402196",
+        "query_aliases_query_aliases_d7fd8670",
+        "query_aliases_query_aliases_fb589831",
+        "risk_busy_background_1359cede",
+        "risk_mixed_white_balance_5da6aa88",
+        "scenario_museum_gallery_portrait_bce14098",
+        "scenario_tags_gallery_2edbf536",
+        "scenario_tags_indoor_7f25e4d2",
+        "scenario_tags_mixed_light_0117a726",
+        "scenario_tags_museum_dd2c1f05",
+        "scenario_tags_no_flash_1d00733e",
+        "scenario_tags_portrait_1b2b2a64",
+        "section_raw_scenarios_museum_gallery_portrait_md_113c800b",
+        "section_raw_scenarios_museum_gallery_portrait_md_1d89fe76",
+        "section_raw_scenarios_museum_gallery_portrait_md_37b8a674",
+        "section_raw_scenarios_museum_gallery_portrait_md_87fdc5d1",
+        "section_raw_scenarios_museum_gallery_portrait_md_a5bcf654",
+        "section_raw_scenarios_museum_gallery_portrait_md_c06144c1",
+        "section_raw_scenarios_museum_gallery_portrait_md_c13ae5de",
+        "section_raw_scenarios_museum_gallery_portrait_md_graphify_92e945a9",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/museum_gallery_portrait.md"
+        },
+        {
+          "id": "evidence_https_assets_rafmuseum_org_uk_app_uploads_2023_08_photography_resources_785d80f1",
+          "label": "assets.rafmuseum.org.uk/Photography-Resources.pdf",
+          "url": "https://assets.rafmuseum.org.uk/app/uploads/2023/08/Photography-Resources.pdf",
+          "domain": "assets.rafmuseum.org.uk",
+          "source_file": "raw/scenarios/museum_gallery_portrait.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_take_holiday_phot_60cc1dc9",
+          "label": "blog.google/take-holiday-photos-night-sight-portrait-mode",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/take-holiday-photos-night-sight-portrait-mode/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/museum_gallery_portrait.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/museum_gallery_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_lifepixel_com_photo_tutorials_6_tips_photographing_museums_gal_78de8f97",
+          "label": "lifepixel.com/6-tips-photographing-museums-galleries",
+          "url": "https://www.lifepixel.com/photo-tutorials/6-tips-photographing-museums-galleries",
+          "domain": "lifepixel.com",
+          "source_file": "raw/scenarios/museum_gallery_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_photography_comments_1llhctf_problems_with_reflec_9ac7fda7",
+          "label": "reddit.com/problems_with_reflections_in_the_glass_while",
+          "url": "https://www.reddit.com/r/photography/comments/1llhctf/problems_with_reflections_in_the_glass_while/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/museum_gallery_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/museum_gallery_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/museum_gallery_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_museum_gallery_portrait",
+        "rec_trend_museum_gallery_portrait",
+        "rec_personalized_museum_gallery_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_museum_gallery_portrait.md",
+        "evidence_url_https___assets.rafmuseum.org.uk_app_uploads_2023_08_photography_resources.pdf",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_take_holiday_photos_night_sight_portrait_mode",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.lifepixel.com_photo_tutorials_6_tips_photographing_museums_galleries",
+        "evidence_url_https___www.reddit.com_r_photography_comments_1llhctf_problems_with_reflections_in_the_glass_while"
+      ]
+    },
+    {
+      "scenario_id": "scenario_pets_children_action",
+      "scenario_name": "아이·반려동물 액션 — 순간 포착/연사/짧은 영상",
+      "source_file": "raw/scenarios/pets_children_action.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_blur_83169211",
+        "concept_bright_light_cea8b253",
+        "concept_burst_76c4293d",
+        "concept_expression_9116844f",
+        "concept_eye_focus_1799e1fd",
+        "concept_fast_motion_8d1518cf",
+        "concept_satisfaction_4bc7ec76",
+        "concept_short_shutter_01c5b976",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_pets_children_action_md_99e80b4e",
+        "edit_style_clear_action_fd06d14b",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+        "evidence_https_blog_google_products_pixel_pet_photography_tips_eb8b20ce",
+        "evidence_https_support_apple_com_guide_iphone_take_burst_mode_shots_ipha42c55cd0_f2e09b34",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "evidence_https_www_samsung_com_us_explore_photography_how_to_nail_pet_photography_14ad4b3b",
+        "evidence_https_www_samsung_com_us_explore_photography_how_to_pull_off_the_perfect_40c0c410",
+        "lens_1x_2x_a951df28",
+        "light_bright_natural_aea10d99",
+        "mode_burst_live_video_3c0215f9",
+        "motion_fast_50d0e33e",
+        "scenario_pets_children_action_acc1b8a8",
+        "scenario_tags_action_3249a813",
+        "scenario_tags_burst_1af5584d",
+        "scenario_tags_kids_5413e8d0",
+        "scenario_tags_live_photo_d7b54d60",
+        "scenario_tags_outdoor_f07e2ef1",
+        "scenario_tags_pets_8050c090",
+        "section_raw_scenarios_pets_children_action_md_073b3913",
+        "section_raw_scenarios_pets_children_action_md_1f9628c1",
+        "section_raw_scenarios_pets_children_action_md_6ea1eadc",
+        "section_raw_scenarios_pets_children_action_md_8fc7270e",
+        "section_raw_scenarios_pets_children_action_md_dc3a8eea",
+        "section_raw_scenarios_pets_children_action_md_graphify_e887d68e",
+        "subject_kids_or_pets_da87cb83"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/pets_children_action.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_pixel_pet_photography_tips_eb8b20ce",
+          "label": "blog.google/pet-photography-tips",
+          "url": "https://blog.google/products/pixel/pet-photography-tips/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/pets_children_action.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_travel_photograph_7c6727ca",
+          "label": "blog.google/travel-photography-101-teampixel [cb83a0]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/travel-photography-101-teampixel/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/pets_children_action.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/pets_children_action.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_explore_photography_how_to_nail_pet_photography_14ad4b3b",
+          "label": "samsung.com/how-to-nail-pet-photography-in-minutes",
+          "url": "https://www.samsung.com/us/explore/photography/how-to-nail-pet-photography-in-minutes/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/pets_children_action.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_explore_photography_how_to_pull_off_the_perfect_40c0c410",
+          "label": "samsung.com/how-to-pull-off-the-perfect-fall-photoshoot",
+          "url": "https://www.samsung.com/us/explore/photography/how-to-pull-off-the-perfect-fall-photoshoot/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/pets_children_action.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_burst_mode_shots_ipha42c55cd0_f2e09b34",
+          "label": "support.apple.com/26",
+          "url": "https://support.apple.com/guide/iphone/take-burst-mode-shots-ipha42c55cd0/26/ios/26",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/pets_children_action.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_pets_children_action",
+        "rec_trend_pets_children_action",
+        "rec_personalized_pets_children_action"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_pets_children_action.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_travel_photography_101_teampixel",
+        "evidence_url_https___blog.google_products_pixel_pet_photography_tips",
+        "evidence_url_https___support.apple.com_guide_iphone_take_burst_mode_shots_ipha42c55cd0_26_ios_26",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos",
+        "evidence_url_https___www.samsung.com_us_explore_photography_how_to_nail_pet_photography_in_minutes",
+        "evidence_url_https___www.samsung.com_us_explore_photography_how_to_pull_off_the_perfect_fall_photoshoot"
+      ]
+    },
+    {
+      "scenario_id": "scenario_rain_neon_street_portrait",
+      "scenario_name": "비 오는 밤 네온 거리 인물 — moody city look",
+      "source_file": "raw/scenarios/rain_neon_street_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_color_cast_5da38ea7",
+        "concept_exposure_time_a76a508d",
+        "concept_neon_light_19c43f82",
+        "concept_night_mode_bb5ede5f",
+        "concept_reflection_0b50c905",
+        "concept_skin_tone_67b374da",
+        "concept_subject_mask_edaa8b65",
+        "concept_wet_ground_70457727",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_rain_neon_street_portrait_md_c4924206",
+        "edit_style_moody_cinematic_603264fd",
+        "environment_rain_neon_street_c32b163e",
+        "evidence_https_business_adobe_com_resources_creative_trends_report_html_ac268e94",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_google_com_pixelcamera_answer_9708795_hl_en_27241951",
+        "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+        "lens_1x_2x_a951df28",
+        "light_neon_backlight_7673cf8f",
+        "mode_night_or_portrait_38db15d7",
+        "risk_motion_blur_b236961e",
+        "scenario_rain_neon_street_portrait_5779a2e6",
+        "scenario_tags_moody_eb582f6f",
+        "scenario_tags_neon_9508b761",
+        "scenario_tags_night_aeba8edb",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_rain_1506d000",
+        "scenario_tags_reflection_9fc83b12",
+        "scenario_tags_street_1f98d15b",
+        "section_raw_scenarios_rain_neon_street_portrait_md_4c60d67f",
+        "section_raw_scenarios_rain_neon_street_portrait_md_7760abb1",
+        "section_raw_scenarios_rain_neon_street_portrait_md_8a9d49b9",
+        "section_raw_scenarios_rain_neon_street_portrait_md_d7c03a3f",
+        "section_raw_scenarios_rain_neon_street_portrait_md_da1fb774",
+        "section_raw_scenarios_rain_neon_street_portrait_md_graphify_5073e922",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_business_adobe_com_resources_creative_trends_report_html_ac268e94",
+          "label": "business.adobe.com/creative-trends-report.html",
+          "url": "https://business.adobe.com/resources/creative-trends-report.html",
+          "domain": "business.adobe.com",
+          "source_file": "raw/scenarios/rain_neon_street_portrait.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/rain_neon_street_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_ae_mobile_phone_buying_guide_samsung_night_mode_ca_f88ffa2a",
+          "label": "samsung.com/samsung-night-mode-camera",
+          "url": "https://www.samsung.com/ae/mobile-phone-buying-guide/samsung-night-mode-camera/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/rain_neon_street_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/rain_neon_street_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_google_com_pixelcamera_answer_9708795_hl_en_27241951",
+          "label": "support.google.com/9708795",
+          "url": "https://support.google.com/pixelcamera/answer/9708795?hl=en",
+          "domain": "support.google.com",
+          "source_file": "raw/scenarios/rain_neon_street_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_rain_neon_street_portrait",
+        "rec_trend_rain_neon_street_portrait",
+        "rec_personalized_rain_neon_street_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_rain_neon_street_portrait.md",
+        "evidence_url_https___business.adobe.com_resources_creative_trends_report.html",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.google.com_pixelcamera_answer_9708795_hl_en",
+        "evidence_url_https___www.samsung.com_ae_mobile_phone_buying_guide_samsung_night_mode_camera"
+      ]
+    },
+    {
+      "scenario_id": "scenario_reflection_mirror_puddle_prism",
+      "scenario_name": "거울·웅덩이·프리즘 반사 — 창의적 SNS 컷",
+      "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_light_leak_da191eb7",
+        "concept_low_angle_375d6bf3",
+        "concept_prism_cb9aaca5",
+        "concept_puddle_02b99695",
+        "concept_reflection_0b50c905",
+        "concept_subject_e306c150",
+        "concept_symmetry_e8319a77",
+        "concept_visual_interest_0e410830",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_reflection_mirror_puddle_prism_md_784a4d2e",
+        "edit_style_creative_reflection_d2c3a5d2",
+        "environment_urban_or_nature_ce9ba00a",
+        "evidence_https_business_adobe_com_resources_creative_trends_report_html_ac268e94",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_samsung_com_us_explore_photography_creative_photography_tricks_386139c8",
+        "lens_0_5x_1x_2x_1c081b86",
+        "prop_mirror_prism_puddle_07201db8",
+        "scenario_reflection_mirror_puddle_prism_b1907b25",
+        "scenario_tags_creative_e51c4026",
+        "scenario_tags_mirror_f9b0c79c",
+        "scenario_tags_prism_d6d0e127",
+        "scenario_tags_puddle_55e1f3f0",
+        "scenario_tags_reflection_9fc83b12",
+        "scenario_tags_sns_e98b46bd",
+        "section_raw_scenarios_reflection_mirror_puddle_prism_md_18852938",
+        "section_raw_scenarios_reflection_mirror_puddle_prism_md_b74417a9",
+        "section_raw_scenarios_reflection_mirror_puddle_prism_md_c91f952d",
+        "section_raw_scenarios_reflection_mirror_puddle_prism_md_d88eadd5",
+        "section_raw_scenarios_reflection_mirror_puddle_prism_md_eb9c2735",
+        "section_raw_scenarios_reflection_mirror_puddle_prism_md_graphify_1b1c50a8",
+        "subject_person_or_city_abf2db91",
+        "trend_signal_playful_visual_hook_d72d84c6"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md"
+        },
+        {
+          "id": "evidence_https_business_adobe_com_resources_creative_trends_report_html_ac268e94",
+          "label": "business.adobe.com/creative-trends-report.html",
+          "url": "https://business.adobe.com/resources/creative-trends-report.html",
+          "domain": "business.adobe.com",
+          "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+          "label": "helpx.adobe.com/masking-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/masking-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_explore_photography_creative_photography_tricks_386139c8",
+          "label": "samsung.com/creative-photography-tricks-thatll-get-you-all-the-likes",
+          "url": "https://www.samsung.com/us/explore/photography/creative-photography-tricks-thatll-get-you-all-the-likes/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/reflection_mirror_puddle_prism.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_reflection_mirror_puddle_prism",
+        "rec_trend_reflection_mirror_puddle_prism",
+        "rec_personalized_reflection_mirror_puddle_prism"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_reflection_mirror_puddle_prism.md",
+        "evidence_url_https___business.adobe.com_resources_creative_trends_report.html",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_masking_mobile_ios.html",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.samsung.com_us_explore_photography_creative_photography_tricks_thatll_get_you_all_the_likes"
+      ]
+    },
+    {
+      "scenario_id": "scenario_selfie_profile_portrait",
+      "scenario_name": "셀카/Profile — 왜곡 적고 자연스러운 얼굴 추천 seed",
+      "source_file": "raw/scenarios/selfie_profile_portrait.md",
+      "source_node_ids": [
+        "camera_front_camera_1974bdce",
+        "category_scenarios_44716381",
+        "concept_close_front_camera_29b281a5",
+        "concept_face_distortion_486889b7",
+        "concept_pose_feade04a",
+        "concept_skin_ab6be1a4",
+        "concept_timer_22f59979",
+        "concept_window_light_ef31f848",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_selfie_profile_portrait_md_420ad4c3",
+        "edit_style_natural_skin_ce781bf0",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_take_id_photo_goo_2e89259e",
+        "evidence_https_support_apple_com_guide_iphone_take_a_selfie_iph1b88429a6_ios_f4423ab6",
+        "evidence_https_www_adobe_com_express_learn_blog_how_to_take_portrait_photos_with_40e3397f",
+        "evidence_https_www_samsung_com_us_explore_photography_still_life_how_to_capture_y_17868ee7",
+        "light_window_or_open_shade_83df2f7e",
+        "mode_selfie_or_portrait_selfie_3405b3f2",
+        "risk_wide_angle_face_distortion_b0eb54a7",
+        "scenario_selfie_profile_portrait_5355fa21",
+        "scenario_tags_selfie_profile_portrait_front_camera_skin_tone_c24c6169",
+        "section_raw_scenarios_selfie_profile_portrait_md_1cfaaa5e",
+        "section_raw_scenarios_selfie_profile_portrait_md_2608dd8d",
+        "section_raw_scenarios_selfie_profile_portrait_md_4cebb35b",
+        "section_raw_scenarios_selfie_profile_portrait_md_742c5aea",
+        "section_raw_scenarios_selfie_profile_portrait_md_fba7b727",
+        "section_raw_scenarios_selfie_profile_portrait_md_graphify_53b813c7",
+        "subject_selfie_person_87fd5ee9"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_express_learn_blog_how_to_take_portrait_photos_with_40e3397f",
+          "label": "adobe.com/how-to-take-portrait-photos-with-your-phone",
+          "url": "https://www.adobe.com/express/learn/blog/how-to-take-portrait-photos-with-your-phone",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/selfie_profile_portrait.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_take_id_photo_goo_2e89259e",
+          "label": "blog.google/take-id-photo-google-pixel-tips [8b48ba]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/take-id-photo-google-pixel-tips/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/selfie_profile_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_samsung_com_us_explore_photography_still_life_how_to_capture_y_17868ee7",
+          "label": "samsung.com/how-to-capture-your-best-profile-picture",
+          "url": "https://www.samsung.com/us/explore/photography/still-life/how-to-capture-your-best-profile-picture/",
+          "domain": "samsung.com",
+          "source_file": "raw/scenarios/selfie_profile_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_a_selfie_iph1b88429a6_ios_f4423ab6",
+          "label": "support.apple.com/ios [ad5a3c]",
+          "url": "https://support.apple.com/guide/iphone/take-a-selfie-iph1b88429a6/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/selfie_profile_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_selfie_profile_portrait",
+        "rec_trend_selfie_profile_portrait",
+        "rec_personalized_selfie_profile_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_selfie_profile_portrait.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_take_id_photo_google_pixel_tips",
+        "evidence_url_https___support.apple.com_guide_iphone_take_a_selfie_iph1b88429a6_ios",
+        "evidence_url_https___www.adobe.com_express_learn_blog_how_to_take_portrait_photos_with_your_phone",
+        "evidence_url_https___www.samsung.com_us_explore_photography_still_life_how_to_capture_your_best_profile_picture"
+      ]
+    },
+    {
+      "scenario_id": "scenario_small_product_listing_photo",
+      "scenario_name": "집에서 제품 판매 사진 — 깨끗한 썸네일 만들기",
+      "source_file": "raw/scenarios/small_product_listing_photo.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_small_product_listing_photo_md_54c1b5a8",
+        "edit_style_clean_product_a8478928",
+        "environment_home_table_e608231d",
+        "evidence_https_help_shopify_com_en_manual_products_product_media_product_photogra_cceff8ff",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_product_photograp_a66d011d",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_etsy_com_seller_handbook_article_154343798313_9f24186d",
+        "evidence_https_www_reddit_com_r_etsy_comments_lu2sjd_etsy_sellers_does_product_ph_29306894",
+        "evidence_https_www_reddit_com_r_etsysellers_comments_1qr5f3g_struggle_with_produc_437e8b57",
+        "evidence_https_www_shopify_com_ie_blog_15163633_how_to_capture_high_quality_produ_84c30422",
+        "lens_1x_2x_a951df28",
+        "light_window_light_838be16f",
+        "mode_photo_or_macro_7b7d2840",
+        "query_aliases_query_aliases_157c4911",
+        "query_aliases_query_aliases_2cccc06d",
+        "query_aliases_query_aliases_861ba549",
+        "query_aliases_query_aliases_9fd15d07",
+        "query_aliases_query_aliases_b8a96f1e",
+        "query_aliases_query_aliases_f9a6639d",
+        "risk_busy_background_1359cede",
+        "risk_color_inaccuracy_c7a19683",
+        "scenario_small_product_listing_photo_1f728889",
+        "scenario_tags_clean_background_c3101592",
+        "scenario_tags_commerce_327ff2d8",
+        "scenario_tags_home_26ed63e8",
+        "scenario_tags_listing_5bad62e8",
+        "scenario_tags_product_e79d107c",
+        "scenario_tags_thumbnail_733e856b",
+        "section_raw_scenarios_small_product_listing_photo_md_0ef4c854",
+        "section_raw_scenarios_small_product_listing_photo_md_2cd507fb",
+        "section_raw_scenarios_small_product_listing_photo_md_4ebc6661",
+        "section_raw_scenarios_small_product_listing_photo_md_aff0839d",
+        "section_raw_scenarios_small_product_listing_photo_md_b5701ebe",
+        "section_raw_scenarios_small_product_listing_photo_md_c3e390a6",
+        "section_raw_scenarios_small_product_listing_photo_md_e16a4db0",
+        "section_raw_scenarios_small_product_listing_photo_md_graphify_92b22d6f",
+        "subject_product_d88427cb"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/small_product_listing_photo.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_product_photograp_a66d011d",
+          "label": "adobe.com/product-photography",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/product-photography",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/small_product_listing_photo.md"
+        },
+        {
+          "id": "evidence_https_www_etsy_com_seller_handbook_article_154343798313_9f24186d",
+          "label": "etsy.com/154343798313",
+          "url": "https://www.etsy.com/seller-handbook/article/154343798313",
+          "domain": "etsy.com",
+          "source_file": "raw/scenarios/small_product_listing_photo.md"
+        },
+        {
+          "id": "evidence_https_help_shopify_com_en_manual_products_product_media_product_photogra_cceff8ff",
+          "label": "help.shopify.com/product-photography",
+          "url": "https://help.shopify.com/en/manual/products/product-media/product-photography",
+          "domain": "help.shopify.com",
+          "source_file": "raw/scenarios/small_product_listing_photo.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/small_product_listing_photo.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_etsy_comments_lu2sjd_etsy_sellers_does_product_ph_29306894",
+          "label": "reddit.com/etsy_sellers_does_product_photography_frustrate",
+          "url": "https://www.reddit.com/r/Etsy/comments/lu2sjd/etsy_sellers_does_product_photography_frustrate/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/small_product_listing_photo.md"
+        },
+        {
+          "id": "evidence_https_www_reddit_com_r_etsysellers_comments_1qr5f3g_struggle_with_produc_437e8b57",
+          "label": "reddit.com/struggle_with_product_photos",
+          "url": "https://www.reddit.com/r/EtsySellers/comments/1qr5f3g/struggle_with_product_photos/",
+          "domain": "reddit.com",
+          "source_file": "raw/scenarios/small_product_listing_photo.md"
+        },
+        {
+          "id": "evidence_https_www_shopify_com_ie_blog_15163633_how_to_capture_high_quality_produ_84c30422",
+          "label": "shopify.com/15163633-how-to-capture-high-quality-product-photos-with-your-smartphone",
+          "url": "https://www.shopify.com/ie/blog/15163633-how-to-capture-high-quality-product-photos-with-your-smartphone",
+          "domain": "shopify.com",
+          "source_file": "raw/scenarios/small_product_listing_photo.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_small_product_listing_photo",
+        "rec_trend_small_product_listing_photo",
+        "rec_personalized_small_product_listing_photo"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_small_product_listing_photo.md",
+        "evidence_url_https___help.shopify.com_en_manual_products_product_media_product_photography",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_product_photography",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.etsy.com_seller_handbook_article_154343798313",
+        "evidence_url_https___www.reddit.com_r_etsy_comments_lu2sjd_etsy_sellers_does_product_photography_frustrate",
+        "evidence_url_https___www.reddit.com_r_etsysellers_comments_1qr5f3g_struggle_with_product_photos",
+        "evidence_url_https___www.shopify.com_ie_blog_15163633_how_to_capture_high_quality_product_photos_with_your_smartphone"
+      ]
+    },
+    {
+      "scenario_id": "scenario_snow_portrait_clean_winter",
+      "scenario_name": "눈 오는 날 인물 — 깨끗한 겨울/하이키 스타일",
+      "source_file": "raw/scenarios/snow_portrait_clean_winter.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_blue_cast_0c3453d4",
+        "concept_camera_meter_790f9b2f",
+        "concept_face_61c4a376",
+        "concept_light_6b77faf5",
+        "concept_snow_7d5eb29c",
+        "concept_subject_mask_edaa8b65",
+        "concept_underexpose_snow_cd6a6038",
+        "concept_white_balance_0d52812d",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_snow_portrait_clean_winter_md_cc6b22f8",
+        "edit_style_clean_winter_fc66ea98",
+        "environment_snow_d6d5da76",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "lens_1x_2x_a951df28",
+        "light_overcast_reflection_282417de",
+        "risk_underexposed_snow_7317edee",
+        "scenario_snow_portrait_clean_winter_ba013dcb",
+        "scenario_tags_high_key_701c88b2",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_snow_cdfddd91",
+        "scenario_tags_white_balance_5f95bc72",
+        "scenario_tags_winter_271df67a",
+        "section_raw_scenarios_snow_portrait_clean_winter_md_10159155",
+        "section_raw_scenarios_snow_portrait_clean_winter_md_1e2308b4",
+        "section_raw_scenarios_snow_portrait_clean_winter_md_52fa1b12",
+        "section_raw_scenarios_snow_portrait_clean_winter_md_5e90f133",
+        "section_raw_scenarios_snow_portrait_clean_winter_md_9ccb4db0",
+        "section_raw_scenarios_snow_portrait_clean_winter_md_graphify_23060eb6",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/snow_portrait_clean_winter.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_snow_portrait_clean_winter",
+        "rec_trend_snow_portrait_clean_winter",
+        "rec_personalized_snow_portrait_clean_winter"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_snow_portrait_clean_winter.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos"
+      ]
+    },
+    {
+      "scenario_id": "scenario_waterfall_silky_water",
+      "scenario_name": "폭포·계곡 물결 — 장노출/Live 효과",
+      "source_file": "raw/scenarios/waterfall_silky_water.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_control_e29d60b0",
+        "concept_green_foliage_3e977524",
+        "concept_long_exposure_9c085493",
+        "concept_moving_water_1df9de3d",
+        "concept_on_phone_without_filter_98584ea7",
+        "concept_polarizing_effect_4170c4ae",
+        "concept_scene_84e79b65",
+        "concept_tripod_a3b201f3",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_waterfall_silky_water_md_17bd9294",
+        "edit_style_nature_green_7446749c",
+        "environment_nature_3df591b9",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+        "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+        "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+        "lens_1x_0_5x_3015ce72",
+        "mode_live_or_pro_e8457ed4",
+        "scenario_tags_long_exposure_041c3db2",
+        "scenario_tags_nature_3cd4a271",
+        "scenario_tags_river_bbc978fc",
+        "scenario_tags_tripod_61ae09ed",
+        "scenario_tags_waterfall_27972629",
+        "scenario_waterfall_silky_water_7694b51b",
+        "section_raw_scenarios_waterfall_silky_water_md_266e5be6",
+        "section_raw_scenarios_waterfall_silky_water_md_41a36fdf",
+        "section_raw_scenarios_waterfall_silky_water_md_41b10906",
+        "section_raw_scenarios_waterfall_silky_water_md_abe0ed97",
+        "section_raw_scenarios_waterfall_silky_water_md_fbaadf2f",
+        "section_raw_scenarios_waterfall_silky_water_md_graphify_1861f198",
+        "setting_long_exposure_7eb186de",
+        "subject_waterfall_f797a09d"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_smartphone_photog_cbbf84b9",
+          "label": "adobe.com/smartphone-photography.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/smartphone-photography.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/waterfall_silky_water.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_edit_photos_mobile_ios_html_015cb621",
+          "label": "helpx.adobe.com/edit-photos-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/waterfall_silky_water.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_camera_phone_photos_0eec0477",
+          "label": "nationalgeographic.com/camera-phone-photos",
+          "url": "https://www.nationalgeographic.com/photography/article/camera-phone-photos",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/waterfall_silky_water.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_en_lamr_guide_iphone_iph1a3c5b4c3_ios_52be6c86",
+          "label": "support.apple.com/ios [938b6c]",
+          "url": "https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/waterfall_silky_water.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_waterfall_silky_water",
+        "rec_trend_waterfall_silky_water",
+        "rec_personalized_waterfall_silky_water"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_waterfall_silky_water.md",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_edit_photos_mobile_ios.html",
+        "evidence_url_https___support.apple.com_en_lamr_guide_iphone_iph1a3c5b4c3_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_smartphone_photography.html",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_camera_phone_photos"
+      ]
+    },
+    {
+      "scenario_id": "scenario_window_light_cafe_portrait",
+      "scenario_name": "카페 창가 인물 — 자연광/인플루언서 프로필",
+      "source_file": "raw/scenarios/window_light_cafe_portrait.md",
+      "source_node_ids": [
+        "category_scenarios_44716381",
+        "concept_2x_d69ea584",
+        "concept_background_distance_305dff10",
+        "concept_distortion_067071a9",
+        "concept_negative_space_dc5a6f62",
+        "concept_separation_0004a7aa",
+        "concept_skin_ab6be1a4",
+        "concept_text_overlay_48e4045f",
+        "concept_window_light_ef31f848",
+        "content_type_graphify_ready_actionable_recipe_b7e0a7ac",
+        "doc_raw_scenarios_window_light_cafe_portrait_md_340ec958",
+        "edit_style_clean_influencer_bff3e1d4",
+        "environment_cafe_window_d387f1c8",
+        "evidence_https_blog_google_products_and_platforms_devices_pixel_take_id_photo_goo_2e89259e",
+        "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+        "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+        "evidence_https_www_adobe_com_creativecloud_photography_discover_portrait_lighting_f9abd498",
+        "evidence_https_www_adobe_com_express_learn_blog_how_to_take_portrait_photos_with_40e3397f",
+        "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+        "evidence_https_www_nationalgeographic_com_photography_article_people_quick_tips_d8902316",
+        "lens_2x_portrait_6844f0ee",
+        "light_diffused_window_d08b542a",
+        "personal_signal_skin_retouch_strength_41ab519c",
+        "scenario_tags_cafe_39dd06e1",
+        "scenario_tags_influencer_92648bca",
+        "scenario_tags_portrait_1b2b2a64",
+        "scenario_tags_soft_light_01e3c6ca",
+        "scenario_tags_window_light_60d84428",
+        "scenario_window_light_cafe_portrait_288c39ec",
+        "section_raw_scenarios_window_light_cafe_portrait_md_39f10fa7",
+        "section_raw_scenarios_window_light_cafe_portrait_md_478d986f",
+        "section_raw_scenarios_window_light_cafe_portrait_md_5b826c92",
+        "section_raw_scenarios_window_light_cafe_portrait_md_a1bffa51",
+        "section_raw_scenarios_window_light_cafe_portrait_md_graphify_b9d27aa2",
+        "section_raw_scenarios_window_light_cafe_portrait_md_window_light_f7874996",
+        "subject_person_c51437fd"
+      ],
+      "external_evidence": [
+        {
+          "id": "evidence_https_www_adobe_com_learn_lightroom_cc_web_color_adjustment_852f7347",
+          "label": "adobe.com/color-adjustment",
+          "url": "https://www.adobe.com/learn/lightroom-cc/web/color-adjustment",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/window_light_cafe_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_express_learn_blog_how_to_take_portrait_photos_with_40e3397f",
+          "label": "adobe.com/how-to-take-portrait-photos-with-your-phone",
+          "url": "https://www.adobe.com/express/learn/blog/how-to-take-portrait-photos-with-your-phone",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/window_light_cafe_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_adobe_com_creativecloud_photography_discover_portrait_lighting_f9abd498",
+          "label": "adobe.com/portrait-lighting.html",
+          "url": "https://www.adobe.com/creativecloud/photography/discover/portrait-lighting.html",
+          "domain": "adobe.com",
+          "source_file": "raw/scenarios/window_light_cafe_portrait.md"
+        },
+        {
+          "id": "evidence_https_blog_google_products_and_platforms_devices_pixel_take_id_photo_goo_2e89259e",
+          "label": "blog.google/take-id-photo-google-pixel-tips [8b48ba]",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/take-id-photo-google-pixel-tips/",
+          "domain": "blog.google",
+          "source_file": "raw/scenarios/window_light_cafe_portrait.md"
+        },
+        {
+          "id": "evidence_https_helpx_adobe_com_lightroom_cc_using_masking_mobile_ios_html_34b353ae",
+          "label": "helpx.adobe.com/masking-mobile-ios.html",
+          "url": "https://helpx.adobe.com/lightroom-cc/using/masking-mobile-ios.html",
+          "domain": "helpx.adobe.com",
+          "source_file": "raw/scenarios/window_light_cafe_portrait.md"
+        },
+        {
+          "id": "evidence_https_www_nationalgeographic_com_photography_article_people_quick_tips_d8902316",
+          "label": "nationalgeographic.com/people-quick-tips",
+          "url": "https://www.nationalgeographic.com/photography/article/people-quick-tips",
+          "domain": "nationalgeographic.com",
+          "source_file": "raw/scenarios/window_light_cafe_portrait.md"
+        },
+        {
+          "id": "evidence_https_support_apple_com_guide_iphone_take_portraits_iphd7d3a91a2_ios_d2808c0e",
+          "label": "support.apple.com/ios [acf715]",
+          "url": "https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios",
+          "domain": "support.apple.com",
+          "source_file": "raw/scenarios/window_light_cafe_portrait.md"
+        }
+      ],
+      "recommendation_ids": [
+        "rec_general_window_light_cafe_portrait",
+        "rec_trend_window_light_cafe_portrait",
+        "rec_personalized_window_light_cafe_portrait"
+      ],
+      "scene_evidence_ids": [
+        "evidence_raw_scenarios_window_light_cafe_portrait.md",
+        "evidence_url_https___blog.google_products_and_platforms_devices_pixel_take_id_photo_google_pixel_tips",
+        "evidence_url_https___helpx.adobe.com_lightroom_cc_using_masking_mobile_ios.html",
+        "evidence_url_https___support.apple.com_guide_iphone_take_portraits_iphd7d3a91a2_ios",
+        "evidence_url_https___www.adobe.com_creativecloud_photography_discover_portrait_lighting.html",
+        "evidence_url_https___www.adobe.com_express_learn_blog_how_to_take_portrait_photos_with_your_phone",
+        "evidence_url_https___www.adobe.com_learn_lightroom_cc_web_color_adjustment",
+        "evidence_url_https___www.nationalgeographic.com_photography_article_people_quick_tips"
+      ]
+    }
+  ]
+}
