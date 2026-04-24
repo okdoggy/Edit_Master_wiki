@@ -1,0 +1,16 @@
+---
+source_file: "raw/techniques/zoom_lens_situation_guide.md"
+type: "document"
+community: "Evidence Sources 2"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Evidence_Sources_2
+---
+
+# support.apple.com/ios [e9b4d3]
+
+## Connections
+- [[카메라 줌렌즈별 상황 가이드]] - `SUPPORTED_BY` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

@@ -1,0 +1,19 @@
+---
+source_file: "raw/magazine/adobe_lightroom_mobile_adjustments.md"
+type: "document"
+community: "Trends & Recipes"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes
+---
+
+# adobe.com/lightroom-mobile-adjustments
+
+## Connections
+- [[Adobe Learn — Lightroom mobile adjustments]] - `SUPPORTED_BY` [EXTRACTED]
+- [[Adobe Lightroom YouTube]] - `SUPPORTED_BY` [EXTRACTED]
+- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
+- [[전문가인기 스타일 보정 레시피 — Lightroom Mobile 중심]] - `SUPPORTED_BY` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

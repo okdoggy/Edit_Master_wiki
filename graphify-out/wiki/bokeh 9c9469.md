@@ -1,0 +1,17 @@
+---
+source_file: "raw/scenarios/flower_macro_bokeh.md"
+type: "document"
+community: "Trends & Recipes 12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes_12
+---
+
+# bokeh [9c9469]
+
+## Connections
+- [[background distance]] - `CREATES` [EXTRACTED]
+- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - `TARGETS_CONCEPT` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_12

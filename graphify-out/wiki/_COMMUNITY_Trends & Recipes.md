@@ -1,0 +1,245 @@
+---
+type: community
+cohesion: 0.01
+members: 206
+---
+
+# Trends & Recipes
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 206 nodes
+
+## Members
+- [[AI편집]] - document - raw/magazine/apple_support_photos_ai.md
+- [[Additional techniquetrend guides — 2026-04-17]] - document - raw/manifests/source_matrix.md
+- [[Adobe Learn — Lightroom mobile adjustments]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[Adobe Lightroom YouTube]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[Apple Support — Apple Intelligence in Photos]] - document - raw/magazine/apple_support_photos_ai.md
+- [[Brendan Ó Sé]] - document - raw/sns/brendan_o_se.md
+- [[DNG]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[Evan Ranft]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Evan Ranft — iPhone 카메라 기본 세팅 잠그기]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Graphify scenario corpus — 2026-04-17]] - document - raw/manifests/source_matrix.md
+- [[HDR  역광 톤 정리 2eba5d]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[HDR  역광 톤 정리 f25947]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[Hourly incremental internet sources]] - document - raw/manifests/source_matrix.md
+- [[Incremental sources — 2026-04-18 (new external domains)]] - document - raw/manifests/source_matrix.md
+- [[Lightroom 33f0e7]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
+- [[Mango Street]] - document - raw/youtube/mango_street_youtube.md
+- [[Mango Street — iPhone로 3분 미만 숏필름 만들기]] - document - raw/youtube/mango_street_youtube.md
+- [[Nicolai Ahn]] - document - raw/sns/nicolai_ahn.md
+- [[PHLEARN — Lightroom Mobile beginner guide]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[Pei Ketron]] - document - raw/sns/pei_ketron.md
+- [[RAW]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[RAWDNG + Adaptive Profile로 시작하기 18b313]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[RAWDNG + Adaptive Profile로 시작하기 6868f9]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[RAWDNG + Adaptive Profile로 시작하기 706897]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[SNS사진]] - document - raw/youtube/mango_street_youtube.md
+- [[Sam Youkilis]] - document - raw/sns/sam_youkilis.md
+- [[ShotOniPhone]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[TIME — Apple Instagram celebrates iPhone photographers]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 0d359c]] - document - raw/sns/sam_youkilis.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 ef9583]] - document - raw/sns/brendan_o_se.md
+- [[Tip 1. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 dfd5f0]] - document - raw/magazine/apple_support_photos_ai.md
+- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 201f0e]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 e6c237]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 1. 인물·제품은 살리고 배경은 정리하고 싶을 때 99fc82]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[Tip 1. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 7421c6]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 0d304f]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 1590a5]] - document - raw/sns/tyler_stalman.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 69fb8f]] - document - raw/sns/pei_ketron.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 b0ce31]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 ca5967]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 d4cd6a]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 eb9dc9]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 cb452e]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 e43f7f]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 b9e737]] - document - raw/sns/tyler_stalman.md
+- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 d1c13e]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 2. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/brendan_o_se.md
+- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 168031]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 4794f7]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 9fdc55]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 689ae2]] - document - raw/sns/sam_youkilis.md
+- [[Tip 2. 인물·제품은 살리고 배경은 정리하고 싶을 때 5747f9]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[Tip 2. 인물·제품은 살리고 배경은 정리하고 싶을 때 c9ac3f]] - document - raw/sns/pei_ketron.md
+- [[Tip 2. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 0f81c0]] - document - raw/magazine/apple_support_photos_ai.md
+- [[Tip 2. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 296779]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[Tip 2. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 3. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 e8cdb0]] - document - raw/magazine/apple_support_photos_ai.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 4143f4]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 f24cc7]] - document - raw/sns/brendan_o_se.md
+- [[Tip 3. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/sam_youkilis.md
+- [[Tip 3. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 1b653a]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 df1e42]] - document - raw/sns/tyler_stalman.md
+- [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 e3ba7e]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 c58cf3]] - document - raw/sns/pei_ketron.md
+- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 8309f5]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 8a89ce]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 e4fbaa]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 3. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 4cb001]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Tip 3. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 8dd5ba]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 07a056]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 4. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 b9b372]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Tip 4. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 b92924]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 b12bfd]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[Tip 4. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 1830f6]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 4. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 2141a2]] - document - raw/sns/brendan_o_se.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 0e7374]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 34b906]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 3c802d]] - document - raw/sns/tyler_stalman.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 4993dd]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 60a54a]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 69852d]] - document - raw/sns/sam_youkilis.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 df2775]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 f69828]] - document - raw/sns/pei_ketron.md
+- [[Tip 5. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - document - raw/manifests/source_matrix.md
+- [[Tyler Stalman]] - document - raw/sns/tyler_stalman.md
+- [[Tyler Stalman YouTube]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — iPhone 영화 워크플로의 핵심 4b8308]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — iPhone 영화 워크플로의 핵심 dcb858]] - document - raw/sns/tyler_stalman.md
+- [[Tyler Stalman — 여행 슬로모 릴 빠른 제작 3a9ef2]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — 여행 슬로모 릴 빠른 제작 46428a]] - document - raw/sns/tyler_stalman.md
+- [[Vogue Korea — Apple and seven artists with iPhone 15 Pro Max]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[adobe.comlightroom-mobile-adjustments]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[adobe.commobile.html]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[brendanose.cominstagram]] - document - raw/manifests/source_matrix.md
+- [[brendanose.comshot-on-iphone-6-wins]] - document - raw/sns/brendan_o_se.md
+- [[instagram.comnikolaiahn]] - document - raw/sns/nicolai_ahn.md
+- [[instagram.compketron]] - document - raw/sns/pei_ketron.md
+- [[instagram.comsamyoukilis]] - document - raw/sns/sam_youkilis.md
+- [[instagram.comstalman]] - document - raw/sns/tyler_stalman.md
+- [[iphonephotographyschool.combrendan-o-se]] - document - raw/sns/brendan_o_se.md
+- [[ippawards.com2015-winning-photographers]] - document - raw/sns/brendan_o_se.md
+- [[mangostreetlab.comshotoniphone]] - document - raw/youtube/mango_street_youtube.md
+- [[minititle.comsam-youkilis]] - document - raw/manifests/source_matrix.md
+- [[nikolaiahn.com]] - document - raw/manifests/source_matrix.md
+- [[phlearn.comintro-to-lightroom-mobile]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[santafeworkshops.comdigital-printing]] - document - raw/manifests/source_matrix.md
+- [[santafeworkshops.compei-ketron]] - document - raw/sns/pei_ketron.md
+- [[shutterbug.commaking-most-your-iphone-camera-settings-workflow-more-video]] - document - raw/youtube/evan_ranft_youtube.md
+- [[socialblade.comachievements]] - document - raw/youtube/evan_ranft_youtube.md
+- [[socialblade.comsubscribers]] - document - raw/youtube/mango_street_youtube.md
+- [[stalman.comBlog%20Post%20Title%20One-w6jys-p6zsc-4bsax-kn6km-z67b5-erclk-fjace-wtbdn-nlynj]] - document - raw/sns/tyler_stalman.md
+- [[stalman.comBlog%20Post%20Title%20One-w6jys-p6zsc-4bsax-kn6km-z67b5-erclk-fztsm]] - document - raw/sns/tyler_stalman.md
+- [[stalman.comcourse]] - document - raw/manifests/source_matrix.md
+- [[support.apple.comios d60c4c]] - document - raw/magazine/apple_support_photos_ai.md
+- [[time.comapple-instagram-account]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[vogue.co.kr%EC%95%A0%ED%94%8C%EA%B3%BC-7%EB%AA%85%EC%9D%98-%EC%9E%91%EA%B0%80%EA%B0%80-...136b510b]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[vogue.comsam-youkilis-presents-his-first-photo-book-somewhere-interview]] - document - raw/sns/sam_youkilis.md
+- [[x.comstalman]] - document - raw/sns/tyler_stalman.md
+- [[youtube]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[youtube.com@Lightroom]] - document - raw/manifests/source_matrix.md
+- [[youtube.com@MangoStreet]] - document - raw/manifests/source_matrix.md
+- [[youtube.com@RanftEvan]] - document - raw/manifests/source_matrix.md
+- [[youtube.com@stalman]] - document - raw/manifests/source_matrix.md
+- [[youtube.comwatch 154609]] - document - raw/youtube/evan_ranft_youtube.md
+- [[youtube.comwatch 35ae8a]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[youtube.comwatch 658e7a]] - document - raw/youtube/mango_street_youtube.md
+- [[youtube.comwatch 7705cc]] - document - raw/youtube/mango_street_youtube.md
+- [[youtube.comwatch 851650]] - document - raw/youtube/evan_ranft_youtube.md
+- [[검색]] - document - raw/magazine/apple_support_photos_ai.md
+- [[공식채널]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[라이트룸모바일]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
+- [[모바일작가]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[모바일촬영]] - document - raw/sns/tyler_stalman.md
+- [[바로 쓰는 팁 카드 1af2a9]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[바로 쓰는 팁 카드 1bcf52]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[바로 쓰는 팁 카드 3d09ff]] - document - raw/sns/nicolai_ahn.md
+- [[바로 쓰는 팁 카드 5063e7]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[바로 쓰는 팁 카드 6f48c8]] - document - raw/sns/pei_ketron.md
+- [[바로 쓰는 팁 카드 765455]] - document - raw/sns/brendan_o_se.md
+- [[바로 쓰는 팁 카드 7f776d]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[바로 쓰는 팁 카드 818cd9]] - document - raw/magazine/apple_support_photos_ai.md
+- [[바로 쓰는 팁 카드 9564db]] - document - raw/sns/sam_youkilis.md
+- [[바로 쓰는 팁 카드 a0b48b]] - document - raw/youtube/evan_ranft_youtube.md
+- [[바로 쓰는 팁 카드 a5f708]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[바로 쓰는 팁 카드 bb29e5]] - document - raw/sns/tyler_stalman.md
+- [[바로 쓰는 팁 카드 c9af62]] - document - raw/youtube/mango_street_youtube.md
+- [[바로 쓰는 팁 카드 ec72b4]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[보그코리아]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[보정루틴]] - document - raw/youtube/evan_ranft_youtube.md
+- [[사진앱]] - document - raw/magazine/apple_support_photos_ai.md
+- [[색감]] - document - raw/sns/sam_youkilis.md
+- [[색보정]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[선택보정]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[수상작]] - document - raw/sns/brendan_o_se.md
+- [[수평맞춤]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[스토리텔링]] - document - raw/sns/nicolai_ahn.md
+- [[시퀀싱]] - document - raw/sns/sam_youkilis.md
+- [[아이폰15프로맥스]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[아이폰RAW]] - document - raw/youtube/evan_ranft_youtube.md
+- [[아이폰사진]] - document - raw/sns/austin_mann.md
+- [[아이폰워크플로우]] - document - raw/sns/tyler_stalman.md
+- [[아이폰촬영]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[애플]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[오브젝트제거]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[워크플로우]] - document - raw/sns/pei_ketron.md
+- [[유튜브]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[이 소스에서 더 캐야 할 것 083a95]] - document - raw/youtube/evan_ranft_youtube.md
+- [[이 소스에서 더 캐야 할 것 1cb8bf]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[이 소스에서 더 캐야 할 것 269a15]] - document - raw/sns/sam_youkilis.md
+- [[이 소스에서 더 캐야 할 것 2ca172]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[이 소스에서 더 캐야 할 것 760e3d]] - document - raw/sns/pei_ketron.md
+- [[이 소스에서 더 캐야 할 것 8e94c4]] - document - raw/sns/brendan_o_se.md
+- [[이 소스에서 더 캐야 할 것 b66902]] - document - raw/sns/nicolai_ahn.md
+- [[이 소스에서 더 캐야 할 것 e3715c]] - document - raw/magazine/apple_support_photos_ai.md
+- [[이 소스에서 더 캐야 할 것 efe61a]] - document - raw/youtube/mango_street_youtube.md
+- [[인물]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
+- [[인물사진]] - document - raw/sns/nicolai_ahn.md
+- [[일상기록]] - document - raw/sns/sam_youkilis.md
+- [[입문가이드]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[작가사례]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[전시]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[촬영후보정]] - document - raw/sns/pei_ketron.md
+- [[최신 Lightroom Mobile 검증 레시피 0a19ef]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[최신 Lightroom Mobile 검증 레시피 9bff35]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
+- [[최신 Lightroom Mobile 검증 레시피 ddcc63]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[추상사진]] - document - raw/sns/brendan_o_se.md
+- [[출처 24f2b5]] - document - raw/sns/sam_youkilis.md
+- [[출처 4c916f]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[출처 593869]] - document - raw/sns/pei_ketron.md
+- [[출처 7aa73c]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[출처 80da97]] - document - raw/sns/brendan_o_se.md
+- [[출처 9c64c1]] - document - raw/sns/nicolai_ahn.md
+- [[출처 f55508]] - document - raw/magazine/apple_support_photos_ai.md
+- [[출처에서 확인된 구체 레시피 187b1a]] - document - raw/youtube/evan_ranft_youtube.md
+- [[출처에서 확인된 구체 레시피 47d5d1]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[출처에서 확인된 구체 레시피 966cca]] - document - raw/youtube/mango_street_youtube.md
+- [[출처에서 확인된 구체 레시피 b50b80]] - document - raw/sns/tyler_stalman.md
+- [[카메라설정]] - document - raw/sns/tyler_stalman.md
+- [[큐레이션]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[크리에이터워크플로우]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[크리에이터촬영]] - document - raw/sns/tyler_stalman.md
+- [[프로워크플로우]] - document - raw/youtube/evan_ranft_youtube.md
+- [[프린트]] - document - raw/sns/pei_ketron.md
+- [[한국어자료]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[한국작가]] - document - raw/sns/nicolai_ahn.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Trends_&_Recipes
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 60 edges to [[_COMMUNITY_Evidence Sources]]
+- 36 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 25 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 22 edges to [[_COMMUNITY_Evidence Sources 2]]
+- 19 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 2 edges to [[_COMMUNITY_Evidence Sources 3]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 7]]
+- 1 edge to [[_COMMUNITY_Manifests Sources]]
+
+## Top bridge nodes
+- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - degree 57, connects to 11 communities
+- [[RAW]] - degree 33, connects to 5 communities
+- [[DNG]] - degree 29, connects to 5 communities
+- [[Adobe Lightroom YouTube]] - degree 31, connects to 4 communities
+- [[인물]] - degree 30, connects to 4 communities

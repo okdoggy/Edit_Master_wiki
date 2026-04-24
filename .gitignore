@@ -2,11 +2,14 @@
 .DS_Store
 **/.DS_Store
 .omx/
+.graphify_*.json
 .graphify_incremental.json
 
 # Python runtime
 __pycache__/
 *.py[cod]
+.venv/
+.graphify-deps/
 
 # graphify transient/cache files
 graphify-out/cache/

@@ -1,0 +1,17 @@
+---
+source_file: "raw/scenarios/fashion_ootd_portrait.md"
+type: "document"
+community: "Trends & Recipes 6"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes_6
+---
+
+# fashion outfit
+
+## Connections
+- [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 21b94e]] - `HAS_SUBJECT` [EXTRACTED]
+- [[패션OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed e84e93]] - `HAS_SUBJECT` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6

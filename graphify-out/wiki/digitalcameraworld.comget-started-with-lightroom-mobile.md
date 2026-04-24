@@ -1,0 +1,17 @@
+---
+source_file: "raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md"
+type: "document"
+community: "Evidence Sources"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Evidence_Sources
+---
+
+# digitalcameraworld.com/get-started-with-lightroom-mobile
+
+## Connections
+- [[Digital Camera World — Get started with Lightroom Mobile]] - `SUPPORTED_BY` [EXTRACTED]
+- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
