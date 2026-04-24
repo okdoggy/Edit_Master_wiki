@@ -14,6 +14,32 @@ raw 자료 수집/정제
 -> 사용자 피드백으로 개인화
 ```
 
+## 0. Harness Quickstart
+
+이제 사용자는 개별 Python 스크립트를 직접 실행하기보다 `uv run edit-master ...` 하네스를 사용합니다. Python 코드는 내부 런타임으로 유지하고, 운영 표면은 하나의 CLI로 묶었습니다.
+
+```powershell
+uv sync
+uv run edit-master doctor
+uv run edit-master validate
+```
+
+전체 재생성 루프를 한 번에 돌릴 때:
+
+```powershell
+uv run edit-master all
+```
+
+주요 명령:
+
+- `uv run edit-master doctor`: uv/Python/graphify 의존성과 필수 파일 확인
+- `uv run edit-master build`: `raw/`에서 `graphify-out/` 재생성
+- `uv run edit-master bridge --write`: source graph와 recommender graph 연결 리포트 생성
+- `uv run edit-master validate`: raw/graph/bridge/learning/eval/답변 품질 스모크 검증
+- `uv run edit-master eval`: matcher 회귀 평가
+- `uv run edit-master answer "질문"`: 자연어 photo-coach 답변 생성
+- `uv run edit-master feedback record/show/rebuild`: 개인화 피드백 기록과 프로필 관리
+
 ## 핵심 방향
 
 이 프로젝트는 단순한 사진 문제 해결 FAQ가 아니라, 장면과 취향에 맞춰 촬영법과 편집법을 추천하는 지식 그래프를 목표로 합니다.
@@ -61,7 +87,7 @@ urls:
 검증:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' scripts\agent_pipeline.py
+uv run edit-master validate
 ```
 
 ## 2. Wiki/Graph를 만들 때
@@ -71,7 +97,7 @@ urls:
 이 저장소에서는 설치한 `graphifyy` 패키지를 `scripts/run_graphify_raw.py`가 호출해 source 중심 graph/wiki를 재생성합니다. `graphify`의 build, cluster, report, HTML, Cypher, Obsidian export API를 사용합니다.
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' scripts\run_graphify_raw.py
+uv run edit-master build
 ```
 
 재생성 대상:
@@ -85,7 +111,7 @@ urls:
 Source graph와 추천 graph의 연결 상태는 bridge 스크립트로 확인합니다.
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.source_bridge --write
+uv run edit-master bridge --write
 ```
 
 생성/검증 대상:
@@ -128,39 +154,42 @@ User Query
 
 ## 3. Wiki/Graph에 쿼리할 때
 
-서비스나 Agent 관점에서는 wiki에 직접 쿼리하기보다 Python runtime을 거치는 방식이 안정적입니다.
+서비스나 Agent 관점에서는 wiki에 직접 쿼리하기보다 `edit-master` 하네스가 감싼 런타임을 거치는 방식이 안정적입니다.
 
 권장 흐름:
 
 ```text
 사용자 질문/이미지 설명
--> Python normalization
+-> query normalization
 -> ScenarioMatcher Top-K
 -> graph recommendation 조회
 -> personalization reranking
 -> natural answer renderer
 ```
 
-시나리오 매칭 예시:
+시나리오 매칭 품질 평가:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.scenario_matcher "어두운 레스토랑에서 파스타 사진이 노랗고 흐릿해요" --top-k 3
+uv run edit-master eval --min-top1 1.0
 ```
 
 자연어 답변 생성 예시:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.answer_renderer "카페 창가에서 인물 사진을 찍었는데 얼굴 한쪽이 어둡고 배경이 지저분해요"
+uv run edit-master answer "카페 창가에서 인물 사진을 찍었는데 얼굴 한쪽이 어둡고 배경이 지저분해요"
 ```
 
 Client가 이미지 분석 결과를 이미 만든 경우에는 JSON facet을 함께 넘길 수 있습니다. 이 저장소는 이미지 분석 모델을 직접 수행하지 않고, Client가 보낸 `subject/environment/light/issues/preferences` 같은 분석 결과를 추천 쿼리에 합치는 계약만 유지합니다.
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.answer_renderer "자연스럽게 보정하고 싶어요" --observation-json .\client_observation.json
+uv run edit-master answer "자연스럽게 보정하고 싶어요" --observation-json .\client_observation.json
 ```
 
-현재 주요 런타임 코드:
+현재 주요 런타임/하네스 코드:
 
+- `edit_master/cli.py`
+- `edit_master/config.py`
+- `edit-master.toml`
 - `scripts/recommender/scenario_matcher.py`
 - `scripts/recommender/normalization.py`
 - `scripts/recommender/graph_loader.py`
@@ -189,25 +218,25 @@ Client feedback
 피드백 기록 예시:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.learning_loop --memory-dir data\personalization\local --user-id local record --query "카페 창가에서 인물 사진을 찍었는데 얼굴 한쪽이 어둡고 배경이 지저분해요" --action accepted --channel personalized --style-tags natural clean low_retouch --issue-tags busy_background --note "자연스럽고 낮은 피부 보정 선호"
+uv run edit-master feedback --memory-dir data\personalization\local --user-id local record --query "카페 창가에서 인물 사진을 찍었는데 얼굴 한쪽이 어둡고 배경이 지저분해요" --action accepted --channel personalized --style-tags natural clean low_retouch --issue-tags busy_background --note "자연스럽고 낮은 피부 보정 선호"
 ```
 
 현재 프로필 확인:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.learning_loop --memory-dir data\personalization\local --user-id local show
+uv run edit-master feedback --memory-dir data\personalization\local --user-id local show
 ```
 
 학습된 프로필을 적용해 답변 생성:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.learning_loop --memory-dir data\personalization\local --user-id local render "카페 창가 인물 사진을 자연스럽게 보정하고 싶어요"
+uv run edit-master feedback --memory-dir data\personalization\local --user-id local render "카페 창가 인물 사진을 자연스럽게 보정하고 싶어요"
 ```
 
 이벤트 로그에서 프로필 재생성:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m scripts.recommender.learning_loop --memory-dir data\personalization\local --user-id local rebuild
+uv run edit-master feedback --memory-dir data\personalization\local --user-id local rebuild
 ```
 
 Client가 보내면 좋은 피드백 신호:
@@ -234,7 +263,7 @@ Client가 이미지 분석 결과를 이미 가지고 있다면 `record`와 `ren
 
 3. 고립 노드가 많은가
    - 고립된 `Issue`, `Outcome`, `Evidence`는 검색과 추천에 잘 쓰이지 않습니다.
-   - `scripts/agent_pipeline.py`에서 isolate 수를 확인합니다.
+   - `uv run edit-master validate`에서 isolate 수를 확인합니다.
 
 4. Issue가 중심축이 되지 않는가
    - 나쁜 구조: `underexposed_face -> all recommendations`
@@ -253,7 +282,7 @@ raw 추가/수정
 -> scenario alias, graph_nodes, graph_edges, urls 확인
 -> graphify/wiki/graph 재생성
 -> source_bridge로 source graph와 추천 graph 연결 검증
--> scripts/agent_pipeline.py 실행
+-> edit-master validate 실행
 -> tests/eval_queries.json 회귀 평가 통과 확인
 -> graph.html에서 Scenario 중심성, 고립 노드, Evidence 연결 확인
 ```
@@ -261,14 +290,16 @@ raw 추가/수정
 현재 matcher 회귀 평가:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' scripts\evaluate_scene_matcher.py --min-top1 1.0
+uv run edit-master eval --min-top1 1.0
 ```
 
 통합 검증:
 
 ```powershell
-& 'C:\Users\swss2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' scripts\agent_pipeline.py
+uv run edit-master validate
 ```
+
+legacy entrypoint인 `scripts/*.py`와 `python -m scripts.recommender...` 명령은 유지하지만, 일반 운영에서는 위 하네스 명령을 우선 사용합니다.
 
 ## 아직 남은 일
 
