@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import uuid
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -18,6 +19,8 @@ if str(REPO_ROOT) not in sys.path:
 
 from scripts.evaluate_scene_matcher import DEFAULT_EVAL_PATH, evaluate
 from scripts.recommender.graph_loader import DEFAULT_GRAPH_PATH, SceneGraph
+from scripts.recommender.learning_loop import PersonalizationMemory, build_feedback_event
+from scripts.recommender.personalization import FeedbackEvent
 from scripts.recommender.source_bridge import DEFAULT_SOURCE_GRAPH_PATH, SourceRecommenderBridge
 
 
@@ -92,17 +95,55 @@ def validate_bridge(graph_path: Path = DEFAULT_GRAPH_PATH, source_graph_path: Pa
     return bridge.validate()
 
 
+def validate_learning_loop() -> dict:
+    smoke_dir = REPO_ROOT / "data" / "personalization" / "_pipeline_smoke" / uuid.uuid4().hex
+    memory = PersonalizationMemory(smoke_dir, "pipeline_smoke")
+    event = FeedbackEvent(
+        scenario_id="scenario_window_light_cafe_portrait",
+        channel="personalized",
+        rating=1.0,
+        style_tags=["natural", "clean", "low_retouch"],
+        issue_tags=["issue:busy_background"],
+    )
+    memory.record_feedback(event, action="accepted", query="cafe window portrait natural background cleanup")
+    rejected = build_feedback_event(
+        scenario_id="scenario_low_light_food_restaurant",
+        channel="trend",
+        action="rejected",
+        style_tags=["cinematic", "strong_edit"],
+    )
+    memory.record_feedback(rejected, action="rejected", query="restaurant food cinematic strong edit")
+    profile = memory.load_profile()
+    hints = profile.parameter_hints()
+    ok = (
+        profile.event_count == 2
+        and profile.channel_weights.get("personalized", 1.0) > 1.0
+        and profile.channel_weights.get("trend", 1.0) < 1.0
+        and profile.preferences.get("natural", 0.0) > 0.0
+        and profile.preferences.get("cinematic", 0.0) < 0.0
+        and bool(hints)
+    )
+    return {
+        "ok": ok,
+        "event_count": profile.event_count,
+        "personalized_weight": profile.channel_weights.get("personalized", 1.0),
+        "top_hints": hints[:3],
+    }
+
+
 def run_pipeline(graph_path: Path, eval_path: Path, min_top1: float, source_graph_path: Path = DEFAULT_SOURCE_GRAPH_PATH) -> dict:
     raw = validate_raw()
     graph = validate_graph(graph_path)
     bridge = validate_bridge(graph_path, source_graph_path)
+    learning = validate_learning_loop()
     matcher_eval = evaluate(eval_path, graph_path, top_k=5)
-    ok = raw["ok"] and graph["ok"] and bridge["ok"] and matcher_eval["top1_accuracy"] >= min_top1
+    ok = raw["ok"] and graph["ok"] and bridge["ok"] and learning["ok"] and matcher_eval["top1_accuracy"] >= min_top1
     return {
         "ok": ok,
         "raw": raw,
         "graph": graph,
         "bridge": bridge,
+        "learning_loop": learning,
         "matcher_eval": {
             "total": matcher_eval["total"],
             "top1_accuracy": matcher_eval["top1_accuracy"],
@@ -146,6 +187,11 @@ def main(argv: list[str] | None = None) -> int:
             "bridge coverage: "
             f"{report['bridge']['linked_scenario_count']} / {report['bridge']['scenario_count']} "
             f"(external evidence: {report['bridge']['external_evidence_count']})"
+        )
+        print(
+            "learning loop: "
+            f"events={report['learning_loop']['event_count']} "
+            f"personalized_weight={report['learning_loop']['personalized_weight']:.3f}"
         )
         print(f"matcher top1/top3: {report['matcher_eval']['top1_accuracy']:.3f} / {report['matcher_eval']['top3_accuracy']:.3f}")
         if report["matcher_eval"]["misses"]:

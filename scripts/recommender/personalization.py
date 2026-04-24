@@ -42,6 +42,8 @@ TAG_TO_PREFERENCE = {
     "soft": {"contrast": -0.15, "skin_retouch": 0.1},
 }
 
+HINT_THRESHOLD = 0.05
+
 
 @dataclass
 class FeedbackEvent:
@@ -138,19 +140,19 @@ class UserPreferenceProfile:
     def parameter_hints(self) -> list[str]:
         hints: list[str] = []
         prefs = self.preferences
-        if prefs.get("warmth", 0) > 0.15:
+        if prefs.get("warmth", 0) > HINT_THRESHOLD:
             hints.append("따뜻한 색을 선호하므로 Temp/Tint는 과하지 않게 따뜻한 쪽에서 시작")
-        if prefs.get("warmth", 0) < -0.15:
+        if prefs.get("warmth", 0) < -HINT_THRESHOLD:
             hints.append("차분한 색을 선호하므로 노란 조명은 WB로 중립에 가깝게 정리")
-        if prefs.get("natural", 0) > 0.15 or prefs.get("edit_strength", 0) < -0.15:
+        if prefs.get("natural", 0) > HINT_THRESHOLD or prefs.get("edit_strength", 0) < -HINT_THRESHOLD:
             hints.append("자연스러운 결과를 선호하므로 보정 강도는 기본값의 50~70%부터 적용")
-        if prefs.get("cinematic", 0) > 0.15:
+        if prefs.get("cinematic", 0) > HINT_THRESHOLD:
             hints.append("시네마틱 취향이 강하므로 shadows는 약간 차갑게, highlights는 따뜻하게 분리")
-        if prefs.get("grain", 0) > 0.15:
+        if prefs.get("grain", 0) > HINT_THRESHOLD:
             hints.append("필름/입자 취향이 있어 Grain +10~+25 범위를 후보로 유지")
-        if prefs.get("skin_retouch", 0) < -0.15:
+        if prefs.get("skin_retouch", 0) < -HINT_THRESHOLD:
             hints.append("피부 보정 티를 싫어하므로 Texture 감소는 -5~-10 이내로 제한")
-        if prefs.get("background_cleanup", 0) > 0.15:
+        if prefs.get("background_cleanup", 0) > HINT_THRESHOLD:
             hints.append("깔끔한 배경 선호가 있어 배경 채도/선명도를 낮추는 variant를 우선")
         return hints
 
