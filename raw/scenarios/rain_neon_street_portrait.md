@@ -11,6 +11,12 @@ scenario_tags:
   - "portrait"
   - "moody"
   - "reflection"
+aliases:
+  - "비 오는 밤 네온"
+  - "네온 커플 사진"
+  - "야간 거리 인물"
+  - "네온 얼굴 어두움"
+  - "rain neon portrait"
 graph_nodes:
   - "subject:person"
   - "environment:rain_neon_street"

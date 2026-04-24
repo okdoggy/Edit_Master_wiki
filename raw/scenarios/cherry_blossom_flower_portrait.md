@@ -10,6 +10,12 @@ scenario_tags:
   - "portrait"
   - "airy"
   - "pink"
+aliases:
+  - "벚꽃 인물"
+  - "꽃나무 아래 프로필"
+  - "봄 핑크 보정"
+  - "벚꽃 사진 밝게"
+  - "cherry blossom portrait"
 graph_nodes:
   - "subject:person"
   - "environment:flower_tree"

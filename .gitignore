@@ -4,6 +4,10 @@
 .omx/
 .graphify_incremental.json
 
+# Python runtime
+__pycache__/
+*.py[cod]
+
 # graphify transient/cache files
 graphify-out/cache/
 graphify-out/.graphify_*

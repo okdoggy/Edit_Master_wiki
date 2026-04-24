@@ -4,6 +4,12 @@ category: "scenarios"
 content_type: "graphify_ready_actionable_recipe"
 updated_at: "2026-04-17"
 scenario_tags: ["fashion", "ootd", "portrait", "full-body", "instagram"]
+aliases:
+  - "골목 OOTD"
+  - "전신 사진 다리 짧아보임"
+  - "옷 색 살리는 사진"
+  - "패션 전신 인물"
+  - "full body outfit portrait"
 graph_nodes:
   - "subject:person"
   - "subject:fashion_outfit"

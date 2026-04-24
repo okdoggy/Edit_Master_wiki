@@ -9,6 +9,12 @@ scenario_tags:
   - "landscape"
   - "scale"
   - "storytelling"
+aliases:
+  - "여행 골든아워"
+  - "풍경 속 사람 작게"
+  - "여행지 스케일 사진"
+  - "wide detail scale"
+  - "golden hour travel"
 graph_nodes:
   - "subject:traveler"
   - "environment:landmark"

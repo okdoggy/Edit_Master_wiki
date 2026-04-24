@@ -9,6 +9,12 @@ scenario_tags:
   - "low-light"
   - "telephoto"
   - "performance"
+aliases:
+  - "콘서트 사진"
+  - "무대 멀리 있는 가수"
+  - "공연장 얼굴 뭉개짐"
+  - "무대 조명 날아감"
+  - "concert stage low light"
 graph_nodes:
   - "subject:performer"
   - "environment:stage"

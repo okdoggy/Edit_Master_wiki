@@ -4,6 +4,12 @@ category: "scenarios"
 content_type: "graphify_ready_actionable_recipe"
 updated_at: "2026-04-17"
 scenario_tags: ["selfie", "profile", "portrait", "front-camera", "skin-tone"]
+aliases:
+  - "셀카 프로필"
+  - "얼굴 왜곡 적은 셀카"
+  - "자연스러운 프로필 사진"
+  - "전면 카메라 인물"
+  - "natural selfie profile"
 graph_nodes:
   - "subject:selfie_person"
   - "camera:front_camera"

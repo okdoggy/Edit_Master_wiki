@@ -10,6 +10,12 @@ scenario_tags:
   - "summer"
   - "travel"
   - "blue-orange"
+aliases:
+  - "해변 역광 인물"
+  - "휴양지 인물 사진"
+  - "바다에서 인물 보정"
+  - "여름 여행 프로필"
+  - "beach backlit portrait"
 graph_nodes:
   - "subject:person"
   - "environment:beach"

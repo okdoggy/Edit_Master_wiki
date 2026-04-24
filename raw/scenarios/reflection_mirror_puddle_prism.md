@@ -10,6 +10,12 @@ scenario_tags:
   - "prism"
   - "creative"
   - "sns"
+aliases:
+  - "웅덩이 반사"
+  - "프리즘 사진"
+  - "창의적 반사 사진"
+  - "거울 반사 컷"
+  - "creative reflection photo"
 graph_nodes:
   - "subject:person_or_city"
   - "prop:mirror_prism_puddle"

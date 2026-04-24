@@ -9,6 +9,12 @@ scenario_tags:
   - "skyline"
   - "burst"
   - "long-exposure"
+aliases:
+  - "불꽃놀이 사진"
+  - "불꽃 하이라이트 날림"
+  - "스카이라인 불꽃놀이"
+  - "밤하늘 불꽃 연사"
+  - "fireworks skyline"
 graph_nodes:
   - "subject:fireworks"
   - "environment:night_skyline"

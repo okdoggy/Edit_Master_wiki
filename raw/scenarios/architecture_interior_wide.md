@@ -9,6 +9,12 @@ scenario_tags:
   - "ultrawide"
   - "geometry"
   - "travel"
+aliases:
+  - "실내 공간 넓게 찍기"
+  - "건축 사진 왜곡"
+  - "초광각 실내"
+  - "수직선 기울어짐"
+  - "architecture ultrawide distortion"
 graph_nodes:
   - "subject:building_or_room"
   - "environment:interior"

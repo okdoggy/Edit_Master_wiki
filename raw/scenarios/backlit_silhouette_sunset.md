@@ -9,6 +9,12 @@ scenario_tags:
   - "backlight"
   - "couple"
   - "travel"
+aliases:
+  - "노을 실루엣"
+  - "해질녘 커플 사진"
+  - "역광 감성 사진"
+  - "노을 인물 어둡게"
+  - "sunset silhouette portrait"
 graph_nodes:
   - "subject:person_or_couple"
   - "environment:sunset"

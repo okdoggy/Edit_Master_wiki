@@ -9,6 +9,12 @@ scenario_tags:
   - "portrait"
   - "influencer"
   - "soft-light"
+aliases:
+  - "카페 창가 인물"
+  - "창가 프로필 사진"
+  - "얼굴 한쪽 어두움"
+  - "배경 지저분 카페"
+  - "cafe window portrait"
 graph_nodes:
   - "subject:person"
   - "environment:cafe_window"

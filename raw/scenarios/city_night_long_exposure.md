@@ -9,6 +9,12 @@ scenario_tags:
   - "traffic-trails"
   - "skyline"
   - "tripod"
+aliases:
+  - "도시 야경 장노출"
+  - "차 불빛 궤적"
+  - "스카이라인 야경"
+  - "폰으로 장노출"
+  - "city night long exposure"
 graph_nodes:
   - "subject:city_lights"
   - "environment:night_city"

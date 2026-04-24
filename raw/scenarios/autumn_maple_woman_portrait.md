@@ -11,6 +11,12 @@ scenario_tags:
   - "foliage"
   - "golden-hour"
   - "personalization-seed"
+aliases:
+  - "단풍 인물"
+  - "가을 프로필 사진"
+  - "단풍나무 아래 여자"
+  - "가을 색감 보정"
+  - "autumn foliage portrait"
 graph_nodes:
   - "subject:woman"
   - "environment:autumn_maple_tree"

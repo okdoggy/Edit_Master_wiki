@@ -10,6 +10,12 @@ scenario_tags:
   - "food"
   - "documentary"
   - "story"
+aliases:
+  - "시장 음식 사진"
+  - "길거리 음식 스토리"
+  - "음식과 손 같이 찍기"
+  - "여행 먹거리 기록"
+  - "street food story"
 graph_nodes:
   - "subject:street_food"
   - "environment:market"

@@ -9,6 +9,12 @@ scenario_tags:
   - "leaves"
   - "bokeh"
   - "nature"
+aliases:
+  - "꽃 접사"
+  - "잎사귀 매크로"
+  - "배경 흐림 꽃 사진"
+  - "초점 가까운 꽃"
+  - "flower macro bokeh"
 graph_nodes:
   - "subject:flower_or_leaf"
   - "environment:nature"

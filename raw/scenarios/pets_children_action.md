@@ -10,6 +10,12 @@ scenario_tags:
   - "burst"
   - "live-photo"
   - "outdoor"
+aliases:
+  - "강아지 뛰는 사진"
+  - "아이 뛰는 사진"
+  - "반려동물 흔들림"
+  - "연사로 순간 포착"
+  - "pet action photo"
 graph_nodes:
   - "subject:kids_or_pets"
   - "motion:fast"

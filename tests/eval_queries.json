@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01_cafe_window_portrait",
+    "query": "카페 창가에서 친구 프로필 사진을 찍었는데 얼굴 한쪽이 어둡고 뒤 테이블이 지저분해요. 다시 찍는다면 구도랑 보정을 어떻게 하면 좋을까요?",
+    "expected_scenario": "scenario_window_light_cafe_portrait",
+    "intent": "창가 인물, 얼굴 노출, 배경 정리, 자연스러운 프로필"
+  },
+  {
+    "id": "02_rain_neon_couple",
+    "query": "비 오는 밤 네온 간판 앞에서 커플 사진을 찍었는데 얼굴은 어둡고 네온만 너무 튀어요. 트렌디하지만 얼굴도 살리는 방법이 있을까요?",
+    "expected_scenario": "scenario_rain_neon_street_portrait",
+    "intent": "비/네온/야간 인물, 얼굴 보정, moody cinematic"
+  },
+  {
+    "id": "03_dim_restaurant_food",
+    "query": "어두운 레스토랑에서 파스타 사진을 찍었는데 노랗고 흐릿해요. 플래시 없이 맛있어 보이게 찍고 보정하는 방법이 궁금해요.",
+    "expected_scenario": "scenario_dim_restaurant_food",
+    "intent": "음식 저조도, 화이트밸런스, 질감, 플래시 회피"
+  },
+  {
+    "id": "04_noon_beach_portrait",
+    "query": "한낮 해변에서 인물 사진을 찍으면 얼굴에 그림자가 세고 하늘은 날아가요. 어떤 렌즈와 보정이 나을까요?",
+    "expected_scenario": "scenario_harsh_noon_beach_portrait",
+    "intent": "한낮 해변 인물, 강한 빛, 하늘/얼굴 균형"
+  },
+  {
+    "id": "05_ootd_alley",
+    "query": "골목에서 전신 OOTD를 찍었는데 다리가 짧아 보이고 옷 색보다 배경이 더 튀어요. 어떻게 찍어야 할까요?",
+    "expected_scenario": "scenario_fashion_ootd_portrait",
+    "intent": "패션 전신, 왜곡, 옷 색 우선, 배경 절제"
+  },
+  {
+    "id": "06_concert_stage",
+    "query": "콘서트장에서 멀리 있는 가수를 폰으로 찍었는데 조명은 다 날아가고 얼굴은 뭉개져요. 그래도 건질 방법이 있을까요?",
+    "expected_scenario": "scenario_concert_stage_low_light",
+    "intent": "무대 저조도, 망원, 하이라이트 보호, 노이즈"
+  },
+  {
+    "id": "07_snow_family",
+    "query": "눈 오는 날 가족 사진을 찍었는데 눈이 회색이고 얼굴은 칙칙해 보여요. 겨울 느낌은 살리면서 깨끗하게 보정하고 싶어요.",
+    "expected_scenario": "scenario_snow_portrait_clean_winter",
+    "intent": "눈/겨울 인물, 하이키, WB, 얼굴 톤"
+  },
+  {
+    "id": "08_pet_running",
+    "query": "강아지가 뛰어오는 사진을 찍고 싶은데 매번 흔들려요. 휴대폰으로 생동감 있게 찍으려면 어떻게 해야 하나요?",
+    "expected_scenario": "scenario_pets_children_action",
+    "intent": "반려동물 액션, 연사/영상, 눈높이, 흔들림 방지"
+  },
+  {
+    "id": "09_cafe_flatlay_dessert",
+    "query": "카페에서 디저트랑 커피를 위에서 찍었는데 테이블이 삐뚤고 접시가 왜곡돼 보여요. 예쁜 플랫레이로 찍는 방법이 궁금해요.",
+    "expected_scenario": "scenario_cafe_flatlay_dessert",
+    "intent": "플랫레이 음식, 그리드/수평, 1x/0.5x, 색감"
+  },
+  {
+    "id": "10_city_window_reflection",
+    "query": "도시 야경을 유리창 반사와 같이 찍고 싶은데 반사가 지저분하고 사진이 산만해요. 더 감성적으로 만드는 방법이 있을까요?",
+    "expected_scenario": "scenario_city_window_reflection",
+    "intent": "도시 반사/유리/네온, 창의적 반사, 하이라이트 제어"
+  }
+]

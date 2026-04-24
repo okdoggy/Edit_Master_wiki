@@ -9,6 +9,12 @@ scenario_tags:
   - "portrait"
   - "high-key"
   - "white-balance"
+aliases:
+  - "눈 오는 날 인물"
+  - "설경 가족 사진"
+  - "눈이 회색으로 나옴"
+  - "겨울 하이키 보정"
+  - "snow portrait clean winter"
 graph_nodes:
   - "subject:person"
   - "environment:snow"

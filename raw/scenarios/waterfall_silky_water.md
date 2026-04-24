@@ -9,6 +9,12 @@ scenario_tags:
   - "long-exposure"
   - "nature"
   - "tripod"
+aliases:
+  - "폭포 장노출"
+  - "계곡 물결 부드럽게"
+  - "Live 효과 물 사진"
+  - "흐르는 물 사진"
+  - "waterfall silky water"
 graph_nodes:
   - "subject:waterfall"
   - "environment:nature"

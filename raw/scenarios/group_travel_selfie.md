@@ -9,6 +9,12 @@ scenario_tags:
   - "travel"
   - "wide"
   - "portrait"
+aliases:
+  - "단체 셀피"
+  - "여행 그룹샷"
+  - "셀카 얼굴 왜곡"
+  - "친구 단체사진"
+  - "group travel selfie"
 graph_nodes:
   - "subject:group"
   - "environment:travel_landmark"

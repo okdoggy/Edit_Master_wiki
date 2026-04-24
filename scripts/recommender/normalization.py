@@ -1,0 +1,173 @@
+"""Lightweight multilingual normalization for scene-query matching.
+
+This module deliberately stays dependency-free so it can run inside GitHub
+Actions, local launchd jobs, and ad-hoc Codex checks without setup.
+"""
+
+from __future__ import annotations
+
+import re
+import unicodedata
+from dataclasses import dataclass, field
+
+
+TOKEN_RE = re.compile(r"[a-z0-9가-힣]+")
+
+
+@dataclass(frozen=True)
+class QuerySlots:
+    when: set[str] = field(default_factory=set)
+    who: set[str] = field(default_factory=set)
+    where: set[str] = field(default_factory=set)
+    what: set[str] = field(default_factory=set)
+    how: set[str] = field(default_factory=set)
+    issues: set[str] = field(default_factory=set)
+    preferences: set[str] = field(default_factory=set)
+
+    def as_dict(self) -> dict[str, list[str]]:
+        return {
+            "when": sorted(self.when),
+            "who": sorted(self.who),
+            "where": sorted(self.where),
+            "what": sorted(self.what),
+            "how": sorted(self.how),
+            "issues": sorted(self.issues),
+            "preferences": sorted(self.preferences),
+        }
+
+    @property
+    def filled_slot_count(self) -> int:
+        return sum(1 for values in (self.when, self.who, self.where, self.what, self.how) if values)
+
+
+def normalize_text(value: str) -> str:
+    """Return a normalized query string while preserving Korean tokens."""
+
+    value = unicodedata.normalize("NFKC", value or "").casefold()
+    value = value.replace("×", "x")
+    value = re.sub(r"[_/|·•]+", " ", value)
+    value = re.sub(r"([0-9])\s*배", r"\1x", value)
+    value = re.sub(r"\s+", " ", value)
+    return value.strip()
+
+
+def tokenize(value: str) -> set[str]:
+    return set(TOKEN_RE.findall(normalize_text(value)))
+
+
+SLOT_PATTERNS: dict[str, dict[str, tuple[str, ...]]] = {
+    "when": {
+        "time:day": ("낮", "주간", "day", "daytime", "afternoon"),
+        "time:noon": ("정오", "한낮", "noon", "midday", "harsh sun"),
+        "time:night": ("밤", "야간", "저조도", "어두운", "night", "low light", "after dark", "dim"),
+        "time:golden_hour": ("골든아워", "노을", "해질녘", "sunset", "golden hour"),
+        "season:spring": ("봄", "벚꽃", "spring", "cherry blossom"),
+        "season:summer": ("여름", "summer"),
+        "season:autumn": ("가을", "단풍", "autumn", "fall", "maple"),
+        "season:winter": ("겨울", "눈", "snow", "winter"),
+        "weather:rain": ("비", "비오는", "rain", "rainy", "wet"),
+    },
+    "who": {
+        "device:iphone": ("아이폰", "iphone", "ios"),
+        "device:galaxy": ("갤럭시", "삼성폰", "samsung", "galaxy"),
+        "device:pixel": ("픽셀", "google pixel", "pixel"),
+        "app:lightroom": ("라이트룸", "lightroom", "lr"),
+        "app:photoshop": ("포토샵", "photoshop", "ps"),
+    },
+    "where": {
+        "place:cafe": ("카페", "커피숍", "cafe", "coffee shop"),
+        "place:cafe_window": ("카페 창가", "창가", "cafe window", "window light"),
+        "place:restaurant": ("식당", "레스토랑", "restaurant", "dining"),
+        "place:street": ("거리", "골목", "street", "alley"),
+        "place:rain_neon_street": ("네온 거리", "네온 간판", "neon street", "neon sign"),
+        "place:beach": ("해변", "바다", "beach", "seaside"),
+        "place:museum": ("미술관", "전시", "전시회", "museum", "gallery"),
+        "place:market": ("시장", "마켓", "market", "street food"),
+        "place:landmark": ("관광지", "랜드마크", "명소", "landmark", "tourist"),
+        "place:mirror": ("거울", "엘리베이터", "mirror", "elevator"),
+        "place:city_window": ("유리창 야경", "창문에 비친", "city window", "window reflection"),
+        "place:stage": ("콘서트", "공연", "무대", "concert", "stage"),
+        "place:snow": ("눈 오는", "설경", "snowy"),
+        "place:home": ("집", "홈", "home", "studio"),
+    },
+    "what": {
+        "intent:portrait": ("인물", "프로필", "portrait", "profile"),
+        "intent:couple_portrait": ("커플", "couple"),
+        "intent:selfie": ("셀카", "selfie"),
+        "intent:ootd": ("ootd", "전신", "패션", "옷", "outfit"),
+        "intent:food": ("음식", "파스타", "디저트", "케이크", "라떼", "브런치", "food", "pasta", "dessert", "cake", "latte"),
+        "intent:flatlay": ("플랫레이", "위에서", "탑뷰", "flatlay", "flat lay", "top view", "top-down"),
+        "intent:drink_dessert_closeup": ("접사", "클로즈업", "거품", "질감", "closeup", "close-up", "macro"),
+        "intent:product_listing": ("제품", "상품", "중고거래", "썸네일", "product", "listing", "marketplace"),
+        "intent:pets_kids": ("강아지", "반려동물", "아이", "pet", "dog", "kid", "child"),
+        "intent:city_lights": ("야경", "도시", "city lights", "night city"),
+        "intent:reflection": ("반사", "비친", "reflection", "reflected"),
+        "intent:trendy_style": ("트렌디", "요즘", "유행", "sns", "instagram", "인스타", "viral"),
+        "intent:story": ("스토리", "다큐", "documentary", "story"),
+    },
+    "how": {
+        "lens_mode:0_5x": ("0.5x", "초광각", "ultrawide", "wide"),
+        "lens_mode:1x": ("1x", "기본렌즈"),
+        "lens_mode:2x": ("2x", "2배", "망원", "telephoto"),
+        "lens_mode:3x_5x": ("3x", "5x", "멀리", "줌", "zoom"),
+        "mode:portrait": ("인물모드", "portrait mode"),
+        "mode:night": ("야간모드", "night mode"),
+        "mode:pro": ("프로모드", "pro mode", "raw", "proraw", "expert raw"),
+        "mode:burst": ("연사", "버스트", "burst", "live photo", "video still"),
+        "edit:mask": ("마스크", "mask", "subject mask"),
+        "edit:white_balance": ("화이트밸런스", "wb", "white balance"),
+        "edit:crop": ("크롭", "crop", "4:5", "9:16"),
+    },
+    "issues": {
+        "issue:underexposed_face": ("얼굴 어둡", "얼굴이 어둡", "얼굴은 어둡", "얼굴 한쪽", "칙칙", "face dark", "underexposed face", "shadow on face"),
+        "issue:busy_background": ("배경 지저분", "배경이 지저분", "뒤 테이블", "사람 많", "산만", "busy background", "cluttered"),
+        "issue:blown_highlights": ("하늘 날아", "하이라이트", "네온만 너무", "날아가", "blown", "clipping"),
+        "issue:mixed_white_balance": ("노랗", "색이 틀", "화이트밸런스", "yellow", "mixed light", "color cast"),
+        "issue:motion_blur": ("흐릿", "흔들", "blur", "blurry", "motion blur"),
+        "issue:tilted_horizon": ("삐뚤", "수평", "tilted", "crooked"),
+        "issue:edge_distortion": ("왜곡", "비율 이상", "다리 짧", "distortion", "proportion"),
+        "issue:dirty_reflection": ("반사가 지저분", "dirty mirror", "messy reflection"),
+        "issue:macro_focus": ("초점 안", "접사 초점", "focus miss", "macro focus"),
+    },
+    "preferences": {
+        "pref:warm": ("따뜻", "warm"),
+        "pref:natural": ("자연스럽", "natural", "no filter"),
+        "pref:cinematic": ("시네마틱", "cinematic", "moody"),
+        "pref:clean": ("깔끔", "깨끗", "clean"),
+        "pref:film": ("필름", "grain", "그레인", "nostalgia"),
+        "pref:low_retouch": ("보정 티", "티 안", "low retouch", "subtle"),
+    },
+}
+
+
+def _contains_phrase(text: str, phrase: str) -> bool:
+    normalized_phrase = normalize_text(phrase)
+    if not normalized_phrase:
+        return False
+    return normalized_phrase in text
+
+
+def extract_slots(query: str) -> QuerySlots:
+    text = normalize_text(query)
+    values: dict[str, set[str]] = {key: set() for key in SLOT_PATTERNS}
+    for slot, mapping in SLOT_PATTERNS.items():
+        for canonical, phrases in mapping.items():
+            if any(_contains_phrase(text, phrase) for phrase in phrases):
+                values[slot].add(canonical)
+    return QuerySlots(
+        when=values["when"],
+        who=values["who"],
+        where=values["where"],
+        what=values["what"],
+        how=values["how"],
+        issues=values["issues"],
+        preferences=values["preferences"],
+    )
+
+
+def canonical_terms_for_text(value: str) -> set[str]:
+    terms = tokenize(value)
+    slots = extract_slots(value)
+    for values in slots.as_dict().values():
+        terms.update(values)
+    return terms

@@ -130,13 +130,21 @@
 ## 온라인 자동 수집 — GitHub Actions
 
 - 워크플로: `.github/workflows/hourly-raw-collector.yml`
-- 실행 주기: GitHub Actions `schedule`로 매시간 17분에 실행 (`17 * * * *`)
+- 현재 상태: 자동 schedule은 꺼져 있고 `workflow_dispatch` 수동 실행만 켜져 있음
 - 수동 실행: GitHub Actions 탭에서 `Hourly raw collector` → `Run workflow`
 - 누적 방식: 새 raw content/index 변경이 있을 때만 `automation/hourly-raw-collector` 브랜치에 commit/push
 - 리뷰 방식: GitHub Actions가 `Review hourly raw photo-technique updates` PR을 생성하거나 기존 PR을 업데이트
-- main 보호 원칙: scheduled workflow는 `main`에 직접 push하지 않음. 사람이 PR을 검토/merge해야 canonical raw에 반영됨
+- main 보호 원칙: 자동/수동 workflow는 `main`에 직접 push하지 않음. 사람이 PR을 검토/merge해야 canonical raw에 반영됨
 - 빈 실행 처리: 새 raw 파일 없이 `hourly_collection_state.json`만 바뀐 경우는 commit하지 않음
-- 주의: GitHub scheduled workflow는 GitHub 큐 상황에 따라 지연될 수 있고, public repo는 장기간 활동이 없으면 schedule이 비활성화될 수 있음
+- schedule을 다시 켤 경우 GitHub 큐 상황에 따라 지연될 수 있고, public repo는 장기간 활동이 없으면 schedule이 비활성화될 수 있음
 
 로컬 macOS LaunchAgent는 Mac이 켜져 있을 때만 동작하는 fallback이다. 온라인 누적이 목적이면 GitHub Actions를 우선 사용하되, raw 결과는 PR 리뷰 후 main에 병합한다.
+
+## Learnable Agent 런타임 — 2026-04-24
+
+- 실행 파이프라인: `raw/recommendation/agent_runtime_pipeline.md`
+- 개인화 학습 스키마: `raw/recommendation/personalization_learning_schema.md`
+- 이미지 facet 추출 계약: `raw/recommendation/image_facet_extraction_contract.md`
+- 회귀 평가셋: `tests/eval_queries.json`
+- 검증 명령: `scripts/agent_pipeline.py`
 
