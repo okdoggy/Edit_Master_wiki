@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_ai_assisted_masking_mobile.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_4
 ---
 
 # helpx.adobe.com/edit-photos-mobile-ios.html
@@ -50,4 +50,4 @@ tags:
 - [[폭포·계곡 물결 — 장노출Live 효과 688234]] - `SUPPORTED_BY` [EXTRACTED]
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

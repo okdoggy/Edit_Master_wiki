@@ -1,11 +1,11 @@
 ---
 source_file: "raw/manifests/source_matrix.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes
 ---
 
 # skillshare.com/1195481754
@@ -14,4 +14,4 @@ tags:
 - [[Dan Rubin]] - `SUPPORTED_BY` [EXTRACTED]
 - [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/techradar_android_photography_tips.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # TechRadar — Android phone photography tips
@@ -31,4 +31,4 @@ tags:
 - [[출처 ff2a30]] - `HAS_SECTION` [EXTRACTED]
 - [[프로설정]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

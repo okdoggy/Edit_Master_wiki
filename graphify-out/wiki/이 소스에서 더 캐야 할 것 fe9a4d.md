@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/petapixel_10_smartphone_tips.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_2
 ---
 
 # 이 소스에서 더 캐야 할 것 [fe9a4d]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[PetaPixel — 10 tips and tricks for better smartphone photos]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

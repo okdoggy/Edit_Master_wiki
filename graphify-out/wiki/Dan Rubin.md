@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/dan_rubin.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes
 ---
 
 # Dan Rubin
@@ -29,4 +29,4 @@ tags:
 - [[출처 c1271f]] - `HAS_SECTION` [EXTRACTED]
 - [[프리셋]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

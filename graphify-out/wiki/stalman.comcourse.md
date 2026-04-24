@@ -1,11 +1,11 @@
 ---
 source_file: "raw/manifests/source_matrix.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_11
 ---
 
 # stalman.com/course
@@ -15,4 +15,4 @@ tags:
 - [[Tyler Stalman]] - `SUPPORTED_BY` [EXTRACTED]
 - [[Tyler Stalman YouTube]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11

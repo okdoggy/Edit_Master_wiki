@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/backlit_silhouette_sunset.md"
 type: "document"
-community: "Trends & Recipes 10"
+community: "Trends & Recipes 6"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_10
+  - community/Trends_&_Recipes_6
 ---
 
 # negative exposure
@@ -14,4 +14,4 @@ tags:
 - [[sky 0063ca]] - `PROTECTS` [EXTRACTED]
 - [[노을 실루엣 — 감성 여행커플인물 67c933]] - `USES_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6

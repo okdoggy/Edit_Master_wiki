@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/digital_camera_world_mobile_tips.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes 13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes_13
 ---
 
 # SNS [ef79a4]
@@ -17,4 +17,4 @@ tags:
 - [[Jordi Koalitic  Koalitic Visuals]] - `MENTIONS_TAG` [EXTRACTED]
 - [[Jordi Koalitic YouTube  Shorts]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13

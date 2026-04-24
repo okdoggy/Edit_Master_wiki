@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/selfie_profile_portrait.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Scenarios Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Scenarios_Sources
 ---
 
 # Graphify 추출 힌트 [0002f1]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[셀카Profile — 왜곡 적고 자연스러운 얼굴 추천 seed 187142]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/petapixel_masks_lightroom_mobile.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # Tip 3. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 [1c155c]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[PetaPixel — Editing with masks in Lightroom Mobile]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

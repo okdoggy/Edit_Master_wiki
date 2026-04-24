@@ -13,7 +13,6 @@ tags:
 ## Connections
 - [[Additional techniquetrend guides — 2026-04-17]] - `HAS_SECTION` [EXTRACTED]
 - [[Graphify scenario corpus — 2026-04-17]] - `HAS_SECTION` [EXTRACTED]
-- [[Hourly incremental internet sources]] - `HAS_SECTION` [EXTRACTED]
 - [[Incremental sources — 2026-04-18 (new external domains)]] - `HAS_SECTION` [EXTRACTED]
 - [[adobe.comai-assisted-masking-lightroom-mobile]] - `SUPPORTED_BY` [EXTRACTED]
 - [[adobe.comcolor-adjustment]] - `SUPPORTED_BY` [EXTRACTED]
@@ -27,7 +26,6 @@ tags:
 - [[digitalcameraworld.commobile-photography-tips]] - `SUPPORTED_BY` [EXTRACTED]
 - [[digitalcameraworld.comyou-have-to-see-these-incredible-guitar-images-shot-on-a-smartpho...85b69480]] - `SUPPORTED_BY` [EXTRACTED]
 - [[english.elpais.comhow-to-get-the-most-out-of-cellphone-photo-editing-tips-from-professi...de04bf3d]] - `SUPPORTED_BY` [EXTRACTED]
-- [[fstoppers.comproper-camera-settings-travel-and-street-photography-901681]] - `SUPPORTED_BY` [EXTRACTED]
 - [[fstoppers.comunlock-powerful-photo-edits-anywhere-lightroom-mobile-696778]] - `SUPPORTED_BY` [EXTRACTED]
 - [[helpx.adobe.comedit-photos-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[helpx.adobe.comin-app-learning-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
@@ -46,7 +44,6 @@ tags:
 - [[petapixel.comhow-to-edit-with-masks-in-lightroom-mobile]] - `SUPPORTED_BY` [EXTRACTED]
 - [[phlearn.comintro-to-lightroom-mobile]] - `SUPPORTED_BY` [EXTRACTED]
 - [[photography.tutsplus.comhow-to-shoot-raw-photos-with-lightroom-mobiles-camera--cms-37089]] - `SUPPORTED_BY` [EXTRACTED]
-- [[reddit.comi_made_a_quick_breakdown_of_how_i_edit_moody]] - `SUPPORTED_BY` [EXTRACTED]
 - [[samsung.comANS10001353]] - `SUPPORTED_BY` [EXTRACTED]
 - [[samsung.commaster-low-light-photography-with-galaxy]] - `SUPPORTED_BY` [EXTRACTED]
 - [[santafeworkshops.comdigital-printing]] - `SUPPORTED_BY` [EXTRACTED]

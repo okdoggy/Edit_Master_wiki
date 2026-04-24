@@ -54,7 +54,7 @@ urls:
 - `urls`: 공식 문서, 전문 튜토리얼, creator/community 근거
 - 본문: 상황, 촬영법, 보정법, 주의점, 근거
 
-자동 수집은 `scripts/collect_hourly_raw.py`를 사용합니다. 자동 수집 결과는 바로 canonical 지식으로 믿지 말고, `raw/hourly/`에 쌓은 뒤 사람이 검수해서 scenario, trend, technique 문서로 승격하는 흐름이 좋습니다.
+현재는 hourly 자동 수집을 사용하지 않습니다. 새 raw는 사람이 검수한 뒤 `raw/scenarios/`, `raw/trends/`, `raw/techniques/`, `raw/lightroom/`, `raw/magazine/`, `raw/sns/`, `raw/youtube/`처럼 목적이 분명한 폴더에 직접 추가합니다.
 
 검증:
 

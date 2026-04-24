@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/dan_rubin.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes
 ---
 
 # instagram.com/danrubin
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dan Rubin]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/fashion_ootd_portrait.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes_3
 ---
 
 # clean influencer
@@ -15,4 +15,4 @@ tags:
 - [[카페 창가 인물 — 자연광인플루언서 프로필 2cc46c]] - `SUPPORTS_STYLE` [EXTRACTED]
 - [[패션OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed e84e93]] - `SUPPORTS_STYLE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

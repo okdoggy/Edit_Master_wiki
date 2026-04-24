@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # RAW/DNG + Adaptive Profile로 시작하기 [840667]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Digital Camera World — Get started with Lightroom Mobile]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

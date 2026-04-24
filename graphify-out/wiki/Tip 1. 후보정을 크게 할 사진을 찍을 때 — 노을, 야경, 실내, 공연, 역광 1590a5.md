@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/tyler_stalman.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_11
 ---
 
 # Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 [1590a5]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Tyler Stalman]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/google_pixel_camera_coach.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # Google Blog — Pixel Camera Coach
@@ -43,4 +43,4 @@ tags:
 - [[카메라코치]] - `MENTIONS_TAG` [EXTRACTED]
 - [[픽셀]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

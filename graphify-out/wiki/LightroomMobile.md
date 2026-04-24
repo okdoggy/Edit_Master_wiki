@@ -1,18 +1,16 @@
 ---
-source_file: "raw/hourly/2026-04-18-2224-made-quick-breakdown-edit-moody-night-photos-lightroom-tips.md"
+source_file: "raw/trends/portrait_travel_editing_styles.md"
 type: "document"
-community: "Evidence Sources 3"
+community: "Trends & Recipes 5"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_3
+  - community/Trends_&_Recipes_5
 ---
 
 # LightroomMobile
 
 ## Connections
-- [[Hourly SNSCommunity Photo Technique Sweep — 2026-04-18 2224 KST]] - `MENTIONS_TAG` [EXTRACTED]
-- [[Hourly SNSCommunity Photo Technique Sweep — 2026-04-18 2226 KST]] - `MENTIONS_TAG` [EXTRACTED]
 - [[인물·여행 사진 보정 스타일별 Lightroom Mobile 레시피]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5

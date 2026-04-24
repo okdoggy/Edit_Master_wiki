@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/amateur_photographer_android_tips.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # Amateur Photographer — Android camera photography tips
@@ -32,4 +32,4 @@ tags:
 - [[촬영버튼]] - `MENTIONS_TAG` [EXTRACTED]
 - [[출처 6009ad]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

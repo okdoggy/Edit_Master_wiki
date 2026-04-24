@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/cooph_youtube.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_2
 ---
 
 # COOPH — 집에서 찍는 여행 샷 / 미니어처 비행기
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[COOPH]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

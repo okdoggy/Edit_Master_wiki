@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/graphify_recommendation_schema.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 9"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_9
 ---
 
 # business.adobe.com/creative-trends-report.html
@@ -16,4 +16,4 @@ tags:
 - [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - `SUPPORTED_BY` [EXTRACTED]
 - [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9

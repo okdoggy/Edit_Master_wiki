@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_in_app_learning_community_ios.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # Adobe Help — In-app learning and inspiration / Community
@@ -36,4 +36,4 @@ tags:
 - [[프리셋]] - `MENTIONS_TAG` [EXTRACTED]
 - [[프리셋저장]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

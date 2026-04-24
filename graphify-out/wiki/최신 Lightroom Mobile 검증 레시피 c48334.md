@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # 최신 Lightroom Mobile 검증 레시피 [c48334]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Fstoppers — Powerful edits anywhere with Lightroom Mobile]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

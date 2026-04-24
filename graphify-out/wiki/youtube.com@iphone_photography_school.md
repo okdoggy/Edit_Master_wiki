@@ -1,11 +1,11 @@
 ---
 source_file: "raw/manifests/source_matrix.md"
 type: "document"
-community: "Trends & Recipes 9"
+community: "Trends & Recipes 10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_9
+  - community/Trends_&_Recipes_10
 ---
 
 # youtube.com/@iphone_photography_school
@@ -15,4 +15,4 @@ tags:
 - [[iPhone Photography School  Emil Pakarklis]] - `SUPPORTED_BY` [EXTRACTED]
 - [[iPhone Photography School YouTube]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10

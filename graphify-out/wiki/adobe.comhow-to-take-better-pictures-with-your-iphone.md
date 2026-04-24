@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/apple_support_night_mode.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # adobe.com/how-to-take-better-pictures-with-your-iphone
@@ -18,4 +18,4 @@ tags:
 - [[스마트폰 음식 사진 실전 레시피]] - `SUPPORTED_BY` [EXTRACTED]
 - [[야간·인물·음식·매크로 모드별 촬영 가이드]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

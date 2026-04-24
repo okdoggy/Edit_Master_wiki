@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/concert_stage_low_light.md"
 type: "document"
-community: "Trends & Recipes 12"
+community: "Trends & Recipes 7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_12
+  - community/Trends_&_Recipes_7
 ---
 
 # low-light
@@ -15,4 +15,4 @@ tags:
 - [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 1a52fb]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_12
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7

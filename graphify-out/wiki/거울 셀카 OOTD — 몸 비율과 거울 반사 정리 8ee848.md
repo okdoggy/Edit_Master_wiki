@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/mirror_selfie_ootd.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Scenarios Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Scenarios_Sources
 ---
 
 # 거울 셀카 OOTD — 몸 비율과 거울 반사 정리 [8ee848]
@@ -23,4 +23,4 @@ tags:
 - [[촬영 레시피 e3a69e]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 시스템용 요약 1072db]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources

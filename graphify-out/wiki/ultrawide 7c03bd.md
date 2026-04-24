@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/architecture_interior_wide.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_4
 ---
 
 # ultrawide [7c03bd]
@@ -16,4 +16,4 @@ tags:
 - [[건축·실내 공간 — 초광각 왜곡 제어 691397]] - `USES_CONCEPT` [EXTRACTED]
 - [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 53a815]] - `USES_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

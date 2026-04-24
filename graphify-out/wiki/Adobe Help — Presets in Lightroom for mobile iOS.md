@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_presets_lightroom_ios.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # Adobe Help — Presets in Lightroom for mobile iOS
@@ -37,4 +37,4 @@ tags:
 - [[프리셋가져오기]] - `MENTIONS_TAG` [EXTRACTED]
 - [[프리셋관리]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # Fstoppers — Powerful edits anywhere with Lightroom Mobile
@@ -37,4 +37,4 @@ tags:
 - [[클라우드동기화]] - `MENTIONS_TAG` [EXTRACTED]
 - [[프리셋]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

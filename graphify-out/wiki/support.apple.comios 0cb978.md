@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/flower_macro_bokeh.md"
 type: "document"
-community: "Trends & Recipes 12"
+community: "Trends & Recipes 7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_12
+  - community/Trends_&_Recipes_7
 ---
 
 # support.apple.com/ios [0cb978]
@@ -15,4 +15,4 @@ tags:
 - [[야간·인물·음식·매크로 모드별 촬영 가이드]] - `SUPPORTED_BY` [EXTRACTED]
 - [[카메라 줌렌즈별 상황 가이드]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_12
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/architecture_interior_wide.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_4
 ---
 
 # travel
@@ -19,4 +19,4 @@ tags:
 - [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

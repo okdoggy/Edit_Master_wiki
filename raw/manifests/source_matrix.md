@@ -80,10 +80,3 @@
 | magazine | A | Sony Support — Photography Pro modes on Xperia | 움직이는 피사체에서 셔터 우선(S mode)로 실패 줄이기 | `raw/magazine/sony_photography_pro_modes.md` | https://www.sony.com/electronics/support/articles/00246274 |
 | magazine | A | Xiaomi Support — What is phone camera Pro mode | Pro mode에서 WB/F/S/ISO/EV/LENS/Metering을 장면별로 조정 | `raw/magazine/xiaomi_phone_pro_mode.md` | https://www.mi.com/uk/support/article/KA-36371/ |
 | magazine | A | YouTube Help — Shorts creation and upload specs | 숏폼 업로드를 위한 비율/길이/해상도 기준 반영 | `raw/magazine/youtube_shorts_specs.md` | https://support.google.com/youtube/answer/10059070 |
-
-## Hourly incremental internet sources
-
-| Collected at | Category | Priority | Source | 대표 팁 상황 | File | URL |
-|---|---|---|---|---|---|---|
-| 2026-04-18T22:24+09:00 | hourly | B | Hourly SNS/Community Photo Technique Sweep — 2026-04-18 22:24 KST | 저조도 SNS 사진에서 흔들림·노이즈 줄이기 | `raw/hourly/2026-04-18-2224-made-quick-breakdown-edit-moody-night-photos-lightroom-tips.md` | https://www.reddit.com/r/Lightroom/comments/1snasfb/i_made_a_quick_breakdown_of_how_i_edit_moody |
-| 2026-04-18T22:26+09:00 | hourly | B | Hourly SNS/Community Photo Technique Sweep — 2026-04-18 22:26 KST | 스마트폰 사진 트렌드 신호를 실전 레시피로 변환 | `raw/hourly/2026-04-18-2226-proper-camera-settings-travel-street-photography.md` | https://fstoppers.com/travel/proper-camera-settings-travel-and-street-photography-901681 |

@@ -1,112 +1,114 @@
 ---
 type: community
-cohesion: 0.02
-members: 97
+cohesion: 0.03
+members: 99
 ---
 
 # Trends & Recipes 4
 
-**Cohesion:** 0.02 - loosely connected
-**Members:** 97 nodes
+**Cohesion:** 0.03 - loosely connected
+**Members:** 99 nodes
 
 ## Members
-- [[3분 쇼츠]] - document - raw/magazine/youtube_shorts_specs.md
-- [[COOPH]] - document - raw/youtube/cooph_youtube.md
-- [[COOPH — Rollworld식 뒤틀린 풍경]] - document - raw/youtube/cooph_youtube.md
-- [[COOPH — 집에서 찍는 여행 샷  미니어처 비행기]] - document - raw/youtube/cooph_youtube.md
-- [[DIY]] - document - raw/youtube/cooph_youtube.md
-- [[Dimpy Bhalotia]] - document - raw/sns/dimpy_bhalotia.md
-- [[ISO]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[Metering]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[National Geographic — Camera phone pictures]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[PetaPixel — 10 tips and tricks for better smartphone photos]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[Pro mode]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[Shutter]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[Sony Support — Photography Pro modes on Xperia]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 d1053f]] - document - raw/youtube/cooph_youtube.md
-- [[Tip 1. Pro mode의 핵심 WB  F  S  ISO  EV  LENS  Metering]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[Tip 1. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/dimpy_bhalotia.md
-- [[Tip 1. 빠르게 실패 줄이는 기본 시작점 (AutoP mode)]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[Tip 1. 세로정사각 비율과 길이 조건 먼저 고정]] - document - raw/magazine/youtube_shorts_specs.md
-- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 9a6404]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[Tip 1. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 2de58e]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 319676]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 469e78]] - document - raw/sns/dimpy_bhalotia.md
-- [[Tip 2. 게시 목적(무엇을)과 플랫폼(누가)에 맞춘 크롭 전략]] - document - raw/magazine/youtube_shorts_specs.md
-- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 cd3460]] - document - raw/youtube/cooph_youtube.md
-- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 c89333]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[Tip 2. 움직임 있는 피사체는 S mode 우선]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[Tip 2. 저조도 인물실내 ISO를 무작정 올리지 않기]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[Tip 3. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 8a6eda]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[Tip 3. 노출을 직접 제어할 때는 M mode]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[Tip 3. 렌즈와 측광을 의도적으로 고르기]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 7fea82]] - document - raw/sns/dimpy_bhalotia.md
-- [[Tip 3. 업로드 정책 변화 날짜를 메타데이터로 저장]] - document - raw/magazine/youtube_shorts_specs.md
-- [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 c97ae3]] - document - raw/youtube/cooph_youtube.md
-- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 7500a1]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 61b641]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 82c38d]] - document - raw/sns/dimpy_bhalotia.md
-- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 156eca]] - document - raw/youtube/cooph_youtube.md
-- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 4e37da]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[WB]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[Xiaomi]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[Xiaomi Support — What is phone camera Pro mode]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[Xperia]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[YouTube Help — Shorts creation and upload specs]] - document - raw/magazine/youtube_shorts_specs.md
-- [[YouTube Shorts]] - document - raw/magazine/youtube_shorts_specs.md
-- [[actionable_tip_cards]] - document - raw/hourly/2026-04-18-2224-made-quick-breakdown-edit-moody-night-photos-lightroom-tips.md
-- [[hypebeast.comapple-2020-iphone-photography-awards-winners-news]] - document - raw/sns/dimpy_bhalotia.md
-- [[ippawards.com]] - document - raw/sns/dimpy_bhalotia.md
-- [[ippawards.com2020-winning-photographers]] - document - raw/manifests/source_matrix.md
-- [[magazine]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[mi.comKA-36371]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[nationalgeographic.comcamera-phone-photos]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[petapixel.com10-tips-and-tricks-for-shooting-better-smartphone-photos]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[shutterbug.com7-classic-smartphone-photography-tips-tricks-videos]] - document - raw/youtube/cooph_youtube.md
-- [[shutterbug.comheres-how-take-great-landscape-photos-your-smartphone-video]] - document - raw/youtube/cooph_youtube.md
-- [[socialblade.comviews]] - document - raw/youtube/cooph_youtube.md
-- [[sony.com00246274]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[store.cooph.comen-us]] - document - raw/youtube/cooph_youtube.md
-- [[store.cooph.comthis-landscape-photography-will-get-you-into-a-twist]] - document - raw/youtube/cooph_youtube.md
-- [[support.google.com10059070]] - document - raw/magazine/youtube_shorts_specs.md
-- [[support.google.com15424877]] - document - raw/magazine/youtube_shorts_specs.md
-- [[washingtonpost.comthese-are-winners-13th-annual-iphone-photography-awards]] - document - raw/sns/dimpy_bhalotia.md
-- [[youtube.com@TheCooph]] - document - raw/manifests/source_matrix.md
-- [[youtube.comwatch 6a9f09]] - document - raw/youtube/cooph_youtube.md
-- [[구도]] - document - raw/magazine/google_pixel_camera_coach.md
-- [[내셔널지오그래픽]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[노출]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[바로 쓰는 팁 카드 263f07]] - document - raw/magazine/youtube_shorts_specs.md
-- [[바로 쓰는 팁 카드 7c11e4]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[바로 쓰는 팁 카드 8bca7b]] - document - raw/youtube/cooph_youtube.md
-- [[바로 쓰는 팁 카드 a1abda]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[바로 쓰는 팁 카드 d33d6c]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[바로 쓰는 팁 카드 e5fc45]] - document - raw/sns/dimpy_bhalotia.md
-- [[바로 쓰는 팁 카드 f5d540]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[세로비율]] - document - raw/magazine/youtube_shorts_specs.md
-- [[셔터속도]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[수동촬영]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[순간포착]] - document - raw/sns/dimpy_bhalotia.md
-- [[스마트폰사진]] - document - raw/hourly/2026-04-18-2224-made-quick-breakdown-edit-moody-night-photos-lightroom-tips.md
-- [[스트리트]] - document - raw/sns/brendan_o_se.md
-- [[아이폰수상작]] - document - raw/sns/dimpy_bhalotia.md
-- [[앱보정]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[업로드 규격]] - document - raw/magazine/youtube_shorts_specs.md
-- [[이 소스에서 더 캐야 할 것 29c32c]] - document - raw/sns/dimpy_bhalotia.md
-- [[이 소스에서 더 캐야 할 것 7a3d4a]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[이 소스에서 더 캐야 할 것 fe9a4d]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[자연광]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[창의적촬영]] - document - raw/youtube/cooph_youtube.md
-- [[촬영팁]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[출처 1a6196]] - document - raw/magazine/xiaomi_phone_pro_mode.md
-- [[출처 412640]] - document - raw/sns/dimpy_bhalotia.md
-- [[출처 6dc0b4]] - document - raw/magazine/youtube_shorts_specs.md
-- [[출처 84eb95]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[출처 c08f86]] - document - raw/magazine/petapixel_10_smartphone_tips.md
-- [[출처 f80def]] - document - raw/magazine/sony_photography_pro_modes.md
-- [[출처에서 확인된 구체 레시피 2a2ba8]] - document - raw/youtube/cooph_youtube.md
-- [[카메라폰]] - document - raw/magazine/national_geographic_camera_phone.md
-- [[파인아트]] - document - raw/sns/dimpy_bhalotia.md
+- [[0.5x 1x]] - document - raw/scenarios/architecture_interior_wide.md
+- [[0.5x 1x 2x 5x]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[0.5x 1x front]] - document - raw/scenarios/group_travel_selfie.md
+- [[2x 3x or 1x]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[Graphify 추출 힌트 b2a526]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[adobe.comsmartphone-photography.html]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[architecture]] - document - raw/scenarios/architecture_interior_wide.md
+- [[blog.googlefour-tips-taking-delectable-food-photos-pixel-2 c5cce1]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[blog.googlepixel-group-photo-features-ai]] - document - raw/scenarios/group_travel_selfie.md
+- [[blog.googletravel-photography-101-teampixel cb83a0]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[building or room]] - document - raw/scenarios/architecture_interior_wide.md
+- [[busy background]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[consistent wb]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[crowd]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[crowded landmark]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[daylight or golden hour]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[detail shot]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[documentary]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[edge distortion 4b172a]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[edge distortion d7b6ec]] - document - raw/scenarios/group_travel_selfie.md
+- [[face center]] - document - raw/scenarios/group_travel_selfie.md
+- [[faces]] - document - raw/scenarios/group_travel_selfie.md
+- [[food 1e4130]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[geometry edit]] - document - raw/scenarios/architecture_interior_wide.md
+- [[geometry upright]] - document - raw/scenarios/architecture_interior_wide.md
+- [[golden hour 88260f]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[golden-hour]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[group 7edb2e]] - document - raw/scenarios/group_travel_selfie.md
+- [[group a28320]] - document - raw/scenarios/group_travel_selfie.md
+- [[group bd7bd0]] - document - raw/scenarios/group_travel_selfie.md
+- [[hands vendor]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[helpx.adobe.comedit-photos-mobile-ios.html]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
+- [[human hands]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[interior 2e5838]] - document - raw/scenarios/architecture_interior_wide.md
+- [[interior c1ecde]] - document - raw/scenarios/architecture_interior_wide.md
+- [[keystone]] - document - raw/scenarios/architecture_interior_wide.md
+- [[keystone distortion]] - document - raw/scenarios/architecture_interior_wide.md
+- [[landmark 1479a2]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[landmark 893aac]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[landmark context]] - document - raw/scenarios/group_travel_selfie.md
+- [[landscape]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[level]] - document - raw/scenarios/architecture_interior_wide.md
+- [[level verticals]] - document - raw/scenarios/architecture_interior_wide.md
+- [[lines]] - document - raw/scenarios/architecture_interior_wide.md
+- [[location]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[market 899ecf]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[market d2f17f]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[memory]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[photo or portrait]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[place]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[pose]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[samsung.comANS10004858]] - document - raw/scenarios/group_travel_selfie.md
+- [[scale]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[scale lost]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[scale subject]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[selfie]] - document - raw/scenarios/group_travel_selfie.md
+- [[selfie or timer]] - document - raw/scenarios/group_travel_selfie.md
+- [[series]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[size]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[space]] - document - raw/scenarios/architecture_interior_wide.md
+- [[stability]] - document - raw/scenarios/group_travel_selfie.md
+- [[story fb3336]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[story fc55aa]] - document - raw/scenarios/group_travel_selfie.md
+- [[storytelling]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[street food]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[street-food]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[table]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[tilt]] - document - raw/scenarios/architecture_interior_wide.md
+- [[timer]] - document - raw/scenarios/group_travel_selfie.md
+- [[tourist]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[travel]] - document - raw/scenarios/architecture_interior_wide.md
+- [[travel landmark]] - document - raw/scenarios/group_travel_selfie.md
+- [[traveler]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[ultrawide 7c03bd]] - document - raw/scenarios/architecture_interior_wide.md
+- [[ultrawide f4dc7f]] - document - raw/scenarios/architecture_interior_wide.md
+- [[verticals]] - document - raw/scenarios/architecture_interior_wide.md
+- [[warm travel]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[wide]] - document - raw/scenarios/group_travel_selfie.md
+- [[wide detail human]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[wide detail scale]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[wide shot]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[건축·실내 공간 — 초광각 왜곡 제어 691397]] - document - raw/scenarios/architecture_interior_wide.md
+- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 252168]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 7b63b3]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[관광지 사람 많음]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 53a815]] - document - raw/scenarios/group_travel_selfie.md
+- [[랜드마크 앞 인물]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[명소 사진]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[반영한 외부 근거 a5b710]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[배경 관광객 지저분]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[보정 레시피 0f4b7e]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[시나리오 수정 포인트 f5edd8]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 5188da]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[실패 방지  주의점 73b837]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[여행 인물 배경 정리]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[전문가커뮤니티 근거 반영 415b32]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[촬영 레시피 58cee1]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[추천 시스템용 요약 33b9c2]] - document - raw/scenarios/crowded_landmark_portrait.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -116,23 +118,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 36 edges to [[_COMMUNITY_Trends & Recipes]]
-- 18 edges to [[_COMMUNITY_Evidence Sources 2]]
-- 13 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 12 edges to [[_COMMUNITY_Evidence Sources]]
-- 8 edges to [[_COMMUNITY_Trends & Recipes 9]]
-- 4 edges to [[_COMMUNITY_Evidence Sources 3]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 13]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 10]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 3]]
+- 17 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 15 edges to [[_COMMUNITY_Trends & Recipes]]
+- 12 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 11 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 9 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 6 edges to [[_COMMUNITY_Scenarios Sources]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 2 edges to [[_COMMUNITY_Evidence Sources]]
 
 ## Top bridge nodes
-- [[actionable_tip_cards]] - degree 58, connects to 8 communities
-- [[nationalgeographic.comcamera-phone-photos]] - degree 12, connects to 7 communities
-- [[magazine]] - degree 18, connects to 4 communities
-- [[구도]] - degree 7, connects to 3 communities
-- [[COOPH]] - degree 25, connects to 2 communities
+- [[helpx.adobe.comedit-photos-mobile-ios.html]] - degree 38, connects to 8 communities
+- [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 5188da]] - degree 26, connects to 6 communities
+- [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 53a815]] - degree 27, connects to 4 communities
+- [[건축·실내 공간 — 초광각 왜곡 제어 691397]] - degree 24, connects to 4 communities
+- [[adobe.comsmartphone-photography.html]] - degree 10, connects to 4 communities

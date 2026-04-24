@@ -8,14 +8,14 @@
       }
     },
     {
-      "query": "tag:#community/Scenarios_Sources",
+      "query": "tag:#community/Evidence_Sources",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/Evidence_Sources",
+      "query": "tag:#community/Scenarios_Sources",
       "color": {
         "a": 1,
         "rgb": 14767961
@@ -29,115 +29,101 @@
       }
     },
     {
-      "query": "tag:#community/Evidence_Sources_2",
-      "color": {
-        "a": 1,
-        "rgb": 5873999
-      }
-    },
-    {
       "query": "tag:#community/Trends_&_Recipes_3",
       "color": {
         "a": 1,
-        "rgb": 15583560
+        "rgb": 5873999
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_4",
       "color": {
         "a": 1,
-        "rgb": 11565729
+        "rgb": 15583560
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_5",
       "color": {
         "a": 1,
-        "rgb": 16752039
+        "rgb": 11565729
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_6",
       "color": {
         "a": 1,
-        "rgb": 10253663
+        "rgb": 16752039
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_7",
       "color": {
         "a": 1,
-        "rgb": 12234924
+        "rgb": 10253663
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_8",
       "color": {
         "a": 1,
-        "rgb": 5142951
-      }
-    },
-    {
-      "query": "tag:#community/Recommendation_Sources",
-      "color": {
-        "a": 1,
-        "rgb": 15896107
+        "rgb": 12234924
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_9",
       "color": {
         "a": 1,
-        "rgb": 14767961
+        "rgb": 5142951
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_10",
       "color": {
         "a": 1,
-        "rgb": 7780274
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/Recommendation_Sources",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_11",
       "color": {
         "a": 1,
-        "rgb": 5873999
+        "rgb": 7780274
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_12",
       "color": {
         "a": 1,
-        "rgb": 15583560
+        "rgb": 5873999
       }
     },
     {
       "query": "tag:#community/Trends_&_Recipes_13",
       "color": {
         "a": 1,
-        "rgb": 11565729
-      }
-    },
-    {
-      "query": "tag:#community/Evidence_Sources_3",
-      "color": {
-        "a": 1,
-        "rgb": 16752039
+        "rgb": 15583560
       }
     },
     {
       "query": "tag:#community/Manifests_Sources",
       "color": {
         "a": 1,
-        "rgb": 10253663
+        "rgb": 11565729
       }
     },
     {
       "query": "tag:#community/Readme.Md_Sources",
       "color": {
         "a": 1,
-        "rgb": 12234924
+        "rgb": 16752039
       }
     }
   ]

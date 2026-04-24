@@ -1,11 +1,11 @@
 ---
 source_file: "raw/techniques/food_photography_recipes.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # store.google.com/take-great-food-shots-with-pixel
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[스마트폰 음식 사진 실전 레시피]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

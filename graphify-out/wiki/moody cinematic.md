@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/city_night_long_exposure.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 9"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_9
 ---
 
 # moody cinematic
@@ -15,4 +15,4 @@ tags:
 - [[도시 야경 장노출 — 빛줄기스카이라인 75d2a9]] - `SUPPORTS_STYLE` [EXTRACTED]
 - [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - `SUPPORTS_STYLE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9

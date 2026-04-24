@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/cooph_youtube.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_2
 ---
 
 # COOPH
@@ -37,4 +37,4 @@ tags:
 - [[출처에서 확인된 구체 레시피 2a2ba8]] - `HAS_SECTION` [EXTRACTED]
 - [[풍경]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/amateur_photographer_android_tips.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # Tip 1. 무엇을 찍어도 사진이 산만하고 초점/밝기가 흔들릴 때 [62a2ba]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Amateur Photographer — Android camera photography tips]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

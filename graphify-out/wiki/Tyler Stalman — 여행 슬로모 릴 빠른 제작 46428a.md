@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/tyler_stalman.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_11
 ---
 
 # Tyler Stalman — 여행 슬로모 릴 빠른 제작 [46428a]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Tyler Stalman]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11

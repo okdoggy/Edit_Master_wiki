@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/google_photos_help.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # Pixel Panorama: 몸이 아니라 폰을 움직이기 [b4dec6]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Google Photos Help]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

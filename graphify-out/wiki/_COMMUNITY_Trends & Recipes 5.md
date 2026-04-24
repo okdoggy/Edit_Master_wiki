@@ -10,102 +10,102 @@ members: 96
 **Members:** 96 nodes
 
 ## Members
-- [[48MP ProRAW — 큰 크롭출력용 풍경]] - document - raw/sns/austin_mann.md
-- [[Austin Mann]] - document - raw/sns/austin_mann.md
-- [[Austin Mann식 ProRAW — 극한 상황에서만 켜는 RAW 워크플로]] - document - raw/sns/austin_mann.md
-- [[BTS]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Dan Rubin]] - document - raw/sns/dan_rubin.md
-- [[EL PAÍS — Cellphone photo editing tips from professional photographers]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Jordi Koalitic  Koalitic Visuals]] - document - raw/sns/jordi_koalitic.md
-- [[Jordi Koalitic YouTube  Shorts]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Jordi Koalitic — 바이럴 숏폼용 5개 스마트폰 트릭 0fc099]] - document - raw/sns/jordi_koalitic.md
-- [[Jordi Koalitic — 바이럴 숏폼용 5개 스마트폰 트릭 60ed9f]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[SNS ef79a4]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 b6a246]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 e1d15d]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 75a697]] - document - raw/sns/yoni_mayeri.md
-- [[Tip 1. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 b33bb7]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Tip 1. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 7161ed]] - document - raw/sns/austin_mann.md
-- [[Tip 1. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 c8d83c]] - document - raw/sns/dan_rubin.md
-- [[Tip 2. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Tip 2. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때 5af661]] - document - raw/sns/yoni_mayeri.md
-- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 d38a97]] - document - raw/sns/dan_rubin.md
-- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 9a3229]] - document - raw/sns/austin_mann.md
-- [[Tip 2. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 9d05ae]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 2. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 c441de]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 3. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 83a61c]] - document - raw/sns/dan_rubin.md
-- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 36c5c1]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 3. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 bd8c06]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 4b9fe6]] - document - raw/sns/yoni_mayeri.md
-- [[Tip 3. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 b12707]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 2faa4f]] - document - raw/sns/austin_mann.md
-- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 60b18b]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 a95f05]] - document - raw/sns/austin_mann.md
-- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 b34204]] - document - raw/sns/dan_rubin.md
-- [[Tip 4. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 0309d0]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 4. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 06fb08]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 e0703b]] - document - raw/sns/yoni_mayeri.md
-- [[Yoni Mayeri]] - document - raw/sns/yoni_mayeri.md
-- [[austinmann.comiphone-14-pro-camera-review-scotland]] - document - raw/sns/austin_mann.md
-- [[austinmann.comiphone-proraw]] - document - raw/sns/austin_mann.md
-- [[austinmann.comiphone-xr-camera-review-grand-canyon]] - document - raw/sns/austin_mann.md
-- [[continuingstudies.stanford.edu20252_PHOTO-32]] - document - raw/manifests/source_matrix.md
-- [[digitalcameraworld.comyou-have-to-see-these-incredible-guitar-images-shot-on-a-smartpho...85b69480]] - document - raw/manifests/source_matrix.md
-- [[english.elpais.comhow-to-get-the-most-out-of-cellphone-photo-editing-tips-from-professi...de04bf3d]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[instagram.comaustinmann]] - document - raw/sns/austin_mann.md
-- [[instagram.comdanrubin]] - document - raw/sns/dan_rubin.md
-- [[instagram.comjordi.koalitic]] - document - raw/sns/jordi_koalitic.md
-- [[instagram.comyoni_iphone_photography]] - document - raw/sns/yoni_mayeri.md
-- [[iphonejack.pro]] - document - raw/manifests/source_matrix.md
-- [[olli.berkeley.eduAR_2022_23_FINAL.pdf]] - document - raw/sns/yoni_mayeri.md
-- [[olli.berkeley.eduiphoneography_olli_syllabus_2021_summer.pdf]] - document - raw/sns/yoni_mayeri.md
-- [[santafeworkshops.comaustin-mann]] - document - raw/sns/austin_mann.md
-- [[shutterbug.com5-easy-smartphone-tricks-will-make-your-videos-go-viral]] - document - raw/manifests/source_matrix.md
-- [[shutterbug.comcreate-eye-popping-photos-unique-ideas-trickster-jordi-koalitic-video]] - document - raw/sns/jordi_koalitic.md
-- [[skillshare.com1195481754]] - document - raw/manifests/source_matrix.md
-- [[sns 74fbcd]] - document - raw/sns/austin_mann.md
-- [[tiktok.com@jordi.koalitic]] - document - raw/sns/jordi_koalitic.md
-- [[x.comaustinmann]] - document - raw/sns/austin_mann.md
-- [[youtube.com@JordiKoalitic]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[강제원근]] - document - raw/sns/jordi_koalitic.md
-- [[기초촬영]] - document - raw/sns/yoni_mayeri.md
-- [[라이프스타일]] - document - raw/sns/dan_rubin.md
-- [[모바일보정]] - document - raw/sns/dan_rubin.md
-- [[바로 쓰는 팁 카드 0dda87]] - document - raw/sns/jordi_koalitic.md
-- [[바로 쓰는 팁 카드 5a6b46]] - document - raw/sns/austin_mann.md
-- [[바로 쓰는 팁 카드 96ad63]] - document - raw/sns/yoni_mayeri.md
-- [[바로 쓰는 팁 카드 a1029b]] - document - raw/sns/dan_rubin.md
-- [[바로 쓰는 팁 카드 a9871f]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[바로 쓰는 팁 카드 d9f357]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[사진트릭]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[숏폼촬영]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[스마트폰영상]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[스마트폰촬영]] - document - raw/sns/jordi_koalitic.md
-- [[아이폰그래피]] - document - raw/sns/yoni_mayeri.md
-- [[앱편집]] - document - raw/sns/dan_rubin.md
-- [[여행사진]] - document - raw/sns/austin_mann.md
-- [[이 소스에서 더 캐야 할 것 6c1978]] - document - raw/sns/yoni_mayeri.md
-- [[이 소스에서 더 캐야 할 것 9ca036]] - document - raw/sns/dan_rubin.md
-- [[이 소스에서 더 캐야 할 것 e26e42]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[인스타그램]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[인스타릴스]] - document - raw/sns/jordi_koalitic.md
-- [[자연사진]] - document - raw/sns/yoni_mayeri.md
-- [[전문가팁]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[집에서 만드는 와우 포토 018a8b]] - document - raw/sns/jordi_koalitic.md
-- [[집에서 만드는 와우 포토 4d2f75]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[창의적트릭]] - document - raw/sns/jordi_koalitic.md
-- [[출처 a01195]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[출처 c1271f]] - document - raw/sns/dan_rubin.md
-- [[출처 c27316]] - document - raw/sns/yoni_mayeri.md
-- [[출처에서 확인된 구체 레시피 517e75]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[출처에서 확인된 구체 레시피 ae5ce3]] - document - raw/sns/jordi_koalitic.md
-- [[출처에서 확인된 구체 레시피 c1558c]] - document - raw/sns/austin_mann.md
-- [[카메라리뷰]] - document - raw/sns/austin_mann.md
-- [[틱톡]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[틱톡촬영]] - document - raw/sns/jordi_koalitic.md
-- [[폰사진보정]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[풍경]] - document - raw/sns/yoni_mayeri.md
-- [[후보정]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[1. 트렌드 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[2. 일반 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[2012~2014 기본 Instagram 필터  고채도  비네트]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2015~2016 VSCO  Hipstamatic  앱 프리셋 시대]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2017 필름 그레인  KiraKira  연속 사진 업로드]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2018~2019 따뜻한 여행 인플루언서  orange-teal  curated feed]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2020~2021 자연스러운 집콕코티지old Instagram nostalgia]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2022 no-filter  photo dump  authenticity]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2023 pink  light reflection  drama  warm tones]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2024 Reelsvertical-first  text overlay  mixed media]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[3. 개인화 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Edge patterns]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Exif  CIPA]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Graphify node taxonomy]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Graphify 추천 연결 스키마 — 스마트폰 촬영보정]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[IPTC Photo Metadata]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Instagram]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[LightroomMobile]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Photo metadata standards mapping — Schema.orgIPTCExif to recommender graph]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Privacy  safety rules]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[SNS 인물·여행 사진 보정 트렌드 타임라인]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[SNS보정]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[Schema.org ImageObject  Photograph]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Style 1. Clean influencer portrait — 밝고 깨끗한 인물]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 2. 2014 old Instagram selfie — 강한 필터 회고]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 3. VSCO matte travel — 부드러운 필름 여행]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 4. Warm travel blogger — 노을호텔휴양지]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 5. Moody city night — 도시 야경네온비 오는 거리]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 6. Pink  soft feminine 2023 — 핑크·부드러운 톤]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 7. Cinematic 2025 — 영화적 여행인물]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 8. No-filter authentic — 있는 그대로지만 정돈된 사진]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[VSCO]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[action]] - document - raw/scenarios/pets_children_action.md
+- [[adobe.commobile-photography.html]] - document - raw/techniques/food_photography_recipes.md
+- [[apptuts.netinstagram-picture-editing-trends]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[blog.adobe.comhalftone-nostalgia-more-2025-top-firefly-prompt-trends]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[blog.googlepet-photography-tips]] - document - raw/scenarios/pets_children_action.md
+- [[blur]] - document - raw/scenarios/pets_children_action.md
+- [[bright light]] - document - raw/scenarios/pets_children_action.md
+- [[bright natural]] - document - raw/scenarios/pets_children_action.md
+- [[burst 31c301]] - document - raw/scenarios/pets_children_action.md
+- [[burst fb9ef0]] - document - raw/scenarios/fireworks_skyline.md
+- [[burst live video]] - document - raw/scenarios/pets_children_action.md
+- [[cipa.jpstd-sec.html]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[clear action]] - document - raw/scenarios/pets_children_action.md
+- [[expression]] - document - raw/scenarios/pets_children_action.md
+- [[eye focus]] - document - raw/scenarios/pets_children_action.md
+- [[fast]] - document - raw/scenarios/pets_children_action.md
+- [[fast motion]] - document - raw/scenarios/pets_children_action.md
+- [[graphify_recommendation_schema]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[helpx.adobe.comin-app-learning-ios.html]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
+- [[helpx.adobe.commasking-mobile-ios.html]] - document - raw/lightroom/adobe_masking_mobile_ios.md
+- [[iphonephotographyschool.comfood]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[iptc.orgmedia-topics]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orgphoto-metadata-standard-updated-to-version-2024-1]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orgsubject-codes]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orguserguide]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[kids]] - document - raw/scenarios/pets_children_action.md
+- [[kids or pets]] - document - raw/scenarios/pets_children_action.md
+- [[live-photo]] - document - raw/scenarios/pets_children_action.md
+- [[mdpi.com1003]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[metadata_standards_mapping]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[moncrome.com2025-photo-editing-trends-you-shouldnt-ignore]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[newsroom.tiktok.comenhancing-photo-sharing-for-tiktok-creators-with-lemon-8]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[newsroom.tiktok.comyear-on-tiktok-2024]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[newsweek.comcool-edit-instagram-pictures-2014-again-already-trend-filters-tiktok-1633878]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[outdoor]] - document - raw/scenarios/pets_children_action.md
+- [[pets]] - document - raw/scenarios/pets_children_action.md
+- [[pixofix.comthe-future-of-photo-retouching-10-must-know-trends-for-2025]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[qingyuguo.github.iotkde2020_kgrs_survey.pdf]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[revoluxdigital.comphoto-editing-trends-to-watch-in-2025]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[samsung.comhow-to-nail-pet-photography-in-minutes]] - document - raw/scenarios/pets_children_action.md
+- [[samsung.comhow-to-pull-off-the-perfect-fall-photoshoot]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[satisfaction]] - document - raw/scenarios/pets_children_action.md
+- [[schema.orgImageObject]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[schema.orgPhotograph]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[short shutter]] - document - raw/scenarios/pets_children_action.md
+- [[support.apple.com26]] - document - raw/scenarios/pets_children_action.md
+- [[time.cominstagram-filters-hipstamatic-vsco]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[trends]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[vanityfair.cominstagram-trends-2017]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[webfuturestudio.comtop-7-photo-editing-trends-on-instagram-for-2023]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[단풍나무 아래 여성 예시]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[시네마틱]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[아이·반려동물 액션 — 순간 포착연사짧은 영상 2311ac]] - document - raw/scenarios/pets_children_action.md
+- [[여행보정]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[연도별트렌드]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[왜 필요한가]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[인물·여행 사진 보정 스타일별 Lightroom Mobile 레시피]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[인물보정]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[추천 그래프 필드로 매핑]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[추천 랭킹에 쓸 수 있는 점수 후보]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[추천 타입 3종]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[추천용 추론 필드]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[표준 기반 필드]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[필름룩]] - document - raw/trends/portrait_travel_editing_styles.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -115,16 +115,21 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 25 edges to [[_COMMUNITY_Trends & Recipes]]
-- 13 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 9]]
-- 1 edge to [[_COMMUNITY_Evidence Sources]]
-- 1 edge to [[_COMMUNITY_Evidence Sources 2]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 2 edges to [[_COMMUNITY_Recommendation Sources]]
+- 2 edges to [[_COMMUNITY_Evidence Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
+- 1 edge to [[_COMMUNITY_Scenarios Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 2]]
 
 ## Top bridge nodes
-- [[Austin Mann]] - degree 26, connects to 3 communities
-- [[sns 74fbcd]] - degree 12, connects to 3 communities
-- [[Jordi Koalitic  Koalitic Visuals]] - degree 23, connects to 2 communities
-- [[Jordi Koalitic YouTube  Shorts]] - degree 21, connects to 2 communities
-- [[Yoni Mayeri]] - degree 20, connects to 2 communities
+- [[인물·여행 사진 보정 스타일별 Lightroom Mobile 레시피]] - degree 25, connects to 5 communities
+- [[helpx.adobe.commasking-mobile-ios.html]] - degree 11, connects to 5 communities
+- [[아이·반려동물 액션 — 순간 포착연사짧은 영상 2311ac]] - degree 28, connects to 4 communities
+- [[Graphify 추천 연결 스키마 — 스마트폰 촬영보정]] - degree 19, connects to 3 communities
+- [[SNS 인물·여행 사진 보정 트렌드 타임라인]] - degree 29, connects to 2 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/austin_mann.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes_2
 ---
 
 # Austin Mann
@@ -38,4 +38,4 @@ tags:
 - [[출처에서 확인된 구체 레시피 c1558c]] - `HAS_SECTION` [EXTRACTED]
 - [[카메라리뷰]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

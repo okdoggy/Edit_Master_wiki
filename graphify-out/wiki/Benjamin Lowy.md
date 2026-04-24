@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/benjamin_lowy.md"
 type: "document"
-community: "Trends & Recipes 9"
+community: "Trends & Recipes 10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_9
+  - community/Trends_&_Recipes_10
 ---
 
 # Benjamin Lowy
@@ -33,4 +33,4 @@ tags:
 - [[출처 cbb923]] - `HAS_SECTION` [EXTRACTED]
 - [[포토저널리즘]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10

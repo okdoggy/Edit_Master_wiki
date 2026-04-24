@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/iphone_photography_school_emil_pakarklis.md"
 type: "document"
-community: "Trends & Recipes 9"
+community: "Trends & Recipes 10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_9
+  - community/Trends_&_Recipes_10
 ---
 
 # iPhone Photography School / Emil Pakarklis
@@ -41,4 +41,4 @@ tags:
 - [[추가 검증 촬영 레시피 — iPhone 81b943]] - `HAS_SECTION` [EXTRACTED]
 - [[출처에서 확인된 구체 레시피 c10065]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10

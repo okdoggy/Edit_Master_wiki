@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_edit_photos_mobile_ios.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # Adobe Help — Edit photos with presets, filters, local adjustments in Lightroom mobile iOS
@@ -39,4 +39,4 @@ tags:
 - [[최신 Lightroom Mobile 검증 레시피 a04dfc]] - `HAS_SECTION` [EXTRACTED]
 - [[컬러그레이딩]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

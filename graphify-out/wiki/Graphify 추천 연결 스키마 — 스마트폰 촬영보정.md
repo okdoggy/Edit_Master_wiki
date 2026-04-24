@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/graphify_recommendation_schema.md"
 type: "document"
-community: "Trends & Recipes 11"
+community: "Trends & Recipes 5"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_11
+  - community/Trends_&_Recipes_5
 ---
 
 # Graphify 추천 연결 스키마 — 스마트폰 촬영/보정
@@ -31,4 +31,4 @@ tags:
 - [[추천 랭킹에 쓸 수 있는 점수 후보]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 타입 3종]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5

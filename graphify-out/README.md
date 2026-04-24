@@ -12,19 +12,19 @@ Generated from `raw/` with `scripts/run_graphify_raw.py` and the `graphifyy` pac
 
 ## Run Stats
 
-- Nodes: 1806
-- Edges: 2711
-- Communities: 20
+- Nodes: 1773
+- Edges: 2668
+- Communities: 18
 
 ## Top Kinds
 
-- DocumentSection: 723
-- SceneFacet: 347
-- Evidence: 218
+- DocumentSection: 708
+- SceneFacet: 337
+- Evidence: 212
 - Concept: 141
-- SourceDocument: 103
+- SourceDocument: 101
+- TrendSignal: 58
 - QueryAlias: 58
-- TrendSignal: 57
 - LensMode: 31
 - Scenario: 30
 - Risk: 28

@@ -1,70 +1,90 @@
 ---
 type: community
-cohesion: 0.04
-members: 55
+cohesion: 0.03
+members: 75
 ---
 
 # Trends & Recipes 10
 
-**Cohesion:** 0.04 - loosely connected
-**Members:** 55 nodes
+**Cohesion:** 0.03 - loosely connected
+**Members:** 75 nodes
 
 ## Members
-- [[1x 2x f4bb24]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[Graphify 추출 힌트 48e9a7]] - document - raw/scenarios/small_product_listing_photo.md
-- [[adobe.comproduct-photography]] - document - raw/scenarios/small_product_listing_photo.md
-- [[adobe.comsilhouette-photography.html]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[backlight 1ebbd4]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[backlight 7de6e4]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[clean product]] - document - raw/scenarios/small_product_listing_photo.md
-- [[clean-background]] - document - raw/scenarios/small_product_listing_photo.md
-- [[clear outline]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[color inaccuracy]] - document - raw/scenarios/small_product_listing_photo.md
-- [[commerce]] - document - raw/scenarios/small_product_listing_photo.md
-- [[couple]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[emotion]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[etsy.com154343798313]] - document - raw/scenarios/small_product_listing_photo.md
-- [[hair glow]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[help.shopify.comproduct-photography]] - document - raw/scenarios/small_product_listing_photo.md
-- [[home]] - document - raw/scenarios/small_product_listing_photo.md
-- [[home table]] - document - raw/scenarios/small_product_listing_photo.md
-- [[listing]] - document - raw/scenarios/small_product_listing_photo.md
-- [[lost subject shape]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[negative exposure]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[person or couple]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[product 74c54f]] - document - raw/scenarios/small_product_listing_photo.md
-- [[product a9d2dc]] - document - raw/scenarios/small_product_listing_photo.md
-- [[readability]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[reddit.cometsy_sellers_does_product_photography_frustrate]] - document - raw/scenarios/small_product_listing_photo.md
-- [[reddit.comstruggle_with_product_photos]] - document - raw/scenarios/small_product_listing_photo.md
-- [[rim light]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[shopify.com15163633-how-to-capture-high-quality-product-photos-with-your-smartphone]] - document - raw/scenarios/small_product_listing_photo.md
-- [[silhouette 16ddda]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[silhouette ddaf0e]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[silhouette warm]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[sky 0063ca]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[strong backlight]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[sunset 5ac384]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[sunset ebc6e4]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[thumbnail]] - document - raw/scenarios/small_product_listing_photo.md
-- [[warm gradient]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[window light 65bfbf]] - document - raw/scenarios/small_product_listing_photo.md
-- [[노을 실루엣 — 감성 여행커플인물 67c933]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[반영한 외부 근거 565f56]] - document - raw/scenarios/small_product_listing_photo.md
-- [[배경 지저분 제품]] - document - raw/scenarios/small_product_listing_photo.md
-- [[보정 레시피 5d3d5a]] - document - raw/scenarios/small_product_listing_photo.md
-- [[상품 사진]] - document - raw/scenarios/small_product_listing_photo.md
-- [[쇼핑몰 썸네일]] - document - raw/scenarios/small_product_listing_photo.md
-- [[시나리오 수정 포인트 802581]] - document - raw/scenarios/small_product_listing_photo.md
-- [[실패 방지  주의점 74ce70]] - document - raw/scenarios/small_product_listing_photo.md
-- [[전문가커뮤니티 근거 반영 786801]] - document - raw/scenarios/small_product_listing_photo.md
-- [[제품 판매 사진]] - document - raw/scenarios/small_product_listing_photo.md
-- [[중고거래 사진]] - document - raw/scenarios/small_product_listing_photo.md
-- [[집에서 제품 찍기]] - document - raw/scenarios/small_product_listing_photo.md
-- [[집에서 제품 판매 사진 — 깨끗한 썸네일 만들기 764946]] - document - raw/scenarios/small_product_listing_photo.md
-- [[집에서 제품 판매 사진 — 깨끗한 썸네일 만들기 b076f5]] - document - raw/scenarios/small_product_listing_photo.md
-- [[촬영 레시피 d6fd64]] - document - raw/scenarios/small_product_listing_photo.md
-- [[추천 시스템용 요약 abd339]] - document - raw/scenarios/small_product_listing_photo.md
+- [[Benjamin Lowy]] - document - raw/sns/benjamin_lowy.md
+- [[Digital Camera World — Mobile photography tips]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Pro mode]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[Sony Support — Photography Pro modes on Xperia]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 c2ebc1]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 1. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 14438d]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 caea26]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 1. 빠르게 실패 줄이는 기본 시작점 (AutoP mode)]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[Tip 2. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때 1afe86]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 051bd3]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 b814c8]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 62142f]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 2. 움직임 있는 피사체는 S mode 우선]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[Tip 3. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 3. 노출을 직접 제어할 때는 M mode]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 016cb9]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 3. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 fa839f]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 9201f6]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 4. 스마트폰으로 자연스러운 인물 사진을 찍을 때 423535]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 4. 스마트폰으로 자연스러운 인물 사진을 찍을 때 f26a77]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 4. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Xperia]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[abcnews.go.comiphone-photo-of-hurricane-sandy-makes-the-cover-of-time]] - document - raw/sns/benjamin_lowy.md
+- [[digitalcameraworld.commobile-photography-tips]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[dpreview.com2012-the-year-in-mobile-photography]] - document - raw/sns/benjamin_lowy.md
+- [[iPhone Photography School  Emil Pakarklis]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[iPhone Photography School YouTube]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[iPhone Photography School — Portrait mode 거리와 Depth 조절 e1ecdc]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[iPhone Photography School — Portrait mode 거리와 Depth 조절 e5d02d]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[iphonephotographyschool.comabout]] - document - raw/manifests/source_matrix.md
+- [[iphonephotographyschool.cominstagram-tips]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[iphonephotographyschool.comnight-sky]] - document - raw/magazine/apple_support_night_mode.md
+- [[iphonephotographyschool.comportraits]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[shutterbug.com7-smartphone-tips-shooting-photographs-will-make-you-proud-video]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[shutterbug.comusing-iphones-night-mode-shoot-long-exposure-photos-video]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[socialblade.comemilpakarklis]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[sony.com00246274]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[support.apple.com102519]] - document - raw/magazine/apple_support_night_mode.md
+- [[support.apple.comios bf9640]] - document - raw/magazine/apple_support_night_mode.md
+- [[tiktok.com@iphonephotographyschool]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[time.comin-the-eye-of-the-storm-capturing-sandys-wrath]] - document - raw/manifests/source_matrix.md
+- [[youtube.com@iphone_photography_school]] - document - raw/manifests/source_matrix.md
+- [[youtube.comwatch bc50fa]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[기초팁]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[노출]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[다큐멘터리]] - document - raw/sns/benjamin_lowy.md
+- [[매크로]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[모바일사진]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[바로 쓰는 팁 카드 02c7c6]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[바로 쓰는 팁 카드 058c1a]] - document - raw/sns/benjamin_lowy.md
+- [[바로 쓰는 팁 카드 554a67]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[바로 쓰는 팁 카드 7c11e4]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[바로 쓰는 팁 카드 7c26b2]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[셔터속도]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[수동촬영]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[숨은기능]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[실시간공유]] - document - raw/sns/benjamin_lowy.md
+- [[아이폰]] - document - raw/magazine/apple_support_night_mode.md
+- [[아이폰보도사진]] - document - raw/sns/benjamin_lowy.md
+- [[야간촬영]] - document - raw/magazine/apple_support_night_mode.md
+- [[에버그린]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[이 소스에서 더 캐야 할 것 a33186]] - document - raw/sns/benjamin_lowy.md
+- [[이 소스에서 더 캐야 할 것 eae892]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[장면구성]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[저조도]] - document - raw/magazine/apple_support_night_mode.md
+- [[추가 검증 촬영 레시피 — iPhone 81b943]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[추가 검증 촬영 레시피 — iPhone 8a0479]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[출처 606205]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[출처 cbb923]] - document - raw/sns/benjamin_lowy.md
+- [[출처 f80def]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[출처에서 확인된 구체 레시피 0d0cf7]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[출처에서 확인된 구체 레시피 c10065]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[포토저널리즘]] - document - raw/sns/benjamin_lowy.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -74,18 +94,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 10 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 3 edges to [[_COMMUNITY_Scenarios Sources]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 6]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 4]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
+- 18 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 12 edges to [[_COMMUNITY_Trends & Recipes]]
+- 11 edges to [[_COMMUNITY_Evidence Sources]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 11]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
 
 ## Top bridge nodes
-- [[1x 2x f4bb24]] - degree 10, connects to 6 communities
-- [[노을 실루엣 — 감성 여행커플인물 67c933]] - degree 25, connects to 5 communities
-- [[집에서 제품 판매 사진 — 깨끗한 썸네일 만들기 764946]] - degree 31, connects to 3 communities
-- [[backlight 7de6e4]] - degree 6, connects to 2 communities
-- [[집에서 제품 판매 사진 — 깨끗한 썸네일 만들기 b076f5]] - degree 11, connects to 1 community
+- [[iPhone Photography School YouTube]] - degree 29, connects to 4 communities
+- [[Digital Camera World — Mobile photography tips]] - degree 19, connects to 4 communities
+- [[iPhone Photography School  Emil Pakarklis]] - degree 29, connects to 3 communities
+- [[아이폰]] - degree 7, connects to 3 communities
+- [[Benjamin Lowy]] - degree 21, connects to 2 communities

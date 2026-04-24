@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_edit_photos_mobile_ios.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # 라이트룸iOS
@@ -15,4 +15,4 @@ tags:
 - [[Adobe Help — Masking in Lightroom for mobile iOS]] - `MENTIONS_TAG` [EXTRACTED]
 - [[Adobe Help — Presets in Lightroom for mobile iOS]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

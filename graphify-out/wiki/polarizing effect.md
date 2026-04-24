@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/waterfall_silky_water.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_7
 ---
 
 # polarizing effect
@@ -14,4 +14,4 @@ tags:
 - [[on phone without filter]] - `UNAVAILABLE` [EXTRACTED]
 - [[폭포·계곡 물결 — 장노출Live 효과 688234]] - `USES_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7

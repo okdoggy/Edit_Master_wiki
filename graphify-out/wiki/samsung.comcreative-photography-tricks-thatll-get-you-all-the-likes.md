@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/samsung_camera_modes_settings.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 9"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_9
 ---
 
 # samsung.com/creative-photography-tricks-thatll-get-you-all-the-likes
@@ -15,4 +15,4 @@ tags:
 - [[Samsung Support — Camera modes and settings]] - `SUPPORTED_BY` [EXTRACTED]
 - [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9

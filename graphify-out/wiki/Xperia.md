@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/sony_photography_pro_modes.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_10
 ---
 
 # Xperia
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Sony Support — Photography Pro modes on Xperia]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10

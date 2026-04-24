@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/golden_hour_travel_scale.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_4
 ---
 
 # landscape
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

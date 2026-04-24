@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/cherry_blossom_flower_portrait.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_3
 ---
 
 # nationalgeographic.com/people-quick-tips
@@ -15,4 +15,4 @@ tags:
 - [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 5188da]] - `SUPPORTED_BY` [EXTRACTED]
 - [[카페 창가 인물 — 자연광인플루언서 프로필 2cc46c]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

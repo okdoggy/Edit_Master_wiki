@@ -1,78 +1,91 @@
 ---
 type: community
-cohesion: 0.04
-members: 63
+cohesion: 0.03
+members: 76
 ---
 
 # Trends & Recipes 9
 
-**Cohesion:** 0.04 - loosely connected
-**Members:** 63 nodes
+**Cohesion:** 0.03 - loosely connected
+**Members:** 76 nodes
 
 ## Members
-- [[Benjamin Lowy]] - document - raw/sns/benjamin_lowy.md
-- [[Digital Camera World — Mobile photography tips]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 c2ebc1]] - document - raw/sns/benjamin_lowy.md
-- [[Tip 1. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 14438d]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 caea26]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[Tip 2. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때 1afe86]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 051bd3]] - document - raw/sns/benjamin_lowy.md
-- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 b814c8]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 62142f]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[Tip 3. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 016cb9]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[Tip 3. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 fa839f]] - document - raw/sns/benjamin_lowy.md
-- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 9201f6]] - document - raw/sns/benjamin_lowy.md
-- [[Tip 4. 스마트폰으로 자연스러운 인물 사진을 찍을 때 423535]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[Tip 4. 스마트폰으로 자연스러운 인물 사진을 찍을 때 f26a77]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[Tip 4. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[abcnews.go.comiphone-photo-of-hurricane-sandy-makes-the-cover-of-time]] - document - raw/sns/benjamin_lowy.md
-- [[digitalcameraworld.commobile-photography-tips]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[dpreview.com2012-the-year-in-mobile-photography]] - document - raw/sns/benjamin_lowy.md
-- [[iPhone Photography School  Emil Pakarklis]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[iPhone Photography School YouTube]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[iPhone Photography School — Portrait mode 거리와 Depth 조절 e1ecdc]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[iPhone Photography School — Portrait mode 거리와 Depth 조절 e5d02d]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[iphonephotographyschool.comabout]] - document - raw/manifests/source_matrix.md
-- [[iphonephotographyschool.cominstagram-tips]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[iphonephotographyschool.comnight-sky]] - document - raw/magazine/apple_support_night_mode.md
-- [[iphonephotographyschool.comportraits]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[shutterbug.com7-smartphone-tips-shooting-photographs-will-make-you-proud-video]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[shutterbug.comusing-iphones-night-mode-shoot-long-exposure-photos-video]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[socialblade.comemilpakarklis]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[support.apple.com102519]] - document - raw/magazine/apple_support_night_mode.md
-- [[support.apple.comios bf9640]] - document - raw/magazine/apple_support_night_mode.md
-- [[tiktok.com@iphonephotographyschool]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[time.comin-the-eye-of-the-storm-capturing-sandys-wrath]] - document - raw/manifests/source_matrix.md
-- [[youtube.com@iphone_photography_school]] - document - raw/manifests/source_matrix.md
-- [[youtube.comwatch bc50fa]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[기초팁]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[다큐멘터리]] - document - raw/sns/benjamin_lowy.md
-- [[매크로]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[모바일사진]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[바로 쓰는 팁 카드 02c7c6]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[바로 쓰는 팁 카드 058c1a]] - document - raw/sns/benjamin_lowy.md
-- [[바로 쓰는 팁 카드 554a67]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[바로 쓰는 팁 카드 7c26b2]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[숨은기능]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[실시간공유]] - document - raw/sns/benjamin_lowy.md
-- [[아이폰]] - document - raw/magazine/apple_support_night_mode.md
-- [[아이폰보도사진]] - document - raw/sns/benjamin_lowy.md
-- [[야간촬영]] - document - raw/magazine/apple_support_night_mode.md
-- [[에버그린]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[이 소스에서 더 캐야 할 것 a33186]] - document - raw/sns/benjamin_lowy.md
-- [[이 소스에서 더 캐야 할 것 eae892]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[장면구성]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[저조도]] - document - raw/magazine/apple_support_night_mode.md
-- [[추가 검증 촬영 레시피 — iPhone 81b943]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[추가 검증 촬영 레시피 — iPhone 8a0479]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[출처 606205]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[출처 cbb923]] - document - raw/sns/benjamin_lowy.md
-- [[출처에서 확인된 구체 레시피 0d0cf7]] - document - raw/youtube/iphone_photography_school_youtube.md
-- [[출처에서 확인된 구체 레시피 c10065]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
-- [[포토저널리즘]] - document - raw/sns/benjamin_lowy.md
+- [[0.5x 1x 2x]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[EV negative]] - document - raw/scenarios/city_window_reflection.md
+- [[Graphify 추출 힌트 79921a]] - document - raw/scenarios/city_window_reflection.md
+- [[adobe.comneon-light-photography.html]] - document - raw/scenarios/city_window_reflection.md
+- [[bhphotovideo.comseven-tips-for-photographing-cities-at-night]] - document - raw/scenarios/city_window_reflection.md
+- [[blown city lights]] - document - raw/scenarios/city_window_reflection.md
+- [[business.adobe.comcreative-trends-report.html]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[city]] - document - raw/scenarios/city_window_reflection.md
+- [[city lights aa93ec]] - document - raw/scenarios/city_window_reflection.md
+- [[city neon]] - document - raw/scenarios/city_window_reflection.md
+- [[color cast]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[composition]] - document - raw/scenarios/city_window_reflection.md
+- [[creative]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[creative reflection]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[dark clothing]] - document - raw/scenarios/city_window_reflection.md
+- [[exposure time]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[layering]] - document - raw/scenarios/city_window_reflection.md
+- [[light leak]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[low angle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[messy reflection]] - document - raw/scenarios/city_window_reflection.md
+- [[mirror]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[mirror prism puddle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[moody]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[moody cinematic]] - document - raw/scenarios/city_night_long_exposure.md
+- [[motion blur]] - document - raw/scenarios/dim_restaurant_food.md
+- [[neon]] - document - raw/scenarios/city_window_reflection.md
+- [[neon backlight]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[neon light]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[night]] - document - raw/scenarios/city_window_reflection.md
+- [[night mode]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[night or photo]] - document - raw/scenarios/city_window_reflection.md
+- [[night or portrait]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[person or city]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[playful visual hook]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[prism 02434e]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[prism 2fcae6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[puddle a6f2d6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[puddle e05a3f]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[rain]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[rain neon street]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[reddit.comhow_can_i_prevent_these_reflections_on_the_glass]] - document - raw/scenarios/city_window_reflection.md
+- [[reddit.comis_there_anyway_to_get_rid_of_the_window]] - document - raw/scenarios/city_window_reflection.md
+- [[reflection c937e1]] - document - raw/scenarios/city_window_reflection.md
+- [[reflection ef584d]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[samsung.comcreative-photography-tricks-thatll-get-you-all-the-likes]] - document - raw/magazine/samsung_camera_modes_settings.md
+- [[self reflection]] - document - raw/scenarios/city_window_reflection.md
+- [[skin tone]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[sns f490e5]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[street]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[subject]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[subject mask]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[symmetry]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[travelphotographymagazine.comproblems]] - document - raw/scenarios/city_window_reflection.md
+- [[urban or nature]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[visual interest]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[wet ground]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[window]] - document - raw/scenarios/city_window_reflection.md
+- [[window reflection]] - document - raw/scenarios/city_window_reflection.md
+- [[window reflection city night]] - document - raw/scenarios/city_window_reflection.md
+- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[네온 반사 사진]] - document - raw/scenarios/city_window_reflection.md
+- [[도시 야경 반사]] - document - raw/scenarios/city_window_reflection.md
+- [[도시 야경 유리창 반사 — 산만한 반사 정리 7546cf]] - document - raw/scenarios/city_window_reflection.md
+- [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - document - raw/scenarios/city_window_reflection.md
+- [[반사가 지저분]] - document - raw/scenarios/city_window_reflection.md
+- [[반영한 외부 근거 935dd6]] - document - raw/scenarios/city_window_reflection.md
+- [[보정 레시피 c12f40]] - document - raw/scenarios/city_window_reflection.md
+- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[시나리오 수정 포인트 ca648f]] - document - raw/scenarios/city_window_reflection.md
+- [[실패 방지  주의점 a7011e]] - document - raw/scenarios/city_window_reflection.md
+- [[유리창 야경 반사]] - document - raw/scenarios/city_window_reflection.md
+- [[전문가커뮤니티 근거 반영 f5c967]] - document - raw/scenarios/city_window_reflection.md
+- [[창문에 비친 도시]] - document - raw/scenarios/city_window_reflection.md
+- [[촬영 레시피 551c08]] - document - raw/scenarios/city_window_reflection.md
+- [[추천 시스템용 요약 b1e01a]] - document - raw/scenarios/city_window_reflection.md
+- [[호텔 창밖 야경]] - document - raw/scenarios/city_window_reflection.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -82,15 +95,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 19 edges to [[_COMMUNITY_Trends & Recipes]]
-- 9 edges to [[_COMMUNITY_Evidence Sources 2]]
-- 8 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 4 edges to [[_COMMUNITY_Scenarios Sources]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 2 edges to [[_COMMUNITY_Evidence Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
 
 ## Top bridge nodes
-- [[iPhone Photography School  Emil Pakarklis]] - degree 29, connects to 4 communities
-- [[iPhone Photography School YouTube]] - degree 29, connects to 3 communities
-- [[Benjamin Lowy]] - degree 21, connects to 3 communities
-- [[Digital Camera World — Mobile photography tips]] - degree 19, connects to 3 communities
-- [[아이폰]] - degree 7, connects to 3 communities
+- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - degree 28, connects to 5 communities
+- [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - degree 36, connects to 3 communities
+- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - degree 25, connects to 3 communities
+- [[subject mask]] - degree 6, connects to 2 communities
+- [[motion blur]] - degree 3, connects to 2 communities

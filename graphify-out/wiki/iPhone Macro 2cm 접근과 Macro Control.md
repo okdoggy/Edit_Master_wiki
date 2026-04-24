@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/apple_support_night_mode.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # iPhone Macro: 2cm 접근과 Macro Control
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Apple Support — iPhone Night mode]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

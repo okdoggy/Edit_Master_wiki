@@ -1,127 +1,170 @@
 ---
 type: community
 cohesion: 0.02
-members: 112
+members: 155
 ---
 
 # Trends & Recipes 3
 
 **Cohesion:** 0.02 - loosely connected
-**Members:** 112 nodes
+**Members:** 155 nodes
 
 ## Members
-- [[0.5x 1x 2x]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[1x 0.5x]] - document - raw/scenarios/fireworks_skyline.md
-- [[1x 2x 5x]] - document - raw/scenarios/city_night_long_exposure.md
-- [[EV negative]] - document - raw/scenarios/city_window_reflection.md
-- [[adobe.comneon-light-photography.html]] - document - raw/scenarios/city_window_reflection.md
-- [[bhphotovideo.comseven-tips-for-photographing-cities-at-night]] - document - raw/scenarios/city_window_reflection.md
-- [[blown city lights]] - document - raw/scenarios/city_window_reflection.md
-- [[bright subject]] - document - raw/scenarios/fireworks_skyline.md
-- [[burst video]] - document - raw/scenarios/fireworks_skyline.md
-- [[business.adobe.comcreative-trends-report.html]] - document - raw/recommendation/graphify_recommendation_schema.md
-- [[city]] - document - raw/scenarios/city_window_reflection.md
-- [[city lights 515fc6]] - document - raw/scenarios/city_night_long_exposure.md
-- [[city lights aa93ec]] - document - raw/scenarios/city_window_reflection.md
-- [[city neon]] - document - raw/scenarios/city_window_reflection.md
-- [[city-night]] - document - raw/scenarios/city_night_long_exposure.md
-- [[color]] - document - raw/scenarios/fireworks_skyline.md
-- [[color cast]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[composition]] - document - raw/scenarios/city_window_reflection.md
-- [[context]] - document - raw/scenarios/fireworks_skyline.md
-- [[control]] - document - raw/scenarios/waterfall_silky_water.md
-- [[creative]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[creative reflection]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[dark clothing]] - document - raw/scenarios/city_window_reflection.md
-- [[exposure time]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[fireworks 604db9]] - document - raw/scenarios/fireworks_skyline.md
-- [[fireworks c6e252]] - document - raw/scenarios/fireworks_skyline.md
-- [[fireworks f35ae9]] - document - raw/scenarios/fireworks_skyline.md
-- [[green foliage]] - document - raw/scenarios/waterfall_silky_water.md
-- [[helpx.adobe.comedit-photos-mobile-ios.html]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[layering]] - document - raw/scenarios/city_window_reflection.md
-- [[light leak]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[light trails]] - document - raw/scenarios/city_night_long_exposure.md
-- [[live or pro]] - document - raw/scenarios/waterfall_silky_water.md
-- [[long exposure 90d025]] - document - raw/scenarios/city_night_long_exposure.md
-- [[long exposure d9ee14]] - document - raw/scenarios/waterfall_silky_water.md
-- [[long-exposure]] - document - raw/scenarios/city_night_long_exposure.md
-- [[low angle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[low iso 5ea6d9]] - document - raw/scenarios/fireworks_skyline.md
-- [[low iso 96aa5f]] - document - raw/scenarios/city_night_long_exposure.md
-- [[low iso long shutter]] - document - raw/scenarios/city_night_long_exposure.md
-- [[messy reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[mirror]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[mirror prism puddle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[moody]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[moody cinematic]] - document - raw/scenarios/city_night_long_exposure.md
-- [[motion blur]] - document - raw/scenarios/dim_restaurant_food.md
-- [[moving water]] - document - raw/scenarios/waterfall_silky_water.md
-- [[nature green]] - document - raw/scenarios/waterfall_silky_water.md
-- [[neon]] - document - raw/scenarios/city_window_reflection.md
-- [[neon backlight]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[neon light]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[night]] - document - raw/scenarios/city_window_reflection.md
-- [[night city]] - document - raw/scenarios/city_night_long_exposure.md
-- [[night mode]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[night or photo]] - document - raw/scenarios/city_window_reflection.md
-- [[night or portrait]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[night or pro]] - document - raw/scenarios/fireworks_skyline.md
-- [[night skyline]] - document - raw/scenarios/fireworks_skyline.md
-- [[noise]] - document - raw/scenarios/city_night_long_exposure.md
-- [[on phone without filter]] - document - raw/scenarios/waterfall_silky_water.md
-- [[overexposure]] - document - raw/scenarios/fireworks_skyline.md
-- [[peak shape]] - document - raw/scenarios/fireworks_skyline.md
-- [[person or city]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[playful visual hook]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[polarizing effect]] - document - raw/scenarios/waterfall_silky_water.md
-- [[prism 02434e]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[prism 2fcae6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[pro or night]] - document - raw/scenarios/city_night_long_exposure.md
-- [[puddle a6f2d6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[puddle e05a3f]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[rain]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[rain neon street]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[reddit.comhow_can_i_prevent_these_reflections_on_the_glass]] - document - raw/scenarios/city_window_reflection.md
-- [[reddit.comis_there_anyway_to_get_rid_of_the_window]] - document - raw/scenarios/city_window_reflection.md
-- [[reflection c937e1]] - document - raw/scenarios/city_window_reflection.md
-- [[reflection ef584d]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[river]] - document - raw/scenarios/waterfall_silky_water.md
-- [[samsung.comcreative-photography-tricks-thatll-get-you-all-the-likes]] - document - raw/magazine/samsung_camera_modes_settings.md
-- [[samsung.comsamsung-night-mode-camera]] - document - raw/magazine/apple_support_night_mode.md
-- [[scene]] - document - raw/scenarios/waterfall_silky_water.md
-- [[self reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[skyline]] - document - raw/scenarios/city_night_long_exposure.md
-- [[sns f490e5]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[street]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[support.apple.comios 938b6c]] - document - raw/magazine/apple_support_night_mode.md
-- [[symmetry]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[traffic]] - document - raw/scenarios/city_night_long_exposure.md
-- [[traffic-trails]] - document - raw/scenarios/city_night_long_exposure.md
-- [[travelphotographymagazine.comproblems]] - document - raw/scenarios/city_window_reflection.md
-- [[tripod 65997f]] - document - raw/scenarios/city_night_long_exposure.md
-- [[tripod ac1fa5]] - document - raw/scenarios/city_night_long_exposure.md
-- [[urban or nature]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[visual interest]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[waterfall 36e1dd]] - document - raw/scenarios/waterfall_silky_water.md
-- [[waterfall ce7af0]] - document - raw/scenarios/waterfall_silky_water.md
-- [[wet ground]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[wide lens]] - document - raw/scenarios/fireworks_skyline.md
-- [[window]] - document - raw/scenarios/city_window_reflection.md
-- [[window reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[window reflection city night]] - document - raw/scenarios/city_window_reflection.md
-- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[네온 반사 사진]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 반사]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 장노출 — 빛줄기스카이라인 75d2a9]] - document - raw/scenarios/city_night_long_exposure.md
-- [[반사가 지저분]] - document - raw/scenarios/city_window_reflection.md
-- [[불꽃놀이와 스카이라인 — 하이라이트 보호연속 확보 11df4b]] - document - raw/scenarios/fireworks_skyline.md
-- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[유리창 야경 반사]] - document - raw/scenarios/city_window_reflection.md
-- [[창문에 비친 도시]] - document - raw/scenarios/city_window_reflection.md
-- [[폭포·계곡 물결 — 장노출Live 효과 688234]] - document - raw/scenarios/waterfall_silky_water.md
-- [[호텔 창밖 야경]] - document - raw/scenarios/city_window_reflection.md
+- [[1x 2x portrait]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[2x 3x]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[2x 3x portrait]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[2x b2287a]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[2x lens]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[2x or 1x]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[2x portrait 16fb27]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[2x portrait e06427]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[Graphify 추출 힌트 c960af]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[fashion, ootd, portrait, full-body, instagram]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[selfie, profile, portrait, front-camera, skin-tone]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[adobe.comgolden-hour.html]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[adobe.comhow-to-take-portrait-photos-with-your-phone]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[adobe.comphoto-filters]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[adobe.comportrait-lighting.html]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[airy]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[airy pink]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[airy style]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[autumn foliage]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[autumn maple tree]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[background distance]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[backlight 1ebbd4]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[backlight 7de6e4]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[backlight golden hour]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[beach 3684e3]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[beach 58bf3f]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[blog.adobe.combeach-photography-tips-techniques]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[blog.googleframe-10-tips-getting-great-portraits-pixel-2]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[blog.googletake-id-photo-google-pixel-tips 396574]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[blog.googletake-id-photo-google-pixel-tips 8b48ba]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[blown highlights]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[blue-orange]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[body alignment]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[body distortion]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[body-alignment]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[bokeh 9c9469]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[bright blue travel]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[cafe]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[cafe window]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[cherry-blossom]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[clean influencer]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[clear face warm background]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[close front camera]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[cloud detail]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[depth]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[diffused window]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[dirty mirror]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[distortion]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[face]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[face distortion]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[face shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[fashion]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[fashion outfit]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[flower background]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[flower tree]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[flowers]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[foliage]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[front camera]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[front or rear camera]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[golden hour a9ad01]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[golden hour or backlight]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[grid]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[hair glow]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[harsh overhead sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[harsh shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[harsh sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[harsh-sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[influencer]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[iphonephotographyschool.comfall]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[leaf foreground]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[makeuseof.commirror-selfie-poses]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[maple]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[maple tree]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[mirror distortion]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[mirror indoor]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[mirror-selfie]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[nationalgeographic.compeople-quick-tips]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[natural skin]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[negative space]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[noon]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[noon beach]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[ootd]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[outfit color]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[outfit color priority]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[overcast light]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[person]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[personalization-seed]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[pink]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[pink tint]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[portrait]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[portrait or photo]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[reddit.comits_not_you_its_your_camera_photography_tips_for]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[reddit.comtaking_outfit_photos_with_your_phone]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[rim light]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[samsung.comhow-to-capture-your-best-profile-picture]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[seasonal fall color]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[selfie or portrait selfie]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[selfie person]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[separation]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[silhouette 16ddda]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[skin]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[skin retouch strength]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[skin tone preference]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[skin tone protection]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[sky 546a0f]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[sky mask]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[soft overcast]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[soft skin clean background]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[soft-light]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[spring]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[spring blossom]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[spring trend]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[street or cafe]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[summer]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[support.apple.comios ad5a3c]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[text overlay]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[warm blue travel]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[warm color grade]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[warm foliage]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[wide angle face distortion]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[window light 633aa6]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[window or open shade]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[window-light]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[woman 676c29]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[woman e89f19]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[woman fd25dc]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[거울 OOTD]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[거울 더러움]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[거울 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 21b94e]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 4b8f9b]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[몸 비율 이상]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[반영한 외부 근거 602cd0]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일 8f1f9b]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[보정 레시피 7116f4]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[셀카Profile — 왜곡 적고 자연스러운 얼굴 추천 seed ff7101]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[시나리오 수정 포인트 ccd03b]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[실패 방지  주의점 b55fce]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[엘리베이터 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[전문가커뮤니티 근거 반영 e36b37]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[전신 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[정오 바닷가 사진]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[촬영 레시피 e3b0ae]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[추천 시스템용 요약 3db2dc]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[카페 창가 인물 — 자연광인플루언서 프로필 2cc46c]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[패션OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed e84e93]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[하늘 날아감]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[한낮 해변 인물]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 e5d4ed]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[해변 얼굴 그림자]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[해변 인물 보정]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[햇빛 너무 셈]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -131,23 +174,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 22 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 12 edges to [[_COMMUNITY_Evidence Sources]]
-- 10 edges to [[_COMMUNITY_Evidence Sources 2]]
-- 7 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 7 edges to [[_COMMUNITY_Trends & Recipes 12]]
-- 6 edges to [[_COMMUNITY_Scenarios Sources]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 10]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 11]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 6]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 13]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 4]]
+- 21 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 17 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 10 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 9 edges to [[_COMMUNITY_Scenarios Sources]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 8]]
 
 ## Top bridge nodes
-- [[helpx.adobe.comedit-photos-mobile-ios.html]] - degree 38, connects to 9 communities
-- [[support.apple.comios 938b6c]] - degree 19, connects to 7 communities
-- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - degree 28, connects to 5 communities
-- [[폭포·계곡 물결 — 장노출Live 효과 688234]] - degree 24, connects to 4 communities
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - degree 36, connects to 3 communities
+- [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 4b8f9b]] - degree 37, connects to 6 communities
+- [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 21b94e]] - degree 29, connects to 5 communities
+- [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - degree 24, connects to 5 communities
+- [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - degree 37, connects to 4 communities
+- [[벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일 8f1f9b]] - degree 27, connects to 4 communities

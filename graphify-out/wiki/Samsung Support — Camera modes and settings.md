@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/samsung_camera_modes_settings.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Evidence_Sources
 ---
 
 # Samsung Support — Camera modes and settings
@@ -43,4 +43,4 @@ tags:
 - [[파노라마]] - `MENTIONS_TAG` [EXTRACTED]
 - [[프로모드]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

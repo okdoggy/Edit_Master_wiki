@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/envato_lightroom_mobile_dng_camera.md"
 type: "document"
-community: "Evidence Sources"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources
+  - community/Trends_&_Recipes
 ---
 
 # Envato Tuts+ — Shoot RAW with Lightroom Mobile DNG camera
@@ -37,4 +37,4 @@ tags:
 - [[파일포맷]] - `MENTIONS_TAG` [EXTRACTED]
 - [[후보정여지]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

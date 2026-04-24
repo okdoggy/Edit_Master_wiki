@@ -1,66 +1,67 @@
 ---
 type: community
-cohesion: 0.05
-members: 51
+cohesion: 0.04
+members: 52
 ---
 
 # Trends & Recipes 12
 
-**Cohesion:** 0.05 - loosely connected
-**Members:** 51 nodes
+**Cohesion:** 0.04 - loosely connected
+**Members:** 52 nodes
 
 ## Members
-- [[3x 5x 10x]] - document - raw/scenarios/concert_stage_low_light.md
-- [[Graphify 추출 힌트 a39768]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[background distance]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[bokeh 96e665]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[bokeh 9c9469]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[clipping]] - document - raw/scenarios/concert_stage_low_light.md
-- [[color mix]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[concert]] - document - raw/scenarios/concert_stage_low_light.md
-- [[detail]] - document - raw/scenarios/concert_stage_low_light.md
-- [[detail bokeh]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[fast shutter]] - document - raw/scenarios/concert_stage_low_light.md
-- [[flower or leaf]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[food mask]] - document - raw/scenarios/dim_restaurant_food.md
-- [[green]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[highlight clipping]] - document - raw/scenarios/concert_stage_low_light.md
-- [[iphonephotographyschool.comleaves]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[leaves]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[low-light]] - document - raw/scenarios/concert_stage_low_light.md
-- [[macro 61849d]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[macro d1b988]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[macro ede51e]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[moody stage]] - document - raw/scenarios/concert_stage_low_light.md
-- [[motion e858a3]] - document - raw/scenarios/concert_stage_low_light.md
-- [[nature 44ad1a]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[nature af64a2]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[noise reduction]] - document - raw/scenarios/concert_stage_low_light.md
-- [[performance]] - document - raw/scenarios/concert_stage_low_light.md
-- [[performer]] - document - raw/scenarios/concert_stage_low_light.md
-- [[photo or pro]] - document - raw/scenarios/concert_stage_low_light.md
-- [[separation]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[soft light]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[soft side light]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[spotlight 5ff31a]] - document - raw/scenarios/concert_stage_low_light.md
-- [[spotlight faa56a]] - document - raw/scenarios/concert_stage_low_light.md
-- [[stage 99b9cc]] - document - raw/scenarios/concert_stage_low_light.md
-- [[stage b57bbf]] - document - raw/scenarios/concert_stage_low_light.md
-- [[stage d5091f]] - document - raw/scenarios/concert_stage_low_light.md
-- [[support.apple.comios 0cb978]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[support.google.com9708795]] - document - raw/magazine/apple_support_night_mode.md
-- [[telephoto 4f7e20]] - document - raw/scenarios/concert_stage_low_light.md
-- [[telephoto 5ae704]] - document - raw/scenarios/concert_stage_low_light.md
-- [[texture 0d0e87]] - document - raw/scenarios/dim_restaurant_food.md
-- [[ultrawide macro or 2x]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - document - raw/scenarios/concert_stage_low_light.md
-- [[꽃·잎 매크로 — 질감과 배경 bokeh 17e99a]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[보정 레시피 5e2230]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[실패 방지  주의점 81351d]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[촬영 레시피 2450f3]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[추천 시스템용 요약 c18bda]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[출처 cdc101]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[1x or 0 5x]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[Graphify 추출 힌트 958fa3]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[Graphify 추출 힌트 96d31b]] - document - raw/scenarios/indoor_party_group.md
+- [[assets.rafmuseum.org.ukPhotography-Resources.pdf]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[birthday]] - document - raw/scenarios/indoor_party_group.md
+- [[blog.googletake-holiday-photos-night-sight-portrait-mode]] - document - raw/scenarios/indoor_party_group.md
+- [[gallery]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[indoor]] - document - raw/scenarios/indoor_party_group.md
+- [[indoor party]] - document - raw/scenarios/indoor_party_group.md
+- [[lifepixel.com6-tips-photographing-museums-galleries]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[minimal clean]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[mixed gallery spotlight]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[mixed white balance]] - document - raw/scenarios/dim_restaurant_food.md
+- [[mixed-light]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[motion 967506]] - document - raw/scenarios/indoor_party_group.md
+- [[museum]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[museum gallery]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[no-flash]] - document - raw/scenarios/dim_restaurant_food.md
+- [[party]] - document - raw/scenarios/indoor_party_group.md
+- [[photo or night short]] - document - raw/scenarios/indoor_party_group.md
+- [[reddit.comproblems_with_reflections_in_the_glass_while]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[warm documentary]] - document - raw/scenarios/indoor_party_group.md
+- [[warm low light]] - document - raw/scenarios/indoor_party_group.md
+- [[갤러리 프로필]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[모임 사진 흐림]] - document - raw/scenarios/indoor_party_group.md
+- [[미술관 사진]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 19a2b9]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[반영한 외부 근거 237958]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[반영한 외부 근거 e7c674]] - document - raw/scenarios/indoor_party_group.md
+- [[보정 레시피 6e52d8]] - document - raw/scenarios/indoor_party_group.md
+- [[보정 레시피 93259f]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[시나리오 수정 포인트 d77285]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[시나리오 수정 포인트 e951f2]] - document - raw/scenarios/indoor_party_group.md
+- [[실내 생일파티 사진]] - document - raw/scenarios/indoor_party_group.md
+- [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 1a52fb]] - document - raw/scenarios/indoor_party_group.md
+- [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 b22137]] - document - raw/scenarios/indoor_party_group.md
+- [[실내 조명 인물]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[실패 방지  주의점 16bb2b]] - document - raw/scenarios/indoor_party_group.md
+- [[실패 방지  주의점 62e899]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[어두운 방 단체사진]] - document - raw/scenarios/indoor_party_group.md
+- [[작품 앞 인물]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[전문가커뮤니티 근거 반영 cab709]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[전문가커뮤니티 근거 반영 f5a7b0]] - document - raw/scenarios/indoor_party_group.md
+- [[전시회 인물]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[촬영 레시피 47fa24]] - document - raw/scenarios/indoor_party_group.md
+- [[촬영 레시피 e827eb]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[추천 시스템용 요약 60d2cc]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[추천 시스템용 요약 ce053a]] - document - raw/scenarios/indoor_party_group.md
+- [[케이크 촛불 단체]] - document - raw/scenarios/indoor_party_group.md
+- [[파티 사진 보정]] - document - raw/scenarios/indoor_party_group.md
+- [[플래시 금지]] - document - raw/scenarios/museum_gallery_portrait.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -70,18 +71,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 8 edges to [[_COMMUNITY_Evidence Sources 2]]
-- 7 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 7 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 3 edges to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 4]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 6]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 7]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 4 edges to [[_COMMUNITY_Scenarios Sources]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
+- 1 edge to [[_COMMUNITY_Evidence Sources]]
 
 ## Top bridge nodes
-- [[texture 0d0e87]] - degree 6, connects to 3 communities
-- [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - degree 25, connects to 2 communities
-- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - degree 25, connects to 2 communities
-- [[support.google.com9708795]] - degree 9, connects to 2 communities
-- [[low-light]] - degree 3, connects to 2 communities
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - degree 29, connects to 4 communities
+- [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 1a52fb]] - degree 27, connects to 4 communities
+- [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 b22137]] - degree 11, connects to 1 community
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 19a2b9]] - degree 11, connects to 1 community
+- [[blog.googletake-holiday-photos-night-sight-portrait-mode]] - degree 3, connects to 1 community

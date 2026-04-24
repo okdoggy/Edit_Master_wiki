@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/jordi_koalitic.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes 13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes_13
 ---
 
 # instagram.com/jordi.koalitic
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Jordi Koalitic  Koalitic Visuals]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13

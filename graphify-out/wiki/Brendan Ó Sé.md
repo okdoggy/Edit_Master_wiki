@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/brendan_o_se.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # Brendan Ó Sé
@@ -33,4 +33,4 @@ tags:
 - [[추상사진]] - `MENTIONS_TAG` [EXTRACTED]
 - [[출처 80da97]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

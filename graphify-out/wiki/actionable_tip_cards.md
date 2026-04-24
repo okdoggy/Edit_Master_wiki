@@ -1,11 +1,11 @@
 ---
-source_file: "raw/hourly/2026-04-18-2224-made-quick-breakdown-edit-moody-night-photos-lightroom-tips.md"
+source_file: "raw/lightroom/adobe_ai_assisted_masking_mobile.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes
 ---
 
 # actionable_tip_cards
@@ -38,8 +38,6 @@ tags:
 - [[Fstoppers — Powerful edits anywhere with Lightroom Mobile]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 - [[Google Blog — Pixel Camera Coach]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 - [[Google Photos Help]] - `HAS_CONTENT_TYPE` [EXTRACTED]
-- [[Hourly SNSCommunity Photo Technique Sweep — 2026-04-18 2224 KST]] - `HAS_CONTENT_TYPE` [EXTRACTED]
-- [[Hourly SNSCommunity Photo Technique Sweep — 2026-04-18 2226 KST]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 - [[Jordi Koalitic  Koalitic Visuals]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 - [[Jordi Koalitic YouTube  Shorts]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 - [[Mango Street]] - `HAS_CONTENT_TYPE` [EXTRACTED]
@@ -70,4 +68,4 @@ tags:
 - [[전문가인기 스타일 보정 레시피 — Lightroom Mobile 중심]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 - [[카메라 줌렌즈별 상황 가이드]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
