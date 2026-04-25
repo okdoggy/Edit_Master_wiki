@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/crowded_landmark_portrait.md"
 type: "document"
-community: "Trends & Recipes 14"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_14
+  - community/Trends_&_Recipes_3
 ---
 
 # photo or portrait
@@ -15,4 +15,4 @@ tags:
 - [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - `USES_MODE` [EXTRACTED]
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - `USES_MODE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_14
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

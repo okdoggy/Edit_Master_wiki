@@ -19,6 +19,8 @@ class HarnessConfig:
     scene_graph_path: Path
     source_graph_path: Path
     eval_path: Path
+    realistic_eval_path: Path
+    ambiguous_eval_path: Path
     personalization_dir: Path
     raw_incoming_dir: Path
     raw_source_notes_dir: Path
@@ -26,6 +28,7 @@ class HarnessConfig:
     raw_min_sources: int
     raw_max_similarity: float
     min_top1: float
+    eval_thresholds: dict[str, dict[str, float]]
     answer_smoke_query: str
     default_user_id: str
 
@@ -55,6 +58,8 @@ def load_config(config_path: Path | None = None) -> HarnessConfig:
         scene_graph_path=resolve_path(root, paths.get("scene_graph", "graphify-out/scene_recommender_graph.json")),
         source_graph_path=resolve_path(root, paths.get("source_graph", "graphify-out/graph.json")),
         eval_path=resolve_path(root, paths.get("eval", "tests/eval_queries.json")),
+        realistic_eval_path=resolve_path(root, paths.get("eval_realistic", "tests/eval_queries_realistic.json")),
+        ambiguous_eval_path=resolve_path(root, paths.get("eval_ambiguous", "tests/eval_queries_ambiguous.json")),
         personalization_dir=resolve_path(root, paths.get("personalization", "data/personalization")),
         raw_incoming_dir=resolve_path(root, raw_intake.get("incoming", "raw/_incoming/scenarios")),
         raw_source_notes_dir=resolve_path(root, raw_intake.get("source_notes", "raw/_incoming/source_notes")),
@@ -62,11 +67,31 @@ def load_config(config_path: Path | None = None) -> HarnessConfig:
         raw_min_sources=int(raw_intake.get("min_sources", 2)),
         raw_max_similarity=float(raw_intake.get("max_similarity", 0.72)),
         min_top1=float(quality.get("min_top1", 1.0)),
+        eval_thresholds=eval_thresholds(quality),
         answer_smoke_query=str(
             quality.get("answer_smoke_query", "카페 창가 인물 사진을 자연스럽게 보정하고 싶어요")
         ),
         default_user_id=str(user.get("default_user_id", "default")),
     )
+
+
+def eval_thresholds(quality: dict[str, Any]) -> dict[str, dict[str, float]]:
+    raw_thresholds = quality.get("eval_thresholds", {})
+    defaults = {
+        "regression": {"top1": float(quality.get("min_top1", 1.0)), "top3": 1.0},
+        "realistic": {"top1": 0.70, "top3": 0.85},
+        "ambiguous": {"top1": 0.50, "top3": 0.85},
+    }
+    if not isinstance(raw_thresholds, dict):
+        return defaults
+    for name, values in raw_thresholds.items():
+        if not isinstance(values, dict):
+            continue
+        thresholds = defaults.setdefault(str(name), {})
+        for key in ("top1", "top3"):
+            if key in values:
+                thresholds[key] = float(values[key])
+    return defaults
 
 
 def find_config_file(start: Path | None = None) -> Path:

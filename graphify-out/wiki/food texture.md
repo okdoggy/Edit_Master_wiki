@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/dim_restaurant_food.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 6"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_6
 ---
 
 # food texture
@@ -14,4 +14,4 @@ tags:
 - [[window or side light]] - `IMPROVES` [EXTRACTED]
 - [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - `TARGETS_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6

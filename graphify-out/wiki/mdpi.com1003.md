@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/metadata_standards_mapping.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 5"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_5
 ---
 
 # mdpi.com/1003
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Photo metadata standards mapping — Schema.orgIPTCExif to recommender graph]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5

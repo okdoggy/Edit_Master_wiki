@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/jordi_koalitic_youtube.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes 15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes_15
 ---
 
 # Jordi Koalitic YouTube / Shorts
@@ -33,4 +33,4 @@ tags:
 - [[집에서 만드는 와우 포토 4d2f75]] - `HAS_SECTION` [EXTRACTED]
 - [[출처에서 확인된 구체 레시피 517e75]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15

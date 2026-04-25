@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/autumn_maple_woman_portrait.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 23"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_23
 ---
 
 # 단풍나무 아래 여성 인물 — 트렌드/일반/개인화 추천 seed [4b8f9b]
@@ -49,4 +49,4 @@ tags:
 - [[woman fd25dc]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 9d71c5]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_23

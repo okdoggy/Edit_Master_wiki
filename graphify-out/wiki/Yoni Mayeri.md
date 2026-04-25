@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/yoni_mayeri.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes
 ---
 
 # Yoni Mayeri
@@ -32,4 +32,4 @@ tags:
 - [[풍경]] - `MENTIONS_TAG` [EXTRACTED]
 - [[후보정]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

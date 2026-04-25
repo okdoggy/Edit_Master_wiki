@@ -1,70 +1,69 @@
 ---
 type: community
 cohesion: 0.04
-members: 55
+members: 54
 ---
 
 # Trends & Recipes 12
 
 **Cohesion:** 0.04 - loosely connected
-**Members:** 55 nodes
+**Members:** 54 nodes
 
 ## Members
-- [[0.5x 1x 2x]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[1x 2x f4bb24]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[Graphify 추출 힌트 8f59f5]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[Graphify 추출 힌트 e003a1]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[business.adobe.comcreative-trends-report.html]] - document - raw/recommendation/graphify_recommendation_schema.md
-- [[color cast]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[creative]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[creative reflection]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[exposure time]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[light leak]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[low angle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[mirror]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[mirror prism puddle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[moody]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[motion blur cda978]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[neon]] - document - raw/scenarios/city_window_reflection.md
-- [[neon backlight]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[neon light]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[night mode]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[night or portrait]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[person or city]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[playful visual hook]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[prism 02434e]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[prism 2fcae6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[puddle a6f2d6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[puddle e05a3f]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[rain]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[rain neon street]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[reflection c937e1]] - document - raw/scenarios/city_window_reflection.md
-- [[reflection ef584d]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[samsung.comcreative-photography-tricks-thatll-get-you-all-the-likes]] - document - raw/magazine/samsung_camera_modes_settings.md
-- [[sns f490e5]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[street]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[symmetry]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[urban or nature]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[visual interest]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[wet ground]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 a4e1cb]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[근거 988f30]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[근거 b29eaf]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[반영한 외부 근거 00233a]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[반영한 외부 근거 5c0cd3]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[보정 레시피 30b3a6]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[보정 레시피 c9cde2]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[비 오는 밤 네온 거리 인물 — moody city look e7cb56]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[시나리오 수정 포인트 4e80e6]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[시나리오 수정 포인트 78af5d]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[실패 방지  주의점 38d894]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[실패 방지  주의점 f1ea5f]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[촬영 레시피 371601]] - document - raw/scenarios/rain_neon_street_portrait.md
-- [[촬영 레시피 933097]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[추천 시스템용 요약 66cadb]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
-- [[추천 시스템용 요약 aeecbc]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[0.5x 1x 2x 5x]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[Graphify 추출 힌트 a0df03]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[Graphify 추출 힌트 c30d6b]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[blog.googlefour-tips-taking-delectable-food-photos-pixel-2 c5cce1]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[consistent wb]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[detail shot]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[documentary]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[food 1e4130]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[golden hour 88260f]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[golden-hour]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[hands vendor]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[human hands]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[iphonephotographyschool.comfood]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[landmark 893aac]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[landmark context]] - document - raw/scenarios/group_travel_selfie.md
+- [[landscape]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[location]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[market 899ecf]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[market d2f17f]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[memory]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[place]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[scale]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[scale subject]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[series]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[size]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[story fb3336]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[story fc55aa]] - document - raw/scenarios/group_travel_selfie.md
+- [[storytelling]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[street food]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[street-food]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[travel]] - document - raw/scenarios/architecture_interior_wide.md
+- [[traveler]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[warm documentary]] - document - raw/scenarios/indoor_party_group.md
+- [[wide detail human]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[wide detail scale]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[wide shot]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[근거 1a812f]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[근거 dd012c]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[반영한 외부 근거 510441]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[반영한 외부 근거 6a3ee4]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[보정 레시피 664d11]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[보정 레시피 e12355]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[시나리오 수정 포인트 513cb1]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[시나리오 수정 포인트 dfcba8]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 5188da]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 c07d2c]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[실패 방지  주의점 c97ac4]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[실패 방지  주의점 cd94ac]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[여행 골든아워 — widedetailscale 3컷 추천 1ff1af]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[촬영 레시피 a0c31a]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[촬영 레시피 d39433]] - document - raw/scenarios/marketplace_street_food_story.md
+- [[추천 시스템용 요약 ac5bfd]] - document - raw/scenarios/golden_hour_travel_scale.md
+- [[추천 시스템용 요약 e93f2e]] - document - raw/scenarios/marketplace_street_food_story.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -74,23 +73,26 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 8 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 13 edges to [[_COMMUNITY_Trends & Recipes 3]]
 - 4 edges to [[_COMMUNITY_Scenarios Sources]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 2 edges to [[_COMMUNITY_Evidence Sources]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 9]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 11]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 13]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 22]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 19]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 18]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 23]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 16]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 20]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
+- 1 edge to [[_COMMUNITY_Evidence Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 5]]
 
 ## Top bridge nodes
-- [[1x 2x f4bb24]] - degree 10, connects to 6 communities
-- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - degree 28, connects to 5 communities
-- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - degree 25, connects to 3 communities
-- [[motion blur cda978]] - degree 4, connects to 2 communities
-- [[reflection c937e1]] - degree 4, connects to 2 communities
+- [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 5188da]] - degree 26, connects to 5 communities
+- [[travel]] - degree 10, connects to 5 communities
+- [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - degree 24, connects to 4 communities
+- [[food 1e4130]] - degree 4, connects to 3 communities
+- [[iphonephotographyschool.comfood]] - degree 3, connects to 2 communities

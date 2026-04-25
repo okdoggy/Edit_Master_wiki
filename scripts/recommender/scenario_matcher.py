@@ -137,6 +137,104 @@ SCENARIO_SLOT_HINTS: dict[str, dict[str, set[str]]] = {
         "issues": {"issue:macro_focus"},
         "preferences": {"pref:warm"},
     },
+    "scenario_flower_macro_bokeh": {
+        "what": {"intent:flower_macro", "intent:drink_dessert_closeup"},
+        "issues": {"issue:macro_focus"},
+        "preferences": {"pref:natural", "pref:clean"},
+    },
+    "scenario_group_travel_selfie": {
+        "where": {"place:travel", "place:landmark"},
+        "what": {"intent:selfie", "intent:group_photo", "intent:portrait"},
+        "how": {"lens_mode:0_5x", "edit:crop"},
+        "issues": {"issue:edge_distortion", "issue:busy_background"},
+        "preferences": {"pref:clean", "pref:natural"},
+    },
+    "scenario_crowded_landmark_portrait": {
+        "where": {"place:travel", "place:landmark"},
+        "what": {"intent:portrait", "intent:ootd"},
+        "how": {"lens_mode:1x", "lens_mode:2x", "edit:crop"},
+        "issues": {"issue:busy_background", "issue:edge_distortion"},
+        "preferences": {"pref:clean", "pref:natural"},
+    },
+    "scenario_action_pan_runner_cyclist": {
+        "what": {"intent:action_motion"},
+        "how": {"mode:panning", "mode:burst"},
+        "issues": {"issue:motion_blur"},
+        "preferences": {"pref:cinematic"},
+    },
+    "scenario_landscape_sky_dynamic_range_2026": {
+        "where": {"place:mountain"},
+        "what": {"intent:landscape"},
+        "how": {"edit:mask"},
+        "issues": {"issue:blown_highlights", "issue:dynamic_range"},
+        "preferences": {"pref:natural"},
+    },
+    "scenario_museum_gallery_portrait": {
+        "where": {"place:museum"},
+        "what": {"intent:portrait"},
+        "how": {"lens_mode:2x", "mode:no_flash", "edit:white_balance"},
+        "issues": {"issue:mixed_white_balance", "issue:motion_blur"},
+        "preferences": {"pref:natural", "pref:low_retouch"},
+    },
+    "scenario_indoor_party_group": {
+        "when": {"time:night"},
+        "where": {"place:home"},
+        "what": {"intent:group_photo", "intent:portrait"},
+        "how": {"mode:night", "mode:burst"},
+        "issues": {"issue:mixed_white_balance", "issue:motion_blur"},
+        "preferences": {"pref:warm"},
+    },
+    "scenario_candle_cake_low_light_party": {
+        "when": {"time:night"},
+        "what": {"intent:food", "intent:group_photo"},
+        "how": {"mode:night"},
+        "issues": {"issue:blown_highlights", "issue:mixed_white_balance"},
+        "preferences": {"pref:warm"},
+    },
+    "scenario_document_scan_correction": {
+        "where": {"place:desk_table"},
+        "what": {"intent:document_scan", "intent:product_listing"},
+        "how": {"edit:perspective", "edit:crop"},
+        "issues": {"issue:document_skew", "issue:paper_shadow", "issue:tilted_horizon"},
+        "preferences": {"pref:clean"},
+    },
+    "scenario_receipt_memory_flatlay": {
+        "where": {"place:cafe", "place:desk_table", "place:travel"},
+        "what": {"intent:receipt_flatlay", "intent:flatlay", "intent:story", "intent:food"},
+        "how": {"lens_mode:1x", "edit:crop"},
+        "issues": {"issue:busy_background", "issue:document_skew"},
+        "preferences": {"pref:warm", "pref:film", "pref:clean", "pref:natural"},
+    },
+    "scenario_dating_profile_natural_portrait": {
+        "where": {"place:cafe_window", "place:home"},
+        "what": {"intent:dating_profile", "intent:portrait", "intent:selfie"},
+        "how": {"lens_mode:2x", "mode:portrait", "edit:mask"},
+        "issues": {"issue:busy_background", "issue:mixed_white_balance"},
+        "preferences": {"pref:natural", "pref:clean", "pref:low_retouch"},
+    },
+    "scenario_trendy_aerial_beach_minimal": {
+        "where": {"place:aerial_view", "place:beach", "place:travel"},
+        "what": {"intent:aerial_shot", "intent:landscape", "intent:trendy_style"},
+        "how": {"lens_mode:1x", "lens_mode:2x", "edit:crop"},
+        "issues": {"issue:motion_blur", "issue:edge_distortion"},
+        "preferences": {"pref:clean", "pref:natural"},
+    },
+    "scenario_cave_low_light_travel_portrait": {
+        "when": {"time:night"},
+        "where": {"place:cave", "place:travel"},
+        "what": {"intent:cave_photo", "intent:portrait", "intent:group_photo", "intent:landscape"},
+        "how": {"mode:night", "mode:burst", "mode:no_flash", "edit:white_balance"},
+        "issues": {"issue:underexposed_face", "issue:mixed_white_balance", "issue:motion_blur"},
+        "preferences": {"pref:cinematic", "pref:natural"},
+    },
+    "scenario_paparazzi_flash_candid": {
+        "when": {"time:night"},
+        "where": {"place:street"},
+        "what": {"intent:paparazzi_candid", "intent:ootd", "intent:portrait", "intent:trendy_style"},
+        "how": {"light:flash", "mode:burst", "lens_mode:1x", "lens_mode:2x"},
+        "issues": {"issue:red_eye_flash_glare", "issue:motion_blur", "issue:busy_background"},
+        "preferences": {"pref:cinematic", "pref:clean"},
+    },
 }
 
 
@@ -160,12 +258,20 @@ class MatchResult:
     matched_terms: list[str]
     matched_slots: dict[str, list[str]]
     reasons: list[str]
+    confidence: str = "uncalibrated"
+    coverage_status: str = "unknown"
+    score_gap: float = 0.0
+    slot_coverage: float = 0.0
 
     def as_dict(self) -> dict:
         return {
             "scenario_id": self.scenario_id,
             "scenario_name": self.scenario_name,
             "score": round(self.score, 4),
+            "confidence": self.confidence,
+            "coverage_status": self.coverage_status,
+            "score_gap": round(self.score_gap, 4),
+            "slot_coverage": round(self.slot_coverage, 4),
             "source_file": self.source_file,
             "matched_terms": self.matched_terms,
             "matched_slots": self.matched_slots,
@@ -253,7 +359,42 @@ class ScenarioMatcher:
 
         results = [self._score_entry(entry, normalized, query_terms, query_tokens, query_slots) for entry in self.entries]
         results.sort(key=lambda item: (item.score, len(item.matched_terms), item.scenario_name), reverse=True)
-        return [item for item in results if item.score > 0][:top_k]
+        filtered = [item for item in results if item.score > 0][:top_k]
+        self._annotate_confidence(filtered, query_slots)
+        return filtered
+
+    @staticmethod
+    def _annotate_confidence(results: list[MatchResult], query_slots: QuerySlots) -> None:
+        core_slots = ("where", "what", "how", "issues")
+        filled_core = {
+            slot: set(getattr(query_slots, slot))
+            for slot in core_slots
+            if getattr(query_slots, slot)
+        }
+        core_count = len(filled_core)
+        for index, result in enumerate(results):
+            next_score = results[index + 1].score if index + 1 < len(results) else 0.0
+            result.score_gap = max(result.score - next_score, 0.0)
+            if core_count:
+                matched_core = sum(1 for slot in filled_core if result.matched_slots.get(slot))
+                result.slot_coverage = matched_core / core_count
+            else:
+                result.slot_coverage = 1.0 if result.score >= 3.0 else 0.0
+
+            has_direct_alias = "direct_alias" in result.reasons
+            if result.score < 2.5 or (core_count >= 2 and result.slot_coverage < 0.34):
+                result.confidence = "low"
+                result.coverage_status = "gap"
+            elif result.score_gap < 0.6 or result.score < 4.0 or (core_count >= 2 and result.slot_coverage < 0.5):
+                result.confidence = "medium"
+                result.coverage_status = "partial"
+            else:
+                result.confidence = "high"
+                result.coverage_status = "supported"
+
+            if has_direct_alias and result.score >= 5.0 and result.slot_coverage >= 0.5:
+                result.confidence = "high"
+                result.coverage_status = "supported"
 
     def _score_entry(
         self,
@@ -366,6 +507,33 @@ class ScenarioMatcher:
 
         if entry.id == "scenario_cafe_drink_dessert_closeup" and "intent:flatlay" in what:
             penalty += 1.2
+
+        if entry.id == "scenario_cafe_drink_dessert_closeup" and "intent:flower_macro" in what:
+            penalty += 2.0
+
+        if entry.id == "scenario_concert_stage_low_light":
+            if "intent:action_motion" in what and "place:stage" not in where:
+                penalty += 2.0
+
+        if entry.id in {"scenario_beach_backlit_portrait", "scenario_backlit_rim_light_portrait"}:
+            if "intent:group_photo" in what and "place:beach" not in where:
+                penalty += 1.4
+
+        if entry.id == "scenario_group_travel_selfie":
+            if "intent:group_photo" not in what and "intent:selfie" not in what:
+                penalty += 1.8
+
+        specific_routes = {
+            "intent:document_scan": {"scenario_document_scan_correction", "scenario_small_product_listing_photo", "scenario_architecture_interior_wide"},
+            "intent:receipt_flatlay": {"scenario_receipt_memory_flatlay", "scenario_cafe_flatlay_dessert", "scenario_cafe_drink_dessert_closeup", "scenario_marketplace_street_food_story"},
+            "intent:dating_profile": {"scenario_dating_profile_natural_portrait", "scenario_selfie_profile_portrait", "scenario_portrait_skin_tone_2026", "scenario_window_light_cafe_portrait"},
+            "intent:aerial_shot": {"scenario_trendy_aerial_beach_minimal", "scenario_landscape_sky_dynamic_range_2026", "scenario_golden_hour_travel_scale"},
+            "intent:cave_photo": {"scenario_cave_low_light_travel_portrait", "scenario_backlit_silhouette_sunset", "scenario_concert_stage_low_light", "scenario_city_night_long_exposure"},
+            "intent:paparazzi_candid": {"scenario_paparazzi_flash_candid", "scenario_rain_neon_street_portrait", "scenario_fashion_ootd_portrait", "scenario_city_night_long_exposure"},
+        }
+        for intent, allowed_ids in specific_routes.items():
+            if intent in what and entry.id not in allowed_ids:
+                penalty += 2.2
 
         return penalty
 

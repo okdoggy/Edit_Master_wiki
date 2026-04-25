@@ -17,7 +17,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
-from scripts.evaluate_scene_matcher import DEFAULT_EVAL_PATH, evaluate
+from scripts.evaluate_scene_matcher import DEFAULT_AMBIGUOUS_EVAL_PATH, DEFAULT_EVAL_PATH, DEFAULT_REALISTIC_EVAL_PATH, evaluate_suite
 from scripts.recommender.graph_loader import DEFAULT_GRAPH_PATH, SceneGraph
 from scripts.recommender.learning_loop import PersonalizationMemory, build_feedback_event
 from scripts.recommender.personalization import FeedbackEvent
@@ -147,33 +147,117 @@ def validate_learning_loop() -> dict:
     }
 
 
-def run_pipeline(graph_path: Path, eval_path: Path, min_top1: float, source_graph_path: Path = DEFAULT_SOURCE_GRAPH_PATH) -> dict:
+DEFAULT_EVAL_THRESHOLDS = {
+    "regression": {"top1": 1.0, "top3": 1.0},
+    "realistic": {"top1": 0.70, "top3": 0.85},
+    "ambiguous": {"top1": 0.50, "top3": 0.85},
+}
+
+
+def validate_matcher_eval(suite: dict, thresholds: dict[str, dict[str, float]]) -> dict:
+    set_reports: dict[str, dict] = {}
+    ok = True
+    misses: list[dict] = []
+    candidate_gaps: list[dict] = []
+    for name, result in suite["sets"].items():
+        threshold = thresholds.get(name, {})
+        min_top1 = float(threshold.get("top1", 0.0))
+        min_top3 = float(threshold.get("top3", 0.0))
+        set_ok = result["top1_accuracy"] >= min_top1 and result["top3_accuracy"] >= min_top3
+        ok = ok and set_ok
+        set_reports[name] = {
+            "total": result["total"],
+            "top1_accuracy": result["top1_accuracy"],
+            "top3_accuracy": result["top3_accuracy"],
+            "match_total": result.get("match_total", result["total"]),
+            "gap_total": result.get("gap_total", 0),
+            "match_top1_accuracy": result.get("match_top1_accuracy", result["top1_accuracy"]),
+            "match_top3_accuracy": result.get("match_top3_accuracy", result["top3_accuracy"]),
+            "gap_abstain_accuracy": result.get("gap_abstain_accuracy"),
+            "min_top1": min_top1,
+            "min_top3": min_top3,
+            "ok": set_ok,
+        }
+        for row in result["rows"]:
+            if row.get("candidate_scenario") or row.get("coverage_status") == "gap":
+                candidate_gaps.append(
+                    {
+                        "set": name,
+                        "id": row["id"],
+                        "candidate_scenario": row.get("candidate_scenario"),
+                        "expected": row["expected"],
+                        "predicted": row["predicted"],
+                        "top_score": row.get("top_score"),
+                        "top_confidence": row.get("top_confidence"),
+                        "coverage_status": row.get("coverage_status"),
+                    }
+                )
+            if not row["top1"]:
+                misses.append(
+                    {
+                        "set": name,
+                        "id": row["id"],
+                        "expected": row["expected"],
+                        "expected_behavior": row.get("expected_behavior", "match"),
+                        "predicted": row["predicted"],
+                        "top_score": row.get("top_score"),
+                        "top_confidence": row.get("top_confidence"),
+                        "coverage_status": row.get("coverage_status"),
+                        "max_top_score": row.get("max_top_score"),
+                        "top3": row["top3"],
+                    }
+                )
+    return {
+        "ok": ok,
+        "total": suite["total"],
+        "top1_accuracy": suite["weighted_top1_accuracy"],
+        "top3_accuracy": suite["weighted_top3_accuracy"],
+        "weighted_top1_accuracy": suite["weighted_top1_accuracy"],
+        "weighted_top3_accuracy": suite["weighted_top3_accuracy"],
+        "weighted_match_top1_accuracy": suite.get("weighted_match_top1_accuracy", suite["weighted_top1_accuracy"]),
+        "weighted_match_top3_accuracy": suite.get("weighted_match_top3_accuracy", suite["weighted_top3_accuracy"]),
+        "weighted_gap_abstain_accuracy": suite.get("weighted_gap_abstain_accuracy"),
+        "match_total": suite.get("match_total", suite["total"]),
+        "gap_total": suite.get("gap_total", 0),
+        "sets": set_reports,
+        "misses": misses,
+        "candidate_gaps": candidate_gaps,
+    }
+
+
+def run_pipeline(
+    graph_path: Path,
+    eval_path: Path | dict[str, Path],
+    min_top1: float,
+    source_graph_path: Path = DEFAULT_SOURCE_GRAPH_PATH,
+    eval_thresholds: dict[str, dict[str, float]] | None = None,
+) -> dict:
     raw = validate_raw()
     graph = validate_graph(graph_path, expected_scenario_count=raw["scenario_count"])
     bridge = validate_bridge(graph_path, source_graph_path)
     learning = validate_learning_loop()
-    matcher_eval = evaluate(eval_path, graph_path, top_k=5)
-    ok = raw["ok"] and graph["ok"] and bridge["ok"] and learning["ok"] and matcher_eval["top1_accuracy"] >= min_top1
+    if isinstance(eval_path, dict):
+        eval_paths = eval_path
+    else:
+        eval_paths = {
+            "regression": eval_path,
+            "realistic": DEFAULT_REALISTIC_EVAL_PATH,
+            "ambiguous": DEFAULT_AMBIGUOUS_EVAL_PATH,
+        }
+    thresholds = dict(DEFAULT_EVAL_THRESHOLDS)
+    thresholds["regression"] = {**thresholds["regression"], "top1": min_top1}
+    if eval_thresholds:
+        for name, values in eval_thresholds.items():
+            thresholds[name] = {**thresholds.get(name, {}), **values}
+    matcher_eval = validate_matcher_eval(evaluate_suite(eval_paths, graph_path, top_k=5), thresholds)
+    ok = raw["ok"] and graph["ok"] and bridge["ok"] and learning["ok"] and matcher_eval["ok"]
     return {
         "ok": ok,
         "raw": raw,
         "graph": graph,
         "bridge": bridge,
         "learning_loop": learning,
-        "matcher_eval": {
-            "total": matcher_eval["total"],
-            "top1_accuracy": matcher_eval["top1_accuracy"],
-            "top3_accuracy": matcher_eval["top3_accuracy"],
-            "misses": [
-                {
-                    "id": row["id"],
-                    "expected": row["expected"],
-                    "predicted": row["predicted"],
-                }
-                for row in matcher_eval["rows"]
-                if not row["top1"]
-            ],
-        },
+        "matcher_eval": matcher_eval,
     }
 
 
@@ -184,11 +268,18 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--graph", type=Path, default=DEFAULT_GRAPH_PATH)
     parser.add_argument("--source-graph", type=Path, default=DEFAULT_SOURCE_GRAPH_PATH)
     parser.add_argument("--eval", type=Path, default=DEFAULT_EVAL_PATH)
+    parser.add_argument("--eval-realistic", type=Path, default=DEFAULT_REALISTIC_EVAL_PATH)
+    parser.add_argument("--eval-ambiguous", type=Path, default=DEFAULT_AMBIGUOUS_EVAL_PATH)
     parser.add_argument("--min-top1", type=float, default=0.8)
     parser.add_argument("--json", action="store_true")
     args = parser.parse_args(argv)
 
-    report = run_pipeline(args.graph, args.eval, args.min_top1, args.source_graph)
+    report = run_pipeline(
+        args.graph,
+        {"regression": args.eval, "realistic": args.eval_realistic, "ambiguous": args.eval_ambiguous},
+        args.min_top1,
+        args.source_graph,
+    )
     if args.json:
         print(json.dumps(report, ensure_ascii=False, indent=2))
     else:
@@ -216,11 +307,43 @@ def main(argv: list[str] | None = None) -> int:
             f"events={report['learning_loop']['event_count']} "
             f"personalized_weight={report['learning_loop']['personalized_weight']:.3f}"
         )
-        print(f"matcher top1/top3: {report['matcher_eval']['top1_accuracy']:.3f} / {report['matcher_eval']['top3_accuracy']:.3f}")
+        print(
+            "matcher weighted top1/top3: "
+            f"{report['matcher_eval']['weighted_top1_accuracy']:.3f} / "
+            f"{report['matcher_eval']['weighted_top3_accuracy']:.3f}"
+        )
+        gap_value = report["matcher_eval"].get("weighted_gap_abstain_accuracy")
+        gap_text = "n/a" if gap_value is None else f"{gap_value:.3f}"
+        print(
+            "matcher match-only top1/top3: "
+            f"{report['matcher_eval']['weighted_match_top1_accuracy']:.3f} / "
+            f"{report['matcher_eval']['weighted_match_top3_accuracy']:.3f}"
+        )
+        print(f"matcher gap abstain: {gap_text}")
+        for name, result in report["matcher_eval"]["sets"].items():
+            gap_value = result.get("gap_abstain_accuracy")
+            gap_text = "n/a" if gap_value is None else f"{gap_value:.3f}"
+            print(
+                f"matcher {name} top1/top3: {result['top1_accuracy']:.3f} / {result['top3_accuracy']:.3f} "
+                f"(match {result.get('match_top1_accuracy', result['top1_accuracy']):.3f}/"
+                f"{result.get('match_top3_accuracy', result['top3_accuracy']):.3f}, gap {gap_text})"
+            )
         if report["matcher_eval"]["misses"]:
             print("matcher misses:")
             for miss in report["matcher_eval"]["misses"]:
-                print(f"  - {miss['id']}: expected={miss['expected']} predicted={miss['predicted']}")
+                print(
+                    f"  - [{miss['set']}] {miss['id']}: expected={miss['expected']} "
+                    f"predicted={miss['predicted']} confidence={miss.get('top_confidence')} "
+                    f"status={miss.get('coverage_status')}"
+                )
+        if report["matcher_eval"].get("candidate_gaps"):
+            print("candidate gaps:")
+            for gap in report["matcher_eval"]["candidate_gaps"]:
+                print(
+                    f"  - [{gap['set']}] {gap['id']}: candidate={gap.get('candidate_scenario')} "
+                    f"predicted={gap['predicted']} confidence={gap.get('top_confidence')} "
+                    f"status={gap.get('coverage_status')}"
+                )
 
     return 0 if report["ok"] else 1
 

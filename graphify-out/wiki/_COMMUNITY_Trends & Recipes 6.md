@@ -1,98 +1,100 @@
 ---
 type: community
 cohesion: 0.03
-members: 83
+members: 85
 ---
 
 # Trends & Recipes 6
 
 **Cohesion:** 0.03 - loosely connected
-**Members:** 83 nodes
+**Members:** 85 nodes
 
 ## Members
-- [[BTS]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[COOPH]] - document - raw/youtube/cooph_youtube.md
-- [[COOPH — Rollworld식 뒤틀린 풍경]] - document - raw/youtube/cooph_youtube.md
-- [[COOPH — 집에서 찍는 여행 샷  미니어처 비행기]] - document - raw/youtube/cooph_youtube.md
-- [[DIY]] - document - raw/youtube/cooph_youtube.md
-- [[EL PAÍS — Cellphone photo editing tips from professional photographers]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Jordi Koalitic  Koalitic Visuals]] - document - raw/sns/jordi_koalitic.md
-- [[Jordi Koalitic YouTube  Shorts]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Jordi Koalitic — 바이럴 숏폼용 5개 스마트폰 트릭 0fc099]] - document - raw/sns/jordi_koalitic.md
-- [[Jordi Koalitic — 바이럴 숏폼용 5개 스마트폰 트릭 60ed9f]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[SNS ef79a4]] - document - raw/magazine/digital_camera_world_mobile_tips.md
-- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 b6a246]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 d1053f]] - document - raw/youtube/cooph_youtube.md
-- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 e1d15d]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 75a697]] - document - raw/sns/yoni_mayeri.md
-- [[Tip 1. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 b33bb7]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Tip 2. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Tip 2. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때 5af661]] - document - raw/sns/yoni_mayeri.md
-- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 cd3460]] - document - raw/youtube/cooph_youtube.md
-- [[Tip 2. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 9d05ae]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 2. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 c441de]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 36c5c1]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 3. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 bd8c06]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 4b9fe6]] - document - raw/sns/yoni_mayeri.md
-- [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 c97ae3]] - document - raw/youtube/cooph_youtube.md
-- [[Tip 3. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 b12707]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 60b18b]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 4. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 0309d0]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 4. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 06fb08]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 e0703b]] - document - raw/sns/yoni_mayeri.md
-- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 156eca]] - document - raw/youtube/cooph_youtube.md
-- [[Yoni Mayeri]] - document - raw/sns/yoni_mayeri.md
-- [[continuingstudies.stanford.edu20252_PHOTO-32]] - document - raw/manifests/source_matrix.md
-- [[digitalcameraworld.comyou-have-to-see-these-incredible-guitar-images-shot-on-a-smartpho...85b69480]] - document - raw/manifests/source_matrix.md
-- [[english.elpais.comhow-to-get-the-most-out-of-cellphone-photo-editing-tips-from-professi...de04bf3d]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[instagram.comjordi.koalitic]] - document - raw/sns/jordi_koalitic.md
-- [[instagram.comyoni_iphone_photography]] - document - raw/sns/yoni_mayeri.md
-- [[olli.berkeley.eduAR_2022_23_FINAL.pdf]] - document - raw/sns/yoni_mayeri.md
-- [[olli.berkeley.eduiphoneography_olli_syllabus_2021_summer.pdf]] - document - raw/sns/yoni_mayeri.md
-- [[shutterbug.com5-easy-smartphone-tricks-will-make-your-videos-go-viral]] - document - raw/manifests/source_matrix.md
-- [[shutterbug.com7-classic-smartphone-photography-tips-tricks-videos]] - document - raw/youtube/cooph_youtube.md
-- [[shutterbug.comcreate-eye-popping-photos-unique-ideas-trickster-jordi-koalitic-video]] - document - raw/sns/jordi_koalitic.md
-- [[shutterbug.comheres-how-take-great-landscape-photos-your-smartphone-video]] - document - raw/youtube/cooph_youtube.md
-- [[socialblade.comviews]] - document - raw/youtube/cooph_youtube.md
-- [[store.cooph.comen-us]] - document - raw/youtube/cooph_youtube.md
-- [[store.cooph.comthis-landscape-photography-will-get-you-into-a-twist]] - document - raw/youtube/cooph_youtube.md
-- [[tiktok.com@jordi.koalitic]] - document - raw/sns/jordi_koalitic.md
-- [[youtube]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[youtube.com@JordiKoalitic]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[youtube.com@TheCooph]] - document - raw/manifests/source_matrix.md
-- [[youtube.comwatch 6a9f09]] - document - raw/youtube/cooph_youtube.md
-- [[강제원근]] - document - raw/sns/jordi_koalitic.md
-- [[기초촬영]] - document - raw/sns/yoni_mayeri.md
-- [[바로 쓰는 팁 카드 0dda87]] - document - raw/sns/jordi_koalitic.md
-- [[바로 쓰는 팁 카드 8bca7b]] - document - raw/youtube/cooph_youtube.md
-- [[바로 쓰는 팁 카드 96ad63]] - document - raw/sns/yoni_mayeri.md
-- [[바로 쓰는 팁 카드 a9871f]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[바로 쓰는 팁 카드 d9f357]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[사진트릭]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[숏폼촬영]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[스마트폰영상]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[스마트폰촬영]] - document - raw/sns/jordi_koalitic.md
-- [[아이폰그래피]] - document - raw/sns/yoni_mayeri.md
-- [[이 소스에서 더 캐야 할 것 6c1978]] - document - raw/sns/yoni_mayeri.md
-- [[이 소스에서 더 캐야 할 것 e26e42]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[인스타그램]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[인스타릴스]] - document - raw/sns/jordi_koalitic.md
-- [[자연사진]] - document - raw/sns/yoni_mayeri.md
-- [[전문가팁]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[집에서 만드는 와우 포토 018a8b]] - document - raw/sns/jordi_koalitic.md
-- [[집에서 만드는 와우 포토 4d2f75]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[창의적촬영]] - document - raw/youtube/cooph_youtube.md
-- [[창의적트릭]] - document - raw/sns/jordi_koalitic.md
-- [[출처 a01195]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[출처 c27316]] - document - raw/sns/yoni_mayeri.md
-- [[출처에서 확인된 구체 레시피 2a2ba8]] - document - raw/youtube/cooph_youtube.md
-- [[출처에서 확인된 구체 레시피 517e75]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[출처에서 확인된 구체 레시피 ae5ce3]] - document - raw/sns/jordi_koalitic.md
-- [[틱톡]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[틱톡촬영]] - document - raw/sns/jordi_koalitic.md
-- [[폰사진보정]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
-- [[풍경]] - document - raw/sns/yoni_mayeri.md
-- [[후보정]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[1x 2x 5bc41a]] - document - raw/scenarios/dim_restaurant_food.md
+- [[2x or macro]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[Graphify 추출 힌트 055e7b]] - document - raw/scenarios/dim_restaurant_food.md
+- [[Graphify 추출 힌트 99c271]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[Graphify 추출 힌트 a39768]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[bokeh 96e665]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[cafe drink dessert]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[cafe table]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[closeup]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[color mix]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[detail]] - document - raw/scenarios/concert_stage_low_light.md
+- [[detail bokeh]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[dim restaurant]] - document - raw/scenarios/dim_restaurant_food.md
+- [[drink]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[flower or leaf]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[focus miss]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[food b93761]] - document - raw/scenarios/dim_restaurant_food.md
+- [[food glow]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[food mask]] - document - raw/scenarios/dim_restaurant_food.md
+- [[food texture]] - document - raw/scenarios/dim_restaurant_food.md
+- [[green]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[highlight reflection]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[iphonephotographyschool.comleaves]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[leaves]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[macro 61849d]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[macro d1b988]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[macro ede51e]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[nature 44ad1a]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[nature af64a2]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[night or food or photo]] - document - raw/scenarios/dim_restaurant_food.md
+- [[noise reduction]] - document - raw/scenarios/concert_stage_low_light.md
+- [[photo or macro]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[quality and detail]] - document - raw/scenarios/dim_restaurant_food.md
+- [[reddit.comhow_to_get_foodrestaurant_photos_like_these]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[restaurant]] - document - raw/scenarios/dim_restaurant_food.md
+- [[side or back light]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[soft light]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[soft side light]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[support.apple.comios 0cb978]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[texture 0d0e87]] - document - raw/scenarios/dim_restaurant_food.md
+- [[texture cf5b56]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[ultrawide macro or 2x]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[warm mixed indoor]] - document - raw/scenarios/dim_restaurant_food.md
+- [[warm mixed light]] - document - raw/scenarios/dim_restaurant_food.md
+- [[window or side light]] - document - raw/scenarios/dim_restaurant_food.md
+- [[yellow cast]] - document - raw/scenarios/dim_restaurant_food.md
+- [[근거 14a779]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[근거 53ec10]] - document - raw/scenarios/dim_restaurant_food.md
+- [[근거 ec87ad]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[꽃·잎 매크로 — 질감과 배경 bokeh 17e99a]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[노란 조명 음식 보정]] - document - raw/scenarios/dim_restaurant_food.md
+- [[디저트 접사]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[라떼아트 사진]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[레스토랑 파스타 노랗다]] - document - raw/scenarios/dim_restaurant_food.md
+- [[반영한 외부 근거 93b07f]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[반영한 외부 근거 a52cb1]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[반영한 외부 근거 da4f6a]] - document - raw/scenarios/dim_restaurant_food.md
+- [[보정 레시피 5e2230]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[보정 레시피 c7b6b6]] - document - raw/scenarios/dim_restaurant_food.md
+- [[보정 레시피 f894bc]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[시나리오 수정 포인트 0d184f]] - document - raw/scenarios/dim_restaurant_food.md
+- [[시나리오 수정 포인트 d4f79c]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[시나리오 수정 포인트 e6e47b]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[실패 방지  주의점 211f80]] - document - raw/scenarios/dim_restaurant_food.md
+- [[실패 방지  주의점 81351d]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[실패 방지  주의점 c218bb]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 313c16]] - document - raw/scenarios/dim_restaurant_food.md
+- [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - document - raw/scenarios/dim_restaurant_food.md
+- [[어두운 식당 음식]] - document - raw/scenarios/dim_restaurant_food.md
+- [[음식이 흐릿해요]] - document - raw/scenarios/dim_restaurant_food.md
+- [[저조도 음식사진]] - document - raw/scenarios/dim_restaurant_food.md
+- [[촬영 레시피 2450f3]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[촬영 레시피 b29a37]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[촬영 레시피 dda580]] - document - raw/scenarios/dim_restaurant_food.md
+- [[추천 시스템용 요약 8cecb7]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[추천 시스템용 요약 bd419c]] - document - raw/scenarios/dim_restaurant_food.md
+- [[추천 시스템용 요약 c18bda]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[카페 음료 사진]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 44aad3]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 83416c]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[커피 거품 찍기]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[케이크 클로즈업]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[크림 질감]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[플래시 없이 음식]] - document - raw/scenarios/dim_restaurant_food.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -102,13 +104,23 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 20 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 11 edges to [[_COMMUNITY_Trends & Recipes]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 15]]
+- 13 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 7 edges to [[_COMMUNITY_Evidence Sources]]
+- 6 edges to [[_COMMUNITY_Scenarios Sources]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 13]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 11]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 23]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 22]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 7]]
 
 ## Top bridge nodes
-- [[youtube]] - degree 7, connects to 3 communities
-- [[Jordi Koalitic  Koalitic Visuals]] - degree 23, connects to 2 communities
-- [[Jordi Koalitic YouTube  Shorts]] - degree 21, connects to 2 communities
-- [[EL PAÍS — Cellphone photo editing tips from professional photographers]] - degree 17, connects to 2 communities
-- [[후보정]] - degree 4, connects to 2 communities
+- [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - degree 38, connects to 9 communities
+- [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 44aad3]] - degree 29, connects to 6 communities
+- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - degree 25, connects to 3 communities
+- [[texture 0d0e87]] - degree 6, connects to 2 communities
+- [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 83416c]] - degree 11, connects to 1 community

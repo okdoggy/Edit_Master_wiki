@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/cooph_youtube.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes
 ---
 
 # shutterbug.com/heres-how-take-great-landscape-photos-your-smartphone-video
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[COOPH]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

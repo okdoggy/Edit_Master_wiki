@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/xiaomi_phone_pro_mode.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Evidence_Sources_2
 ---
 
 # Xiaomi Support — What is phone camera Pro mode
@@ -26,4 +26,4 @@ tags:
 - [[바로 쓰는 팁 카드 a1abda]] - `HAS_SECTION` [EXTRACTED]
 - [[출처 1a6196]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

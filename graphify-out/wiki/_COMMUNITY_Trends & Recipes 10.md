@@ -1,13 +1,13 @@
 ---
 type: community
 cohesion: 0.04
-members: 58
+members: 57
 ---
 
 # Trends & Recipes 10
 
 **Cohesion:** 0.04 - loosely connected
-**Members:** 58 nodes
+**Members:** 57 nodes
 
 ## Members
 - [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 b50060]] - document - raw/scenarios/portrait_skin_tone_2026.md
@@ -40,8 +40,7 @@ members: 58
 - [[issueoverblurred hair edges]] - document - raw/scenarios/portrait_skin_tone_2026.md
 - [[issueunderexposed face]] - document - raw/scenarios/portrait_skin_tone_2026.md
 - [[lens 2x or 3x]] - document - raw/scenarios/portrait_skin_tone_2026.md
-- [[low retouch]] - document - raw/scenarios/portrait_skin_tone_2026.md
-- [[natural clean portrait]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[low retouch 7f5eb8]] - document - raw/scenarios/portrait_skin_tone_2026.md
 - [[natural skin 5babf7]] - document - raw/scenarios/portrait_skin_tone_2026.md
 - [[orange luminance plus 5 to 18]] - document - raw/scenarios/portrait_skin_tone_2026.md
 - [[orange skin cast]] - document - raw/scenarios/portrait_skin_tone_2026.md
@@ -78,8 +77,9 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 2 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 21]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 4]]
 - 1 edge to [[_COMMUNITY_Scenarios Sources]]
 
 ## Top bridge nodes
-- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 b50060]] - degree 61, connects to 3 communities
+- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 b50060]] - degree 61, connects to 4 communities

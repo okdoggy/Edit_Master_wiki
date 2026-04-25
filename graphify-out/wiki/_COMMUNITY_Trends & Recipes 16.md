@@ -66,13 +66,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 3]]
 - 2 edges to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 23]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 21]]
 
 ## Top bridge nodes
 - [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 26c0ca]] - degree 45, connects to 4 communities
+- [[rim light 5da773]] - degree 4, connects to 2 communities
 - [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 aa554a]] - degree 11, connects to 1 community
-- [[rim light 5da773]] - degree 4, connects to 1 community

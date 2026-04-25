@@ -1,104 +1,110 @@
 ---
 type: community
-cohesion: 0.03
-members: 89
+cohesion: 0.02
+members: 95
 ---
 
 # Trends & Recipes 5
 
-**Cohesion:** 0.03 - loosely connected
-**Members:** 89 nodes
+**Cohesion:** 0.02 - loosely connected
+**Members:** 95 nodes
 
 ## Members
-- [[1x 0.5x]] - document - raw/scenarios/fireworks_skyline.md
-- [[1x 2x 5x]] - document - raw/scenarios/city_night_long_exposure.md
-- [[EV negative]] - document - raw/scenarios/city_window_reflection.md
-- [[Graphify 추출 힌트 48276c]] - document - raw/scenarios/city_night_long_exposure.md
-- [[Graphify 추출 힌트 79921a]] - document - raw/scenarios/city_window_reflection.md
-- [[Graphify 추출 힌트 91a444]] - document - raw/scenarios/fireworks_skyline.md
-- [[adobe.comneon-light-photography.html]] - document - raw/scenarios/city_window_reflection.md
-- [[bhphotovideo.comseven-tips-for-photographing-cities-at-night]] - document - raw/scenarios/city_window_reflection.md
-- [[blown city lights]] - document - raw/scenarios/city_window_reflection.md
-- [[bright subject]] - document - raw/scenarios/fireworks_skyline.md
-- [[burst fb9ef0]] - document - raw/scenarios/fireworks_skyline.md
-- [[burst video]] - document - raw/scenarios/fireworks_skyline.md
-- [[city]] - document - raw/scenarios/city_window_reflection.md
-- [[city lights 515fc6]] - document - raw/scenarios/city_night_long_exposure.md
-- [[city lights aa93ec]] - document - raw/scenarios/city_window_reflection.md
-- [[city neon]] - document - raw/scenarios/city_window_reflection.md
-- [[city-night]] - document - raw/scenarios/city_night_long_exposure.md
-- [[color]] - document - raw/scenarios/fireworks_skyline.md
-- [[composition]] - document - raw/scenarios/city_window_reflection.md
-- [[context]] - document - raw/scenarios/fireworks_skyline.md
-- [[dark clothing]] - document - raw/scenarios/city_window_reflection.md
-- [[fireworks 604db9]] - document - raw/scenarios/fireworks_skyline.md
-- [[fireworks c6e252]] - document - raw/scenarios/fireworks_skyline.md
-- [[fireworks f35ae9]] - document - raw/scenarios/fireworks_skyline.md
-- [[highlights]] - document - raw/scenarios/city_night_long_exposure.md
-- [[layering]] - document - raw/scenarios/city_window_reflection.md
-- [[light trails]] - document - raw/scenarios/city_night_long_exposure.md
-- [[long-exposure]] - document - raw/scenarios/city_night_long_exposure.md
-- [[low iso 5ea6d9]] - document - raw/scenarios/fireworks_skyline.md
-- [[low iso 96aa5f]] - document - raw/scenarios/city_night_long_exposure.md
-- [[low iso long shutter]] - document - raw/scenarios/city_night_long_exposure.md
-- [[messy reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[moody cinematic]] - document - raw/scenarios/city_night_long_exposure.md
-- [[night]] - document - raw/scenarios/city_window_reflection.md
-- [[night city]] - document - raw/scenarios/city_night_long_exposure.md
-- [[night or photo]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[night or pro]] - document - raw/scenarios/fireworks_skyline.md
-- [[night skyline]] - document - raw/scenarios/fireworks_skyline.md
-- [[noise]] - document - raw/scenarios/city_night_long_exposure.md
-- [[overexposure]] - document - raw/scenarios/fireworks_skyline.md
-- [[peak shape]] - document - raw/scenarios/fireworks_skyline.md
-- [[pro or night]] - document - raw/scenarios/city_night_long_exposure.md
-- [[protection]] - document - raw/scenarios/city_night_long_exposure.md
-- [[reddit.comhow_can_i_prevent_these_reflections_on_the_glass]] - document - raw/scenarios/city_window_reflection.md
-- [[reddit.comis_there_anyway_to_get_rid_of_the_window]] - document - raw/scenarios/city_window_reflection.md
-- [[self reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[skyline]] - document - raw/scenarios/city_night_long_exposure.md
-- [[support.google.com9708795]] - document - raw/magazine/apple_support_night_mode.md
-- [[traffic]] - document - raw/scenarios/city_night_long_exposure.md
-- [[traffic-trails]] - document - raw/scenarios/city_night_long_exposure.md
-- [[travelphotographymagazine.comproblems]] - document - raw/scenarios/city_window_reflection.md
-- [[tripod 65997f]] - document - raw/scenarios/city_night_long_exposure.md
-- [[wide lens]] - document - raw/scenarios/fireworks_skyline.md
-- [[window]] - document - raw/scenarios/city_window_reflection.md
-- [[window reflection]] - document - raw/scenarios/city_window_reflection.md
-- [[window reflection city night]] - document - raw/scenarios/city_window_reflection.md
-- [[근거 39e7cf]] - document - raw/scenarios/city_window_reflection.md
-- [[근거 752fd5]] - document - raw/scenarios/fireworks_skyline.md
-- [[근거 98f893]] - document - raw/scenarios/city_night_long_exposure.md
-- [[네온 반사 사진]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 반사]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 7546cf]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - document - raw/scenarios/city_window_reflection.md
-- [[도시 야경 장노출 — 빛줄기스카이라인 75d2a9]] - document - raw/scenarios/city_night_long_exposure.md
-- [[도시 야경 장노출 — 빛줄기스카이라인 c4184c]] - document - raw/scenarios/city_night_long_exposure.md
-- [[반사가 지저분]] - document - raw/scenarios/city_window_reflection.md
-- [[반영한 외부 근거 31cb6b]] - document - raw/scenarios/fireworks_skyline.md
-- [[반영한 외부 근거 935dd6]] - document - raw/scenarios/city_window_reflection.md
-- [[반영한 외부 근거 ab3231]] - document - raw/scenarios/city_night_long_exposure.md
-- [[보정 레시피 31c9c2]] - document - raw/scenarios/fireworks_skyline.md
-- [[보정 레시피 5c47c3]] - document - raw/scenarios/city_night_long_exposure.md
-- [[보정 레시피 c12f40]] - document - raw/scenarios/city_window_reflection.md
-- [[불꽃놀이와 스카이라인 — 하이라이트 보호연속 확보 11df4b]] - document - raw/scenarios/fireworks_skyline.md
-- [[불꽃놀이와 스카이라인 — 하이라이트 보호연속 확보 6c409e]] - document - raw/scenarios/fireworks_skyline.md
-- [[시나리오 수정 포인트 6d7c1d]] - document - raw/scenarios/fireworks_skyline.md
-- [[시나리오 수정 포인트 c87e06]] - document - raw/scenarios/city_night_long_exposure.md
-- [[시나리오 수정 포인트 ca648f]] - document - raw/scenarios/city_window_reflection.md
-- [[실패 방지  주의점 1239c1]] - document - raw/scenarios/city_night_long_exposure.md
-- [[실패 방지  주의점 a7011e]] - document - raw/scenarios/city_window_reflection.md
-- [[실패 방지  주의점 fd5cd4]] - document - raw/scenarios/fireworks_skyline.md
-- [[유리창 야경 반사]] - document - raw/scenarios/city_window_reflection.md
-- [[창문에 비친 도시]] - document - raw/scenarios/city_window_reflection.md
-- [[촬영 레시피 254dcc]] - document - raw/scenarios/fireworks_skyline.md
-- [[촬영 레시피 551c08]] - document - raw/scenarios/city_window_reflection.md
-- [[촬영 레시피 6c3b86]] - document - raw/scenarios/city_night_long_exposure.md
-- [[추천 시스템용 요약 025e6a]] - document - raw/scenarios/city_night_long_exposure.md
-- [[추천 시스템용 요약 48ab52]] - document - raw/scenarios/fireworks_skyline.md
-- [[추천 시스템용 요약 b1e01a]] - document - raw/scenarios/city_window_reflection.md
-- [[호텔 창밖 야경]] - document - raw/scenarios/city_window_reflection.md
+- [[1. 트렌드 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[2. 일반 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[2012~2014 기본 Instagram 필터  고채도  비네트]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2015~2016 VSCO  Hipstamatic  앱 프리셋 시대]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2017 필름 그레인  KiraKira  연속 사진 업로드]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2018~2019 따뜻한 여행 인플루언서  orange-teal  curated feed]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2020~2021 자연스러운 집콕코티지old Instagram nostalgia]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2022 no-filter  photo dump  authenticity]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2023 pink  light reflection  drama  warm tones]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[2024 Reelsvertical-first  text overlay  mixed media]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[3. 개인화 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Edge patterns]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Exif  CIPA]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Graphify node taxonomy]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Graphify 추천 연결 스키마 — 스마트폰 촬영보정]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Graphify 추출 힌트 47d04e]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[IPTC Photo Metadata]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Instagram]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[LightroomMobile]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Photo metadata standards mapping — Schema.orgIPTCExif to recommender graph]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Privacy  safety rules]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[SNS 인물·여행 사진 보정 트렌드 타임라인]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[SNS보정]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[Schema.org ImageObject  Photograph]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Style 1. Clean influencer portrait — 밝고 깨끗한 인물]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 1. Teal & Orange cinematic]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[Style 2. 2014 old Instagram selfie — 강한 필터 회고]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 2. Bright pastel beach  airy travel]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[Style 3. Food glow  delicious warm editorial]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[Style 3. VSCO matte travel — 부드러운 필름 여행]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 4. Film look  nostalgic grain]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[Style 4. Warm travel blogger — 노을호텔휴양지]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 5. Autumn foliage color grade]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[Style 5. Moody city night — 도시 야경네온비 오는 거리]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 6. Pink  soft feminine 2023 — 핑크·부드러운 톤]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 6. Snow clean high-key]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[Style 7. Cinematic 2025 — 영화적 여행인물]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Style 8. No-filter authentic — 있는 그대로지만 정돈된 사진]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[VSCO]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[adobe.commobile-photography.html]] - document - raw/techniques/food_photography_recipes.md
+- [[apptuts.netinstagram-picture-editing-trends]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[austinmann.comiphone-proraw]] - document - raw/sns/austin_mann.md
+- [[blog.adobe.comhalftone-nostalgia-more-2025-top-firefly-prompt-trends]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[cipa.jpstd-sec.html]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[editing-style]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[film-look]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[food-glow]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[graphify_recommendation_schema]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[helpx.adobe.comin-app-learning-ios.html]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
+- [[helpx.adobe.commasking-mobile-android.html]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[helpx.adobe.commasking-mobile-ios.html]] - document - raw/lightroom/adobe_masking_mobile_ios.md
+- [[helpx.adobe.commobile-food-photography.html]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[iptc.orgmedia-topics]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orgphoto-metadata-standard-updated-to-version-2024-1]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orgsubject-codes]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orguserguide]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[lightroom-mobile]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[lightroomtutorials.combright-pastel]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[lightroomtutorials.comhow-to-create-a-film-look-in-lightroom]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[lightroomtutorials.comlightroom-magic-to-make-your-food-photos-look-more-delicious]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[lightroomtutorials.comteal-orange]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[mdpi.com1003]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[metadata_standards_mapping]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[moncrome.com2025-photo-editing-trends-you-shouldnt-ignore]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[newsroom.tiktok.comenhancing-photo-sharing-for-tiktok-creators-with-lemon-8]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[newsroom.tiktok.comyear-on-tiktok-2024]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[newsweek.comcool-edit-instagram-pictures-2014-again-already-trend-filters-tiktok-1633878]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[pastel-beach]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[pixofix.comthe-future-of-photo-retouching-10-must-know-trends-for-2025]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[qingyuguo.github.iotkde2020_kgrs_survey.pdf]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[revoluxdigital.comphoto-editing-trends-to-watch-in-2025]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[samsung.comhow-to-pull-off-the-perfect-fall-photoshoot]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[schema.orgImageObject]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[schema.orgPhotograph]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[snow 6ec993]] - document - raw/scenarios/snow_portrait_clean_winter.md
+- [[teal-orange]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[time.cominstagram-filters-hipstamatic-vsco]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[trends]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[vanityfair.cominstagram-trends-2017]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[webfuturestudio.comtop-7-photo-editing-trends-on-instagram-for-2023]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[단풍나무 아래 여성 예시]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[시네마틱]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[여행보정]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[연도별트렌드]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[왜 필요한가]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[인물·여행 사진 보정 스타일별 Lightroom Mobile 레시피]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[인물보정]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[전문가인기 스타일 보정 레시피 — Lightroom Mobile 중심]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[추천 그래프 필드로 매핑]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[추천 랭킹에 쓸 수 있는 점수 후보]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[추천 타입 3종]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[추천용 추론 필드]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[출처 52e88e]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[표준 기반 필드]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[필름룩]] - document - raw/trends/portrait_travel_editing_styles.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -108,20 +114,22 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 8 edges to [[_COMMUNITY_Trends & Recipes]]
-- 6 edges to [[_COMMUNITY_Evidence Sources]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 12]]
-- 6 edges to [[_COMMUNITY_Scenarios Sources]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 9]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 18]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 23]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 3 edges to [[_COMMUNITY_Evidence Sources]]
+- 2 edges to [[_COMMUNITY_Recommendation Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
 
 ## Top bridge nodes
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - degree 36, connects to 4 communities
-- [[불꽃놀이와 스카이라인 — 하이라이트 보호연속 확보 11df4b]] - degree 24, connects to 4 communities
-- [[도시 야경 장노출 — 빛줄기스카이라인 75d2a9]] - degree 24, connects to 3 communities
-- [[support.google.com9708795]] - degree 9, connects to 3 communities
-- [[burst fb9ef0]] - degree 3, connects to 2 communities
+- [[helpx.adobe.commasking-mobile-ios.html]] - degree 11, connects to 5 communities
+- [[전문가인기 스타일 보정 레시피 — Lightroom Mobile 중심]] - degree 28, connects to 4 communities
+- [[인물·여행 사진 보정 스타일별 Lightroom Mobile 레시피]] - degree 25, connects to 4 communities
+- [[Graphify 추천 연결 스키마 — 스마트폰 촬영보정]] - degree 19, connects to 3 communities
+- [[helpx.adobe.commobile-food-photography.html]] - degree 5, connects to 3 communities

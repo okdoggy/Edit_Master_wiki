@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/dim_restaurant_food.md"
 type: "document"
-community: "Trends & Recipes 8"
+community: "Trends & Recipes 6"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_8
+  - community/Trends_&_Recipes_6
 ---
 
 # texture [0d0e87]
@@ -18,4 +18,4 @@ tags:
 - [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 5188da]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - `TARGETS_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_8
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6

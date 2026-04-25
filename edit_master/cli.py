@@ -71,6 +71,7 @@ def build_parser() -> argparse.ArgumentParser:
     eval_parser.add_argument("--json", action="store_true", help="Print full JSON report.")
     eval_parser.add_argument("--top-k", type=int, default=5)
     eval_parser.add_argument("--min-top1", type=float, help="Override the matcher top-1 threshold.")
+    eval_parser.add_argument("--set", choices=["all", "regression", "realistic", "ambiguous"], default="all")
     eval_parser.set_defaults(func=command_eval)
 
     add_raw_parser(subparsers)
@@ -230,7 +231,9 @@ def build_doctor_report(config: HarnessConfig) -> dict[str, Any]:
         path_status("graphify_out", config.graphify_out_dir),
         path_status("scene_graph", config.scene_graph_path),
         path_status("source_graph", config.source_graph_path),
-        path_status("eval", config.eval_path),
+        path_status("eval_regression", config.eval_path),
+        path_status("eval_realistic", config.realistic_eval_path),
+        path_status("eval_ambiguous", config.ambiguous_eval_path),
         path_status("README", config.root / "README.md"),
     ]
     graphify_ok = importlib.util.find_spec("graphify") is not None
@@ -292,7 +295,13 @@ def command_validate(args: argparse.Namespace, config: HarnessConfig) -> int:
     from scripts.agent_pipeline import run_pipeline
 
     min_top1 = args.min_top1 if args.min_top1 is not None else config.min_top1
-    report = run_pipeline(config.scene_graph_path, config.eval_path, min_top1, config.source_graph_path)
+    report = run_pipeline(
+        config.scene_graph_path,
+        eval_paths(config),
+        min_top1,
+        config.source_graph_path,
+        config.eval_thresholds,
+    )
     report["answer_smoke"] = validate_answer_smoke(config)
     report["ok"] = bool(report["ok"] and report["answer_smoke"]["ok"])
     if args.json:
@@ -350,35 +359,120 @@ def print_pipeline_report(report: dict[str, Any]) -> None:
         f"events={report['learning_loop']['event_count']} "
         f"personalized_weight={report['learning_loop']['personalized_weight']:.3f}"
     )
-    print(f"matcher top1/top3: {report['matcher_eval']['top1_accuracy']:.3f} / {report['matcher_eval']['top3_accuracy']:.3f}")
+    print(
+        "matcher weighted top1/top3: "
+        f"{report['matcher_eval']['weighted_top1_accuracy']:.3f} / "
+        f"{report['matcher_eval']['weighted_top3_accuracy']:.3f}"
+    )
+    gap_value = report["matcher_eval"].get("weighted_gap_abstain_accuracy")
+    gap_text = "n/a" if gap_value is None else f"{gap_value:.3f}"
+    print(
+        "matcher match-only top1/top3: "
+        f"{report['matcher_eval']['weighted_match_top1_accuracy']:.3f} / "
+        f"{report['matcher_eval']['weighted_match_top3_accuracy']:.3f}"
+    )
+    print(f"matcher gap abstain: {gap_text}")
+    for name, result in report["matcher_eval"]["sets"].items():
+        gap_value = result.get("gap_abstain_accuracy")
+        gap_text = "n/a" if gap_value is None else f"{gap_value:.3f}"
+        print(
+            f"matcher {name} top1/top3: "
+            f"{result['top1_accuracy']:.3f} / {result['top3_accuracy']:.3f} "
+            f"(match {result.get('match_top1_accuracy', result['top1_accuracy']):.3f}/"
+            f"{result.get('match_top3_accuracy', result['top3_accuracy']):.3f}, gap {gap_text}) "
+            f"(min {result['min_top1']:.2f}/{result['min_top3']:.2f})"
+        )
     print(f"answer smoke: {report['answer_smoke']['ok']}")
     for issue in report["answer_smoke"]["issues"]:
         print(f"  - {issue}")
     if report["matcher_eval"]["misses"]:
         print("matcher misses:")
         for miss in report["matcher_eval"]["misses"]:
-            print(f"  - {miss['id']}: expected={miss['expected']} predicted={miss['predicted']}")
+            expected = miss["expected"] or miss.get("expected_behavior", "match")
+            score = "" if miss.get("top_score") is None else f" score={miss['top_score']}"
+            print(
+                f"  - [{miss['set']}] {miss['id']}: expected={expected} "
+                f"predicted={miss['predicted']}{score} "
+                f"confidence={miss.get('top_confidence')} status={miss.get('coverage_status')}"
+            )
+    if report["matcher_eval"].get("candidate_gaps"):
+        print("candidate gaps:")
+        for gap in report["matcher_eval"]["candidate_gaps"]:
+            candidate = gap.get("candidate_scenario") or "-"
+            score = "" if gap.get("top_score") is None else f" score={gap['top_score']}"
+            print(
+                f"  - [{gap['set']}] {gap['id']}: candidate={candidate} "
+                f"predicted={gap['predicted']}{score} "
+                f"confidence={gap.get('top_confidence')} status={gap.get('coverage_status')}"
+            )
 
 
 def command_eval(args: argparse.Namespace, config: HarnessConfig) -> int:
-    from scripts.evaluate_scene_matcher import evaluate
+    from scripts.agent_pipeline import validate_matcher_eval
+    from scripts.evaluate_scene_matcher import evaluate_suite
 
     min_top1 = args.min_top1 if args.min_top1 is not None else config.min_top1
-    result = evaluate(config.eval_path, config.scene_graph_path, top_k=args.top_k)
+    selected_paths = eval_paths(config)
+    if args.set != "all":
+        selected_paths = {args.set: selected_paths[args.set]}
+    thresholds = dict(config.eval_thresholds)
+    thresholds["regression"] = {**thresholds.get("regression", {}), "top1": min_top1}
+    result = validate_matcher_eval(evaluate_suite(selected_paths, config.scene_graph_path, top_k=args.top_k), thresholds)
     if args.json:
         print(json.dumps(result, ensure_ascii=False, indent=2))
     else:
         print(f"cases: {result['total']}")
-        print(f"top1_accuracy: {result['top1_accuracy']:.3f}")
-        print(f"top3_accuracy: {result['top3_accuracy']:.3f}")
+        print(f"weighted_top1_accuracy: {result['weighted_top1_accuracy']:.3f}")
+        print(f"weighted_top3_accuracy: {result['weighted_top3_accuracy']:.3f}")
+        print(f"match_top1_accuracy: {result['weighted_match_top1_accuracy']:.3f}")
+        print(f"match_top3_accuracy: {result['weighted_match_top3_accuracy']:.3f}")
+        gap_value = result.get("weighted_gap_abstain_accuracy")
+        gap_text = "n/a" if gap_value is None else f"{gap_value:.3f}"
+        print(f"gap_abstain_accuracy: {gap_text}")
         print()
-        for row in result["rows"]:
-            status = "OK" if row["top1"] else "MISS"
-            print(f"{status} {row['id']}: expected={row['expected']} predicted={row['predicted']}")
-            if not row["top1"]:
-                for match in row["matches"][:3]:
-                    print(f"  - {match['scenario_id']} score={match['score']} reasons={','.join(match['reasons'])}")
-    return 0 if result["top1_accuracy"] >= min_top1 else 1
+        for name, item in result["sets"].items():
+            gap_value = item.get("gap_abstain_accuracy")
+            gap_text = "n/a" if gap_value is None else f"{gap_value:.3f}"
+            print(
+                f"{name}: top1={item['top1_accuracy']:.3f} "
+                f"top3={item['top3_accuracy']:.3f} "
+                f"match={item.get('match_top1_accuracy', item['top1_accuracy']):.3f}/"
+                f"{item.get('match_top3_accuracy', item['top3_accuracy']):.3f} "
+                f"gap={gap_text} "
+                f"cases={item['total']} "
+                f"ok={item['ok']}"
+            )
+        if result["misses"]:
+            print()
+            print("misses:")
+            for miss in result["misses"]:
+                expected = miss["expected"] or miss.get("expected_behavior", "match")
+                score = "" if miss.get("top_score") is None else f" score={miss['top_score']}"
+                print(
+                    f"  - [{miss['set']}] {miss['id']}: expected={expected} "
+                    f"predicted={miss['predicted']} top3={miss['top3']}{score} "
+                    f"confidence={miss.get('top_confidence')} status={miss.get('coverage_status')}"
+                )
+        if result.get("candidate_gaps"):
+            print()
+            print("candidate gaps:")
+            for gap in result["candidate_gaps"]:
+                candidate = gap.get("candidate_scenario") or "-"
+                score = "" if gap.get("top_score") is None else f" score={gap['top_score']}"
+                print(
+                    f"  - [{gap['set']}] {gap['id']}: candidate={candidate} "
+                    f"predicted={gap['predicted']}{score} "
+                    f"confidence={gap.get('top_confidence')} status={gap.get('coverage_status')}"
+                )
+    return 0 if result["ok"] else 1
+
+
+def eval_paths(config: HarnessConfig) -> dict[str, Path]:
+    return {
+        "regression": config.eval_path,
+        "realistic": config.realistic_eval_path,
+        "ambiguous": config.ambiguous_eval_path,
+    }
 
 
 def command_raw(args: argparse.Namespace, config: HarnessConfig) -> int:

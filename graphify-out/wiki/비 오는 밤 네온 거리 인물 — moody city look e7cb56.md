@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/rain_neon_street_portrait.md"
 type: "document"
-community: "Trends & Recipes 12"
+community: "Trends & Recipes 7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_12
+  - community/Trends_&_Recipes_7
 ---
 
 # 비 오는 밤 네온 거리 인물 — moody city look [e7cb56]
@@ -23,4 +23,4 @@ tags:
 - [[촬영 레시피 371601]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 시스템용 요약 aeecbc]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_12
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7

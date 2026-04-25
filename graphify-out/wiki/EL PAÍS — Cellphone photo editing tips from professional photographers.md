@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/el_pais_cellphone_editing_tips.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes_2
 ---
 
 # EL PAÍS — Cellphone photo editing tips from professional photographers
@@ -29,4 +29,4 @@ tags:
 - [[폰사진보정]] - `MENTIONS_TAG` [EXTRACTED]
 - [[후보정]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

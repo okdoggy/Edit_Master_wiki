@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/tyler_stalman_youtube.md"
 type: "document"
-community: "Trends & Recipes 15"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_15
+  - community/Trends_&_Recipes
 ---
 
 # Tyler Stalman YouTube
@@ -33,4 +33,4 @@ tags:
 - [[카메라리뷰]] - `MENTIONS_TAG` [EXTRACTED]
 - [[크리에이터워크플로우]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

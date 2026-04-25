@@ -1,124 +1,125 @@
 ---
 type: community
 cohesion: 0.01
-members: 217
+members: 251
 ---
 
 # Trends & Recipes 3
 
 **Cohesion:** 0.01 - loosely connected
-**Members:** 217 nodes
+**Members:** 251 nodes
 
 ## Members
+- [[0.5x 1x front]] - document - raw/scenarios/group_travel_selfie.md
 - [[1x 2x portrait]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[2x 3x]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[2x 3x portrait]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[1x or 0 5x]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[2x 3x or 1x]] - document - raw/scenarios/crowded_landmark_portrait.md
 - [[2x b2287a]] - document - raw/scenarios/marketplace_street_food_story.md
 - [[2x lens]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[2x or 1x]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[2x portrait 16fb27]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[2x portrait e06427]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[Adobe Learn — Color adjustment on phone or tablet]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Graphify 추출 힌트 47d04e]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[Graphify 추출 힌트 72ab32]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[Graphify 추출 힌트 8d4b20]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[HDR  역광 톤 정리 6b6f0f]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[HSL]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[RAWDNG + Adaptive Profile로 시작하기 e533da]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Style 1. Teal & Orange cinematic]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[Style 2. Bright pastel beach  airy travel]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[Style 3. Food glow  delicious warm editorial]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[Style 4. Film look  nostalgic grain]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[Style 5. Autumn foliage color grade]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[Style 6. Snow clean high-key]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[Subject  Sky  Background 마스크 분리 보정 3cceb8]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Tip 1. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 3fff70]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Tip 2. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 c2ba3c]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 5f076a]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
+- [[Graphify 추출 힌트 3ee081]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[Graphify 추출 힌트 8d8988]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[Graphify 추출 힌트 95886b]] - document - raw/scenarios/window_light_cafe_portrait.md
 - [[fashion, ootd, portrait, full-body, instagram]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[selfie, profile, portrait, front-camera, skin-tone]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[adobe.comcolor-adjustment]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
 - [[adobe.comgolden-hour.html]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[adobe.comhow-to-take-portrait-photos-with-your-phone]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[adobe.comphoto-filters]] - document - raw/scenarios/autumn_maple_woman_portrait.md
 - [[adobe.comportrait-lighting.html]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[adobe.comsilhouette-photography.html]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[airy]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[airy pink]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[airy style]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[autumn]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[autumn foliage]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[autumn maple tree]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[assets.rafmuseum.org.ukPhotography-Resources.pdf]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[background distance]] - document - raw/scenarios/flower_macro_bokeh.md
 - [[backlight 1ebbd4]] - document - raw/scenarios/backlit_rim_light_portrait.md
 - [[backlight 7de6e4]] - document - raw/scenarios/autumn_maple_woman_portrait.md
 - [[backlight golden hour]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[beach 3684e3]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[beach 58bf3f]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[birthday]] - document - raw/scenarios/candle_cake_low_light_party.md
 - [[blog.adobe.combeach-photography-tips-techniques]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[blog.googleframe-10-tips-getting-great-portraits-pixel-2]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[blog.googlepixel-group-photo-features-ai]] - document - raw/scenarios/group_travel_selfie.md
+- [[blog.googletake-holiday-photos-night-sight-portrait-mode]] - document - raw/scenarios/indoor_party_group.md
 - [[blog.googletake-id-photo-google-pixel-tips 396574]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[blog.googletake-id-photo-google-pixel-tips 8b48ba]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[blog.googletravel-photography-101-teampixel cb83a0]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[blown highlights]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[blue cast]] - document - raw/scenarios/snow_portrait_clean_winter.md
 - [[blue-orange]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[body alignment]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[body distortion]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[body-alignment]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[bokeh 9c9469]] - document - raw/scenarios/flower_macro_bokeh.md
 - [[bright blue travel]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[busy background b5e04f]] - document - raw/scenarios/crowded_landmark_portrait.md
 - [[cafe]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
 - [[cafe window]] - document - raw/scenarios/window_light_cafe_portrait.md
 - [[camera meter]] - document - raw/scenarios/snow_portrait_clean_winter.md
 - [[cherry-blossom]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[clean influencer]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[clean winter]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[clear face warm background]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[close front camera]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[clear outline]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[cloud detail]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[depth]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[couple]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[crowd]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[crowded landmark]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[daylight or golden hour]] - document - raw/scenarios/crowded_landmark_portrait.md
 - [[diffused window]] - document - raw/scenarios/window_light_cafe_portrait.md
 - [[dirty mirror]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[distortion]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[editing-style]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[edge distortion 4b172a]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[edge distortion d7b6ec]] - document - raw/scenarios/group_travel_selfie.md
+- [[emotion]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[face]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[face distortion]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[face center]] - document - raw/scenarios/group_travel_selfie.md
 - [[face shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[faces]] - document - raw/scenarios/group_travel_selfie.md
 - [[fashion]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[fashion outfit]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[film-look]] - document - raw/trends/professional_popular_editing_recipes.md
 - [[flower background]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[flower tree]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[foliage]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[food-glow]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[flowers]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[front camera]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[front or rear camera]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[gallery]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[golden hour a9ad01]] - document - raw/scenarios/golden_hour_travel_scale.md
-- [[golden hour or backlight]] - document - raw/scenarios/autumn_maple_woman_portrait.md
 - [[grid]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[group 7edb2e]] - document - raw/scenarios/group_best_face_gathering.md
+- [[group a28320]] - document - raw/scenarios/group_best_face_gathering.md
 - [[hair glow]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[harsh overhead sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[harsh shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[harsh sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[harsh-sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[helpx.adobe.commasking-mobile-android.html]] - document - raw/trends/professional_popular_editing_recipes.md
 - [[high-key]] - document - raw/scenarios/snow_portrait_clean_winter.md
+- [[highlights]] - document - raw/scenarios/city_night_long_exposure.md
 - [[indoor]] - document - raw/scenarios/indoor_party_group.md
+- [[indoor party]] - document - raw/scenarios/candle_cake_low_light_party.md
 - [[influencer]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[iphonephotographyschool.comfall]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[leaf foreground]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[landmark 1479a2]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[lifepixel.com6-tips-photographing-museums-galleries]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[light]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[lightroom-mobile]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[lightroomtutorials.combright-pastel]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[lightroomtutorials.comhow-to-create-a-film-look-in-lightroom]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[lightroomtutorials.comlightroom-magic-to-make-your-food-photos-look-more-delicious]] - document - raw/trends/professional_popular_editing_recipes.md
-- [[lightroomtutorials.comteal-orange]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[lost subject shape]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[makeuseof.commirror-selfie-poses]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[maple]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[maple tree]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[minimal clean]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[mirror distortion]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[mirror indoor]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[mirror-selfie]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[mixed gallery spotlight]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[mixed white balance]] - document - raw/scenarios/dim_restaurant_food.md
+- [[mixed-light]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[motion 967506]] - document - raw/scenarios/indoor_party_group.md
+- [[museum]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[museum gallery]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[nationalgeographic.compeople-quick-tips]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[natural skin f8cd2b]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[negative exposure]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[negative space]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[no-flash]] - document - raw/scenarios/dim_restaurant_food.md
 - [[noon]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[noon beach]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[ootd]] - document - raw/scenarios/mirror_selfie_ootd.md
@@ -126,32 +127,42 @@ members: 217
 - [[outfit color priority]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[overcast light]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[overcast reflection]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[pastel-beach]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[party]] - document - raw/scenarios/candle_cake_low_light_party.md
 - [[person]] - document - raw/scenarios/backlit_rim_light_portrait.md
-- [[personalization-seed]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[person or couple]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[photo or night short]] - document - raw/scenarios/indoor_party_group.md
+- [[photo or portrait]] - document - raw/scenarios/crowded_landmark_portrait.md
 - [[pink]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[pink tint]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[portrait]] - document - raw/scenarios/autumn_maple_woman_portrait.md
 - [[portrait or photo]] - document - raw/scenarios/autumn_maple_woman_portrait.md
 - [[pose]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[protection]] - document - raw/scenarios/city_night_long_exposure.md
+- [[readability ac761d]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[reddit.comits_not_you_its_your_camera_photography_tips_for]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[reddit.comproblems_with_reflections_in_the_glass_while]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[reddit.comtaking_outfit_photos_with_your_phone]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[samsung.comhow-to-capture-your-best-profile-picture]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[seasonal fall color]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[samsung.comANS10004858]] - document - raw/scenarios/group_travel_selfie.md
+- [[samsung.comhow-to-capture-your-best-profile-picture]] - document - raw/scenarios/dating_profile_natural_portrait.md
+- [[scale lost]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[selfie]] - document - raw/scenarios/group_travel_selfie.md
 - [[selfie or portrait selfie]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[selfie or timer]] - document - raw/scenarios/group_travel_selfie.md
 - [[selfie person]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[separation]] - document - raw/scenarios/window_light_cafe_portrait.md
 - [[shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[silhouette 16ddda]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[silhouette ddaf0e]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[silhouette warm]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[skin]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[skin retouch strength]] - document - raw/scenarios/window_light_cafe_portrait.md
 - [[skin tone]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[skin tone preference]] - document - raw/scenarios/autumn_maple_woman_portrait.md
 - [[skin tone protection]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[sky 0063ca]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[sky 546a0f]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[sky mask]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[snow 0cea24]] - document - raw/scenarios/snow_portrait_clean_winter.md
 - [[snow 4e9ebd]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[snow 6ec993]] - document - raw/scenarios/snow_portrait_clean_winter.md
 - [[soft overcast]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[soft skin clean background]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[soft-light]] - document - raw/scenarios/window_light_cafe_portrait.md
@@ -159,66 +170,90 @@ members: 217
 - [[spring blossom]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[spring trend]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[street or cafe]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[strong backlight]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[subject]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[subject mask]] - document - raw/scenarios/autumn_maple_woman_portrait.md
 - [[summer]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[sunset 5ac384]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[sunset ebc6e4]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[support.apple.comios acf715]] - document - raw/magazine/apple_support_night_mode.md
 - [[support.apple.comios ad5a3c]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[teal-orange]] - document - raw/trends/professional_popular_editing_recipes.md
 - [[text overlay]] - document - raw/scenarios/window_light_cafe_portrait.md
 - [[timer]] - document - raw/scenarios/group_travel_selfie.md
+- [[tourist]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[travel landmark]] - document - raw/scenarios/group_travel_selfie.md
 - [[underexpose snow]] - document - raw/scenarios/snow_portrait_clean_winter.md
 - [[underexposed snow]] - document - raw/scenarios/snow_portrait_clean_winter.md
 - [[warm blue travel]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[warm color grade]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[warm foliage]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[warm gradient]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[warm low light]] - document - raw/scenarios/indoor_party_group.md
+- [[warm travel]] - document - raw/scenarios/crowded_landmark_portrait.md
 - [[white balance]] - document - raw/scenarios/snow_portrait_clean_winter.md
 - [[white-balance]] - document - raw/scenarios/dim_restaurant_food.md
+- [[wide]] - document - raw/scenarios/group_travel_selfie.md
 - [[wide angle face distortion]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[window light 633aa6]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[window or open shade]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[window-light]] - document - raw/scenarios/window_light_cafe_portrait.md
 - [[winter]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[woman 676c29]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[woman e89f19]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[woman fd25dc]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[갤러리 프로필]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[거울 OOTD]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[거울 더러움]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[거울 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 21b94e]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[근거 54ea59]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[근거 cfbd6e]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[눈 오는 날 인물 — 깨끗한 겨울하이키 스타일 33a331]] - document - raw/scenarios/snow_portrait_clean_winter.md
+- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 7b63b3]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[관광지 사람 많음]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[근거 8061fb]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[근거 85cc2c]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[근거 d8903a]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[노을 실루엣 — 감성 여행커플인물 15f9f9]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[노을 실루엣 — 감성 여행커플인물 67c933]] - document - raw/scenarios/backlit_silhouette_sunset.md
 - [[눈 오는 날 인물 — 깨끗한 겨울하이키 스타일 8cdb47]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 4b8f9b]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 9d71c5]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 53a815]] - document - raw/scenarios/group_travel_selfie.md
+- [[랜드마크 앞 인물]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[명소 사진]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[모임 사진 흐림]] - document - raw/scenarios/indoor_party_group.md
 - [[몸 비율 이상]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[바로 쓰는 팁 카드 bfb66d]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[반영한 외부 근거 512016]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[반영한 외부 근거 ae8eb4]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[미술관 사진]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[반영한 외부 근거 535ae9]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[반영한 외부 근거 592c12]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[반영한 외부 근거 907785]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[배경 관광객 지저분]] - document - raw/scenarios/crowded_landmark_portrait.md
 - [[벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일 8f1f9b]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[보정 레시피 e3951a]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[보정 레시피 f7c794]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[색상]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
+- [[벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일 f1c105]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[보정 레시피 47e72b]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[보정 레시피 778eb9]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[보정 레시피 d6b3f3]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[셀카Profile — 왜곡 적고 자연스러운 얼굴 추천 seed ff7101]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[시나리오 수정 포인트 6b9699]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[시나리오 수정 포인트 b6df70]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[실패 방지  주의점 a23b81]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[실패 방지  주의점 a2f498]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[시나리오 수정 포인트 7f604c]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[시나리오 수정 포인트 968ef2]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[시나리오 수정 포인트 c17ba9]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[실내 생일파티 사진]] - document - raw/scenarios/indoor_party_group.md
+- [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 1a52fb]] - document - raw/scenarios/indoor_party_group.md
+- [[실내 조명 인물]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[실패 방지  주의점 26bfcf]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[실패 방지  주의점 319343]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[실패 방지  주의점 4e80f3]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[어두운 방 단체사진]] - document - raw/scenarios/indoor_party_group.md
 - [[엘리베이터 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[전문가인기 스타일 보정 레시피 — Lightroom Mobile 중심]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[여행 인물 배경 정리]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[작품 앞 인물]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[전시회 인물]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[전신 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[정오 바닷가 사진]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[채도]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[촬영 레시피 a354e5]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[촬영 레시피 f26cdc]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[최신 Lightroom Mobile 검증 레시피 278bbc]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[추천 시스템용 요약 837ba0]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[추천 시스템용 요약 e9d042]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[출처 52e88e]] - document - raw/trends/professional_popular_editing_recipes.md
+- [[촬영 레시피 1f07b8]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[촬영 레시피 ae0819]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[촬영 레시피 e8985d]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[추천 시스템용 요약 42b02e]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[추천 시스템용 요약 64db60]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[추천 시스템용 요약 82e3c6]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
 - [[카페 창가 인물 — 자연광인플루언서 프로필 2cc46c]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[컬러믹스]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
+- [[카페 창가 인물 — 자연광인플루언서 프로필 56de9d]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[케이크 촛불 단체]] - document - raw/scenarios/indoor_party_group.md
+- [[파티 사진 보정]] - document - raw/scenarios/indoor_party_group.md
 - [[패션OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed e84e93]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[플래시 금지]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[하늘 날아감]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[한낮 해변 인물]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - document - raw/scenarios/harsh_noon_beach_portrait.md
@@ -226,7 +261,6 @@ members: 217
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[해변 인물 보정]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[햇빛 너무 셈]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[휘도]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -236,27 +270,32 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 28 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 16 edges to [[_COMMUNITY_Trends & Recipes]]
-- 11 edges to [[_COMMUNITY_Scenarios Sources]]
-- 10 edges to [[_COMMUNITY_Trends & Recipes 14]]
-- 8 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 8 edges to [[_COMMUNITY_Trends & Recipes 12]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 9]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 16]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 11]]
-- 2 edges to [[_COMMUNITY_Evidence Sources]]
+- 16 edges to [[_COMMUNITY_Scenarios Sources]]
+- 13 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 13 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 12 edges to [[_COMMUNITY_Trends & Recipes 13]]
+- 12 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 10 edges to [[_COMMUNITY_Trends & Recipes 23]]
+- 9 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 9 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 16]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 4 edges to [[_COMMUNITY_Evidence Sources]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 20]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 21]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 11]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 22]]
 - 2 edges to [[_COMMUNITY_Trends & Recipes 10]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 18]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 19]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
 
 ## Top bridge nodes
 - [[adobe.comcolor-adjustment]] - degree 21, connects to 7 communities
-- [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - degree 37, connects to 6 communities
-- [[support.apple.comios acf715]] - degree 20, connects to 6 communities
-- [[portrait]] - degree 13, connects to 6 communities
-- [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 4b8f9b]] - degree 37, connects to 4 communities
+- [[support.apple.comios acf715]] - degree 20, connects to 7 communities
+- [[portrait]] - degree 15, connects to 7 communities
+- [[눈 오는 날 인물 — 깨끗한 겨울하이키 스타일 8cdb47]] - degree 25, connects to 6 communities
+- [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 53a815]] - degree 27, connects to 5 communities

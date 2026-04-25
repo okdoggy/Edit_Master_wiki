@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/adobe_lightroom_youtube.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # adobe.com/mobile.html
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Adobe Lightroom YouTube]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

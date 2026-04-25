@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/sony_photography_pro_modes.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Evidence_Sources_2
 ---
 
 # Pro mode
@@ -14,4 +14,4 @@ tags:
 - [[Sony Support — Photography Pro modes on Xperia]] - `MENTIONS_TAG` [EXTRACTED]
 - [[Xiaomi Support — What is phone camera Pro mode]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

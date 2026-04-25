@@ -1,11 +1,11 @@
 ---
 source_file: "raw/manifests/source_matrix.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes 15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes_15
 ---
 
 # digitalcameraworld.com/you-have-to-see-these-incredible-guitar-images-shot-on-a-smartpho...85b69480
@@ -15,4 +15,4 @@ tags:
 - [[Jordi Koalitic YouTube  Shorts]] - `SUPPORTED_BY` [EXTRACTED]
 - [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15

@@ -45,6 +45,9 @@ OFFICIAL_DOMAINS = {
     "samsung.com",
     "help.shopify.com",
     "shopify.com",
+    "bumble.com",
+    "dji.com",
+    "nps.gov",
 }
 
 EXPERT_DOMAINS = {
@@ -59,6 +62,8 @@ EXPERT_DOMAINS = {
     "iphonephotographyschool.com",
     "time.com",
     "wired.com",
+    "vogue.com",
+    "nationalparkstraveler.org",
 }
 
 SOCIAL_DOMAINS = {

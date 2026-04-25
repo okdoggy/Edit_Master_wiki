@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_masking_mobile_ios.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 5"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_5
 ---
 
 # helpx.adobe.com/masking-mobile-ios.html
@@ -23,4 +23,4 @@ tags:
 - [[카페 창가 인물 — 자연광인플루언서 프로필 2cc46c]] - `SUPPORTED_BY` [EXTRACTED]
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5

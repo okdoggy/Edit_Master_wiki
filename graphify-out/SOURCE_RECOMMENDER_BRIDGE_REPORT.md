@@ -5,9 +5,9 @@ This report checks whether the graphify source graph can support the scene-first
 ## Summary
 
 - OK: True
-- Scenario link coverage: 37 / 37
-- Recommendations: 111
-- External evidence links: 208
+- Scenario link coverage: 43 / 43
+- Recommendations: 129
+- External evidence links: 227
 
 ## Gaps
 
@@ -82,9 +82,9 @@ This report checks whether the graphify source graph can support the scene-first
 - Recommendations: 3
 - External evidence: 4 (adobe.com, helpx.adobe.com, samsung.com, support.apple.com)
 
-### 벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일
+### 동굴 저조도 여행 인물 - 질감과 안전을 지키는 촬영/보정 seed
 
-- Scenario: `scenario_cherry_blossom_flower_portrait`
-- Source file: `raw/scenarios/cherry_blossom_flower_portrait.md`
+- Scenario: `scenario_cave_low_light_travel_portrait`
+- Source file: `raw/scenarios/cave_low_light_travel_portrait.md`
 - Recommendations: 3
-- External evidence: 5 (adobe.com, helpx.adobe.com, nationalgeographic.com, support.apple.com)
+- External evidence: 3 (nationalgeographic.com, nationalparkstraveler.org, nps.gov)

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/sony_photography_pro_modes.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Evidence_Sources_2
 ---
 
 # Sony Support — Photography Pro modes on Xperia
@@ -25,4 +25,4 @@ tags:
 - [[수동촬영]] - `MENTIONS_TAG` [EXTRACTED]
 - [[출처 f80def]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

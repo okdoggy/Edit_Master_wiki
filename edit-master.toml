@@ -4,6 +4,8 @@ graphify_out = "graphify-out"
 scene_graph = "graphify-out/scene_recommender_graph.json"
 source_graph = "graphify-out/graph.json"
 eval = "tests/eval_queries.json"
+eval_realistic = "tests/eval_queries_realistic.json"
+eval_ambiguous = "tests/eval_queries_ambiguous.json"
 personalization = "data/personalization"
 
 [raw_intake]
@@ -16,6 +18,18 @@ max_similarity = 0.72
 [quality]
 min_top1 = 1.0
 answer_smoke_query = "카페 창가 인물 사진을 자연스럽게 보정하고 싶어요"
+
+[quality.eval_thresholds.regression]
+top1 = 1.0
+top3 = 1.0
+
+[quality.eval_thresholds.realistic]
+top1 = 0.70
+top3 = 0.85
+
+[quality.eval_thresholds.ambiguous]
+top1 = 0.50
+top3 = 0.85
 
 [user]
 default_user_id = "default"

@@ -74,14 +74,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 6]]
 - 2 edges to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 16]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 2]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 16]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 7]]
 
 ## Top bridge nodes
 - [[집에서 제품 판매 사진 — 깨끗한 썸네일 만들기 764946]] - degree 31, connects to 6 communities

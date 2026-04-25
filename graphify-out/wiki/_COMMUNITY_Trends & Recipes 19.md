@@ -1,49 +1,58 @@
 ---
 type: community
-cohesion: 0.07
-members: 34
+cohesion: 0.06
+members: 43
 ---
 
 # Trends & Recipes 19
 
-**Cohesion:** 0.07 - loosely connected
-**Members:** 34 nodes
+**Cohesion:** 0.06 - loosely connected
+**Members:** 43 nodes
 
 ## Members
-- [[adobe.companning.html]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[background clarity minus 5 to 15]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[burst frame selection 32ce59]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[burst frame selection 3a5f9f]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[burst or action pan]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[cyclist]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[dynamic motion story 3a37d1]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[dynamic motion story af636b]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[energetic storytelling]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[expression and body position]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[kinetic street action d5d7d3]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[kinetic street action dc3091]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[lateral subject motion 9c4539]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[lateral subject motion fda61a]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[match subject speed 38ec40]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[match subject speed add2df]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[motion blur e8a54e]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[motion-blur]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[no subject lock 2841bf]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[no subject lock 2b48dc]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[panning]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[panning subject separation 00dbdc]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[panning subject separation 44ad64]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[runner]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[runner or cyclist 3a9a7c]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[runner or cyclist 5af060]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[sharp subject with motion trail]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[shutter 1 30 to 1 80 if pro mode 17f287]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[shutter 1 30 to 1 80 if pro mode 79d4e7]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[street or track]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 fb4eba]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[러닝 사진 배경만 흐르게 찍고 싶어]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[움직이는 피사체는 선명하고 배경은 흐리게]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[자전거 타는 사람을 역동적으로 찍고 싶어요]] - document - raw/scenarios/action_pan_runner_cyclist.md
+- [[Graphify 추출 힌트 06141f]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[adobe flat lay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[adobe.comflat-lay-photography.html]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[busy table]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[casual clean flatlay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[coffee or table props]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[edit stylecasual clean flatlay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[effecthouse.tiktok.comphoto-dump]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[evidenceadobe flat lay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[evidencetiktok photo dump template]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[evidencevogue photo dump]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[hero item composition]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[image issuebusy table]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[natural messy clean]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[overhead flatlay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[parameterwarm soft contrast]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[photo dump memory detail]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[photo-dump]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[preferencenatural messy clean]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[receipt 84c289]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[receipt cc8461]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[receipt memory flatlay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[receipt story flatlay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[receipt, coffee, crumbs, and hand should feel like a casual Instagram photo dump]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[recommendation variantreceipt story flatlay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[scenarioreceipt memory flatlay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[techniquehero item composition]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[techniqueoverhead flatlay]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[tiktok photo dump template]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[trend signalphoto dump memory detail]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[vogue photo dump]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[vogue.cominstagram-photo-dump-generation-z]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[warm soft contrast]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[근거 f2774f]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[반영한 외부 근거 bf31cf]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[보정 레시피 c4ca00]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[시나리오 수정 포인트 ceee04]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[실패 방지  주의점 b69e71]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[영수증샷receipt memory flatlay - 여행과 카페 기억을 남기는 추천 seed fc6d2f]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[영수증샷receipt memory flatlay - 여행과 카페 기억을 남기는 추천 seed fe51a4]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[촬영 레시피 6798e3]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[추천 시스템용 요약 e49155]] - document - raw/scenarios/receipt_memory_flatlay.md
+- [[카페 영수증과 커피, 손을 같이 찍어서 자연스러운 스토리 사진처럼 만들고 싶다]] - document - raw/scenarios/receipt_memory_flatlay.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -53,11 +62,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Evidence Sources]]
-- 1 edge to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
+- 2 edges to [[_COMMUNITY_Scenarios Sources]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 3]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 18]]
 
 ## Top bridge nodes
-- [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 fb4eba]] - degree 38, connects to 5 communities
+- [[영수증샷receipt memory flatlay - 여행과 카페 기억을 남기는 추천 seed fe51a4]] - degree 37, connects to 3 communities
+- [[영수증샷receipt memory flatlay - 여행과 카페 기억을 남기는 추천 seed fc6d2f]] - degree 11, connects to 1 community
+- [[adobe.comflat-lay-photography.html]] - degree 2, connects to 1 community

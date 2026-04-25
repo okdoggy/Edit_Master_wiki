@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/vogue_korea_apple_iphone15_artists.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # Vogue Korea — Apple and seven artists with iPhone 15 Pro Max
@@ -30,4 +30,4 @@ tags:
 - [[출처 4c916f]] - `HAS_SECTION` [EXTRACTED]
 - [[한국어자료]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

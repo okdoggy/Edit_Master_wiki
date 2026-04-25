@@ -1,78 +1,84 @@
 ---
 type: community
 cohesion: 0.04
-members: 63
+members: 69
 ---
 
 # Trends & Recipes 8
 
 **Cohesion:** 0.04 - loosely connected
-**Members:** 63 nodes
+**Members:** 69 nodes
 
 ## Members
+- [[1x 0.5x]] - document - raw/scenarios/fireworks_skyline.md
+- [[1x 2x 5x]] - document - raw/scenarios/city_night_long_exposure.md
 - [[3x 5x 10x]] - document - raw/scenarios/concert_stage_low_light.md
-- [[Graphify 추출 힌트 5f99ac]] - document - raw/scenarios/concert_stage_low_light.md
-- [[Graphify 추출 힌트 a39768]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[background distance]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[bokeh 96e665]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[bokeh 9c9469]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[adobe.comsmartphone-photography.html]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[bright subject]] - document - raw/scenarios/fireworks_skyline.md
+- [[burst fb9ef0]] - document - raw/scenarios/fireworks_skyline.md
+- [[burst video]] - document - raw/scenarios/fireworks_skyline.md
+- [[city lights 515fc6]] - document - raw/scenarios/city_night_long_exposure.md
+- [[city-night]] - document - raw/scenarios/city_night_long_exposure.md
 - [[clipping]] - document - raw/scenarios/concert_stage_low_light.md
-- [[color mix]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[color]] - document - raw/scenarios/fireworks_skyline.md
 - [[concert]] - document - raw/scenarios/concert_stage_low_light.md
-- [[detail]] - document - raw/scenarios/concert_stage_low_light.md
-- [[detail bokeh]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[context]] - document - raw/scenarios/fireworks_skyline.md
+- [[control]] - document - raw/scenarios/waterfall_silky_water.md
 - [[fast shutter]] - document - raw/scenarios/concert_stage_low_light.md
-- [[flower or leaf]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[flowers]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[food mask]] - document - raw/scenarios/dim_restaurant_food.md
-- [[green]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[fireworks 604db9]] - document - raw/scenarios/fireworks_skyline.md
+- [[fireworks c6e252]] - document - raw/scenarios/fireworks_skyline.md
+- [[fireworks f35ae9]] - document - raw/scenarios/fireworks_skyline.md
+- [[green foliage]] - document - raw/scenarios/waterfall_silky_water.md
 - [[highlight clipping]] - document - raw/scenarios/concert_stage_low_light.md
-- [[iphonephotographyschool.comleaves]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[leaves]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[light trails]] - document - raw/scenarios/city_night_long_exposure.md
+- [[live or pro]] - document - raw/scenarios/waterfall_silky_water.md
+- [[long exposure 90d025]] - document - raw/scenarios/city_night_long_exposure.md
+- [[long exposure d9ee14]] - document - raw/scenarios/waterfall_silky_water.md
+- [[long-exposure]] - document - raw/scenarios/city_night_long_exposure.md
+- [[low iso 5ea6d9]] - document - raw/scenarios/fireworks_skyline.md
+- [[low iso 96aa5f]] - document - raw/scenarios/city_night_long_exposure.md
+- [[low iso long shutter]] - document - raw/scenarios/city_night_long_exposure.md
 - [[low-light]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[macro 61849d]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[macro d1b988]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[macro ede51e]] - document - raw/scenarios/flower_macro_bokeh.md
 - [[moody stage]] - document - raw/scenarios/concert_stage_low_light.md
 - [[motion e858a3]] - document - raw/scenarios/concert_stage_low_light.md
-- [[nature 44ad1a]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[nature af64a2]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[noise reduction]] - document - raw/scenarios/concert_stage_low_light.md
+- [[moving water]] - document - raw/scenarios/waterfall_silky_water.md
+- [[nature green]] - document - raw/scenarios/waterfall_silky_water.md
+- [[night city]] - document - raw/scenarios/city_night_long_exposure.md
+- [[night or pro]] - document - raw/scenarios/fireworks_skyline.md
+- [[night skyline]] - document - raw/scenarios/fireworks_skyline.md
+- [[noise]] - document - raw/scenarios/city_night_long_exposure.md
+- [[on phone without filter]] - document - raw/scenarios/waterfall_silky_water.md
+- [[overexposure]] - document - raw/scenarios/fireworks_skyline.md
+- [[peak shape]] - document - raw/scenarios/fireworks_skyline.md
 - [[performance]] - document - raw/scenarios/concert_stage_low_light.md
 - [[performer]] - document - raw/scenarios/concert_stage_low_light.md
 - [[photo or pro]] - document - raw/scenarios/concert_stage_low_light.md
+- [[polarizing effect]] - document - raw/scenarios/waterfall_silky_water.md
+- [[pro or night]] - document - raw/scenarios/city_night_long_exposure.md
+- [[river]] - document - raw/scenarios/waterfall_silky_water.md
 - [[samsung.comsamsung-night-mode-camera]] - document - raw/magazine/apple_support_night_mode.md
-- [[separation]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[soft light]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[soft side light]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[scene]] - document - raw/scenarios/waterfall_silky_water.md
+- [[skyline]] - document - raw/scenarios/city_night_long_exposure.md
 - [[spotlight 5ff31a]] - document - raw/scenarios/concert_stage_low_light.md
 - [[spotlight faa56a]] - document - raw/scenarios/concert_stage_low_light.md
 - [[stage 99b9cc]] - document - raw/scenarios/concert_stage_low_light.md
 - [[stage b57bbf]] - document - raw/scenarios/concert_stage_low_light.md
 - [[stage d5091f]] - document - raw/scenarios/concert_stage_low_light.md
-- [[support.apple.comios 0cb978]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[support.apple.comios 938b6c]] - document - raw/magazine/apple_support_night_mode.md
+- [[support.google.com9708795]] - document - raw/magazine/apple_support_night_mode.md
 - [[telephoto 4f7e20]] - document - raw/scenarios/concert_stage_low_light.md
 - [[telephoto 5ae704]] - document - raw/scenarios/concert_stage_low_light.md
-- [[texture 0d0e87]] - document - raw/scenarios/dim_restaurant_food.md
-- [[ultrawide macro or 2x]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[traffic]] - document - raw/scenarios/city_night_long_exposure.md
+- [[traffic-trails]] - document - raw/scenarios/city_night_long_exposure.md
+- [[tripod 65997f]] - document - raw/scenarios/city_night_long_exposure.md
+- [[tripod ac1fa5]] - document - raw/scenarios/city_night_long_exposure.md
+- [[waterfall 36e1dd]] - document - raw/scenarios/waterfall_silky_water.md
+- [[waterfall ce7af0]] - document - raw/scenarios/waterfall_silky_water.md
+- [[wide lens]] - document - raw/scenarios/fireworks_skyline.md
 - [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - document - raw/scenarios/concert_stage_low_light.md
-- [[공연·무대 저조도 — 망원하이라이트 보호 b31662]] - document - raw/scenarios/concert_stage_low_light.md
-- [[근거 60a490]] - document - raw/scenarios/concert_stage_low_light.md
-- [[근거 ec87ad]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[꽃·잎 매크로 — 질감과 배경 bokeh 17e99a]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[반영한 외부 근거 76bc63]] - document - raw/scenarios/concert_stage_low_light.md
-- [[반영한 외부 근거 a52cb1]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[보정 레시피 343377]] - document - raw/scenarios/concert_stage_low_light.md
-- [[보정 레시피 5e2230]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[시나리오 수정 포인트 591bf9]] - document - raw/scenarios/concert_stage_low_light.md
-- [[시나리오 수정 포인트 e6e47b]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[실패 방지  주의점 81351d]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[실패 방지  주의점 93c588]] - document - raw/scenarios/concert_stage_low_light.md
-- [[촬영 레시피 2450f3]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[촬영 레시피 bc9c10]] - document - raw/scenarios/concert_stage_low_light.md
-- [[추천 시스템용 요약 58b613]] - document - raw/scenarios/concert_stage_low_light.md
-- [[추천 시스템용 요약 c18bda]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[도시 야경 장노출 — 빛줄기스카이라인 75d2a9]] - document - raw/scenarios/city_night_long_exposure.md
+- [[불꽃놀이와 스카이라인 — 하이라이트 보호연속 확보 11df4b]] - document - raw/scenarios/fireworks_skyline.md
+- [[폭포·계곡 물결 — 장노출Live 효과 688234]] - document - raw/scenarios/waterfall_silky_water.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -82,20 +88,24 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 9 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 8 edges to [[_COMMUNITY_Evidence Sources]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 14 edges to [[_COMMUNITY_Evidence Sources]]
+- 12 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 2]]
 - 4 edges to [[_COMMUNITY_Scenarios Sources]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 7]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 13]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 9]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 18]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 5]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 20]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 22]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 21]]
 
 ## Top bridge nodes
-- [[samsung.comsamsung-night-mode-camera]] - degree 11, connects to 4 communities
-- [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - degree 25, connects to 3 communities
-- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - degree 25, connects to 3 communities
-- [[texture 0d0e87]] - degree 6, connects to 2 communities
-- [[low-light]] - degree 4, connects to 2 communities
+- [[support.apple.comios 938b6c]] - degree 19, connects to 7 communities
+- [[adobe.comsmartphone-photography.html]] - degree 10, connects to 6 communities
+- [[도시 야경 장노출 — 빛줄기스카이라인 75d2a9]] - degree 24, connects to 4 communities
+- [[폭포·계곡 물결 — 장노출Live 효과 688234]] - degree 24, connects to 4 communities
+- [[low-light]] - degree 5, connects to 4 communities

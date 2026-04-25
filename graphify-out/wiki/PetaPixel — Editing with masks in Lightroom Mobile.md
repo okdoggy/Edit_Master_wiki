@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/petapixel_masks_lightroom_mobile.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # PetaPixel — Editing with masks in Lightroom Mobile
@@ -37,4 +37,4 @@ tags:
 - [[피사체선택]] - `MENTIONS_TAG` [EXTRACTED]
 - [[하늘선택]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

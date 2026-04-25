@@ -1,11 +1,11 @@
 ---
 source_file: "raw/manifests/source_matrix.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # Tip Matrix — 상황별 스마트폰 촬영/보정 팁 인덱스
@@ -66,4 +66,4 @@ tags:
 - [[youtube.com@iphone_photography_school]] - `SUPPORTED_BY` [EXTRACTED]
 - [[youtube.com@stalman]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

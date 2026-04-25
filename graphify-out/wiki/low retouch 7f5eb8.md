@@ -8,7 +8,7 @@ tags:
   - community/Trends_&_Recipes_10
 ---
 
-# low retouch
+# low retouch [7f5eb8]
 
 ## Connections
 - [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 b50060]] - `MATCHES_PREFERENCE` [EXTRACTED]

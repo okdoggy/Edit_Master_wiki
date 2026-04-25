@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/cafe_drink_dessert_closeup.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 6"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_6
 ---
 
 # highlight reflection
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 44aad3]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6

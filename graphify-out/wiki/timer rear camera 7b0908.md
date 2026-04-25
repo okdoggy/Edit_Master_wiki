@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/group_best_face_gathering.md"
 type: "document"
-community: "Trends & Recipes 17"
+community: "Trends & Recipes 21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_17
+  - community/Trends_&_Recipes_21
 ---
 
 # timer rear camera [7b0908]
@@ -14,4 +14,4 @@ tags:
 - [[stability]] - `IMPROVES` [EXTRACTED]
 - [[단체 모임 그룹샷 — 눈 감음과 표정 실패를 줄이는 베스트컷 루프 24988e]] - `USES_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_17
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_21

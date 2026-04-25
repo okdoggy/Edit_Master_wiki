@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/backlit_silhouette_sunset.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_3
 ---
 
 # 실패 방지 / 주의점 [26bfcf]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[노을 실루엣 — 감성 여행커플인물 15f9f9]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

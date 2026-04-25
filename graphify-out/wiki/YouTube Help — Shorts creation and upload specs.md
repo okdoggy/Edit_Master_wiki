@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/youtube_shorts_specs.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # YouTube Help — Shorts creation and upload specs
@@ -25,4 +25,4 @@ tags:
 - [[업로드 규격]] - `MENTIONS_TAG` [EXTRACTED]
 - [[출처 6dc0b4]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

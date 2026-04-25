@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/phlearn_lightroom_mobile_beginner.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # PHLEARN — Lightroom Mobile beginner guide
@@ -38,4 +38,4 @@ tags:
 - [[입문가이드]] - `MENTIONS_TAG` [EXTRACTED]
 - [[최신 Lightroom Mobile 검증 레시피 9bff35]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

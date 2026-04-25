@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/xiaomi_phone_pro_mode.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Evidence Sources 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Evidence_Sources_2
 ---
 
 # Tip 3. 렌즈와 측광을 의도적으로 고르기
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Xiaomi Support — What is phone camera Pro mode]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2

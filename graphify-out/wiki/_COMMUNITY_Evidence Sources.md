@@ -1,13 +1,13 @@
 ---
 type: community
 cohesion: 0.02
-members: 157
+members: 158
 ---
 
 # Evidence Sources
 
 **Cohesion:** 0.02 - loosely connected
-**Members:** 157 nodes
+**Members:** 158 nodes
 
 ## Members
 - [[0.5x]] - document - raw/techniques/zoom_lens_situation_guide.md
@@ -95,6 +95,7 @@ members: 157
 - [[iPhone Night mode Portrait]] - document - raw/magazine/apple_support_night_mode.md
 - [[iPhone으로 달 찍기 AEAF Lock + 노출 낮추기]] - document - raw/magazine/apple_support_night_mode.md
 - [[samsung.comANS10001353]] - document - raw/magazine/samsung_camera_modes_settings.md
+- [[samsung.comANS10001377]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
 - [[samsung.comapp]] - document - raw/magazine/apple_support_night_mode.md
 - [[samsung.comcamera-features]] - document - raw/magazine/apple_support_night_mode.md
 - [[samsung.comhow-galaxy-cameras-combine-super-resolution-technologies-with-ai-to-produce-...d7a2e6d7]] - document - raw/magazine/samsung_camera_modes_settings.md
@@ -176,21 +177,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 43 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 10 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 8 edges to [[_COMMUNITY_Trends & Recipes]]
-- 8 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 42 edges to [[_COMMUNITY_Trends & Recipes]]
+- 14 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 13]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 5]]
 - 2 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 19]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
 
 ## Top bridge nodes
-- [[스마트폰 음식 사진 실전 레시피]] - degree 34, connects to 7 communities
-- [[야간·인물·음식·매크로 모드별 촬영 가이드]] - degree 32, connects to 6 communities
-- [[Apple Support — iPhone Night mode]] - degree 30, connects to 5 communities
-- [[Google Blog — Pixel Camera Coach]] - degree 31, connects to 4 communities
-- [[Samsung Support — Camera modes and settings]] - degree 31, connects to 4 communities
+- [[스마트폰 음식 사진 실전 레시피]] - degree 34, connects to 6 communities
+- [[야간·인물·음식·매크로 모드별 촬영 가이드]] - degree 32, connects to 4 communities
+- [[Google Blog — Pixel Camera Coach]] - degree 31, connects to 3 communities
+- [[Samsung Support — Camera modes and settings]] - degree 31, connects to 3 communities
+- [[Samsung Explore — Master low-light photography with Galaxy]] - degree 31, connects to 3 communities

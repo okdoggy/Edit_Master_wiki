@@ -4,31 +4,31 @@ Generated from `raw/scenarios/*.md` by `scripts/recommender/scene_graph_builder.
 
 ## Summary
 
-- Nodes: 1353
-- Edges: 4702
-- Scenarios: 37
-- Recommendations: 111
+- Nodes: 1679
+- Edges: 5650
+- Scenarios: 43
+- Recommendations: 129
 
 ## Recommendation Channels
 
-- general: 37
-- personalized: 37
-- trend: 37
+- general: 43
+- personalized: 43
+- trend: 43
 
 ## Top Labels
 
-- Technique: 349
-- QueryAlias: 225
-- SceneFacet: 192
-- Parameter: 181
-- Risk: 123
-- Evidence: 120
-- Recommendation: 111
-- Scenario: 37
+- Technique: 465
+- QueryAlias: 273
+- SceneFacet: 256
+- Parameter: 215
+- Evidence: 142
+- Risk: 141
+- Recommendation: 129
+- Scenario: 43
 - ImageIssue: 37
 - LensMode: 34
-- Environment: 29
-- EditStyle: 27
+- Environment: 32
+- EditStyle: 32
 
 ## Scenario Files
 
@@ -41,12 +41,15 @@ Generated from `raw/scenarios/*.md` by `scripts/recommender/scene_graph_builder.
 - `scenario_cafe_drink_dessert_closeup`: raw/scenarios/cafe_drink_dessert_closeup.md
 - `scenario_cafe_flatlay_dessert`: raw/scenarios/cafe_flatlay_dessert.md
 - `scenario_candle_cake_low_light_party`: raw/scenarios/candle_cake_low_light_party.md
+- `scenario_cave_low_light_travel_portrait`: raw/scenarios/cave_low_light_travel_portrait.md
 - `scenario_cherry_blossom_flower_portrait`: raw/scenarios/cherry_blossom_flower_portrait.md
 - `scenario_city_night_long_exposure`: raw/scenarios/city_night_long_exposure.md
 - `scenario_city_window_reflection`: raw/scenarios/city_window_reflection.md
 - `scenario_concert_stage_low_light`: raw/scenarios/concert_stage_low_light.md
 - `scenario_crowded_landmark_portrait`: raw/scenarios/crowded_landmark_portrait.md
+- `scenario_dating_profile_natural_portrait`: raw/scenarios/dating_profile_natural_portrait.md
 - `scenario_dim_restaurant_food`: raw/scenarios/dim_restaurant_food.md
+- `scenario_document_scan_correction`: raw/scenarios/document_scan_correction.md
 - `scenario_fashion_ootd_portrait`: raw/scenarios/fashion_ootd_portrait.md
 - `scenario_fireworks_skyline`: raw/scenarios/fireworks_skyline.md
 - `scenario_flower_macro_bokeh`: raw/scenarios/flower_macro_bokeh.md
@@ -60,12 +63,15 @@ Generated from `raw/scenarios/*.md` by `scripts/recommender/scene_graph_builder.
 - `scenario_marketplace_street_food_story`: raw/scenarios/marketplace_street_food_story.md
 - `scenario_mirror_selfie_ootd`: raw/scenarios/mirror_selfie_ootd.md
 - `scenario_museum_gallery_portrait`: raw/scenarios/museum_gallery_portrait.md
+- `scenario_paparazzi_flash_candid`: raw/scenarios/paparazzi_flash_candid.md
 - `scenario_pets_children_action`: raw/scenarios/pets_children_action.md
 - `scenario_portrait_skin_tone_2026`: raw/scenarios/portrait_skin_tone_2026.md
 - `scenario_rain_neon_street_portrait`: raw/scenarios/rain_neon_street_portrait.md
+- `scenario_receipt_memory_flatlay`: raw/scenarios/receipt_memory_flatlay.md
 - `scenario_reflection_mirror_puddle_prism`: raw/scenarios/reflection_mirror_puddle_prism.md
 - `scenario_selfie_profile_portrait`: raw/scenarios/selfie_profile_portrait.md
 - `scenario_small_product_listing_photo`: raw/scenarios/small_product_listing_photo.md
 - `scenario_snow_portrait_clean_winter`: raw/scenarios/snow_portrait_clean_winter.md
+- `scenario_trendy_aerial_beach_minimal`: raw/scenarios/trendy_aerial_beach_minimal.md
 - `scenario_waterfall_silky_water`: raw/scenarios/waterfall_silky_water.md
 - `scenario_window_light_cafe_portrait`: raw/scenarios/window_light_cafe_portrait.md

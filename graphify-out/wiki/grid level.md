@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/cafe_flatlay_dessert.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_13
 ---
 
 # grid level
@@ -14,4 +14,4 @@ tags:
 - [[tilted table a417a2]] - `FIXES` [EXTRACTED]
 - [[카페 디저트 플랫레이 — 수평과 왜곡 잡기 f26693]] - `USES_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13

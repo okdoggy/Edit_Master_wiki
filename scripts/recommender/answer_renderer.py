@@ -122,7 +122,11 @@ class NaturalAnswerRenderer:
         matches = self.matcher.match(matcher_query, top_k=top_k)
         if not matches:
             return RenderedAnswer(
-                text="지금 쿼리로는 확실한 촬영 상황을 찾지 못했어요. 장소, 피사체, 빛, 원하는 분위기 중 두세 가지를 더 알려주면 추천을 좁힐 수 있습니다.",
+                text=(
+                    "해당 시나리오는 지식 데이터가 부족합니다.\n\n"
+                    "현재 위키에서 충분히 가까운 촬영/보정 시나리오를 찾지 못했습니다. "
+                    "근거 있는 raw 시나리오를 먼저 보강한 뒤 추천하는 편이 안전합니다."
+                ),
                 matcher_query=matcher_query,
                 match={},
                 recommendations=[],
@@ -131,6 +135,21 @@ class NaturalAnswerRenderer:
 
         best = matches[0]
         scenario = self.graph.nodes[best.scenario_id]
+        if best.coverage_status == "gap" or best.confidence == "low":
+            nearest = clean_name(scenario.name)
+            text = (
+                "해당 시나리오는 지식 데이터가 부족합니다.\n\n"
+                f"현재 위키에서 가장 가까운 후보는 '{nearest}'이지만, 질문의 핵심 조건을 충분히 설명하지 못해서 "
+                "그 시나리오로 단정하지 않겠습니다. 이 경우에는 근거 있는 raw 시나리오를 먼저 보강한 뒤 "
+                "촬영/보정 레시피를 제안하는 편이 안전합니다."
+            )
+            return RenderedAnswer(
+                text=text,
+                matcher_query=matcher_query,
+                match=best.as_dict(),
+                recommendations=[],
+                evidence=[],
+            )
         rec_views = self._recommendation_views(scenario, profile)
         evidence = self._dedupe_evidence([item for rec in rec_views for item in rec.evidence])
         text = self._render_text(query, best, scenario, rec_views, evidence, profile)

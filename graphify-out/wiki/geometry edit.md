@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/architecture_interior_wide.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_13
 ---
 
 # geometry edit
@@ -16,4 +16,4 @@ tags:
 - [[건축·실내 공간 — 초광각 왜곡 제어 691397]] - `USES_CONCEPT` [EXTRACTED]
 - [[카페 디저트 플랫레이 — 수평과 왜곡 잡기 f26693]] - `USES_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13

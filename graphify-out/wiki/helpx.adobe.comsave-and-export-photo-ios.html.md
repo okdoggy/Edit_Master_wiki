@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_ai_assisted_masking_mobile.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # helpx.adobe.com/save-and-export-photo-ios.html
@@ -27,4 +27,4 @@ tags:
 - [[PHLEARN — Lightroom Mobile beginner guide]] - `SUPPORTED_BY` [EXTRACTED]
 - [[PetaPixel — Editing with masks in Lightroom Mobile]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

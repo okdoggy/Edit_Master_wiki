@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/adobe_lightroom_mobile_adjustments.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # magazine
@@ -30,4 +30,4 @@ tags:
 - [[Xiaomi Support — What is phone camera Pro mode]] - `IN_CATEGORY` [EXTRACTED]
 - [[YouTube Help — Shorts creation and upload specs]] - `IN_CATEGORY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

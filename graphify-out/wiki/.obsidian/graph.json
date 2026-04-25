@@ -155,17 +155,52 @@
       }
     },
     {
-      "query": "tag:#community/Manifests_Sources",
+      "query": "tag:#community/Trends_&_Recipes_20",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/Readme.Md_Sources",
+      "query": "tag:#community/Trends_&_Recipes_21",
       "color": {
         "a": 1,
         "rgb": 7780274
+      }
+    },
+    {
+      "query": "tag:#community/Trends_&_Recipes_22",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#community/Trends_&_Recipes_23",
+      "color": {
+        "a": 1,
+        "rgb": 15583560
+      }
+    },
+    {
+      "query": "tag:#community/Evidence_Sources_2",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
+      "query": "tag:#community/Manifests_Sources",
+      "color": {
+        "a": 1,
+        "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/Readme.Md_Sources",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
       }
     }
   ]

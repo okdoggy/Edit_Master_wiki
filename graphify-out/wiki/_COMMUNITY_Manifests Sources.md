@@ -32,7 +32,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Trends & Recipes]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 2]]
 
 ## Top bridge nodes
 - [[manifests]] - degree 3, connects to 1 community

@@ -36,7 +36,7 @@ uv run edit-master all
 - `uv run edit-master build`: `raw/`에서 `graphify-out/` 재생성
 - `uv run edit-master bridge --write`: source graph와 recommender graph 연결 리포트 생성
 - `uv run edit-master validate`: raw/graph/bridge/learning/eval/답변 품질 스모크 검증
-- `uv run edit-master eval`: matcher 회귀 평가
+- `uv run edit-master eval`: matcher regression/realistic/ambiguous 3종 평가
 - `uv run edit-master answer "질문"`: 자연어 photo-coach 답변 생성
 - `uv run edit-master feedback record/show/rebuild`: 개인화 피드백 기록과 프로필 관리
 
@@ -177,11 +177,25 @@ User Query
 -> natural answer renderer
 ```
 
-시나리오 매칭 품질 평가:
+시나리오 매칭 품질 평가는 기본적으로 세트를 한 번에 실행합니다.
+
+- `regression`: 기존 의도형 회귀 쿼리. 지금 알고 있는 핵심 케이스가 깨지지 않는지 확인합니다.
+- `realistic`: 실제 사용자가 물어볼 법한 한국어/영어 혼합 질문입니다. 문서 보정, 영수증샷, 항공샷, 동굴, 파파라치샷처럼 최근 보강한 source-backed raw 시나리오도 포함합니다.
+- `ambiguous`: 여러 시나리오가 성립할 수 있는 모호한 질문입니다. `top1`은 `primary_expected_scenario`, `top3`는 `expected_scenarios` 후보 중 하나가 들어오는지로 봅니다.
 
 ```powershell
-uv run edit-master eval --min-top1 1.0
+uv run edit-master eval
+uv run edit-master eval --set realistic
 ```
+
+각 세트의 top1/top3 점수와 전체 weighted top1/top3가 함께 출력됩니다. 추가로 `match_top1/top3`와 `gap_abstain_accuracy`도 출력합니다.
+
+- `match_top1/top3`: 이미 raw/graph에 있는 시나리오를 정확히 고르는 능력입니다.
+- `gap_abstain_accuracy`: 아직 독립 raw가 없는 held-out 시나리오에서 기존 시나리오로 억지 매칭하지 않고 멈추는 능력입니다.
+
+통합 검증인 `uv run edit-master validate`도 같은 3종 평가를 실행하며, 기준값은 `edit-master.toml`의 `[quality.eval_thresholds.*]`에서 조정합니다.
+
+매처는 단순 점수뿐 아니라 `confidence`, `coverage_status`, `score_gap`, `slot_coverage`를 함께 계산합니다. 질문의 핵심 슬롯을 충분히 설명하지 못하거나 1등 후보가 불안정하면 답변 렌더러는 기존 시나리오로 억지 매칭하지 않고 `해당 시나리오는 지식 데이터가 부족합니다.`라고 안내합니다. 이 경우에는 source-backed raw를 먼저 추가한 뒤 다시 `build -> bridge --write -> validate`를 실행합니다.
 
 자연어 답변 생성 예시:
 
@@ -294,14 +308,14 @@ raw 추가/수정
 -> graphify/wiki/source graph + scene recommender graph 재생성
 -> source_bridge로 source graph와 추천 graph 연결 검증
 -> edit-master validate 실행
--> tests/eval_queries.json 회귀 평가 통과 확인
+-> tests/eval_queries*.json 3종 평가 통과 확인
 -> graph.html에서 Scenario 중심성, 고립 노드, Evidence 연결 확인
 ```
 
-현재 matcher 회귀 평가:
+현재 matcher 3종 평가:
 
 ```powershell
-uv run edit-master eval --min-top1 1.0
+uv run edit-master eval
 ```
 
 통합 검증:
