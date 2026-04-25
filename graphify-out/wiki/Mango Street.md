@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/mango_street_youtube.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_15
 ---
 
 # Mango Street
@@ -36,4 +36,4 @@ tags:
 - [[인물]] - `MENTIONS_TAG` [EXTRACTED]
 - [[출처에서 확인된 구체 레시피 966cca]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15

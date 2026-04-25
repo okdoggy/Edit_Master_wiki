@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/waterfall_silky_water.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # waterfall [36e1dd]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[폭포·계곡 물결 — 장노출Live 효과 688234]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

@@ -1,263 +1,258 @@
 ---
 type: community
 cohesion: 0.01
-members: 248
+members: 243
 ---
 
 # Trends & Recipes 2
 
 **Cohesion:** 0.01 - loosely connected
-**Members:** 248 nodes
+**Members:** 243 nodes
 
 ## Members
-- [[AI마스킹]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[AI편집]] - document - raw/magazine/apple_support_photos_ai.md
-- [[AdaptivePreset]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[Adobe Help — Edit photos with presets, filters, local adjustments in Lightroom mobile iOS]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[Adobe Help — In-app learning and inspiration  Community]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[Adobe Help — Masking in Lightroom for mobile iOS]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[Adobe Help — Presets in Lightroom for mobile iOS]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[Adobe Learn — AI-assisted masking in Lightroom Mobile]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[Adobe Learn — Color adjustment on phone or tablet]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Adobe Learn — Lightroom mobile adjustments]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[Adobe Learn — Streamline editing with presets on mobile]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[Adobe Lightroom YouTube]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[Adobe Lightroom for mobile FAQ]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[Amount]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[Apple Support — Apple Intelligence in Photos]] - document - raw/magazine/apple_support_photos_ai.md
-- [[DNG촬영]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[Digital Camera World — Get started with Lightroom Mobile]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[Discover]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[Envato Tuts+ — Shoot RAW with Lightroom Mobile DNG camera]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[FAQ]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[Fstoppers — Powerful edits anywhere with Lightroom Mobile]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[HDR  역광 톤 정리 2eba5d]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[HDR  역광 톤 정리 4939e9]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[HDR  역광 톤 정리 4f5d55]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[HDR  역광 톤 정리 686dce]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[HDR  역광 톤 정리 6b6f0f]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[HDR  역광 톤 정리 7b977e]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[HDR  역광 톤 정리 89a4c8]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[HDR  역광 톤 정리 b0617d]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[HDR  역광 톤 정리 b37600]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[HDR  역광 톤 정리 ba4487]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[HDR  역광 톤 정리 c577e9]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[HDR  역광 톤 정리 ef7c14]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[HDR  역광 톤 정리 f25947]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[HSL]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Lightroom 33f0e7]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[PHLEARN — Lightroom Mobile beginner guide]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[Pei Ketron]] - document - raw/sns/pei_ketron.md
-- [[PetaPixel — Editing with masks in Lightroom Mobile]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[RAWDNG + Adaptive Profile로 시작하기 0b234a]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[RAWDNG + Adaptive Profile로 시작하기 0d6781]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[RAWDNG + Adaptive Profile로 시작하기 14a0ae]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[RAWDNG + Adaptive Profile로 시작하기 18b313]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[RAWDNG + Adaptive Profile로 시작하기 673570]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[RAWDNG + Adaptive Profile로 시작하기 6868f9]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[RAWDNG + Adaptive Profile로 시작하기 706897]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[RAWDNG + Adaptive Profile로 시작하기 80fd94]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[RAWDNG + Adaptive Profile로 시작하기 840667]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[RAWDNG + Adaptive Profile로 시작하기 957449]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[RAWDNG + Adaptive Profile로 시작하기 c7f06a]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[RAWDNG + Adaptive Profile로 시작하기 d42f7e]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[RAWDNG + Adaptive Profile로 시작하기 d98db1]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[RAWDNG + Adaptive Profile로 시작하기 e533da]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[RAWDNG + Adaptive Profile로 시작하기 f5d8ec]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[RAW촬영]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[Subject  Sky  Background 마스크 분리 보정 3cceb8]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Subject  Sky  Background 마스크 분리 보정 3f51ef]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[Subject  Sky  Background 마스크 분리 보정 466292]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[Subject  Sky  Background 마스크 분리 보정 8dd2b1]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[Subject  Sky  Background 마스크 분리 보정 99a25e]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[Subject  Sky  Background 마스크 분리 보정 ab8c96]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[Subject  Sky  Background 마스크 분리 보정 cbd385]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[Tip 1. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 10ad43]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[Tip 1. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 ecbb00]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[Tip 1. 라이트룸 인기글Community에서 고수 보정법을 훔쳐 배우고 싶을 때]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[Tip 1. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 dfd5f0]] - document - raw/magazine/apple_support_photos_ai.md
-- [[Tip 1. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 3fff70]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Tip 1. 인물·제품은 살리고 배경은 정리하고 싶을 때 0f54a0]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[Tip 1. 인물·제품은 살리고 배경은 정리하고 싶을 때 99fc82]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[Tip 1. 인물·제품은 살리고 배경은 정리하고 싶을 때 babb78]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[Tip 1. 인물·제품은 살리고 배경은 정리하고 싶을 때 d3f9a3]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 069b6f]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 0d304f]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 16307a]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 3d3f5c]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 59ad9d]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 5fafe0]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 69fb8f]] - document - raw/sns/pei_ketron.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 d4cd6a]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[Tip 2. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 808ad8]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[Tip 2. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 d2f9a9]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[Tip 2. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 e3d2f0]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[Tip 2. 라이트룸 인기글Community에서 고수 보정법을 훔쳐 배우고 싶을 때 2f7048]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[Tip 2. 라이트룸 인기글Community에서 고수 보정법을 훔쳐 배우고 싶을 때 bd6864]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 4794f7]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 c82596]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 ca3e8b]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[Tip 2. 인물·제품은 살리고 배경은 정리하고 싶을 때 3195c9]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[Tip 2. 인물·제품은 살리고 배경은 정리하고 싶을 때 5747f9]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[Tip 2. 인물·제품은 살리고 배경은 정리하고 싶을 때 c9ac3f]] - document - raw/sns/pei_ketron.md
-- [[Tip 2. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 0f81c0]] - document - raw/magazine/apple_support_photos_ai.md
-- [[Tip 2. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 296779]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[Tip 2. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 a3172c]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[Tip 2. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 c2ba3c]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Tip 2. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 cef36a]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[Tip 2. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 f70fb0]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[Tip 3. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 e8cdb0]] - document - raw/magazine/apple_support_photos_ai.md
-- [[Tip 3. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 50362e]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[Tip 3. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 1c155c]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[Tip 3. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 2b3760]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[Tip 3. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 617217]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[Tip 3. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 1b653a]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[Tip 3. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 64c31e]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 5f076a]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 c58cf3]] - document - raw/sns/pei_ketron.md
-- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 022757]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 8a89ce]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[Tip 3. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 22797d]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[Tip 3. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 74a3d3]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[Tip 3. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 37cc18]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[Tip 3. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 8dd5ba]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[Tip 3. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 91fad9]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 14fd8f]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[Tip 4. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 b4817c]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[Tip 4. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 b92924]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 2e461a]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 b12bfd]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 138b27]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 387816]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 4993dd]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 f69828]] - document - raw/sns/pei_ketron.md
-- [[Tip 4. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[Tip 5. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[Tip 5. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[XMP]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[adobe.comlightroom-mobile-adjustments]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[adobe.commobile.html]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[adobe.comuse-presets-in-lightroom-mobile]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[control]] - document - raw/scenarios/waterfall_silky_water.md
-- [[digitalcameraworld.comget-started-with-lightroom-mobile]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[fstoppers.comedit-your-images-faster-lightrooms-ai-masks-627384]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[fstoppers.comunlock-powerful-photo-edits-anywhere-lightroom-mobile-696778]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[green foliage]] - document - raw/scenarios/waterfall_silky_water.md
-- [[helpx.adobe.comactions-lightroom-ios.html]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[helpx.adobe.comedit-photos-mobile-ios.html]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[helpx.adobe.comhdr-ios.html]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[helpx.adobe.comin-app-learning-ios.html]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[helpx.adobe.comlightroom-mobile-faq.html]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[helpx.adobe.compresets-lightroom-ios.html]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[helpx.adobe.comsave-and-export-photo-ios.html]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[instagram.compketron]] - document - raw/sns/pei_ketron.md
-- [[lightroom f0c473]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[live or pro]] - document - raw/scenarios/waterfall_silky_water.md
-- [[long exposure 90d025]] - document - raw/scenarios/city_night_long_exposure.md
-- [[long exposure d9ee14]] - document - raw/scenarios/waterfall_silky_water.md
-- [[moving water]] - document - raw/scenarios/waterfall_silky_water.md
-- [[nature green]] - document - raw/scenarios/waterfall_silky_water.md
-- [[on phone without filter]] - document - raw/scenarios/waterfall_silky_water.md
-- [[petapixel.comhow-to-edit-with-masks-in-lightroom-mobile]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[petapixel.comhow-to-leverage-lightrooms-new-masking-tools-in-your-workflow]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[phlearn.comintro-to-lightroom-mobile]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[photography.tutsplus.comhow-to-shoot-raw-photos-with-lightroom-mobiles-camera--cms-37089]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[photography.tutsplus.comsync-presets-from-lightroom-classic-to-lightroom-mobile--cms-38431]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[polarizing effect]] - document - raw/scenarios/waterfall_silky_water.md
-- [[river]] - document - raw/scenarios/waterfall_silky_water.md
-- [[santafeworkshops.comdigital-printing]] - document - raw/manifests/source_matrix.md
-- [[santafeworkshops.compei-ketron]] - document - raw/sns/pei_ketron.md
-- [[scene]] - document - raw/scenarios/waterfall_silky_water.md
-- [[support.apple.comios d60c4c]] - document - raw/magazine/apple_support_photos_ai.md
-- [[tripod ac1fa5]] - document - raw/scenarios/city_night_long_exposure.md
-- [[waterfall 36e1dd]] - document - raw/scenarios/waterfall_silky_water.md
-- [[waterfall ce7af0]] - document - raw/scenarios/waterfall_silky_water.md
-- [[youtube.com@Lightroom]] - document - raw/manifests/source_matrix.md
-- [[youtube.comwatch 35ae8a]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[검색]] - document - raw/magazine/apple_support_photos_ai.md
-- [[공식채널]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[그라디언트]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[기하보정]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[동기화]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[라이트룸iOS]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[라이트룸모바일]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[라이트룸카메라]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[라이트룸커뮤니티]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[로컬보정]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[리믹스]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[마스크보정]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[마스킹]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[모바일워크플로우]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[바로 쓰는 팁 카드 1af2a9]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[바로 쓰는 팁 카드 1c41d8]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[바로 쓰는 팁 카드 43b1d7]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[바로 쓰는 팁 카드 5063e7]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[바로 쓰는 팁 카드 5e9c09]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[바로 쓰는 팁 카드 6bd86c]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[바로 쓰는 팁 카드 6df696]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[바로 쓰는 팁 카드 6f48c8]] - document - raw/sns/pei_ketron.md
-- [[바로 쓰는 팁 카드 818cd9]] - document - raw/magazine/apple_support_photos_ai.md
-- [[바로 쓰는 팁 카드 87c4c4]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[바로 쓰는 팁 카드 94b374]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[바로 쓰는 팁 카드 a5f708]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[바로 쓰는 팁 카드 b12743]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[바로 쓰는 팁 카드 bfb66d]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[바로 쓰는 팁 카드 c84f77]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[바로 쓰는 팁 카드 cb9642]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[바로 쓰는 팁 카드 e252b0]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[범위마스크]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[브러시]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[블러]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[빠른보정]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[사진앱]] - document - raw/magazine/apple_support_photos_ai.md
-- [[색보정]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[색상]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[선택보정]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[소셜공유]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[수평맞춤]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[스마트폰보정]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[오브젝트제거]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[워크플로우]] - document - raw/sns/pei_ketron.md
-- [[이 소스에서 더 캐야 할 것 760e3d]] - document - raw/sns/pei_ketron.md
-- [[이 소스에서 더 캐야 할 것 e3715c]] - document - raw/magazine/apple_support_photos_ai.md
-- [[입문]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[입문가이드]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[채도]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[촬영후보정]] - document - raw/sns/pei_ketron.md
-- [[최신 Lightroom Mobile 검증 레시피 0259b0]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[최신 Lightroom Mobile 검증 레시피 0a19ef]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[최신 Lightroom Mobile 검증 레시피 13edef]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[최신 Lightroom Mobile 검증 레시피 1acaf3]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[최신 Lightroom Mobile 검증 레시피 278bbc]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[최신 Lightroom Mobile 검증 레시피 5bd1cc]] - document - raw/lightroom/adobe_masking_mobile_ios.md
-- [[최신 Lightroom Mobile 검증 레시피 65a4ef]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[최신 Lightroom Mobile 검증 레시피 781e75]] - document - raw/lightroom/petapixel_masks_lightroom_mobile.md
-- [[최신 Lightroom Mobile 검증 레시피 7aaadf]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[최신 Lightroom Mobile 검증 레시피 9bff35]] - document - raw/lightroom/phlearn_lightroom_mobile_beginner.md
-- [[최신 Lightroom Mobile 검증 레시피 a04dfc]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[최신 Lightroom Mobile 검증 레시피 c48334]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[최신 Lightroom Mobile 검증 레시피 ddcc63]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
-- [[최신 Lightroom Mobile 검증 레시피 eabcca]] - document - raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md
-- [[최신 Lightroom Mobile 검증 레시피 eeec63]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[출처 593869]] - document - raw/sns/pei_ketron.md
-- [[출처 f55508]] - document - raw/magazine/apple_support_photos_ai.md
-- [[커스텀프리셋]] - document - raw/lightroom/adobe_presets_mobile_learn.md
-- [[컬러그레이딩]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
-- [[컬러믹스]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[클라우드동기화]] - document - raw/lightroom/fstoppers_lightroom_mobile_powerful_edits.md
-- [[파일포맷]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[편집리플레이]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[폭포·계곡 물결 — 장노출Live 효과 688234]] - document - raw/scenarios/waterfall_silky_water.md
-- [[프리셋]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[프리셋가져오기]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[프리셋관리]] - document - raw/lightroom/adobe_presets_lightroom_ios.md
-- [[프리셋저장]] - document - raw/lightroom/adobe_in_app_learning_community_ios.md
-- [[프린트]] - document - raw/sns/pei_ketron.md
-- [[피사체선택]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[하늘선택]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
-- [[호환성]] - document - raw/lightroom/adobe_lightroom_mobile_faq.md
-- [[후보정여지]] - document - raw/lightroom/envato_lightroom_mobile_dng_camera.md
-- [[휘도]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
+- [[3분 쇼츠]] - document - raw/magazine/youtube_shorts_specs.md
+- [[48MP ProRAW — 큰 크롭출력용 풍경]] - document - raw/sns/austin_mann.md
+- [[Austin Mann]] - document - raw/sns/austin_mann.md
+- [[Austin Mann식 ProRAW — 극한 상황에서만 켜는 RAW 워크플로]] - document - raw/sns/austin_mann.md
+- [[Benjamin Lowy]] - document - raw/sns/benjamin_lowy.md
+- [[Brendan Ó Sé]] - document - raw/sns/brendan_o_se.md
+- [[DNG]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[Dan Rubin]] - document - raw/sns/dan_rubin.md
+- [[Digital Camera World — Mobile photography tips]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Dimpy Bhalotia]] - document - raw/sns/dimpy_bhalotia.md
+- [[ISO]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[Metering]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[National Geographic — Camera phone pictures]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Nicolai Ahn]] - document - raw/sns/nicolai_ahn.md
+- [[PetaPixel — 10 tips and tricks for better smartphone photos]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Pro mode]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[RAW]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[Sam Youkilis]] - document - raw/sns/sam_youkilis.md
+- [[ShotOniPhone]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Shutter]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[Sony Support — Photography Pro modes on Xperia]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[TIME — Apple Instagram celebrates iPhone photographers]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 1. Pro mode의 핵심 WB  F  S  ISO  EV  LENS  Metering]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 0d359c]] - document - raw/sns/sam_youkilis.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 c2ebc1]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 ef9583]] - document - raw/sns/brendan_o_se.md
+- [[Tip 1. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 14438d]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 caea26]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 1. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/dimpy_bhalotia.md
+- [[Tip 1. 빠르게 실패 줄이는 기본 시작점 (AutoP mode)]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[Tip 1. 세로정사각 비율과 길이 조건 먼저 고정]] - document - raw/magazine/youtube_shorts_specs.md
+- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 201f0e]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 9a6404]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 e6c237]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 1. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 2de58e]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Tip 1. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 7161ed]] - document - raw/sns/austin_mann.md
+- [[Tip 1. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 7421c6]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 1. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 c8d83c]] - document - raw/sns/dan_rubin.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 319676]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 469e78]] - document - raw/sns/dimpy_bhalotia.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 cb452e]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 e43f7f]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 2. 게시 목적(무엇을)과 플랫폼(누가)에 맞춘 크롭 전략]] - document - raw/magazine/youtube_shorts_specs.md
+- [[Tip 2. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때 1afe86]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 2. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/brendan_o_se.md
+- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 d38a97]] - document - raw/sns/dan_rubin.md
+- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 051bd3]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 9a3229]] - document - raw/sns/austin_mann.md
+- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 b814c8]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 62142f]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 689ae2]] - document - raw/sns/sam_youkilis.md
+- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 c89333]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Tip 2. 움직임 있는 피사체는 S mode 우선]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[Tip 2. 저조도 인물실내 ISO를 무작정 올리지 않기]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[Tip 2. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 3. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 3. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 8a6eda]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Tip 3. 노출을 직접 제어할 때는 M mode]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[Tip 3. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 83a61c]] - document - raw/sns/dan_rubin.md
+- [[Tip 3. 렌즈와 측광을 의도적으로 고르기]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 016cb9]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 4143f4]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 7fea82]] - document - raw/sns/dimpy_bhalotia.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 f24cc7]] - document - raw/sns/brendan_o_se.md
+- [[Tip 3. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/sam_youkilis.md
+- [[Tip 3. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 3. 업로드 정책 변화 날짜를 메타데이터로 저장]] - document - raw/magazine/youtube_shorts_specs.md
+- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 8309f5]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 07a056]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 2faa4f]] - document - raw/sns/austin_mann.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 7500a1]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 fa839f]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 61b641]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 9201f6]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 a95f05]] - document - raw/sns/austin_mann.md
+- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 b34204]] - document - raw/sns/dan_rubin.md
+- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 82c38d]] - document - raw/sns/dimpy_bhalotia.md
+- [[Tip 4. 스마트폰으로 자연스러운 인물 사진을 찍을 때 423535]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 4. 스마트폰으로 자연스러운 인물 사진을 찍을 때 f26a77]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 4. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 4. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 1830f6]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 4. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 2141a2]] - document - raw/sns/brendan_o_se.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 34b906]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 4e37da]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 60a54a]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 69852d]] - document - raw/sns/sam_youkilis.md
+- [[Vogue Korea — Apple and seven artists with iPhone 15 Pro Max]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[WB]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[Xiaomi]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[Xiaomi Support — What is phone camera Pro mode]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[Xperia]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[YouTube Help — Shorts creation and upload specs]] - document - raw/magazine/youtube_shorts_specs.md
+- [[YouTube Shorts]] - document - raw/magazine/youtube_shorts_specs.md
+- [[abcnews.go.comiphone-photo-of-hurricane-sandy-makes-the-cover-of-time]] - document - raw/sns/benjamin_lowy.md
+- [[actionable_tip_cards]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
+- [[austinmann.comiphone-14-pro-camera-review-scotland]] - document - raw/sns/austin_mann.md
+- [[austinmann.comiphone-proraw]] - document - raw/sns/austin_mann.md
+- [[austinmann.comiphone-xr-camera-review-grand-canyon]] - document - raw/sns/austin_mann.md
+- [[brendanose.cominstagram]] - document - raw/manifests/source_matrix.md
+- [[brendanose.comshot-on-iphone-6-wins]] - document - raw/sns/brendan_o_se.md
+- [[digitalcameraworld.commobile-photography-tips]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[dpreview.com2012-the-year-in-mobile-photography]] - document - raw/sns/benjamin_lowy.md
+- [[hypebeast.comapple-2020-iphone-photography-awards-winners-news]] - document - raw/sns/dimpy_bhalotia.md
+- [[iPhone Photography School  Emil Pakarklis]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[iPhone Photography School YouTube]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[iPhone Photography School — Portrait mode 거리와 Depth 조절 e1ecdc]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[iPhone Photography School — Portrait mode 거리와 Depth 조절 e5d02d]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[instagram.comaustinmann]] - document - raw/sns/austin_mann.md
+- [[instagram.comdanrubin]] - document - raw/sns/dan_rubin.md
+- [[instagram.comnikolaiahn]] - document - raw/sns/nicolai_ahn.md
+- [[instagram.comsamyoukilis]] - document - raw/sns/sam_youkilis.md
+- [[iphonejack.pro]] - document - raw/manifests/source_matrix.md
+- [[iphonephotographyschool.comabout]] - document - raw/manifests/source_matrix.md
+- [[iphonephotographyschool.combrendan-o-se]] - document - raw/sns/brendan_o_se.md
+- [[iphonephotographyschool.cominstagram-tips]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[iphonephotographyschool.comnight-sky]] - document - raw/magazine/apple_support_night_mode.md
+- [[iphonephotographyschool.comportraits]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[ippawards.com]] - document - raw/sns/dimpy_bhalotia.md
+- [[ippawards.com2015-winning-photographers]] - document - raw/sns/brendan_o_se.md
+- [[ippawards.com2020-winning-photographers]] - document - raw/manifests/source_matrix.md
+- [[magazine]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+- [[minititle.comsam-youkilis]] - document - raw/manifests/source_matrix.md
+- [[nikolaiahn.com]] - document - raw/manifests/source_matrix.md
+- [[petapixel.com10-tips-and-tricks-for-shooting-better-smartphone-photos]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[santafeworkshops.comaustin-mann]] - document - raw/sns/austin_mann.md
+- [[shutterbug.com7-smartphone-tips-shooting-photographs-will-make-you-proud-video]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[shutterbug.comusing-iphones-night-mode-shoot-long-exposure-photos-video]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[skillshare.com1195481754]] - document - raw/manifests/source_matrix.md
+- [[sns 74fbcd]] - document - raw/sns/austin_mann.md
+- [[socialblade.comemilpakarklis]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[sony.com00246274]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[support.apple.com102519]] - document - raw/magazine/apple_support_night_mode.md
+- [[support.apple.comios bf9640]] - document - raw/magazine/apple_support_night_mode.md
+- [[support.google.com10059070]] - document - raw/magazine/youtube_shorts_specs.md
+- [[support.google.com15424877]] - document - raw/magazine/youtube_shorts_specs.md
+- [[tiktok.com@iphonephotographyschool]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[time.comapple-instagram-account]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[time.comin-the-eye-of-the-storm-capturing-sandys-wrath]] - document - raw/manifests/source_matrix.md
+- [[vogue.co.kr%EC%95%A0%ED%94%8C%EA%B3%BC-7%EB%AA%85%EC%9D%98-%EC%9E%91%EA%B0%80%EA%B0%80-...136b510b]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[vogue.comsam-youkilis-presents-his-first-photo-book-somewhere-interview]] - document - raw/sns/sam_youkilis.md
+- [[washingtonpost.comthese-are-winners-13th-annual-iphone-photography-awards]] - document - raw/sns/dimpy_bhalotia.md
+- [[x.comaustinmann]] - document - raw/sns/austin_mann.md
+- [[youtube.com@iphone_photography_school]] - document - raw/manifests/source_matrix.md
+- [[youtube.comwatch bc50fa]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[구도]] - document - raw/magazine/google_pixel_camera_coach.md
+- [[기초팁]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[내셔널지오그래픽]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[노출]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[다큐멘터리]] - document - raw/sns/benjamin_lowy.md
+- [[라이프스타일]] - document - raw/sns/dan_rubin.md
+- [[매크로]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[모바일보정]] - document - raw/sns/dan_rubin.md
+- [[모바일사진]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[모바일작가]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[바로 쓰는 팁 카드 02c7c6]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[바로 쓰는 팁 카드 058c1a]] - document - raw/sns/benjamin_lowy.md
+- [[바로 쓰는 팁 카드 1bcf52]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[바로 쓰는 팁 카드 263f07]] - document - raw/magazine/youtube_shorts_specs.md
+- [[바로 쓰는 팁 카드 3d09ff]] - document - raw/sns/nicolai_ahn.md
+- [[바로 쓰는 팁 카드 554a67]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[바로 쓰는 팁 카드 5a6b46]] - document - raw/sns/austin_mann.md
+- [[바로 쓰는 팁 카드 765455]] - document - raw/sns/brendan_o_se.md
+- [[바로 쓰는 팁 카드 7c11e4]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[바로 쓰는 팁 카드 7c26b2]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[바로 쓰는 팁 카드 7f776d]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[바로 쓰는 팁 카드 9564db]] - document - raw/sns/sam_youkilis.md
+- [[바로 쓰는 팁 카드 a1029b]] - document - raw/sns/dan_rubin.md
+- [[바로 쓰는 팁 카드 a1abda]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[바로 쓰는 팁 카드 d33d6c]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[바로 쓰는 팁 카드 e5fc45]] - document - raw/sns/dimpy_bhalotia.md
+- [[바로 쓰는 팁 카드 f5d540]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[보그코리아]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[색감]] - document - raw/sns/sam_youkilis.md
+- [[세로비율]] - document - raw/magazine/youtube_shorts_specs.md
+- [[셔터속도]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[수동촬영]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[수상작]] - document - raw/sns/brendan_o_se.md
+- [[순간포착]] - document - raw/sns/dimpy_bhalotia.md
+- [[숨은기능]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[스마트폰사진]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[스토리텔링]] - document - raw/sns/nicolai_ahn.md
+- [[스트리트]] - document - raw/sns/brendan_o_se.md
+- [[시퀀싱]] - document - raw/sns/sam_youkilis.md
+- [[실시간공유]] - document - raw/sns/benjamin_lowy.md
+- [[아이폰]] - document - raw/magazine/apple_support_night_mode.md
+- [[아이폰15프로맥스]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[아이폰보도사진]] - document - raw/sns/benjamin_lowy.md
+- [[아이폰사진]] - document - raw/sns/austin_mann.md
+- [[아이폰수상작]] - document - raw/sns/dimpy_bhalotia.md
+- [[애플]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[앱보정]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[앱편집]] - document - raw/sns/dan_rubin.md
+- [[야간촬영]] - document - raw/magazine/apple_support_night_mode.md
+- [[업로드 규격]] - document - raw/magazine/youtube_shorts_specs.md
+- [[에버그린]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[여행사진]] - document - raw/sns/austin_mann.md
+- [[이 소스에서 더 캐야 할 것 1cb8bf]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[이 소스에서 더 캐야 할 것 269a15]] - document - raw/sns/sam_youkilis.md
+- [[이 소스에서 더 캐야 할 것 29c32c]] - document - raw/sns/dimpy_bhalotia.md
+- [[이 소스에서 더 캐야 할 것 2ca172]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[이 소스에서 더 캐야 할 것 7a3d4a]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[이 소스에서 더 캐야 할 것 8e94c4]] - document - raw/sns/brendan_o_se.md
+- [[이 소스에서 더 캐야 할 것 9ca036]] - document - raw/sns/dan_rubin.md
+- [[이 소스에서 더 캐야 할 것 a33186]] - document - raw/sns/benjamin_lowy.md
+- [[이 소스에서 더 캐야 할 것 b66902]] - document - raw/sns/nicolai_ahn.md
+- [[이 소스에서 더 캐야 할 것 eae892]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[이 소스에서 더 캐야 할 것 fe9a4d]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[인물]] - document - raw/lightroom/adobe_ai_assisted_masking_mobile.md
+- [[인물사진]] - document - raw/sns/nicolai_ahn.md
+- [[일상기록]] - document - raw/sns/sam_youkilis.md
+- [[자연광]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[작가사례]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[장면구성]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[저조도]] - document - raw/magazine/apple_support_night_mode.md
+- [[전시]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[촬영팁]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[추가 검증 촬영 레시피 — iPhone 81b943]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[추가 검증 촬영 레시피 — iPhone 8a0479]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[추상사진]] - document - raw/sns/brendan_o_se.md
+- [[출처 1a6196]] - document - raw/magazine/xiaomi_phone_pro_mode.md
+- [[출처 24f2b5]] - document - raw/sns/sam_youkilis.md
+- [[출처 412640]] - document - raw/sns/dimpy_bhalotia.md
+- [[출처 4c916f]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[출처 606205]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[출처 6dc0b4]] - document - raw/magazine/youtube_shorts_specs.md
+- [[출처 7aa73c]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[출처 80da97]] - document - raw/sns/brendan_o_se.md
+- [[출처 84eb95]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[출처 9c64c1]] - document - raw/sns/nicolai_ahn.md
+- [[출처 c08f86]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[출처 c1271f]] - document - raw/sns/dan_rubin.md
+- [[출처 cbb923]] - document - raw/sns/benjamin_lowy.md
+- [[출처 f80def]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[출처에서 확인된 구체 레시피 0d0cf7]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[출처에서 확인된 구체 레시피 c10065]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[출처에서 확인된 구체 레시피 c1558c]] - document - raw/sns/austin_mann.md
+- [[카메라폰]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[큐레이션]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[파인아트]] - document - raw/sns/dimpy_bhalotia.md
+- [[포토저널리즘]] - document - raw/sns/benjamin_lowy.md
+- [[한국어자료]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[한국작가]] - document - raw/sns/nicolai_ahn.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -267,20 +262,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 73 edges to [[_COMMUNITY_Trends & Recipes]]
-- 11 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 10 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 8 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 18]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 3 edges to [[_COMMUNITY_Evidence Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
-- 1 edge to [[_COMMUNITY_Evidence Sources 2]]
-- 1 edge to [[_COMMUNITY_Scenarios Sources]]
+- 71 edges to [[_COMMUNITY_Trends & Recipes]]
+- 43 edges to [[_COMMUNITY_Evidence Sources]]
+- 20 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 16 edges to [[_COMMUNITY_Trends & Recipes 15]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 4]]
 
 ## Top bridge nodes
-- [[helpx.adobe.comedit-photos-mobile-ios.html]] - degree 38, connects to 6 communities
-- [[폭포·계곡 물결 — 장노출Live 효과 688234]] - degree 24, connects to 4 communities
-- [[Lightroom 33f0e7]] - degree 17, connects to 3 communities
-- [[Adobe Lightroom YouTube]] - degree 31, connects to 2 communities
-- [[Adobe Help — Edit photos with presets, filters, local adjustments in Lightroom mobile iOS]] - degree 27, connects to 2 communities
+- [[actionable_tip_cards]] - degree 56, connects to 6 communities
+- [[RAW]] - degree 33, connects to 4 communities
+- [[인물]] - degree 30, connects to 4 communities
+- [[DNG]] - degree 29, connects to 4 communities
+- [[iPhone Photography School YouTube]] - degree 29, connects to 3 communities

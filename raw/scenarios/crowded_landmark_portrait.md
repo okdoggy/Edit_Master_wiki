@@ -9,6 +9,12 @@ scenario_tags:
   - "crowd"
   - "portrait"
   - "tourist"
+aliases:
+  - "관광지 사람 많음"
+  - "랜드마크 앞 인물"
+  - "배경 관광객 지저분"
+  - "여행 인물 배경 정리"
+  - "명소 사진"
 query_aliases:
   - "관광지 사람 많음"
   - "랜드마크 앞 인물"
@@ -63,7 +69,7 @@ urls:
 - Remove로 큰 사람 무리를 지우려 하면 티가 난다.
 - 초광각으로 가까이 찍으면 얼굴/몸 왜곡이 커진다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -110,7 +116,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://blog.google/products-and-platforms/devices/pixel/travel-photography-101-teampixel/
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

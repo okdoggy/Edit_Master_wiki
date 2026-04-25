@@ -1,77 +1,67 @@
 ---
 type: community
 cohesion: 0.04
-members: 62
+members: 52
 ---
 
 # Trends & Recipes 14
 
 **Cohesion:** 0.04 - loosely connected
-**Members:** 62 nodes
+**Members:** 52 nodes
 
 ## Members
-- [[2026 ai landscape masking]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[2026_workflow]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[EditStyleclean realistic landscape]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Evidenceadobe landscape masking 2025]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Evidenceapple hdr current]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Graphify 추출 힌트 a341e1]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[ImageIssueblown sky]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[ImageIssuecrushed foreground shadow]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[ImageIssueoverprocessed halo]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Lightroom에서 하늘만 디헤이즈하고 색은 과하지 않게 보정]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Parameterhighlights -30 to -70]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Parametershadows +20 to +50]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Parametersky dehaze +5 to +18]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Preferencenatural color SELECTS EditStyleclean realistic landscape]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[RecommendationVariantgeneral hdr expose for highlights]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[RecommendationVariantpersonalized natural or dramatic]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[RecommendationVarianttrend ai masked sky]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Scenariolandscape sky dynamic range 2026]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[StyleRecipesky foreground dynamic range balance]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Techniquehdr capture or bracket]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Techniquelocal dehaze]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[Techniqueselect landscape mask]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[TrendSignal2026 ai landscape masking]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[adobe.comai-masking-for-landscape-photos]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[blown sky]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[blue saturation -5 to +10]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[clean realistic landscape]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[crushed foreground shadow]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[dehaze]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[dramatic but realistic sky]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[dynamic_range]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[fstoppers.comhow-use-lightrooms-new-ai-masking-better-landscape-edits-701478]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[hdr capture or bracket]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[helpx.adobe.commasking.html a37eeb]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[helpx.adobe.comretouch-photos.html]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[highlights -30 to -70]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[landscape sky]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[local dehaze]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[luminance range guardrail]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[nationalgeographic.comlandscape-quick-tips]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[natural color]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[natural realistic landscape color]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[natural_color]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[overprocessed halo]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[select landscape mask]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[shadows +20 to +50]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[sky dehaze +5 to +18]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[sky foreground dynamic range balance]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[support.apple.comHT211798]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[unnatural cyan sky]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[반영한 외부 근거 77c58a]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[보정 레시피 af0409]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[시나리오 수정 포인트 306aa9]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[실패 방지  주의점 471560]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[여행 풍경 사진 하늘 디테일과 자연스러운 색감]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[전문가공식SNS 근거 반영 5a7237]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[촬영 레시피 639eb8]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[추천 시스템용 요약 925f31]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[폰으로 산과 하늘을 자연스럽게 찍고 싶어요]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[풍경 사진에서 하늘은 하얗고 땅은 어두워요]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 16dbb5]] - document - raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md
-- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 dee1c3]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[2x 3x or 1x]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[Graphify 추출 힌트 958fa3]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[Graphify 추출 힌트 b2a526]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[assets.rafmuseum.org.ukPhotography-Resources.pdf]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[blog.googletake-holiday-photos-night-sight-portrait-mode]] - document - raw/scenarios/indoor_party_group.md
+- [[busy background b5e04f]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[crowd]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[crowded landmark]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[daylight or golden hour]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[gallery]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[landmark 1479a2]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[lifepixel.com6-tips-photographing-museums-galleries]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[minimal clean]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[mixed gallery spotlight]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[mixed-light]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[museum]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[museum gallery]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[no-flash]] - document - raw/scenarios/dim_restaurant_food.md
+- [[photo or portrait]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[reddit.comproblems_with_reflections_in_the_glass_while]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[scale lost]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[tourist]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[warm travel]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[갤러리 프로필]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 252168]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 7b63b3]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[관광지 사람 많음]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[근거 e277f9]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[근거 f9e45f]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[랜드마크 앞 인물]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[명소 사진]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[미술관 사진]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 19a2b9]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[반영한 외부 근거 237958]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[반영한 외부 근거 a5b710]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[배경 관광객 지저분]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[보정 레시피 0f4b7e]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[보정 레시피 93259f]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[시나리오 수정 포인트 d77285]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[시나리오 수정 포인트 f5edd8]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[실내 조명 인물]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[실패 방지  주의점 62e899]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[실패 방지  주의점 73b837]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[여행 인물 배경 정리]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[작품 앞 인물]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[전시회 인물]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[촬영 레시피 58cee1]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[촬영 레시피 e827eb]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[추천 시스템용 요약 33b9c2]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[추천 시스템용 요약 60d2cc]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[플래시 금지]] - document - raw/scenarios/museum_gallery_portrait.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -81,12 +71,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 4]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 3]]
+- 10 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 4 edges to [[_COMMUNITY_Scenarios Sources]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
+- 1 edge to [[_COMMUNITY_Evidence Sources]]
 
 ## Top bridge nodes
-- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 16dbb5]] - degree 56, connects to 3 communities
-- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 dee1c3]] - degree 11, connects to 1 community
-- [[support.apple.comHT211798]] - degree 2, connects to 1 community
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - degree 29, connects to 4 communities
+- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 7b63b3]] - degree 26, connects to 4 communities
+- [[blog.googletake-holiday-photos-night-sight-portrait-mode]] - degree 3, connects to 2 communities
+- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 252168]] - degree 11, connects to 1 community
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 19a2b9]] - degree 11, connects to 1 community

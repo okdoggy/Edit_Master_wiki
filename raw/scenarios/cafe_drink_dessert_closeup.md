@@ -10,6 +10,13 @@ scenario_tags:
   - "closeup"
   - "macro"
   - "texture"
+aliases:
+  - "라떼아트 사진"
+  - "케이크 클로즈업"
+  - "크림 질감"
+  - "커피 거품 찍기"
+  - "디저트 접사"
+  - "카페 음료 사진"
 query_aliases:
   - "라떼아트 사진"
   - "케이크 클로즈업"
@@ -65,7 +72,7 @@ urls:
 - macro는 초점 실패가 잦으니 여러 장 찍는다.
 - Clarity를 과하게 올리면 크림이 딱딱해 보인다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -116,7 +123,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://blog.google/products/pixel/four-tips-taking-delectable-food-photos-pixel-2/
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

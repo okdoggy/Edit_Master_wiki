@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/sony_photography_pro_modes.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # Tip 1. 빠르게 실패 줄이는 기본 시작점 (Auto/P mode)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Sony Support — Photography Pro modes on Xperia]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

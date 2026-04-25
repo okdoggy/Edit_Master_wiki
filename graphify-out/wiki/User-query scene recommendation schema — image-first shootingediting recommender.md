@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/user_query_scene_recommendation_schema.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Recommendation Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Recommendation_Sources
 ---
 
 # User-query scene recommendation schema — image-first shooting/editing recommender
@@ -22,4 +22,4 @@ tags:
 - [[추천 채널 분리]] - `HAS_SECTION` [EXTRACTED]
 - [[핵심 판단]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources

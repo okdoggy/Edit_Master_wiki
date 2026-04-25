@@ -1,6 +1,6 @@
 # Edit Master Wiki
 
-현재 버전: `0.2`
+현재 버전: `0.3`
 
 스마트폰 촬영과 사진 편집을 전문가처럼 가이드하는 Learnable Agent를 만들기 위한 지식 기반 프로젝트입니다.
 
@@ -80,7 +80,14 @@ urls:
 - `graph_nodes`: subject, environment, light, lens, edit_style, risk, preference 등
 - `graph_edges`: 추천 논리. 예: `window_light SOFTENS_skin`
 - `urls`: 공식 문서, 전문 튜토리얼, creator/community 근거
-- 본문: 상황, 촬영법, 보정법, 주의점, 근거
+- 본문: `## 추천 시스템용 요약`, `## 촬영 레시피`, `## 보정 레시피`, `## 근거`, `## Graphify 추출 힌트`
+
+strict raw 검증 기준:
+
+- `aliases`는 frontmatter에 있어야 하며 최소 5개 이상이어야 합니다.
+- `## 근거` 섹션은 정확한 heading으로 있어야 합니다.
+- `urls`에는 공식 문서, 전문 튜토리얼, creator/SNS, community consensus 중 최소 1개 이상 신뢰 가능한 출처가 있어야 합니다.
+- `--strict-sources`에서는 등록되지 않은 domain을 실패 처리합니다. 새 신뢰 domain은 먼저 확인한 뒤 하네스 allowlist에 추가합니다.
 
 현재는 hourly 자동 수집을 사용하지 않습니다. 새 raw는 사람이 검수한 뒤 `raw/scenarios/`, `raw/trends/`, `raw/techniques/`, `raw/lightroom/`, `raw/magazine/`, `raw/sns/`, `raw/youtube/`처럼 목적이 분명한 폴더에 직접 추가합니다.
 
@@ -94,7 +101,7 @@ uv run edit-master validate
 
 단순히 `graphify wiki`만 실행하면 사람이 탐색하기 좋은 wiki는 만들 수 있지만, Agent 추천용 graph로는 부족할 수 있습니다.
 
-이 저장소에서는 설치한 `graphifyy` 패키지를 `scripts/run_graphify_raw.py`가 호출해 source 중심 graph/wiki를 재생성합니다. `graphify`의 build, cluster, report, HTML, Cypher, Obsidian export API를 사용합니다.
+이 저장소에서는 설치한 `graphifyy` 패키지를 `scripts/run_graphify_raw.py`가 호출해 source 중심 graph/wiki를 재생성합니다. 이어서 `scripts/recommender/scene_graph_builder.py`가 같은 raw에서 추천 중심 scene graph를 재생성합니다.
 
 ```powershell
 uv run edit-master build
@@ -107,6 +114,9 @@ uv run edit-master build
 - `graphify-out/cypher.txt`
 - `graphify-out/GRAPH_REPORT.md`
 - `graphify-out/wiki/`
+- `graphify-out/scene_recommender_graph.json`
+- `graphify-out/cypher_scene_recommender.txt`
+- `graphify-out/SCENE_RECOMMENDER_REPORT.md`
 
 Source graph와 추천 graph의 연결 상태는 bridge 스크립트로 확인합니다.
 
@@ -193,6 +203,7 @@ uv run edit-master answer "자연스럽게 보정하고 싶어요" --observation
 - `scripts/recommender/scenario_matcher.py`
 - `scripts/recommender/normalization.py`
 - `scripts/recommender/graph_loader.py`
+- `scripts/recommender/scene_graph_builder.py`
 - `scripts/recommender/source_bridge.py`
 - `scripts/recommender/answer_renderer.py`
 - `scripts/recommender/personalization.py`
@@ -259,7 +270,7 @@ Client가 이미지 분석 결과를 이미 가지고 있다면 `record`와 `ren
    - source/creator가 중심이면 사용자 추천에는 경로가 멀어집니다.
 
 2. Trend, General, Personalized 추천이 분리되어 있는가
-   - 현재 기본 구조는 30 scenario x 3 channel = 90 recommendation입니다.
+   - 현재 기본 구조는 37 scenario x 3 channel = 111 recommendation입니다.
 
 3. 고립 노드가 많은가
    - 고립된 `Issue`, `Outcome`, `Evidence`는 검색과 추천에 잘 쓰이지 않습니다.
@@ -279,8 +290,8 @@ raw를 추가하거나 graph를 갱신할 때는 아래 루프를 따릅니다.
 
 ```text
 raw 추가/수정
--> scenario alias, graph_nodes, graph_edges, urls 확인
--> graphify/wiki/graph 재생성
+-> aliases, ## 근거, graph_nodes, graph_edges, urls 확인
+-> graphify/wiki/source graph + scene recommender graph 재생성
 -> source_bridge로 source graph와 추천 graph 연결 검증
 -> edit-master validate 실행
 -> tests/eval_queries.json 회귀 평가 통과 확인
@@ -320,7 +331,7 @@ uv run edit-master raw promote --build
 ```powershell
 uv run edit-master raw brief --engine both --parallel max --count 5
 uv run edit-master raw dispatch --run-id latest --engine codex --parallel max
-uv run edit-master raw validate --scope incoming
+uv run edit-master raw validate --scope incoming --strict-sources
 uv run edit-master raw promote --build
 ```
 
@@ -336,7 +347,7 @@ uv run edit-master raw promote --strict-sources --passing-only --delete-incoming
 uv run edit-master raw promote --strict-sources --passing-only --delete-incoming --delete-failed --build
 ```
 
-각 후보는 `raw/_incoming/scenarios/{slug}.md`와 `raw/_incoming/source_notes/{slug}.json`을 함께 만들어야 합니다. `intake`/`dispatch`는 설치/인증된 `codex` 또는 `claude` CLI가 있을 때 사용합니다. 자세한 절차는 `docs/raw_intake_harness.md`를 참고합니다.
+각 후보는 `raw/_incoming/scenarios/{slug}.md`와 `raw/_incoming/source_notes/{slug}.json`을 함께 만들어야 합니다. 승격된 후보의 source note는 `raw/source_notes/{slug}.json`에 보존됩니다. `intake`/`dispatch`는 설치/인증된 `codex` 또는 `claude` CLI가 있을 때 사용합니다. 자세한 절차는 `docs/raw_intake_harness.md`를 참고합니다.
 
 ## 아직 남은 일
 

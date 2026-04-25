@@ -68,22 +68,23 @@ uv run edit-master raw dispatch --run-id latest --engine codex --parallel max --
 ## 후보 검증
 
 ```powershell
-uv run edit-master raw validate --scope incoming
+uv run edit-master raw validate --scope incoming --strict-sources
 ```
 
 검증 항목:
 
 - `scenario_tags`, `aliases`, `graph_nodes`, `graph_edges`, `urls` 존재
+- frontmatter `aliases` 최소 5개 이상
 - 최소 source URL 수
 - official/expert/creator_social/community 근거 최소 1개 이상
 - incoming 후보의 `raw/_incoming/source_notes/{slug}.json` 존재 여부와 URL 설명
-- 필수 본문 섹션 존재
+- 필수 본문 섹션 존재: `## 추천 시스템용 요약`, `## 촬영 레시피`, `## 보정 레시피`, `## 근거`, `## Graphify 추출 힌트`
 - 기존 scenario와 slug/title/alias/graph_nodes 중복 검사
 
-더 엄격하게 unknown domain을 실패 처리하려면:
+unknown domain을 경고로만 보고 싶다면 `--strict-sources`를 빼고 먼저 점검할 수 있습니다.
 
 ```powershell
-uv run edit-master raw validate --scope incoming --strict-sources
+uv run edit-master raw validate --scope incoming
 ```
 
 ## 승격
@@ -92,7 +93,7 @@ uv run edit-master raw validate --scope incoming --strict-sources
 uv run edit-master raw promote --build
 ```
 
-이 명령은 검증된 후보만 `raw/scenarios`로 복사하고 `raw/manifests/scenario_files.csv`를 갱신합니다. `--build`를 붙이면 `build -> bridge --write -> validate`까지 이어서 실행합니다.
+이 명령은 검증된 후보만 `raw/scenarios`로 복사하고 `raw/manifests/scenario_files.csv`를 갱신합니다. source note가 있으면 `raw/source_notes/{slug}.json`으로 보존합니다. `--build`를 붙이면 `build -> bridge --write -> validate`까지 이어서 실행합니다.
 
 후보 파일을 승격 후 삭제하려면:
 

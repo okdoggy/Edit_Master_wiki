@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/digital_camera_world_mobile_tips.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # Digital Camera World — Mobile photography tips
@@ -31,4 +31,4 @@ tags:
 - [[저조도]] - `MENTIONS_TAG` [EXTRACTED]
 - [[출처 606205]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

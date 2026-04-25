@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/evan_ranft_youtube.md"
 type: "document"
-community: "Trends & Recipes 18"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_18
+  - community/Trends_&_Recipes
 ---
 
 # Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 [168031]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Evan Ranft]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_18
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

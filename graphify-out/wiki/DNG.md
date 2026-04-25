@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_edit_photos_mobile_ios.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # DNG
@@ -41,4 +41,4 @@ tags:
 - [[Vogue Korea — Apple and seven artists with iPhone 15 Pro Max]] - `MENTIONS_TAG` [EXTRACTED]
 - [[Yoni Mayeri]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/action_pan_runner_cyclist.md"
 type: "document"
-community: "Trends & Recipes 10"
+community: "Scenarios Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_10
+  - community/Scenarios_Sources
 ---
 
 # 실패 방지 / 주의점 [de5bf5]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 a30a72]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10
+#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources

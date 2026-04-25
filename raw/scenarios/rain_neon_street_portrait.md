@@ -65,6 +65,19 @@ urls:
 - Night mode가 사람을 흐리게 만들 수 있다.
 - 네온 색을 피부에 그대로 두면 얼굴이 초록/보라로 보인다.
 
+## 근거
+
+### 반영한 외부 근거
+
+- Apple Night mode, Google Night Sight, Samsung Night Mode 공식 문서는 야간/저조도에서 노출과 흔들림을 안정화하는 근거를 제공한다.
+- Adobe Lightroom 모바일 문서는 색 번짐, 네온 하이라이트, 얼굴 노출을 분리해 조정하는 보정 근거다.
+- Adobe Creative Trends 자료는 네온/도시 무드 같은 시각 트렌드 신호를 스타일 후보로 연결하는 근거가 된다.
+
+### 시나리오 수정 포인트
+
+- 비 오는 네온 인물은 네온 색을 살리되 얼굴은 별도 마스크로 자연스럽게 회복한다.
+- 하이라이트 복구와 WB 보정을 먼저 하고, cinematic contrast는 마지막에 얹는다.
+
 ## Graphify 추출 힌트
 
 ```yaml

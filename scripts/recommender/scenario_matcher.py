@@ -65,6 +65,13 @@ SCENARIO_SLOT_HINTS: dict[str, dict[str, set[str]]] = {
         "how": {"lens_mode:2x", "mode:portrait", "light:backlight", "light:rim_light"},
         "issues": {"issue:underexposed_face", "issue:blown_highlights", "issue:hair_highlight_clipping"},
     },
+    "scenario_backlit_rim_light_portrait": {
+        "when": {"time:golden_hour"},
+        "what": {"intent:portrait"},
+        "how": {"lens_mode:2x", "mode:portrait", "light:backlight", "light:rim_light", "edit:mask"},
+        "issues": {"issue:underexposed_face", "issue:blown_highlights", "issue:hair_highlight_clipping"},
+        "preferences": {"pref:natural"},
+    },
     "scenario_fashion_ootd_portrait": {
         "where": {"place:street"},
         "what": {"intent:ootd", "intent:portrait"},

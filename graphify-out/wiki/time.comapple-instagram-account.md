@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/time_apple_instagram_shot_on_iphone.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # time.com/apple-instagram-account
@@ -14,4 +14,4 @@ tags:
 - [[TIME — Apple Instagram celebrates iPhone photographers]] - `SUPPORTED_BY` [EXTRACTED]
 - [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

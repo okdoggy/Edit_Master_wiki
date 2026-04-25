@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/cafe_drink_dessert_closeup.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Evidence_Sources
 ---
 
 # blog.google/four-tips-taking-delectable-food-photos-pixel-2 [0bb5ae]
@@ -16,4 +16,4 @@ tags:
 - [[카페 디저트 플랫레이 — 수평과 왜곡 잡기 f26693]] - `SUPPORTED_BY` [EXTRACTED]
 - [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 44aad3]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

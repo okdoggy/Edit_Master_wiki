@@ -1,80 +1,70 @@
 ---
 type: community
 cohesion: 0.04
-members: 65
+members: 55
 ---
 
 # Trends & Recipes 12
 
 **Cohesion:** 0.04 - loosely connected
-**Members:** 65 nodes
+**Members:** 55 nodes
 
 ## Members
-- [[1. 선명한 베스트 순간 버스트모션 포토 우선]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[2. 트렌디한 속도감 패닝Action Pan]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[2026 dynamic motion photo]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[2026_motion_style]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[3. 움직임 자체를 흐리게 모션 트레일롱 익스포저]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[EditStylecreative panning background blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[EditStylesharp burst best moment]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Issuecamera shake]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Issueoverdone motion blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Issuesubject blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Parametermobile action pan mode]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Parameterpanning 1 15 to 1 125]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Preferencecinematic speed blur SELECTS EditStylecreative panning background blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Preferencecrisp action memory SELECTS EditStylesharp burst best moment]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[RecommendationVariantcinematic speed blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[StyleRecipeburst select and micro sharpen]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[StyleRecipeslow shutter pan subject lock]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Techniqueaction pan]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Techniqueburst mode]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[Techniqueslow shutter panning]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[TrendSignal2026 dynamic motion photo]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[TrendSignalsocial motion blur energy]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[action pan]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[adobe.commotion-blur.html]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[adobe.companning]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[burst mode]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[burst select and micro sharpen]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[camera shake]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[cinematic speed blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[creative panning background blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[crisp action memory]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[mask subject then blur context]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[mobile action pan mode]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[motion photo best face]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[motion trail story blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[motion_blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[moving person pet vehicle]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[moving_subject]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[natural low edit motion]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[overdone motion blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[panning 1 15 to 1 125]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[sharp burst best moment]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[sharpness]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[shutter 1 500 or faster freeze]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[slow shutter pan subject lock]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[slow shutter panning]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[social motion blur energy]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[subject blur]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[subject mask sharpening]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[subject sharpening low radius]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[support.apple.comios 9cd6df]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[usa.canon.comhow-do-i-get-a-panning-effect]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[youtube.comwatch 31c625]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[달리는 사람이나 차를 선명하게 찍고 싶어]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[모션블러가 멋있게 보이게 하는 법]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[배경만 흐르고 피사체는 선명한 사진]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[보정 레시피 a5011b]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[선명한 버스트 컷]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[연사로 베스트컷 고르는 법]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[움직이는 피사체 2026 — 버스트·패닝·모션블러 선명도 컨트롤 7d945d]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[움직이는 피사체 2026 — 버스트·패닝·모션블러 선명도 컨트롤 c14b62]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[움직임이 있는 사진을 트렌디하게 보정하고 싶어]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[촬영 레시피 43a65a]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[추천 시스템용 요약 9c01b1]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[패닝 컷]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
+- [[0.5x 1x 2x]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[1x 2x f4bb24]] - document - raw/scenarios/backlit_silhouette_sunset.md
+- [[Graphify 추출 힌트 8f59f5]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[Graphify 추출 힌트 e003a1]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[business.adobe.comcreative-trends-report.html]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[color cast]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[creative]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[creative reflection]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[exposure time]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[light leak]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[low angle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[mirror]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[mirror prism puddle]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[moody]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[motion blur cda978]] - document - raw/scenarios/candle_cake_low_light_party.md
+- [[neon]] - document - raw/scenarios/city_window_reflection.md
+- [[neon backlight]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[neon light]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[night mode]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[night or portrait]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[person or city]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[playful visual hook]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[prism 02434e]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[prism 2fcae6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[puddle a6f2d6]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[puddle e05a3f]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[rain]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[rain neon street]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[reflection c937e1]] - document - raw/scenarios/city_window_reflection.md
+- [[reflection ef584d]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[samsung.comcreative-photography-tricks-thatll-get-you-all-the-likes]] - document - raw/magazine/samsung_camera_modes_settings.md
+- [[sns f490e5]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[street]] - document - raw/scenarios/action_pan_runner_cyclist.md
+- [[symmetry]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[urban or nature]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[visual interest]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[wet ground]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 a4e1cb]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[근거 988f30]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[근거 b29eaf]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[반영한 외부 근거 00233a]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[반영한 외부 근거 5c0cd3]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[보정 레시피 30b3a6]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[보정 레시피 c9cde2]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[비 오는 밤 네온 거리 인물 — moody city look e7cb56]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[시나리오 수정 포인트 4e80e6]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[시나리오 수정 포인트 78af5d]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[실패 방지  주의점 38d894]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[실패 방지  주의점 f1ea5f]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[촬영 레시피 371601]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[촬영 레시피 933097]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[추천 시스템용 요약 66cadb]] - document - raw/scenarios/reflection_mirror_puddle_prism.md
+- [[추천 시스템용 요약 aeecbc]] - document - raw/scenarios/rain_neon_street_portrait.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -84,10 +74,23 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Scenarios Sources]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 10]]
-- 1 edge to [[_COMMUNITY_Evidence Sources]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 4 edges to [[_COMMUNITY_Scenarios Sources]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 2 edges to [[_COMMUNITY_Evidence Sources]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 11]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 19]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 18]]
 
 ## Top bridge nodes
-- [[움직이는 피사체 2026 — 버스트·패닝·모션블러 선명도 컨트롤 7d945d]] - degree 59, connects to 2 communities
-- [[움직이는 피사체 2026 — 버스트·패닝·모션블러 선명도 컨트롤 c14b62]] - degree 11, connects to 1 community
+- [[1x 2x f4bb24]] - degree 10, connects to 6 communities
+- [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - degree 28, connects to 5 communities
+- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 bab9ac]] - degree 25, connects to 3 communities
+- [[motion blur cda978]] - degree 4, connects to 2 communities
+- [[reflection c937e1]] - degree 4, connects to 2 communities

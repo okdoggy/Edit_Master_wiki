@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/agent_runtime_pipeline.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Recommendation Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Recommendation_Sources
 ---
 
 # Agent runtime pipeline — scene matcher, personalization, and evaluation
@@ -19,4 +19,4 @@ tags:
 - [[평가셋]] - `HAS_SECTION` [EXTRACTED]
 - [[현재 실행 경로]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources

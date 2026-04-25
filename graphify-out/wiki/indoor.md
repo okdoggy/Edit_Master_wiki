@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/indoor_party_group.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_3
 ---
 
 # indoor
@@ -15,4 +15,4 @@ tags:
 - [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 1a52fb]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

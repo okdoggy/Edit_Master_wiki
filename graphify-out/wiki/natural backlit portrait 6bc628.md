@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/backlit_rim_light_portrait.md"
 type: "document"
-community: "Trends & Recipes 19"
+community: "Trends & Recipes 16"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_19
+  - community/Trends_&_Recipes_16
 ---
 
 # natural backlit portrait [6bc628]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 26c0ca]] - `SUPPORTS_STYLE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_19
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_16

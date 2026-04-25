@@ -9,6 +9,13 @@ scenario_tags:
   - "low-light"
   - "white-balance"
   - "no-flash"
+aliases:
+  - "어두운 식당 음식"
+  - "레스토랑 파스타 노랗다"
+  - "음식이 흐릿해요"
+  - "플래시 없이 음식"
+  - "노란 조명 음식 보정"
+  - "저조도 음식사진"
 query_aliases:
   - "어두운 식당 음식"
   - "레스토랑 파스타 노랗다"
@@ -64,7 +71,7 @@ urls:
 - Clarity/Dehaze를 과하게 올리면 음식이 건조해 보인다.
 - Night mode가 길면 손/젓가락 움직임이 흐려질 수 있다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -121,7 +128,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://www.samsung.com/us/support/answer/ANS10001377/
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

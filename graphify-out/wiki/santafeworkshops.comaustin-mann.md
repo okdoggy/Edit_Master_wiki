@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/austin_mann.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # santafeworkshops.com/austin-mann
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Austin Mann]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

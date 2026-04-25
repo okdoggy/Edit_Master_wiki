@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/metadata_standards_mapping.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Trends & Recipes 7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Trends_&_Recipes_7
 ---
 
 # Exif / CIPA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Photo metadata standards mapping — Schema.orgIPTCExif to recommender graph]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7

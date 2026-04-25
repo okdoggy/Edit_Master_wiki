@@ -1,84 +1,78 @@
 ---
 type: community
 cohesion: 0.04
-members: 69
+members: 63
 ---
 
 # Trends & Recipes 8
 
 **Cohesion:** 0.04 - loosely connected
-**Members:** 69 nodes
+**Members:** 63 nodes
 
 ## Members
-- [[EditStylecontrolled hdr realism]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Graphify 추출 힌트 cf7bd4]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[HDR로 하늘 디테일 살리는 법]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Issueclipped highlights]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Issueflat overprocessed hdr]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Issuehdr ghosting]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Lightroom에서 하이라이트만 줄이고 싶어요]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Parameterexposure minus 0 3 to minus 1 0 ev]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Parameterhighlights minus 30 to minus 70]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Parametersubject exposure plus 0 2 to plus 0 7]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Preferencecinematic backlight glow SELECTS EditStylesoft backlight subject lift]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Preferencenatural clean detail SELECTS EditStylecontrolled hdr realism]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[RecommendationVariantgeneral balanced backlight]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[RecommendationVariantpersonalized low retouch glow]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[RecommendationVarianttrend hdr display]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Scenariobacklight hdr highlight recovery 2026]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[StyleRecipeprotect highlights lift subject mask]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Techniqueexpose for highlights]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Techniquehdr output tone mapping]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Techniquelightroom luminance range mask]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Techniquesmartphone auto hdr]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[Techniquesubject mask shadow lift]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[TrendSignalhdr display realism 2026]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[TrendSignalnatural high dynamic range mobile]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[backlight hdr highlight recovery 2026]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[backlit subject]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[cinematic backlight glow]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[clipped highlights]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[controlled hdr realism]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[expertphotography.comexpose-for-the-highlights]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[expose for highlights]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[exposure minus 0 3 to minus 1 0 ev]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[flat overprocessed hdr]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[general balanced backlight]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[hdr 6435be]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[hdr capture and sdr safe export]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[hdr display realism 2026]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[hdr ghosting]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[hdr output tone mapping]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[helpx.adobe.comhdr-output.html]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[highlight recovery smartphone 2026]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[highlight_recovery]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[highlights minus 30 to minus 70]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[lightroom luminance range mask]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[lightroom_masking]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[natural clean detail]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[natural high dynamic range mobile]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[personalized low retouch glow]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[protect highlights lift subject mask]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[sammobile.comwhat-is-hdr-mode-in-phone-cameras]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[shadows plus 15 to plus 45]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[smartphone auto hdr]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[smartphone_photography]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[soft backlight subject lift]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[subject exposure plus 0 2 to plus 0 7]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[subject mask shadow lift]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[trend hdr display]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[whites minus 5 to minus 25]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[반영한 외부 근거 e1d569]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[밝은 창문 배경 사진 보정]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[보정 레시피 79d60c]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[시나리오 수정 포인트 c8075e]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[실패 방지  주의점 d7817b]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[역광 HDR 하이라이트 복구 — 밝은 배경과 피사체 디테일을 함께 살리기 77c71d]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[역광 HDR 하이라이트 복구 — 밝은 배경과 피사체 디테일을 함께 살리기 807cbb]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[역광에서 얼굴은 어둡고 하늘은 날아가요]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[전문가공식SNS 근거 반영 e5ee58]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[촬영 레시피 cc5711]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
-- [[추천 시스템용 요약 d9448d]] - document - raw/_incoming/scenarios/backlight_hdr_highlight_recovery_2026.md
+- [[3x 5x 10x]] - document - raw/scenarios/concert_stage_low_light.md
+- [[Graphify 추출 힌트 5f99ac]] - document - raw/scenarios/concert_stage_low_light.md
+- [[Graphify 추출 힌트 a39768]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[background distance]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[bokeh 96e665]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[bokeh 9c9469]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[clipping]] - document - raw/scenarios/concert_stage_low_light.md
+- [[color mix]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[concert]] - document - raw/scenarios/concert_stage_low_light.md
+- [[detail]] - document - raw/scenarios/concert_stage_low_light.md
+- [[detail bokeh]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[fast shutter]] - document - raw/scenarios/concert_stage_low_light.md
+- [[flower or leaf]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[flowers]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
+- [[food mask]] - document - raw/scenarios/dim_restaurant_food.md
+- [[green]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[highlight clipping]] - document - raw/scenarios/concert_stage_low_light.md
+- [[iphonephotographyschool.comleaves]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[leaves]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[low-light]] - document - raw/scenarios/candle_cake_low_light_party.md
+- [[macro 61849d]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[macro d1b988]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[macro ede51e]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[moody stage]] - document - raw/scenarios/concert_stage_low_light.md
+- [[motion e858a3]] - document - raw/scenarios/concert_stage_low_light.md
+- [[nature 44ad1a]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[nature af64a2]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[noise reduction]] - document - raw/scenarios/concert_stage_low_light.md
+- [[performance]] - document - raw/scenarios/concert_stage_low_light.md
+- [[performer]] - document - raw/scenarios/concert_stage_low_light.md
+- [[photo or pro]] - document - raw/scenarios/concert_stage_low_light.md
+- [[samsung.comsamsung-night-mode-camera]] - document - raw/magazine/apple_support_night_mode.md
+- [[separation]] - document - raw/scenarios/window_light_cafe_portrait.md
+- [[soft light]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[soft side light]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[spotlight 5ff31a]] - document - raw/scenarios/concert_stage_low_light.md
+- [[spotlight faa56a]] - document - raw/scenarios/concert_stage_low_light.md
+- [[stage 99b9cc]] - document - raw/scenarios/concert_stage_low_light.md
+- [[stage b57bbf]] - document - raw/scenarios/concert_stage_low_light.md
+- [[stage d5091f]] - document - raw/scenarios/concert_stage_low_light.md
+- [[support.apple.comios 0cb978]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[telephoto 4f7e20]] - document - raw/scenarios/concert_stage_low_light.md
+- [[telephoto 5ae704]] - document - raw/scenarios/concert_stage_low_light.md
+- [[texture 0d0e87]] - document - raw/scenarios/dim_restaurant_food.md
+- [[ultrawide macro or 2x]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - document - raw/scenarios/concert_stage_low_light.md
+- [[공연·무대 저조도 — 망원하이라이트 보호 b31662]] - document - raw/scenarios/concert_stage_low_light.md
+- [[근거 60a490]] - document - raw/scenarios/concert_stage_low_light.md
+- [[근거 ec87ad]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[꽃·잎 매크로 — 질감과 배경 bokeh 17e99a]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[반영한 외부 근거 76bc63]] - document - raw/scenarios/concert_stage_low_light.md
+- [[반영한 외부 근거 a52cb1]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[보정 레시피 343377]] - document - raw/scenarios/concert_stage_low_light.md
+- [[보정 레시피 5e2230]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[시나리오 수정 포인트 591bf9]] - document - raw/scenarios/concert_stage_low_light.md
+- [[시나리오 수정 포인트 e6e47b]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[실패 방지  주의점 81351d]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[실패 방지  주의점 93c588]] - document - raw/scenarios/concert_stage_low_light.md
+- [[촬영 레시피 2450f3]] - document - raw/scenarios/flower_macro_bokeh.md
+- [[촬영 레시피 bc9c10]] - document - raw/scenarios/concert_stage_low_light.md
+- [[추천 시스템용 요약 58b613]] - document - raw/scenarios/concert_stage_low_light.md
+- [[추천 시스템용 요약 c18bda]] - document - raw/scenarios/flower_macro_bokeh.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -88,11 +82,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 3]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 19]]
+- 9 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 8 edges to [[_COMMUNITY_Evidence Sources]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 4 edges to [[_COMMUNITY_Scenarios Sources]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 7]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 18]]
 
 ## Top bridge nodes
-- [[역광 HDR 하이라이트 복구 — 밝은 배경과 피사체 디테일을 함께 살리기 807cbb]] - degree 63, connects to 3 communities
-- [[역광 HDR 하이라이트 복구 — 밝은 배경과 피사체 디테일을 함께 살리기 77c71d]] - degree 11, connects to 1 community
+- [[samsung.comsamsung-night-mode-camera]] - degree 11, connects to 4 communities
+- [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - degree 25, connects to 3 communities
+- [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - degree 25, connects to 3 communities
+- [[texture 0d0e87]] - degree 6, connects to 2 communities
+- [[low-light]] - degree 4, connects to 2 communities

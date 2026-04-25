@@ -1,74 +1,62 @@
 ---
 type: community
-cohesion: 0.04
-members: 59
+cohesion: 0.05
+members: 47
 ---
 
 # Trends & Recipes 16
 
-**Cohesion:** 0.04 - loosely connected
-**Members:** 59 nodes
+**Cohesion:** 0.05 - loosely connected
+**Members:** 47 nodes
 
 ## Members
-- [[EditStyleclean commerce white background]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Evidencegoogle merchant image link]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Graphify 추출 힌트 2c1208]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[ImageIssuecolor cast]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[ImageIssuemirrorlike reflection]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[ImageIssueover retouched color]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Parameterhighlight strength]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Parameterproduct fill 75 to 90 percent]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Parameterwhite balance neutral]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Preferenceaccurate color SELECTS EditStyleclean commerce white background]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[RecommendationVariantaccurate variant catalog]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[RecommendationVariantplatform compliant thumbnail]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Scenarioproduct reflection color accuracy 2026]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[StyleRecipediffused reflection control product recipe]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Techniquecolor reference neutral white balance recipe]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Techniquelarge diffused light]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Techniquevariant specific product image]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[Techniquewhite black reflector card]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[TrendSignalcommerce clean thumbnail 2026]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[accurate color]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[adobe.comwhite-balance]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[background rgb 255 or solid white]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[clean commerce white background]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[color cast 002228]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[color reference neutral white balance recipe]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[color_accuracy]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[commerce clean thumbnail 2026]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[commerce_thumbnail]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[diffused reflection control product recipe]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[google image 1500px recommended]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[large diffused light]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[manual exposure lock]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[mercadokit.comshopify-product-photography-guide]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[minimal clean brand]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[mirrorlike reflection]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[over retouched color]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[product fill 75 to 90 percent]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[product_photography]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[reflection_control]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[small product or prop]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[support.google.com6324350]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[variant accurate catalog image]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[variant specific product image]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[white balance neutral]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[white black reflector card]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[white_background]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[반영한 외부 근거 9b1b13]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[보정 레시피 0348c8]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[쇼핑몰 썸네일 하얀 배경과 실제 색 맞추는 법]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[스마트폰으로 커머스 상품 사진 깨끗하게 찍기]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[시나리오 수정 포인트 af33e6]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[실패 방지  주의점 2f2f45]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[유리 소품 제품 사진 색이 달라 보여요]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[전문가공식SNS 근거 반영 adb666]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[제품소품 커머스 썸네일 — 반사 제어와 색 정확도 bb72a5]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[제품소품 커머스 썸네일 — 반사 제어와 색 정확도 fd2488]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[촬영 레시피 21719f]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[추천 시스템용 요약 d3fa4e]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
-- [[화장품 병 반사 없이 정확한 색으로 찍고 싶어]] - document - raw/_incoming/scenarios/product_reflection_color_accuracy_2026.md
+- [[Graphify 추출 힌트 d67608]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[Preference SELECTS natural backlit portrait]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[TrendSignal]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[backlight 39d900]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[backlit portrait hair highlight]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[bounce fill 8ced5a]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[bounce fill e82b1b]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[clarity and dehaze]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[face without brightening background]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[glowing edge with readable face]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[golden hour hair glow]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[hair edge glow]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[hair highlight clipping 710630]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[hair highlight clipping e64b3b]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[halo artifacts 3569b3]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[halo artifacts 4b24be]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[helpx.adobe.commasking.html b30805]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[highlight-control]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[highlights minus 25 to 50 2f1eae]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[highlights minus 25 to 50 ef96f6]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[masking]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[natural backlit portrait 6bc628]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[natural backlit portrait c2ed74]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[natural skin tone]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[portrait scenario]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[rim light 5da773]] - document - raw/scenarios/autumn_maple_woman_portrait.md
+- [[rim light 99f613]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[rim-light]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[select subject mask 8d56f9]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[select subject mask e58aa4]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[shadows plus 10 to 30]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[subject mask face recovery]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[underexposed face 6ba645]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[whites minus 10 to 30]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[근거 4a71d0]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[반영한 외부 근거 71639c]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[보정 레시피 fd274e]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[시나리오 수정 포인트 bfb27f]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[실패 방지  주의점 77a75e]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[얼굴은 어둡고 머리카락만 밝아요]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 26c0ca]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 aa554a]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[역광으로 사람 머리 위가 쨍해요]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[역광으로 인해 사람 머리 위로 쨍하게 보여]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[촬영 레시피 ab1ce3]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[추천 시스템용 요약 944535]] - document - raw/scenarios/backlit_rim_light_portrait.md
+- [[테두리 빛은 좋은데 하이라이트가 날아갔어요]] - document - raw/scenarios/backlit_rim_light_portrait.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -78,9 +66,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 6 edges to [[_COMMUNITY_Trends & Recipes 3]]
 - 2 edges to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 9]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
 
 ## Top bridge nodes
-- [[제품소품 커머스 썸네일 — 반사 제어와 색 정확도 fd2488]] - degree 51, connects to 1 community
-- [[제품소품 커머스 썸네일 — 반사 제어와 색 정확도 bb72a5]] - degree 11, connects to 1 community
+- [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 26c0ca]] - degree 45, connects to 4 communities
+- [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 aa554a]] - degree 11, connects to 1 community
+- [[rim light 5da773]] - degree 4, connects to 1 community

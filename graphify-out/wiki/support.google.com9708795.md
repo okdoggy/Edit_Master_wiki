@@ -1,5 +1,5 @@
 ---
-source_file: "raw/_incoming/scenarios/low_light_noise_white_balance_2026.md"
+source_file: "raw/magazine/apple_support_night_mode.md"
 type: "document"
 community: "Trends & Recipes 5"
 tags:
@@ -19,7 +19,6 @@ tags:
 - [[도시 야경 장노출 — 빛줄기스카이라인 75d2a9]] - `SUPPORTED_BY` [EXTRACTED]
 - [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - `SUPPORTED_BY` [EXTRACTED]
 - [[스마트폰 음식 사진 실전 레시피]] - `SUPPORTED_BY` [EXTRACTED]
-- [[실내 저조도 스냅 — 노이즈와 화이트밸런스를 지키는 2026 촬영·보정 레시피 462adf]] - `SUPPORTED_BY` [EXTRACTED]
 - [[야간·인물·음식·매크로 모드별 촬영 가이드]] - `SUPPORTED_BY` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5

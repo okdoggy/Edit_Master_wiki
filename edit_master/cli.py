@@ -260,8 +260,10 @@ def path_status(name: str, path: Path) -> dict[str, Any]:
 
 def command_build(args: argparse.Namespace, config: HarnessConfig) -> int:
     from scripts.run_graphify_raw import run
+    from scripts.recommender.scene_graph_builder import run as run_scene_graph_builder
 
     run(config.raw_dir, config.graphify_out_dir, clean_wiki=not args.no_clean_wiki)
+    run_scene_graph_builder(config.raw_dir, config.graphify_out_dir)
     return 0
 
 
@@ -329,7 +331,14 @@ def print_pipeline_report(report: dict[str, Any]) -> None:
     print(f"raw missing required: {len(report['raw']['missing_required'])}")
     print(f"raw missing aliases: {len(report['raw']['missing_aliases'])}")
     print(f"graph nodes/edges: {report['graph']['node_count']} / {report['graph']['edge_count']}")
+    if not report["graph"].get("scenario_count_matches_raw", True):
+        print(
+            "graph/raw scenario mismatch: "
+            f"{report['graph']['scenario_count']} / {report['graph'].get('expected_scenario_count')}"
+        )
     print(f"graph recommendations: {report['graph']['recommendation_count']} {report['graph']['recommendation_channels']}")
+    if not report["graph"].get("recommendation_channels_complete", True):
+        print("graph recommendation channels incomplete")
     print(f"graph isolates: {len(report['graph']['isolates'])}")
     print(
         "bridge coverage: "
@@ -541,6 +550,8 @@ def command_raw(args: argparse.Namespace, config: HarnessConfig) -> int:
                 print("ok: True")
                 for item in result["promoted"]:
                     print(f"promoted: {item['source']} -> {item['target']}")
+                    if item.get("source_note"):
+                        print(f"  source_note: {item['source_note']}")
                 skipped = result.get("skipped") or []
                 if skipped:
                     print(f"skipped: {len(skipped)} failed candidate(s)")

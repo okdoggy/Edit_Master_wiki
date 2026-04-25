@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/tyler_stalman.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_15
 ---
 
 # Tyler Stalman
@@ -35,4 +35,4 @@ tags:
 - [[카메라설정]] - `MENTIONS_TAG` [EXTRACTED]
 - [[크리에이터촬영]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15

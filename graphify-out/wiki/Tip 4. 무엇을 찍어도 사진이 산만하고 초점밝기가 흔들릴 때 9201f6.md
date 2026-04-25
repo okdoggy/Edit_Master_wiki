@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/benjamin_lowy.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # Tip 4. 무엇을 찍어도 사진이 산만하고 초점/밝기가 흔들릴 때 [9201f6]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Benjamin Lowy]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

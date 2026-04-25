@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_presets_mobile_learn.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # Adobe Learn — Streamline editing with presets on mobile
@@ -37,4 +37,4 @@ tags:
 - [[커스텀프리셋]] - `MENTIONS_TAG` [EXTRACTED]
 - [[프리셋]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

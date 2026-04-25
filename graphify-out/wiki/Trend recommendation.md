@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/user_query_scene_recommendation_schema.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Recommendation Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Recommendation_Sources
 ---
 
 # Trend recommendation
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[User-query scene recommendation schema — image-first shootingediting recommender]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources

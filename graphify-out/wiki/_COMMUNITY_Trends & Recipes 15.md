@@ -1,74 +1,63 @@
 ---
 type: community
 cohesion: 0.04
-members: 59
+members: 48
 ---
 
 # Trends & Recipes 15
 
 **Cohesion:** 0.04 - loosely connected
-**Members:** 59 nodes
+**Members:** 48 nodes
 
 ## Members
-- [[2026 cinematic neon night street]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[EditStylecontrolled neon cinematic]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Graphify 추출 힌트 464c86]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[ImageIssuemotion blur from slow shutter]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[ImageIssueneon color bleed]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[ImageIssueshadow luminance noise]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Parameterexposure time auto or manual night mode]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Parametervibrance plus 5 to 18]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Preferenceclean low noise]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Preferencemoody cinematic SELECTS EditStylecontrolled neon cinematic]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[RecommendationVariantgeneral clean night city]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[RecommendationVariantpersonalized moody or natural neon]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[RecommendationVarianttrend neon reflection]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Scenarionight city neon street]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[StyleRecipehighlight protected neon noise control]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Techniqueai denoise before detail boost]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Techniquenight mode stability]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[Techniqueselective hsl neon control]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[TrendSignal2026 cinematic neon night street]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[adobe.comneon-light-photography.html 43008f]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[ai denoise before detail boost]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[cinematic_city]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[clean low noise]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[color noise reduction moderate]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[controlled neon cinematic]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[exposure time auto or manual night mode]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[helpx.adobe.comenhance-details.html]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[highlight negative 20 to 60]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[highlight protected neon noise control]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[iso moderate for phone or under 3200 camera]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[low_light]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[moody cinematic 53924a]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[motion blur from slow shutter]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[mpb.comlearn-tips-for-night-street-photography]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[neon color bleed]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[night city neon street]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[night mode stability]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[night_city]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[preserve ambient color]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[rain reflection city glow]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[raw capture for post flexibility]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[selective hsl neon control]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[shadow luminance noise]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[smartphone_raw]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[support.apple.comios dbb57e]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[vibrance plus 5 to 18]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[네온 간판이 번지고 노이즈가 많은 밤거리 사진을 살리고 싶어]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[반영한 외부 근거 6e3e3b]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[보정 레시피 405bca]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[비 오는 밤 도심 네온 사진 보정]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[시나리오 수정 포인트 2ba639]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[실패 방지  주의점 8a0be3]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[야간 도시 네온 사진 — 색 번짐과 노이즈를 줄이면서 분위기 보존 1ba52d]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[야간 도시 네온 사진 — 색 번짐과 노이즈를 줄이면서 분위기 보존 520c64]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[야경 네온 사진 색감은 살리면서 노이즈 줄이는 법]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[전문가공식SNS 근거 반영 99df8a]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[촬영 레시피 ce49dd]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[추천 시스템용 요약 f8b412]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
-- [[폰으로 찍은 야간 도시 사진이 지저분한데 분위기는 유지하고 싶어요]] - document - raw/_incoming/scenarios/night_city_neon_noise_2026.md
+- [[Mango Street]] - document - raw/youtube/mango_street_youtube.md
+- [[Mango Street — iPhone로 3분 미만 숏필름 만들기]] - document - raw/youtube/mango_street_youtube.md
+- [[SNS사진]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 1590a5]] - document - raw/sns/tyler_stalman.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 b0ce31]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 ca5967]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 b9e737]] - document - raw/sns/tyler_stalman.md
+- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 d1c13e]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 9fdc55]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 df1e42]] - document - raw/sns/tyler_stalman.md
+- [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 e3ba7e]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 e4fbaa]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 0e7374]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 3c802d]] - document - raw/sns/tyler_stalman.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 df2775]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman]] - document - raw/sns/tyler_stalman.md
+- [[Tyler Stalman YouTube]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — iPhone 영화 워크플로의 핵심 4b8308]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — iPhone 영화 워크플로의 핵심 dcb858]] - document - raw/sns/tyler_stalman.md
+- [[Tyler Stalman — 여행 슬로모 릴 빠른 제작 3a9ef2]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — 여행 슬로모 릴 빠른 제작 46428a]] - document - raw/sns/tyler_stalman.md
+- [[instagram.comstalman]] - document - raw/sns/tyler_stalman.md
+- [[mangostreetlab.comshotoniphone]] - document - raw/youtube/mango_street_youtube.md
+- [[socialblade.comsubscribers]] - document - raw/youtube/mango_street_youtube.md
+- [[stalman.comBlog%20Post%20Title%20One-w6jys-p6zsc-4bsax-kn6km-z67b5-erclk-fjace-wtbdn-nlynj]] - document - raw/sns/tyler_stalman.md
+- [[stalman.comBlog%20Post%20Title%20One-w6jys-p6zsc-4bsax-kn6km-z67b5-erclk-fztsm]] - document - raw/sns/tyler_stalman.md
+- [[stalman.comcourse]] - document - raw/manifests/source_matrix.md
+- [[x.comstalman]] - document - raw/sns/tyler_stalman.md
+- [[youtube.com@MangoStreet]] - document - raw/manifests/source_matrix.md
+- [[youtube.com@stalman]] - document - raw/manifests/source_matrix.md
+- [[youtube.comwatch 658e7a]] - document - raw/youtube/mango_street_youtube.md
+- [[youtube.comwatch 7705cc]] - document - raw/youtube/mango_street_youtube.md
+- [[모바일촬영]] - document - raw/sns/tyler_stalman.md
+- [[바로 쓰는 팁 카드 bb29e5]] - document - raw/sns/tyler_stalman.md
+- [[바로 쓰는 팁 카드 c9af62]] - document - raw/youtube/mango_street_youtube.md
+- [[바로 쓰는 팁 카드 ec72b4]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[색보정]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[아이폰워크플로우]] - document - raw/sns/tyler_stalman.md
+- [[아이폰촬영]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[유튜브]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[이 소스에서 더 캐야 할 것 efe61a]] - document - raw/youtube/mango_street_youtube.md
+- [[출처에서 확인된 구체 레시피 47d5d1]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[출처에서 확인된 구체 레시피 966cca]] - document - raw/youtube/mango_street_youtube.md
+- [[출처에서 확인된 구체 레시피 b50b80]] - document - raw/sns/tyler_stalman.md
+- [[카메라리뷰]] - document - raw/sns/austin_mann.md
+- [[카메라설정]] - document - raw/sns/tyler_stalman.md
+- [[크리에이터워크플로우]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[크리에이터촬영]] - document - raw/sns/tyler_stalman.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -78,9 +67,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 5]]
+- 16 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 9 edges to [[_COMMUNITY_Trends & Recipes]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 6]]
 
 ## Top bridge nodes
-- [[야간 도시 네온 사진 — 색 번짐과 노이즈를 줄이면서 분위기 보존 520c64]] - degree 51, connects to 1 community
-- [[야간 도시 네온 사진 — 색 번짐과 노이즈를 줄이면서 분위기 보존 1ba52d]] - degree 11, connects to 1 community
+- [[Mango Street]] - degree 24, connects to 3 communities
+- [[Tyler Stalman YouTube]] - degree 21, connects to 2 communities
+- [[Tyler Stalman]] - degree 23, connects to 1 community
+- [[색보정]] - degree 5, connects to 1 community
+- [[stalman.comcourse]] - degree 3, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/harsh_noon_beach_portrait.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Scenarios Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Scenarios_Sources
 ---
 
 # Graphify 추출 힌트 [c960af]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 e5d4ed]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources

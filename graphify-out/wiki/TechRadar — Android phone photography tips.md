@@ -12,7 +12,7 @@ tags:
 
 ## Connections
 - [[DNG]] - `MENTIONS_TAG` [EXTRACTED]
-- [[HDR 78bafe]] - `MENTIONS_TAG` [EXTRACTED]
+- [[HDR]] - `MENTIONS_TAG` [EXTRACTED]
 - [[RAW]] - `MENTIONS_TAG` [EXTRACTED]
 - [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 7a1d31]] - `HAS_SECTION` [EXTRACTED]
 - [[Tip 2. 갤럭시로 달 표면을 선명하게 찍고 싶을 때 77195c]] - `HAS_SECTION` [EXTRACTED]

@@ -1,5 +1,5 @@
 ---
-source_file: "raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md"
+source_file: "raw/scenarios/harsh_noon_beach_portrait.md"
 type: "document"
 community: "Trends & Recipes 3"
 tags:

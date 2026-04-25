@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_masking_mobile_ios.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # Adobe Help — Masking in Lightroom for mobile iOS
@@ -37,4 +37,4 @@ tags:
 - [[인물]] - `MENTIONS_TAG` [EXTRACTED]
 - [[최신 Lightroom Mobile 검증 레시피 5bd1cc]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

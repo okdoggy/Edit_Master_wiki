@@ -10,6 +10,13 @@ scenario_tags:
   - "thumbnail"
   - "commerce"
   - "clean-background"
+aliases:
+  - "중고거래 사진"
+  - "제품 판매 사진"
+  - "쇼핑몰 썸네일"
+  - "집에서 제품 찍기"
+  - "배경 지저분 제품"
+  - "상품 사진"
 query_aliases:
   - "중고거래 사진"
   - "제품 판매 사진"
@@ -65,7 +72,7 @@ urls:
 - 색을 과하게 예쁘게 만들면 실제 상품과 달라 신뢰가 떨어진다.
 - 광택 제품은 창문/손 반사가 보일 수 있다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -122,7 +129,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://help.shopify.com/en/manual/products/product-media/product-photography
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

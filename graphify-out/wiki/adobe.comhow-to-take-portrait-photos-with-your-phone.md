@@ -1,5 +1,5 @@
 ---
-source_file: "raw/_incoming/scenarios/portrait_skin_tone_2026.md"
+source_file: "raw/scenarios/autumn_maple_woman_portrait.md"
 type: "document"
 community: "Trends & Recipes 3"
 tags:

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/tyler_stalman.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_15
 ---
 
 # Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 [df1e42]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Tyler Stalman]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15

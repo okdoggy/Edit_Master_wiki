@@ -9,6 +9,13 @@ scenario_tags:
   - "fashion"
   - "indoor"
   - "body-alignment"
+aliases:
+  - "거울 셀카"
+  - "엘리베이터 셀카"
+  - "거울 OOTD"
+  - "몸 비율 이상"
+  - "거울 더러움"
+  - "전신 셀카"
 query_aliases:
   - "거울 셀카"
   - "엘리베이터 셀카"
@@ -64,7 +71,7 @@ urls:
 - 거울이 기울면 다리/상체 비율이 왜곡된다.
 - 초광각 전면 셀카는 얼굴과 손이 커질 수 있다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -118,7 +125,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://blog.google/products/pixel/take-id-photo-google-pixel-tips/
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

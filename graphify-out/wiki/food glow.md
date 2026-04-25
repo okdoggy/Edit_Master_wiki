@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/cafe_drink_dessert_closeup.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_4
 ---
 
 # food glow
@@ -14,4 +14,4 @@ tags:
 - [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - `SUPPORTS_STYLE` [EXTRACTED]
 - [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 44aad3]] - `SUPPORTS_STYLE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

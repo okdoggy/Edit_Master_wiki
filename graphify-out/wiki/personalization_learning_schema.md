@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/personalization_learning_schema.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Recommendation Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Recommendation_Sources
 ---
 
 # personalization_learning_schema
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Personalization learning schema — learnable photo-coach memory]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources

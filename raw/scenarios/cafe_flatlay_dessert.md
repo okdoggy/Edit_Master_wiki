@@ -10,6 +10,13 @@ scenario_tags:
   - "dessert"
   - "coffee"
   - "geometry"
+aliases:
+  - "카페 플랫레이"
+  - "디저트 위에서 찍기"
+  - "커피 디저트 테이블 삐뚤"
+  - "접시 왜곡"
+  - "라떼아트 탑뷰"
+  - "브런치 플랫레이"
 query_aliases:
   - "카페 플랫레이"
   - "디저트 위에서 찍기"
@@ -64,7 +71,7 @@ urls:
 - 0.5x로 가까이 찍으면 접시가 타원형으로 늘어난다.
 - 소품이 많으면 음식보다 배경이 먼저 보인다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -115,7 +122,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://helpx.adobe.com/ph_fil/lightroom-cc/how-to/mobile-food-photography.html
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

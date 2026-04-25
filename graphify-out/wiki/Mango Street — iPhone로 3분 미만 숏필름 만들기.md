@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/mango_street_youtube.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_15
 ---
 
 # Mango Street — iPhone로 3분 미만 숏필름 만들기
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Mango Street]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15

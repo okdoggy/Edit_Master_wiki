@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.02
-members: 100
+cohesion: 0.03
+members: 72
 ---
 
 # Trends & Recipes 7
 
-**Cohesion:** 0.02 - loosely connected
-**Members:** 100 nodes
+**Cohesion:** 0.03 - loosely connected
+**Members:** 72 nodes
 
 ## Members
-- [[0 5x]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[1x 2x 5bc41a]] - document - raw/scenarios/dim_restaurant_food.md
-- [[1x a34472]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[1. 트렌드 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[2. 일반 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
 - [[2012~2014 기본 Instagram 필터  고채도  비네트]] - document - raw/trends/sns_editing_trends_by_year.md
 - [[2015~2016 VSCO  Hipstamatic  앱 프리셋 시대]] - document - raw/trends/sns_editing_trends_by_year.md
 - [[2017 필름 그레인  KiraKira  연속 사진 업로드]] - document - raw/trends/sns_editing_trends_by_year.md
@@ -21,11 +20,19 @@ members: 100
 - [[2022 no-filter  photo dump  authenticity]] - document - raw/trends/sns_editing_trends_by_year.md
 - [[2023 pink  light reflection  drama  warm tones]] - document - raw/trends/sns_editing_trends_by_year.md
 - [[2024 Reelsvertical-first  text overlay  mixed media]] - document - raw/trends/sns_editing_trends_by_year.md
-- [[2x or macro]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
+- [[3. 개인화 추천]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Edge patterns]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Exif  CIPA]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Graphify node taxonomy]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[Graphify 추천 연결 스키마 — 스마트폰 촬영보정]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[IPTC Photo Metadata]] - document - raw/recommendation/metadata_standards_mapping.md
 - [[Instagram]] - document - raw/trends/portrait_travel_editing_styles.md
 - [[LightroomMobile]] - document - raw/trends/portrait_travel_editing_styles.md
+- [[Photo metadata standards mapping — Schema.orgIPTCExif to recommender graph]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[Privacy  safety rules]] - document - raw/recommendation/metadata_standards_mapping.md
 - [[SNS 인물·여행 사진 보정 트렌드 타임라인]] - document - raw/trends/sns_editing_trends_by_year.md
 - [[SNS보정]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[Schema.org ImageObject  Photograph]] - document - raw/recommendation/metadata_standards_mapping.md
 - [[Style 1. Clean influencer portrait — 밝고 깨끗한 인물]] - document - raw/trends/portrait_travel_editing_styles.md
 - [[Style 2. 2014 old Instagram selfie — 강한 필터 회고]] - document - raw/trends/portrait_travel_editing_styles.md
 - [[Style 3. VSCO matte travel — 부드러운 필름 여행]] - document - raw/trends/portrait_travel_editing_styles.md
@@ -38,77 +45,42 @@ members: 100
 - [[adobe.commobile-photography.html]] - document - raw/techniques/food_photography_recipes.md
 - [[apptuts.netinstagram-picture-editing-trends]] - document - raw/trends/sns_editing_trends_by_year.md
 - [[blog.adobe.comhalftone-nostalgia-more-2025-top-firefly-prompt-trends]] - document - raw/trends/sns_editing_trends_by_year.md
-- [[blog.googlefour-tips-taking-delectable-food-photos-pixel-2 0bb5ae]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[cafe]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[cafe drink dessert]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[cafe table]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[closeup]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[coffee]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[dessert]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[dessert coffee]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[dim restaurant]] - document - raw/scenarios/dim_restaurant_food.md
-- [[drink]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[flatlay]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[flatlay topview]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[focus miss]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[food b93761]] - document - raw/scenarios/dim_restaurant_food.md
-- [[food cafe warm]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[food glow]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[food texture]] - document - raw/scenarios/dim_restaurant_food.md
-- [[grid level]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[cipa.jpstd-sec.html]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[graphify_recommendation_schema]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[helpx.adobe.commasking-mobile-ios.html]] - document - raw/lightroom/adobe_masking_mobile_ios.md
 - [[helpx.adobe.commobile-food-photography.html]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[highlight reflection]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[large table but distorts edges]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[iptc.orgmedia-topics]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orgphoto-metadata-standard-updated-to-version-2024-1]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orgsubject-codes]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[iptc.orguserguide]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[mdpi.com1003]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[metadata_standards_mapping]] - document - raw/recommendation/metadata_standards_mapping.md
 - [[moncrome.com2025-photo-editing-trends-you-shouldnt-ignore]] - document - raw/trends/sns_editing_trends_by_year.md
 - [[newsroom.tiktok.comenhancing-photo-sharing-for-tiktok-creators-with-lemon-8]] - document - raw/trends/sns_editing_trends_by_year.md
+- [[newsroom.tiktok.comyear-on-tiktok-2024]] - document - raw/recommendation/graphify_recommendation_schema.md
 - [[newsweek.comcool-edit-instagram-pictures-2014-again-already-trend-filters-tiktok-1633878]] - document - raw/trends/sns_editing_trends_by_year.md
-- [[night or food or photo]] - document - raw/scenarios/dim_restaurant_food.md
-- [[photo or macro]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
 - [[pixofix.comthe-future-of-photo-retouching-10-must-know-trends-for-2025]] - document - raw/trends/sns_editing_trends_by_year.md
-- [[plate distortion]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[quality and detail]] - document - raw/scenarios/dim_restaurant_food.md
-- [[reddit.comfood_photography_tips_on_restaurant_menu]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[reddit.comhow_to_get_foodrestaurant_photos_like_these]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[restaurant]] - document - raw/scenarios/dim_restaurant_food.md
+- [[qingyuguo.github.iotkde2020_kgrs_survey.pdf]] - document - raw/recommendation/metadata_standards_mapping.md
 - [[revoluxdigital.comphoto-editing-trends-to-watch-in-2025]] - document - raw/trends/sns_editing_trends_by_year.md
-- [[side or back light]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[texture cf5b56]] - document - raw/_incoming/scenarios/food_window_light_texture_2026.md
-- [[tilted table 21a71b]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[tilted table a417a2]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[samsung.comhow-to-pull-off-the-perfect-fall-photoshoot]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[schema.orgImageObject]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[schema.orgPhotograph]] - document - raw/recommendation/graphify_recommendation_schema.md
 - [[time.cominstagram-filters-hipstamatic-vsco]] - document - raw/trends/sns_editing_trends_by_year.md
 - [[trends]] - document - raw/trends/portrait_travel_editing_styles.md
 - [[vanityfair.cominstagram-trends-2017]] - document - raw/trends/sns_editing_trends_by_year.md
-- [[warm mixed indoor]] - document - raw/scenarios/dim_restaurant_food.md
-- [[warm mixed light]] - document - raw/scenarios/dim_restaurant_food.md
 - [[webfuturestudio.comtop-7-photo-editing-trends-on-instagram-for-2023]] - document - raw/trends/sns_editing_trends_by_year.md
-- [[window or side light]] - document - raw/scenarios/dim_restaurant_food.md
-- [[yellow cast]] - document - raw/scenarios/dim_restaurant_food.md
-- [[노란 조명 음식 보정]] - document - raw/scenarios/dim_restaurant_food.md
-- [[디저트 위에서 찍기]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[디저트 접사]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[라떼아트 사진]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[라떼아트 탑뷰]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[레스토랑 파스타 노랗다]] - document - raw/scenarios/dim_restaurant_food.md
-- [[브런치 플랫레이]] - document - raw/scenarios/cafe_flatlay_dessert.md
+- [[단풍나무 아래 여성 예시]] - document - raw/recommendation/graphify_recommendation_schema.md
 - [[시네마틱]] - document - raw/trends/portrait_travel_editing_styles.md
-- [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - document - raw/scenarios/dim_restaurant_food.md
-- [[어두운 식당 음식]] - document - raw/scenarios/dim_restaurant_food.md
 - [[여행보정]] - document - raw/trends/portrait_travel_editing_styles.md
 - [[연도별트렌드]] - document - raw/trends/sns_editing_trends_by_year.md
-- [[음식이 흐릿해요]] - document - raw/scenarios/dim_restaurant_food.md
+- [[왜 필요한가]] - document - raw/recommendation/metadata_standards_mapping.md
 - [[인물·여행 사진 보정 스타일별 Lightroom Mobile 레시피]] - document - raw/trends/portrait_travel_editing_styles.md
 - [[인물보정]] - document - raw/trends/portrait_travel_editing_styles.md
-- [[저조도 음식사진]] - document - raw/scenarios/dim_restaurant_food.md
-- [[접시 왜곡]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[카페 디저트 플랫레이 — 수평과 왜곡 잡기 f26693]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[카페 음료 사진]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 44aad3]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[카페 플랫레이]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[커피 거품 찍기]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[커피 디저트 테이블 삐뚤]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[케이크 클로즈업]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[크림 질감]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[플래시 없이 음식]] - document - raw/scenarios/dim_restaurant_food.md
+- [[추천 그래프 필드로 매핑]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[추천 랭킹에 쓸 수 있는 점수 후보]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[추천 타입 3종]] - document - raw/recommendation/graphify_recommendation_schema.md
+- [[추천용 추론 필드]] - document - raw/recommendation/metadata_standards_mapping.md
+- [[표준 기반 필드]] - document - raw/recommendation/metadata_standards_mapping.md
 - [[필름룩]] - document - raw/trends/portrait_travel_editing_styles.md
 
 ## Live Query (requires Dataview plugin)
@@ -119,20 +91,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 14 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 11 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 7 edges to [[_COMMUNITY_Evidence Sources]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes]]
-- 3 edges to [[_COMMUNITY_Evidence Sources 2]]
-- 3 edges to [[_COMMUNITY_Scenarios Sources]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 13]]
+- 8 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 2 edges to [[_COMMUNITY_Recommendation Sources]]
+- 2 edges to [[_COMMUNITY_Evidence Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
 
 ## Top bridge nodes
-- [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 e40fbf]] - degree 38, connects to 6 communities
-- [[카페 디저트 플랫레이 — 수평과 왜곡 잡기 f26693]] - degree 36, connects to 6 communities
-- [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 44aad3]] - degree 29, connects to 5 communities
 - [[인물·여행 사진 보정 스타일별 Lightroom Mobile 레시피]] - degree 25, connects to 5 communities
+- [[helpx.adobe.commasking-mobile-ios.html]] - degree 11, connects to 4 communities
+- [[Graphify 추천 연결 스키마 — 스마트폰 촬영보정]] - degree 19, connects to 3 communities
 - [[SNS 인물·여행 사진 보정 트렌드 타임라인]] - degree 29, connects to 2 communities
+- [[helpx.adobe.commobile-food-photography.html]] - degree 5, connects to 2 communities

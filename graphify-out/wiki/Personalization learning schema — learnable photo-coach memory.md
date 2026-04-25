@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/personalization_learning_schema.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Recommendation Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Recommendation_Sources
 ---
 
 # Personalization learning schema — learnable photo-coach memory
@@ -20,4 +20,4 @@ tags:
 - [[저장 단위]] - `HAS_SECTION` [EXTRACTED]
 - [[코드 위치 beda56]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources

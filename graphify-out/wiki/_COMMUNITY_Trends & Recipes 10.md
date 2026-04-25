@@ -1,81 +1,73 @@
 ---
 type: community
-cohesion: 0.03
-members: 66
+cohesion: 0.04
+members: 58
 ---
 
 # Trends & Recipes 10
 
-**Cohesion:** 0.03 - loosely connected
-**Members:** 66 nodes
+**Cohesion:** 0.04 - loosely connected
+**Members:** 58 nodes
 
 ## Members
-- [[Graphify 추출 힌트 69a6a1]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[action]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[adobe.companning.html]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[background clarity minus 5 to 15]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[blog.googlepet-photography-tips]] - document - raw/scenarios/pets_children_action.md
-- [[blur]] - document - raw/scenarios/pets_children_action.md
-- [[bright light]] - document - raw/scenarios/pets_children_action.md
-- [[bright natural]] - document - raw/scenarios/pets_children_action.md
-- [[burst 31c301]] - document - raw/scenarios/pets_children_action.md
-- [[burst fb9ef0]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[burst frame selection 32ce59]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[burst frame selection 3a5f9f]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[burst live video]] - document - raw/scenarios/pets_children_action.md
-- [[burst or action pan]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[clear action]] - document - raw/scenarios/pets_children_action.md
-- [[cyclist]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[dynamic motion story 3a37d1]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[dynamic motion story af636b]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[energetic storytelling]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[expression]] - document - raw/scenarios/pets_children_action.md
-- [[expression and body position]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[eye focus]] - document - raw/scenarios/pets_children_action.md
-- [[fast]] - document - raw/scenarios/pets_children_action.md
-- [[fast motion]] - document - raw/scenarios/pets_children_action.md
-- [[kids]] - document - raw/scenarios/pets_children_action.md
-- [[kids or pets]] - document - raw/scenarios/pets_children_action.md
-- [[kinetic street action d5d7d3]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[kinetic street action dc3091]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[lateral subject motion 9c4539]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[lateral subject motion fda61a]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[live-photo]] - document - raw/scenarios/pets_children_action.md
-- [[match subject speed 38ec40]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[match subject speed add2df]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[motion blur e8a54e]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[motion-blur]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[no subject lock 2841bf]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[no subject lock 2b48dc]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[outdoor]] - document - raw/scenarios/pets_children_action.md
-- [[panning]] - document - raw/_incoming/scenarios/motion_burst_panning_2026.md
-- [[panning subject separation 00dbdc]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[panning subject separation 44ad64]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[pets]] - document - raw/scenarios/pets_children_action.md
-- [[runner]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[runner or cyclist 3a9a7c]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[runner or cyclist 5af060]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[samsung.comhow-to-nail-pet-photography-in-minutes]] - document - raw/scenarios/pets_children_action.md
-- [[satisfaction]] - document - raw/scenarios/pets_children_action.md
-- [[sharp subject with motion trail]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[short shutter]] - document - raw/scenarios/pets_children_action.md
-- [[shutter 1 30 to 1 80 if pro mode 17f287]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[shutter 1 30 to 1 80 if pro mode 79d4e7]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[street or track]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[support.apple.com26 3843dd]] - document - raw/scenarios/pets_children_action.md
-- [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 a30a72]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 fb4eba]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[러닝 사진 배경만 흐르게 찍고 싶어]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[반영한 외부 근거 6d8f7c]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[보정 레시피 44e883]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[시나리오 수정 포인트 01c5ff]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[실패 방지  주의점 de5bf5]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[아이·반려동물 액션 — 순간 포착연사짧은 영상 2311ac]] - document - raw/scenarios/pets_children_action.md
-- [[움직이는 피사체는 선명하고 배경은 흐리게]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[자전거 타는 사람을 역동적으로 찍고 싶어요]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[전문가공식 근거 반영 71ba3a]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[촬영 레시피 cf31d2]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[추천 시스템용 요약 b01d08]] - document - raw/scenarios/action_pan_runner_cyclist.md
+- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 b50060]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[EditStylenatural clean portrait]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[Preferencenatural skin SELECTS EditStylenatural clean portrait]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[RecommendationVariantgeneral true to life skin]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[RecommendationVariantpersonalized low retouch or glow]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[RecommendationVarianttrend bright skin]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[Scenarioportrait skin tone 2026]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[StyleRecipesoft light tele portrait skin tone]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[Techniqueface mask lightroom]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[Techniqueportrait mode depth control]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[Techniquesoft indirect light]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[TrendSignalauthentic natural skin 2026]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[adobe.comai-portrait-mask-lightroom]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[apple.comapple-unveils-iphone-17-pro-and-iphone-17-pro-max]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[authentic natural skin 2026]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[background-separation]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[bright clean portrait style]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[busy background f9b316]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[clean background]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[depth blur moderate]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[face exposure plus 0 10 to 0 35]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[face mask lightroom]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[face-exposure]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[general true to life skin]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[highlights minus 10 to 30]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[issuebusy background]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[issueorange skin cast]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[issueoverblurred hair edges]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[issueunderexposed face]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[lens 2x or 3x]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[low retouch]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[natural clean portrait]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[natural skin 5babf7]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[orange luminance plus 5 to 18]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[orange skin cast]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[overblurred hair edges]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[parameterdepth blur moderate]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[parameterface exposure plus 0 10 to 0 35]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[parameterlens 2x or 3x]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[parameterorange luminance plus 5 to 18]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[personalized low retouch or glow]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[portrait mode depth control]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[portrait skin tone 2026]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[single person portrait]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[skin-tone]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[smartphone-2026]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[soft indirect light]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[soft light tele portrait skin tone]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[subject distance 2 to 8 feet]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[support.google.com14731640]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[support.google.com9940184]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[texture minus 5 to 15]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[trend bright skin]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[underexposed face 70ca9d]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[인물 사진 얼굴만 어둡고 배경이 복잡해요]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[폰으로 얼굴색 자연스럽게 찍고 싶어]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[프로필 사진 배경 흐림과 피부톤을 같이 맞추고 싶어]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[피부가 너무 주황색으로 보여요]] - document - raw/scenarios/portrait_skin_tone_2026.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -85,18 +77,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Scenarios Sources]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 12]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 20]]
 - 2 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 1 edge to [[_COMMUNITY_Evidence Sources]]
-- 1 edge to [[_COMMUNITY_Evidence Sources 2]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
+- 1 edge to [[_COMMUNITY_Scenarios Sources]]
 
 ## Top bridge nodes
-- [[아이·반려동물 액션 — 순간 포착연사짧은 영상 2311ac]] - degree 28, connects to 4 communities
-- [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 fb4eba]] - degree 38, connects to 3 communities
-- [[burst fb9ef0]] - degree 4, connects to 3 communities
-- [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 a30a72]] - degree 11, connects to 1 community
-- [[panning]] - degree 2, connects to 1 community
+- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 b50060]] - degree 61, connects to 3 communities

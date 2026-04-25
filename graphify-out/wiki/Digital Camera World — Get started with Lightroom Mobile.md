@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # Digital Camera World — Get started with Lightroom Mobile
@@ -38,4 +38,4 @@ tags:
 - [[최신 Lightroom Mobile 검증 레시피 eabcca]] - `HAS_SECTION` [EXTRACTED]
 - [[프리셋]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

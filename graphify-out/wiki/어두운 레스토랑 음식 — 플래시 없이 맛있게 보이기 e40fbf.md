@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/dim_restaurant_food.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_4
 ---
 
 # 어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 [e40fbf]
@@ -24,7 +24,7 @@ tags:
 - [[helpx.adobe.comedit-photos-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[helpx.adobe.commobile-food-photography.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[low-light]] - `HAS_SCENE_TAG` [EXTRACTED]
-- [[mixed white balance bb0ea7]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
+- [[mixed white balance]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
 - [[motion blur cda978]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
 - [[night or food or photo]] - `USES_MODE` [EXTRACTED]
 - [[no-flash]] - `HAS_SCENE_TAG` [EXTRACTED]
@@ -50,4 +50,4 @@ tags:
 - [[저조도 음식사진]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
 - [[플래시 없이 음식]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

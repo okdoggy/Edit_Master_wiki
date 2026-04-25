@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/tyler_stalman.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_15
 ---
 
 # stalman.com/Blog%20Post%20Title%20One-w6jys-p6zsc-4bsax-kn6km-z67b5-erclk-fztsm
@@ -14,4 +14,4 @@ tags:
 - [[Tyler Stalman]] - `SUPPORTED_BY` [EXTRACTED]
 - [[Tyler Stalman YouTube]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15

@@ -1,11 +1,11 @@
 ---
-source_file: "raw/_incoming/scenarios/landscape_sky_dynamic_range_2026.md"
+source_file: "raw/scenarios/landscape_sky_dynamic_range_2026.md"
 type: "document"
-community: "Trends & Recipes 14"
+community: "Trends & Recipes 13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_14
+  - community/Trends_&_Recipes_13
 ---
 
 # Parameter:highlights -30 to -70
@@ -14,4 +14,4 @@ tags:
 - [[ImageIssueblown sky]] - `CONSTRAINS` [EXTRACTED]
 - [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 16dbb5]] - `TARGETS_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_14
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13

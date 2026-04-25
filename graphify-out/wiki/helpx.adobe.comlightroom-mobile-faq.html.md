@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_lightroom_mobile_faq.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # helpx.adobe.com/lightroom-mobile-faq.html
@@ -14,4 +14,4 @@ tags:
 - [[Adobe Lightroom for mobile FAQ]] - `SUPPORTED_BY` [EXTRACTED]
 - [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

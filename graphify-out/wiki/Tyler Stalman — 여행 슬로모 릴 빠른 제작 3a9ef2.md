@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/tyler_stalman_youtube.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_15
 ---
 
 # Tyler Stalman — 여행 슬로모 릴 빠른 제작 [3a9ef2]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Tyler Stalman YouTube]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15

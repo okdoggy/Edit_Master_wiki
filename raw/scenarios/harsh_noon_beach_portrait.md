@@ -10,6 +10,13 @@ scenario_tags:
   - "portrait"
   - "sky"
   - "shadow"
+aliases:
+  - "한낮 해변 인물"
+  - "해변 얼굴 그림자"
+  - "하늘 날아감"
+  - "정오 바닷가 사진"
+  - "햇빛 너무 셈"
+  - "해변 인물 보정"
 query_aliases:
   - "한낮 해변 인물"
   - "해변 얼굴 그림자"
@@ -65,7 +72,7 @@ urls:
 - 정면 직사광은 눈 찡그림과 코 그림자를 만든다.
 - 하늘을 살리려고 전체 노출을 낮추면 얼굴이 죽는다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -115,7 +122,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://blog.adobe.com/en/publish/2022/10/27/beach-photography-tips-techniques
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

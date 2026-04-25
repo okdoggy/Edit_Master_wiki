@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/graphify_recommendation_schema.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 9"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_9
 ---
 
 # adobe.com/smartphone-photography.html
@@ -22,4 +22,4 @@ tags:
 - [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - `SUPPORTED_BY` [EXTRACTED]
 - [[폭포·계곡 물결 — 장노출Live 효과 688234]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9

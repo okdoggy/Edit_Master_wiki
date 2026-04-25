@@ -26,12 +26,13 @@ from urllib.parse import urlparse
 
 
 REQUIRED_KEYS = ("scenario_tags", "aliases", "graph_nodes", "graph_edges", "urls")
+MIN_ALIASES = 5
 REQUIRED_BODY_MARKERS = (
-    "추천 시스템용 요약",
-    "촬영 레시피",
-    "보정 레시피",
-    "근거",
-    "Graphify 추출 힌트",
+    "## 추천 시스템용 요약",
+    "## 촬영 레시피",
+    "## 보정 레시피",
+    "## 근거",
+    "## Graphify 추출 힌트",
 )
 
 OFFICIAL_DOMAINS = {
@@ -55,6 +56,7 @@ EXPERT_DOMAINS = {
     "photographylife.com",
     "digitalcameraworld.com",
     "dpreview.com",
+    "iphonephotographyschool.com",
     "time.com",
     "wired.com",
 }
@@ -254,6 +256,9 @@ Do not edit `raw/scenarios/`, `graphify-out/`, `scripts/`, or unrelated files.
 - Prefer sources published/updated in 2025-2026, or current official documentation with a clear recency note.
 - Use at least {min_sources} external URLs in `urls:`.
 - At least one source must be official, expert/tutorial, recognized creator/SNS, or practical community consensus.
+- `aliases:` is mandatory, must be in frontmatter, and must contain at least {MIN_ALIASES} concrete user-query phrases.
+- `query_aliases:` is strongly recommended for long natural-language variants.
+- A top-level `## 근거` section is mandatory. Do not replace it with a differently named evidence heading.
 - Paraphrase. Do not copy long source passages.
 - The scenario must follow this conceptual path:
   `TrendSignal + Preference -> EditStyle / StyleRecipe -> Scenario -> RecommendationVariant -> Technique / Parameter -> Evidence`.
@@ -309,7 +314,7 @@ urls:
 
 ...
 
-## 전문가/공식/SNS 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -369,7 +374,7 @@ recommendation_modes:
 After writing the two files, run:
 
 ```powershell
-uv run edit-master raw validate --scope incoming
+uv run edit-master raw validate --scope incoming --strict-sources
 ```
 """
 
@@ -639,6 +644,9 @@ def validate_one_candidate(
     missing = [key for key in REQUIRED_KEYS if not list_value(meta, key)]
     if missing:
         errors.append(f"missing required frontmatter lists: {', '.join(missing)}")
+    alias_count = len(list_value(meta, "aliases"))
+    if 0 < alias_count < MIN_ALIASES:
+        errors.append(f"not enough frontmatter aliases: {alias_count} < {MIN_ALIASES}")
     if meta.get("category") != "scenarios":
         errors.append('category must be "scenarios"')
     if meta.get("content_type") != "graphify_ready_actionable_recipe":
@@ -773,13 +781,17 @@ def promote_candidates(
         if target.exists():
             raise SystemExit(f"Refusing to overwrite existing scenario: {target}")
         shutil.copyfile(path, target)
+        promoted_note = preserve_source_note(raw_dir, path.stem, source_notes_dir)
         if delete_incoming:
             path.unlink()
             if source_notes_dir is not None:
                 note_path = source_notes_dir / f"{path.stem}.json"
                 if note_path.exists():
                     note_path.unlink()
-        promoted.append({"source": str(path), "target": str(target)})
+        item = {"source": str(path), "target": str(target)}
+        if promoted_note:
+            item["source_note"] = promoted_note
+        promoted.append(item)
     update_scenario_manifest(raw_dir, [Path(item["target"]) for item in promoted])
     return {
         "ok": True,
@@ -788,6 +800,19 @@ def promote_candidates(
         "skipped": skipped,
         "deleted_failed": deleted_failed,
     }
+
+
+def preserve_source_note(raw_dir: Path, slug: str, source_notes_dir: Path | None) -> str | None:
+    if source_notes_dir is None:
+        return None
+    note_path = source_notes_dir / f"{slug}.json"
+    if not note_path.exists():
+        return None
+    archive_dir = raw_dir / "source_notes"
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    target = archive_dir / note_path.name
+    shutil.copyfile(note_path, target)
+    return str(target)
 
 
 def delete_candidate_files(paths: list[Path], source_notes_dir: Path | None) -> list[dict[str, str]]:
@@ -974,6 +999,7 @@ def parse_markdown(path: Path) -> tuple[dict[str, object], str]:
 
 
 def parse_frontmatter(text: str) -> tuple[dict[str, object], str]:
+    text = text.lstrip("\ufeff")
     if not text.startswith("---"):
         return {}, text
     match = re.match(r"^---\s*\n(.*?)\n---\s*\n?", text, flags=re.S)

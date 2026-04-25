@@ -1,11 +1,11 @@
 ---
-source_file: "raw/_incoming/scenarios/portrait_skin_tone_2026.md"
+source_file: "raw/scenarios/backlit_rim_light_portrait.md"
 type: "document"
-community: "Trends & Recipes 20"
+community: "Trends & Recipes 17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_20
+  - community/Trends_&_Recipes_17
 ---
 
 # support.apple.com/102398
@@ -15,4 +15,4 @@ tags:
 - [[단체 모임 그룹샷 — 눈 감음과 표정 실패를 줄이는 베스트컷 루프 24988e]] - `SUPPORTED_BY` [EXTRACTED]
 - [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 26c0ca]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_20
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_17

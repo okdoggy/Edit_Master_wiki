@@ -132,6 +132,7 @@ def clean_scalar(value: str) -> str:
 
 
 def parse_frontmatter(text: str) -> tuple[dict[str, object], str]:
+    text = text.lstrip("\ufeff")
     if not text.startswith("---"):
         return {}, text
     match = re.match(r"^---\s*\n(.*?)\n---\s*\n?", text, re.DOTALL)

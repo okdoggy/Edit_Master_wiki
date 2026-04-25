@@ -29,14 +29,14 @@
       }
     },
     {
-      "query": "tag:#community/Trends_&_Recipes_4",
+      "query": "tag:#community/Evidence_Sources",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/Evidence_Sources",
+      "query": "tag:#community/Trends_&_Recipes_4",
       "color": {
         "a": 1,
         "rgb": 15583560
@@ -57,14 +57,14 @@
       }
     },
     {
-      "query": "tag:#community/Evidence_Sources_2",
+      "query": "tag:#community/Trends_&_Recipes_7",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/Trends_&_Recipes_7",
+      "query": "tag:#community/Recommendation_Sources",
       "color": {
         "a": 1,
         "rgb": 12234924
@@ -155,24 +155,17 @@
       }
     },
     {
-      "query": "tag:#community/Trends_&_Recipes_20",
+      "query": "tag:#community/Manifests_Sources",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/Manifests_Sources",
-      "color": {
-        "a": 1,
-        "rgb": 7780274
-      }
-    },
-    {
       "query": "tag:#community/Readme.Md_Sources",
       "color": {
         "a": 1,
-        "rgb": 5873999
+        "rgb": 7780274
       }
     }
   ]

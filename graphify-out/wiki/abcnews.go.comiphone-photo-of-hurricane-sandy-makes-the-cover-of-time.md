@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/benjamin_lowy.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # abcnews.go.com/iphone-photo-of-hurricane-sandy-makes-the-cover-of-time
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Benjamin Lowy]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

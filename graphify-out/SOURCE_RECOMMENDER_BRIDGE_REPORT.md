@@ -5,9 +5,9 @@ This report checks whether the graphify source graph can support the scene-first
 ## Summary
 
 - OK: True
-- Scenario link coverage: 30 / 30
-- Recommendations: 90
-- External evidence links: 178
+- Scenario link coverage: 37 / 37
+- Recommendations: 111
+- External evidence links: 208
 
 ## Gaps
 
@@ -18,6 +18,13 @@ This report checks whether the graphify source graph can support the scene-first
 - Recommendations without source graph evidence: 0
 
 ## Scenario Samples
+
+### 러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷
+
+- Scenario: `scenario_action_pan_runner_cyclist`
+- Source file: `raw/scenarios/action_pan_runner_cyclist.md`
+- Recommendations: 3
+- External evidence: 3 (adobe.com, support.apple.com, support.google.com)
 
 ### 건축·실내 공간 — 초광각 왜곡 제어
 
@@ -32,6 +39,13 @@ This report checks whether the graphify source graph can support the scene-first
 - Source file: `raw/scenarios/autumn_maple_woman_portrait.md`
 - Recommendations: 3
 - External evidence: 8 (adobe.com, helpx.adobe.com, iphonephotographyschool.com, samsung.com, support.apple.com)
+
+### 역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형
+
+- Scenario: `scenario_backlit_rim_light_portrait`
+- Source file: `raw/scenarios/backlit_rim_light_portrait.md`
+- Recommendations: 3
+- External evidence: 4 (adobe.com, helpx.adobe.com, support.apple.com)
 
 ### 노을 실루엣 — 감성 여행/커플/인물
 
@@ -61,30 +75,16 @@ This report checks whether the graphify source graph can support the scene-first
 - Recommendations: 3
 - External evidence: 8 (adobe.com, blog.google, helpx.adobe.com, reddit.com, samsung.com)
 
+### 촛불 케이크·생일 파티 — 분위기는 살리고 불꽃 하이라이트는 지키기
+
+- Scenario: `scenario_candle_cake_low_light_party`
+- Source file: `raw/scenarios/candle_cake_low_light_party.md`
+- Recommendations: 3
+- External evidence: 4 (adobe.com, helpx.adobe.com, samsung.com, support.apple.com)
+
 ### 벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일
 
 - Scenario: `scenario_cherry_blossom_flower_portrait`
 - Source file: `raw/scenarios/cherry_blossom_flower_portrait.md`
 - Recommendations: 3
 - External evidence: 5 (adobe.com, helpx.adobe.com, nationalgeographic.com, support.apple.com)
-
-### 도시 야경 장노출 — 빛줄기/스카이라인
-
-- Scenario: `scenario_city_night_long_exposure`
-- Source file: `raw/scenarios/city_night_long_exposure.md`
-- Recommendations: 3
-- External evidence: 4 (helpx.adobe.com, samsung.com, support.apple.com, support.google.com)
-
-### 도시 야경 유리창 반사 — 산만한 반사 정리
-
-- Scenario: `scenario_city_window_reflection`
-- Source file: `raw/scenarios/city_window_reflection.md`
-- Recommendations: 3
-- External evidence: 8 (adobe.com, bhphotovideo.com, helpx.adobe.com, reddit.com, support.apple.com)
-
-### 공연·무대 저조도 — 망원/하이라이트 보호
-
-- Scenario: `scenario_concert_stage_low_light`
-- Source file: `raw/scenarios/concert_stage_low_light.md`
-- Recommendations: 3
-- External evidence: 4 (helpx.adobe.com, samsung.com, support.apple.com, support.google.com)

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_ai_assisted_masking_mobile.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # helpx.adobe.com/hdr-ios.html
@@ -27,4 +27,4 @@ tags:
 - [[PHLEARN — Lightroom Mobile beginner guide]] - `SUPPORTED_BY` [EXTRACTED]
 - [[PetaPixel — Editing with masks in Lightroom Mobile]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

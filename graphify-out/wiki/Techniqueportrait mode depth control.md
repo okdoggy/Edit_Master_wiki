@@ -1,11 +1,11 @@
 ---
-source_file: "raw/_incoming/scenarios/portrait_skin_tone_2026.md"
+source_file: "raw/scenarios/portrait_skin_tone_2026.md"
 type: "document"
-community: "Trends & Recipes 9"
+community: "Trends & Recipes 10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_9
+  - community/Trends_&_Recipes_10
 ---
 
 # Technique:portrait mode depth control
@@ -16,4 +16,4 @@ tags:
 - [[issuebusy background]] - `CONSTRAINS` [EXTRACTED]
 - [[parameterlens 2x or 3x]] - `SETS` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10

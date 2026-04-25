@@ -1,11 +1,11 @@
 ---
 source_file: "raw/lightroom/adobe_ai_assisted_masking_mobile.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Trends & Recipes 2"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Trends_&_Recipes_2
 ---
 
 # actionable_tip_cards
@@ -68,4 +68,4 @@ tags:
 - [[전문가인기 스타일 보정 레시피 — Lightroom Mobile 중심]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 - [[카메라 줌렌즈별 상황 가이드]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

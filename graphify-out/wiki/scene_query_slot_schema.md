@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/query_slot_schema_5w1h.md"
 type: "document"
-community: "Evidence Sources 2"
+community: "Recommendation Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Evidence_Sources_2
+  - community/Recommendation_Sources
 ---
 
 # scene_query_slot_schema
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Scene query slot schema — whenwhowherewhathow]] - `HAS_CONTENT_TYPE` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Evidence_Sources_2
+#graphify/document #graphify/EXTRACTED #community/Recommendation_Sources

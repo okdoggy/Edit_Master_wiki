@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/apple_support_photos_ai.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # Apple Support — Apple Intelligence in Photos
@@ -28,4 +28,4 @@ tags:
 - [[인물]] - `MENTIONS_TAG` [EXTRACTED]
 - [[출처 f55508]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/crowded_landmark_portrait.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_14
 ---
 
 # 시나리오 수정 포인트 [f5edd8]
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[관광지 랜드마크 인물 — 사람 많은 배경 정리 252168]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_14

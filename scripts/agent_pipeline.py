@@ -22,9 +22,10 @@ from scripts.recommender.graph_loader import DEFAULT_GRAPH_PATH, SceneGraph
 from scripts.recommender.learning_loop import PersonalizationMemory, build_feedback_event
 from scripts.recommender.personalization import FeedbackEvent
 from scripts.recommender.source_bridge import DEFAULT_SOURCE_GRAPH_PATH, SourceRecommenderBridge
+from edit_master.raw_harness import MIN_ALIASES, REQUIRED_BODY_MARKERS, list_value, parse_frontmatter
 
 
-REQUIRED_SCENARIO_KEYS = ("scenario_tags:", "graph_nodes:", "graph_edges:", "urls:")
+REQUIRED_SCENARIO_KEYS = ("scenario_tags", "aliases", "graph_nodes", "graph_edges", "urls")
 
 
 def validate_raw() -> dict:
@@ -33,10 +34,12 @@ def validate_raw() -> dict:
     missing_aliases: list[str] = []
     for path in scenario_files:
         text = path.read_text(encoding="utf-8")
-        missing = [key.rstrip(":") for key in REQUIRED_SCENARIO_KEYS if key not in text]
+        meta, body = parse_frontmatter(text)
+        missing = [key for key in REQUIRED_SCENARIO_KEYS if not list_value(meta, key)]
+        missing.extend(marker for marker in REQUIRED_BODY_MARKERS if marker not in body)
         if missing:
             missing_required[str(path.relative_to(REPO_ROOT))] = missing
-        if "aliases:" not in text:
+        if len(list_value(meta, "aliases")) < MIN_ALIASES:
             missing_aliases.append(str(path.relative_to(REPO_ROOT)))
 
     raw_files = sorted((REPO_ROOT / "raw").rglob("*.md"))
@@ -59,7 +62,7 @@ def validate_raw() -> dict:
     }
 
 
-def validate_graph(graph_path: Path = DEFAULT_GRAPH_PATH) -> dict:
+def validate_graph(graph_path: Path = DEFAULT_GRAPH_PATH, expected_scenario_count: int | None = None) -> dict:
     graph = SceneGraph.load(graph_path)
     degree: dict[str, int] = {node_id: 0 for node_id in graph.nodes}
     for edge in graph.edges:
@@ -78,15 +81,28 @@ def validate_graph(graph_path: Path = DEFAULT_GRAPH_PATH) -> dict:
         if not any(edge.type == "SUPPORTED_BY" for edge in graph.outgoing.get(rec.id, [])):
             recs_missing_evidence.append(rec.id)
 
+    scenario_count = len(scenarios)
+    scenario_count_matches_raw = expected_scenario_count is None or scenario_count == expected_scenario_count
+    channels_complete = all(rec_channels.get(channel, 0) == scenario_count for channel in ("trend", "general", "personalized"))
+
     return {
         "node_count": len(graph.nodes),
         "edge_count": len(graph.edges),
-        "scenario_count": len(scenarios),
+        "scenario_count": scenario_count,
+        "expected_scenario_count": expected_scenario_count,
+        "scenario_count_matches_raw": scenario_count_matches_raw,
         "recommendation_count": len(recommendations),
         "recommendation_channels": rec_channels,
+        "recommendation_channels_complete": channels_complete,
         "isolates": isolates,
         "recommendations_missing_evidence": recs_missing_evidence,
-        "ok": len(scenarios) > 0 and len(recommendations) > 0 and not recs_missing_evidence,
+        "ok": (
+            scenario_count > 0
+            and len(recommendations) > 0
+            and not recs_missing_evidence
+            and scenario_count_matches_raw
+            and channels_complete
+        ),
     }
 
 
@@ -133,7 +149,7 @@ def validate_learning_loop() -> dict:
 
 def run_pipeline(graph_path: Path, eval_path: Path, min_top1: float, source_graph_path: Path = DEFAULT_SOURCE_GRAPH_PATH) -> dict:
     raw = validate_raw()
-    graph = validate_graph(graph_path)
+    graph = validate_graph(graph_path, expected_scenario_count=raw["scenario_count"])
     bridge = validate_bridge(graph_path, source_graph_path)
     learning = validate_learning_loop()
     matcher_eval = evaluate(eval_path, graph_path, top_k=5)
@@ -181,7 +197,14 @@ def main(argv: list[str] | None = None) -> int:
         print(f"raw missing required: {len(report['raw']['missing_required'])}")
         print(f"raw missing aliases: {len(report['raw']['missing_aliases'])}")
         print(f"graph nodes/edges: {report['graph']['node_count']} / {report['graph']['edge_count']}")
+        if not report["graph"].get("scenario_count_matches_raw", True):
+            print(
+                "graph/raw scenario mismatch: "
+                f"{report['graph']['scenario_count']} / {report['graph'].get('expected_scenario_count')}"
+            )
         print(f"graph recommendations: {report['graph']['recommendation_count']} {report['graph']['recommendation_channels']}")
+        if not report["graph"].get("recommendation_channels_complete", True):
+            print("graph recommendation channels incomplete")
         print(f"graph isolates: {len(report['graph']['isolates'])}")
         print(
             "bridge coverage: "

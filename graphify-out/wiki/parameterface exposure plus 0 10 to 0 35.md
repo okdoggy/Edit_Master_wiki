@@ -1,11 +1,11 @@
 ---
-source_file: "raw/_incoming/scenarios/portrait_skin_tone_2026.md"
+source_file: "raw/scenarios/portrait_skin_tone_2026.md"
 type: "document"
-community: "Trends & Recipes 9"
+community: "Trends & Recipes 10"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_9
+  - community/Trends_&_Recipes_10
 ---
 
 # parameter:face exposure plus 0 10 to 0 35
@@ -15,4 +15,4 @@ tags:
 - [[Techniquesoft indirect light]] - `SETS` [EXTRACTED]
 - [[issueunderexposed face]] - `CONSTRAINS` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_9
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_10
