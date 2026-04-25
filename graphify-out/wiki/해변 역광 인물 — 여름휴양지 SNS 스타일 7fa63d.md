@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/beach_backlit_portrait.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_4
 ---
 
 # 해변 역광 인물 — 여름/휴양지 SNS 스타일 [7fa63d]
@@ -25,7 +25,7 @@ tags:
 - [[cloud detail]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[face]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[hair glow]] - `TARGETS_CONCEPT` [EXTRACTED]
-- [[helpx.adobe.commasking-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[helpx.adobe.commasking-mobile-ios.html a3c527]] - `SUPPORTED_BY` [EXTRACTED]
 - [[nationalgeographic.comcamera-phone-photos]] - `SUPPORTED_BY` [EXTRACTED]
 - [[person]] - `HAS_SUBJECT` [EXTRACTED]
 - [[portrait]] - `HAS_SCENE_TAG` [EXTRACTED]
@@ -36,4 +36,4 @@ tags:
 - [[warm blue travel]] - `SUPPORTS_STYLE` [EXTRACTED]
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 919d2f]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

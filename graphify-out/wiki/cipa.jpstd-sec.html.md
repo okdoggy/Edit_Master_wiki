@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/graphify_recommendation_schema.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes 12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes_12
 ---
 
 # cipa.jp/std-sec.html
@@ -14,4 +14,4 @@ tags:
 - [[Graphify 추천 연결 스키마 — 스마트폰 촬영보정]] - `SUPPORTED_BY` [EXTRACTED]
 - [[Photo metadata standards mapping — Schema.orgIPTCExif to recommender graph]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_12

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/receipt_memory_flatlay.md"
 type: "document"
-community: "Trends & Recipes 19"
+community: "Trends & Recipes 28"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_19
+  - community/Trends_&_Recipes_28
 ---
 
 # 영수증샷/receipt memory flatlay - 여행과 카페 기억을 남기는 추천 seed [fc6d2f]
@@ -23,4 +23,4 @@ tags:
 - [[촬영 레시피 6798e3]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 시스템용 요약 e49155]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_19
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_28

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/trends/professional_popular_editing_recipes.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes 26"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes_26
 ---
 
 # 전문가/인기 스타일 보정 레시피 — Lightroom Mobile 중심
@@ -28,7 +28,7 @@ tags:
 - [[food-glow]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[helpx.adobe.comedit-photos-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[helpx.adobe.commasking-mobile-android.html]] - `SUPPORTED_BY` [EXTRACTED]
-- [[helpx.adobe.commasking-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[helpx.adobe.commasking-mobile-ios.html a3c527]] - `SUPPORTED_BY` [EXTRACTED]
 - [[lightroom-mobile]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[lightroomtutorials.combright-pastel]] - `SUPPORTED_BY` [EXTRACTED]
 - [[lightroomtutorials.comhow-to-create-a-film-look-in-lightroom]] - `SUPPORTED_BY` [EXTRACTED]
@@ -40,4 +40,4 @@ tags:
 - [[trends]] - `IN_CATEGORY` [EXTRACTED]
 - [[출처 52e88e]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_26

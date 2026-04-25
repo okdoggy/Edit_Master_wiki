@@ -26,7 +26,6 @@ tags:
 - [[Fstoppers — Powerful edits anywhere with Lightroom Mobile]] - `SUPPORTED_BY` [EXTRACTED]
 - [[PHLEARN — Lightroom Mobile beginner guide]] - `SUPPORTED_BY` [EXTRACTED]
 - [[PetaPixel — Editing with masks in Lightroom Mobile]] - `SUPPORTED_BY` [EXTRACTED]
-- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 - [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 21b94e]] - `SUPPORTED_BY` [EXTRACTED]
 - [[건축·실내 공간 — 초광각 왜곡 제어 691397]] - `SUPPORTED_BY` [EXTRACTED]
 - [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - `SUPPORTED_BY` [EXTRACTED]

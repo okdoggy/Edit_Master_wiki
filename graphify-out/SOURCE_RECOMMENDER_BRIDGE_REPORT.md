@@ -5,9 +5,9 @@ This report checks whether the graphify source graph can support the scene-first
 ## Summary
 
 - OK: True
-- Scenario link coverage: 43 / 43
-- Recommendations: 129
-- External evidence links: 227
+- Scenario link coverage: 55 / 55
+- Recommendations: 165
+- External evidence links: 309
 
 ## Gaps
 
@@ -25,6 +25,27 @@ This report checks whether the graphify source graph can support the scene-first
 - Source file: `raw/scenarios/action_pan_runner_cyclist.md`
 - Recommendations: 3
 - External evidence: 3 (adobe.com, support.apple.com, support.google.com)
+
+### 비행기 창밖 여행 뷰 - 구름/도시/날개를 살리는 항공 창문샷
+
+- Scenario: `scenario_airplane_window_travel_view`
+- Source file: `raw/scenarios/airplane_window_travel_view.md`
+- Recommendations: 3
+- External evidence: 6 (adobe.com, blog.google, nationalgeographic.com, support.apple.com, travelphotographymagazine.com)
+
+### 공항 출국 시네마틱 - 게이트/무빙워크/수하물로 만드는 여행 출발컷
+
+- Scenario: `scenario_airport_departure_cinematic`
+- Source file: `raw/scenarios/airport_departure_cinematic.md`
+- Recommendations: 3
+- External evidence: 8 (adobe.com, digital-photography-school.com, later.com, samsung.com, support.apple.com)
+
+### 수족관 저조도 무플래시 - 유리 반사와 생물 안전을 지키는 촬영/보정 seed
+
+- Scenario: `scenario_aquarium_no_flash_low_light`
+- Source file: `raw/scenarios/aquarium_no_flash_low_light.md`
+- Recommendations: 3
+- External evidence: 6 (georgiaaquarium.org, lifepixel.com, montereybayaquarium.org, support.apple.com, support.google.com)
 
 ### 건축·실내 공간 — 초광각 왜곡 제어
 
@@ -61,30 +82,9 @@ This report checks whether the graphify source graph can support the scene-first
 - Recommendations: 3
 - External evidence: 5 (adobe.com, blog.google, helpx.adobe.com, nationalgeographic.com, support.apple.com)
 
-### 카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기
+### 뷰티 메이크업/네일 클로즈업: 색 정확도와 질감 보존
 
-- Scenario: `scenario_cafe_drink_dessert_closeup`
-- Source file: `raw/scenarios/cafe_drink_dessert_closeup.md`
+- Scenario: `scenario_beauty_makeup_nail_closeup`
+- Source file: `raw/scenarios/beauty_makeup_nail_closeup.md`
 - Recommendations: 3
-- External evidence: 8 (adobe.com, blog.google, helpx.adobe.com, reddit.com, samsung.com)
-
-### 카페 디저트 플랫레이 — 수평과 왜곡 잡기
-
-- Scenario: `scenario_cafe_flatlay_dessert`
-- Source file: `raw/scenarios/cafe_flatlay_dessert.md`
-- Recommendations: 3
-- External evidence: 8 (adobe.com, blog.google, helpx.adobe.com, reddit.com, samsung.com)
-
-### 촛불 케이크·생일 파티 — 분위기는 살리고 불꽃 하이라이트는 지키기
-
-- Scenario: `scenario_candle_cake_low_light_party`
-- Source file: `raw/scenarios/candle_cake_low_light_party.md`
-- Recommendations: 3
-- External evidence: 4 (adobe.com, helpx.adobe.com, samsung.com, support.apple.com)
-
-### 동굴 저조도 여행 인물 - 질감과 안전을 지키는 촬영/보정 seed
-
-- Scenario: `scenario_cave_low_light_travel_portrait`
-- Source file: `raw/scenarios/cave_low_light_travel_portrait.md`
-- Recommendations: 3
-- External evidence: 3 (nationalgeographic.com, nationalparkstraveler.org, nps.gov)
+- External evidence: 8 (adobe.com, byrdie.com, helpx.adobe.com, opi.com, support.apple.com)

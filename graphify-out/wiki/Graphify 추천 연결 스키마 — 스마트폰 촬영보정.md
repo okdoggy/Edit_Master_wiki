@@ -1,11 +1,11 @@
 ---
 source_file: "raw/recommendation/graphify_recommendation_schema.md"
 type: "document"
-community: "Trends & Recipes 5"
+community: "Trends & Recipes 12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_5
+  - community/Trends_&_Recipes_12
 ---
 
 # Graphify 추천 연결 스키마 — 스마트폰 촬영/보정
@@ -20,7 +20,7 @@ tags:
 - [[business.adobe.comcreative-trends-report.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[cipa.jpstd-sec.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[graphify_recommendation_schema]] - `HAS_CONTENT_TYPE` [EXTRACTED]
-- [[helpx.adobe.commasking-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[helpx.adobe.commasking-mobile-ios.html a3c527]] - `SUPPORTED_BY` [EXTRACTED]
 - [[iptc.orguserguide]] - `SUPPORTED_BY` [EXTRACTED]
 - [[newsroom.tiktok.comyear-on-tiktok-2024]] - `SUPPORTED_BY` [EXTRACTED]
 - [[recommendation]] - `IN_CATEGORY` [EXTRACTED]
@@ -31,4 +31,4 @@ tags:
 - [[추천 랭킹에 쓸 수 있는 점수 후보]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 타입 3종]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_5
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_12

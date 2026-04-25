@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/selfie_profile_portrait.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_4
 ---
 
 # 셀카/Profile — 왜곡 적고 자연스러운 얼굴 추천 seed [ff7101]
@@ -30,4 +30,4 @@ tags:
 - [[window or open shade]] - `USES_LIGHT` [EXTRACTED]
 - [[셀카Profile — 왜곡 적고 자연스러운 얼굴 추천 seed 187142]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

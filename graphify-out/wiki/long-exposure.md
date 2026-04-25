@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/city_night_long_exposure.md"
 type: "document"
-community: "Trends & Recipes 8"
+community: "Trends & Recipes 11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_8
+  - community/Trends_&_Recipes_11
 ---
 
 # long-exposure
@@ -15,4 +15,4 @@ tags:
 - [[불꽃놀이와 스카이라인 — 하이라이트 보호연속 확보 11df4b]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[폭포·계곡 물결 — 장노출Live 효과 688234]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_8
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11

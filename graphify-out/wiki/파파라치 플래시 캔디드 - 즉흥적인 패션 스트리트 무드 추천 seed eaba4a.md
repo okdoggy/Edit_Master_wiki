@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/paparazzi_flash_candid.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_3
 ---
 
 # 파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed [eaba4a]
@@ -23,7 +23,7 @@ tags:
 - [[evidencevogue fashion paparazzi]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[fashion]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[fashion outfit]] - `HAS_SUBJECT` [EXTRACTED]
-- [[flash]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[flash c9d3f0]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[flash highlight control]] - `SETS_PARAMETER` [EXTRACTED]
 - [[flashy editorial candid]] - `SUPPORTS_STYLE` [EXTRACTED]
 - [[image issuebusy background]] - `USES_CONCEPT` [EXTRACTED]
@@ -58,4 +58,4 @@ tags:
 - [[밤거리에서 플래시가 터진 것처럼 즉흥적인 파파라치 느낌의 걷는 사진을 만들고 싶다]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
 - [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed 6bdc85]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

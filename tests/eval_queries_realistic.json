@@ -82,34 +82,25 @@
   {
     "id": "r11_ko_four_cut_photo_booth",
     "language": "ko",
-    "difficulty": "heldout_gap_trend",
+    "difficulty": "realistic_new_raw_trend",
     "query": "포토부스 네컷 출력 사진을 폰으로 재촬영했는데 광택 반사가 생기고 종이가 휘어 보여. 스토리용으로 귀엽고 깔끔하게 올리고 싶어.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_four_cut_photo_booth_cleanup",
-    "max_top_score": 2.5,
+    "expected_scenario": "scenario_photo_booth_flash_portrait",
     "intent": "네컷사진/포토부스 재촬영은 아직 독립 raw가 없는 현실적 트렌드 gap."
   },
   {
     "id": "r12_en_airplane_window_sunset",
     "language": "en",
-    "difficulty": "heldout_gap_travel",
+    "difficulty": "realistic_new_raw_travel",
     "query": "I took a plane-window sunset photo where the wing and sky colors are nice, but glass glare and haze make the image look dull.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_airplane_window_sunset_travel",
-    "max_top_score": 2.5,
+    "expected_scenario": "scenario_airplane_window_travel_view",
     "intent": "비행기 창문 노을/반사/헤이즈는 아직 독립 raw가 없는 여행 gap."
   },
   {
     "id": "r13_ko_gym_mirror_progress",
     "language": "ko",
-    "difficulty": "heldout_gap_lifestyle",
+    "difficulty": "realistic_new_raw_lifestyle",
     "query": "운동 끝나고 헬스장 거울로 몸 라인 사진을 찍었는데 형광등이 거칠고 거울 자국도 보여. 보정 티 나지 않게 정돈하고 싶어.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_gym_mirror_progress_photo",
-    "max_top_score": 2.5,
+    "expected_scenario": "scenario_gym_mirror_fitness_progress",
     "intent": "헬스장 거울/피트니스 프로그레스는 OOTD/거울 셀피와 겹치지만 별도 raw가 필요."
   },
   {
@@ -137,12 +128,9 @@
   {
     "id": "r16_en_graduation_cap_gown",
     "language": "en",
-    "difficulty": "heldout_gap_event",
+    "difficulty": "realistic_new_raw_event",
     "query": "At graduation, I need a clean cap-and-gown portrait and a family group shot, but the midday sun is harsh and the background is crowded.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_graduation_ceremony_cap_gown",
-    "max_top_score": 2.5,
+    "expected_scenario": "scenario_graduation_ceremony_portrait",
     "intent": "졸업식 학사모/계례 이벤트는 아직 독립 raw가 없음."
   },
   {
@@ -159,7 +147,7 @@
   {
     "id": "r18_en_hair_salon_color_after",
     "language": "en",
-    "difficulty": "heldout_gap_beauty",
+    "difficulty": "realistic_new_raw_beauty",
     "query": "After a salon dye job, I want the indoor photo to show the new brown hair color correctly while keeping my skin from going orange.",
     "expected_behavior": "candidate_gap",
     "expected_scenario": null,
@@ -172,21 +160,15 @@
     "language": "ko",
     "difficulty": "heldout_gap_beauty",
     "query": "손톱 아트 클로즈업을 찍었는데 손 피부가 빨갛고 젤 네일 반짝임이 과해. 실제 색은 맞고 손은 자연스럽게 보였으면 해.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_nail_art_hand_closeup",
-    "max_top_score": 2.5,
+    "expected_scenario": "scenario_beauty_makeup_nail_closeup",
     "intent": "네일아트/손 클로즈업은 제품/매크로와 겹치지만 별도 raw가 없음."
   },
   {
     "id": "r20_en_bookstore_reading_portrait",
     "language": "en",
-    "difficulty": "heldout_gap_lifestyle",
+    "difficulty": "realistic_new_raw_lifestyle",
     "query": "In a book cafe, I want a quiet portrait with shelves in the background, but the warm indoor lights make everything too yellow.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_bookstore_reading_lifestyle_portrait",
-    "max_top_score": 2.5,
+    "expected_scenario": "scenario_bookstore_library_reading_portrait",
     "intent": "서점/북카페 라이프스타일 인물은 카페 창가/프로필과 겹치지만 별도 raw가 없음."
   },
   {

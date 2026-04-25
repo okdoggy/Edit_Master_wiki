@@ -88,7 +88,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 3]]
 
 ## Top bridge nodes
-- [[recommendation]] - degree 11, connects to 1 community
+- [[recommendation]] - degree 12, connects to 2 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/cave_low_light_travel_portrait.md"
 type: "document"
-community: "Scenarios Sources"
+community: "Trends & Recipes 24"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Scenarios_Sources
+  - community/Trends_&_Recipes_24
 ---
 
 # 동굴 저조도 여행 인물 - 질감과 안전을 지키는 촬영/보정 seed [bf95d6]
@@ -23,4 +23,4 @@ tags:
 - [[촬영 레시피 3e03f8]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 시스템용 요약 bc1476]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_24

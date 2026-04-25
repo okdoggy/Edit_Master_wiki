@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/document_scan_correction.md"
 type: "document"
-community: "Trends & Recipes 17"
+community: "Trends & Recipes 13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_17
+  - community/Trends_&_Recipes_13
 ---
 
 # 문서/화이트보드 스캔 보정 - 글자 가독성과 원근 교정 추천 seed [bc76a9]
@@ -49,4 +49,4 @@ tags:
 - [[문서화이트보드 스캔 보정 - 글자 가독성과 원근 교정 추천 seed e5f79d]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 - [[스마트폰으로 찍은 문서가 비뚤고 회색으로 보여서 깨끗한 스캔처럼 만들고 싶다]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_17
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13

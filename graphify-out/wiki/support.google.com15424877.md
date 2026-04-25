@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/youtube_shorts_specs.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Evidence_Sources
 ---
 
 # support.google.com/15424877
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[YouTube Help — Shorts creation and upload specs]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

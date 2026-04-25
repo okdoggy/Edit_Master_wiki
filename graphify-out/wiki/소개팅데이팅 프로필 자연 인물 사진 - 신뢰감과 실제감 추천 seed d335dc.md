@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/dating_profile_natural_portrait.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 25"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_25
 ---
 
 # 소개팅/데이팅 프로필 자연 인물 사진 - 신뢰감과 실제감 추천 seed [d335dc]
@@ -23,4 +23,4 @@ tags:
 - [[촬영 레시피 0df7af]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 시스템용 요약 3c549c]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_25

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/autumn_maple_woman_portrait.md"
 type: "document"
-community: "Trends & Recipes 23"
+community: "Trends & Recipes 26"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_23
+  - community/Trends_&_Recipes_26
 ---
 
 # autumn
@@ -14,4 +14,4 @@ tags:
 - [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 4b8f9b]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[전문가인기 스타일 보정 레시피 — Lightroom Mobile 중심]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_23
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_26

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/evan_ranft_youtube.md"
 type: "document"
-community: "Trends & Recipes 15"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_15
+  - community/Trends_&_Recipes
 ---
 
 # Evan Ranft
@@ -34,4 +34,4 @@ tags:
 - [[프로워크플로우]] - `MENTIONS_TAG` [EXTRACTED]
 - [[프리셋]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

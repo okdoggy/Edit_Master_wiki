@@ -23,7 +23,7 @@ tags:
 - [[helpx.adobe.comactions-lightroom-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[helpx.adobe.comedit-photos-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[helpx.adobe.comhdr-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
-- [[helpx.adobe.commasking-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[helpx.adobe.commasking-mobile-ios.html a3c527]] - `SUPPORTED_BY` [EXTRACTED]
 - [[helpx.adobe.comsave-and-export-photo-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[lightroom f0c473]] - `IN_CATEGORY` [EXTRACTED]
 - [[petapixel.comhow-to-leverage-lightrooms-new-masking-tools-in-your-workflow]] - `SUPPORTED_BY` [EXTRACTED]

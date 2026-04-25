@@ -17,6 +17,7 @@ tags:
 - [[Image facet extraction contract — photo observation to scene graph]] - `IN_CATEGORY` [EXTRACTED]
 - [[Natural answer renderer guidelines — graph result to user-facing photo coaching]] - `IN_CATEGORY` [EXTRACTED]
 - [[Personalization learning schema — learnable photo-coach memory]] - `IN_CATEGORY` [EXTRACTED]
+- [[Personalization preference expansion - trend-aware photo recommendation signals]] - `IN_CATEGORY` [EXTRACTED]
 - [[Photo metadata standards mapping — Schema.orgIPTCExif to recommender graph]] - `IN_CATEGORY` [EXTRACTED]
 - [[Scenario Corpus Index — graphify용 촬영보정 상황 seed]] - `IN_CATEGORY` [EXTRACTED]
 - [[Scene query slot schema — whenwhowherewhathow]] - `IN_CATEGORY` [EXTRACTED]

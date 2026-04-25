@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/reflection_mirror_puddle_prism.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_12
 ---
 
 # 거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 [a4e1cb]
@@ -23,4 +23,4 @@ tags:
 - [[촬영 레시피 933097]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 시스템용 요약 66cadb]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_12

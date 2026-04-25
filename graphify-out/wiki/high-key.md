@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/snow_portrait_clean_winter.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 26"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_26
 ---
 
 # high-key
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[눈 오는 날 인물 — 깨끗한 겨울하이키 스타일 8cdb47]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_26

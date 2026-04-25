@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/concert_stage_low_light.md"
 type: "document"
-community: "Trends & Recipes 8"
+community: "Trends & Recipes 21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_8
+  - community/Trends_&_Recipes_21
 ---
 
 # concert
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_8
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_21

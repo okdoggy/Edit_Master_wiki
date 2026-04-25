@@ -11,7 +11,6 @@ The harness intentionally separates research from promotion:
 from __future__ import annotations
 
 import asyncio
-import csv
 import hashlib
 import json
 import os
@@ -43,11 +42,24 @@ OFFICIAL_DOMAINS = {
     "support.google.com",
     "blog.google",
     "samsung.com",
+    "canon.com",
+    "ebay.com",
     "help.shopify.com",
     "shopify.com",
+    "microsoft.com",
     "bumble.com",
     "dji.com",
     "nps.gov",
+    "loc.gov",
+    "nlm.nih.gov",
+    "montereybayaquarium.org",
+    "georgiaaquarium.org",
+    "opi.com",
+    "planetfitness.com",
+    "puregym.com",
+    "thegymgroup.com",
+    "vinted.com",
+    "poshmark.com",
 }
 
 EXPERT_DOMAINS = {
@@ -63,7 +75,17 @@ EXPERT_DOMAINS = {
     "time.com",
     "wired.com",
     "vogue.com",
+    "byrdie.com",
+    "digital-photography-school.com",
+    "fitbod.me",
+    "glamour.com",
+    "later.com",
+    "lifepixel.com",
     "nationalparkstraveler.org",
+    "teenvogue.com",
+    "the-digital-picture.com",
+    "theweek.com",
+    "travelphotographymagazine.com",
 }
 
 SOCIAL_DOMAINS = {
@@ -797,7 +819,6 @@ def promote_candidates(
         if promoted_note:
             item["source_note"] = promoted_note
         promoted.append(item)
-    update_scenario_manifest(raw_dir, [Path(item["target"]) for item in promoted])
     return {
         "ok": True,
         "validation": validation,
@@ -832,35 +853,6 @@ def delete_candidate_files(paths: list[Path], source_notes_dir: Path | None) -> 
                 note_path.unlink()
                 deleted.append({"type": "source_note", "path": str(note_path)})
     return deleted
-
-
-def update_scenario_manifest(raw_dir: Path, scenario_paths: list[Path]) -> None:
-    manifest_path = raw_dir / "manifests" / "scenario_files.csv"
-    rows: list[dict[str, str]] = []
-    if manifest_path.exists():
-        with manifest_path.open("r", encoding="utf-8", newline="") as handle:
-            rows = list(csv.DictReader(handle))
-    by_file = {row["file"]: row for row in rows if row.get("file")}
-    for path in scenario_paths:
-        meta, _ = parse_markdown(path)
-        try:
-            rel = path.relative_to(raw_dir.parent).as_posix()
-        except ValueError:
-            rel = path.as_posix()
-        aliases = " | ".join(list_value(meta, "aliases"))
-        by_file[rel] = {
-            "file": rel,
-            "slug": path.stem,
-            "title": str(meta.get("title") or path.stem),
-            "aliases": aliases,
-        }
-    manifest_path.parent.mkdir(parents=True, exist_ok=True)
-    with manifest_path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["file", "slug", "title", "aliases"], lineterminator="\n")
-        writer.writeheader()
-        for row in sorted(by_file.values(), key=lambda item: item["file"]):
-            writer.writerow(row)
-
 
 def candidate_paths_for_scope(incoming_dir: Path, raw_dir: Path, scope: str, explicit_path: Path | None) -> list[Path]:
     if explicit_path:

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/action_pan_runner_cyclist.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_11
 ---
 
 # street
@@ -15,4 +15,4 @@ tags:
 - [[비 오는 밤 네온 거리 인물 — moody city look 33c92b]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed eaba4a]] - `HAS_SCENE_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11

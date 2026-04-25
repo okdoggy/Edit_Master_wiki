@@ -28,14 +28,17 @@ KNOWLEDGE_GAP_CONCEPTS: tuple[KnowledgeGapConcept, ...] = (
     KnowledgeGapConcept(
         "photo_booth_rephoto",
         ("photo booth", "photobooth", "four-cut", "four cut", "printed strip", "네컷", "인생네컷", "포토부스"),
+        frozenset({"scenario_photo_booth_flash_portrait"}),
     ),
     KnowledgeGapConcept(
         "airplane_window_travel",
         ("airplane window", "plane window", "aircraft window", "wing", "glare and haze from the glass", "비행기 창", "항공기 창", "항공기 창가", "날개"),
+        frozenset({"scenario_airplane_window_travel_view"}),
     ),
     KnowledgeGapConcept(
         "gym_progress_photo",
         ("gym mirror", "fitness mirror", "progress photo", "workout progress", "fitness progress", "body line", "fluorescent light", "헬스장", "헬스장 거울", "운동 후", "몸 라인", "바디 프로그레스"),
+        frozenset({"scenario_gym_mirror_fitness_progress"}),
     ),
     KnowledgeGapConcept(
         "car_dashboard_night",
@@ -48,6 +51,7 @@ KNOWLEDGE_GAP_CONCEPTS: tuple[KnowledgeGapConcept, ...] = (
     KnowledgeGapConcept(
         "graduation_ceremony",
         ("graduation", "cap and gown", "졸업식", "학사모", "가운", "graduation ceremony"),
+        frozenset({"scenario_graduation_ceremony_portrait"}),
     ),
     KnowledgeGapConcept(
         "hotel_morning_routine",
@@ -60,10 +64,12 @@ KNOWLEDGE_GAP_CONCEPTS: tuple[KnowledgeGapConcept, ...] = (
     KnowledgeGapConcept(
         "nail_art_closeup",
         ("nail art", "nails", "manicure", "네일아트", "네일 사진", "네일 색", "손톱"),
+        frozenset({"scenario_beauty_makeup_nail_closeup"}),
     ),
     KnowledgeGapConcept(
         "bookstore_reading_portrait",
-        ("bookstore", "bookshelves", "reading portrait", "서점", "책장", "독서 인물"),
+        ("bookstore", "book cafe", "bookshelves", "shelves", "reading portrait", "서점", "북카페", "책장", "독서 인물"),
+        frozenset({"scenario_bookstore_library_reading_portrait"}),
     ),
     KnowledgeGapConcept(
         "train_window_travel",
@@ -473,7 +479,12 @@ class ScenarioMatcher:
                 result.confidence = "high"
                 result.coverage_status = "supported"
 
-            if has_direct_alias and not result.unknown_concepts and result.score >= 5.0 and result.slot_coverage >= 0.5:
+            if (
+                has_direct_alias
+                and not result.unknown_concepts
+                and result.score >= 5.0
+                and (result.slot_coverage >= 0.5 or result.score_gap >= 1.0)
+            ):
                 result.confidence = "high"
                 result.coverage_status = "supported"
 

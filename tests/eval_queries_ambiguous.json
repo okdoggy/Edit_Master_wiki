@@ -105,29 +105,33 @@
   {
     "id": "a09_airplane_window_or_sunset_travel",
     "language": "ko",
-    "difficulty": "ambiguous_heldout_gap",
+    "difficulty": "ambiguous_new_raw_overlap",
     "query": "비행기 창문 너머 노을과 날개를 찍었는데 유리 반짝임과 뿌연 느낌이 있어. 여행 스냅 감성은 살리고 싶어.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_airplane_window_sunset_travel",
-    "max_top_score": 2.5,
+    "primary_expected_scenario": "scenario_airplane_window_travel_view",
+    "expected_scenarios": [
+      "scenario_airplane_window_travel_view",
+      "scenario_backlit_silhouette_sunset",
+      "scenario_golden_hour_travel_scale"
+    ],
     "intent": "노을/여행으로 기존 골든아워와 비슷해질 수 있는 항공 창문 gap."
   },
   {
     "id": "a10_gym_mirror_or_ootd",
     "language": "en",
-    "difficulty": "ambiguous_heldout_gap",
+    "difficulty": "ambiguous_new_raw_overlap",
     "query": "A gym progress mirror photo needs to show body shape and outfit line, but fluorescent lighting and smudges make it look harsh.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_gym_mirror_progress_photo",
-    "max_top_score": 2.5,
+    "primary_expected_scenario": "scenario_gym_mirror_fitness_progress",
+    "expected_scenarios": [
+      "scenario_gym_mirror_fitness_progress",
+      "scenario_mirror_selfie_ootd",
+      "scenario_fashion_ootd_portrait"
+    ],
     "intent": "거울/OOTD로 비슷해질 수 있는 헬스장 프로그레스 gap."
   },
   {
     "id": "a11_car_dashboard_or_neon",
     "language": "ko",
-    "difficulty": "ambiguous_heldout_gap",
+    "difficulty": "ambiguous_new_raw_overlap",
     "query": "차 안에서 대시보드 조명으로 얼굴을 담았는데 야간 무드는 괜찮지만 앞유리 반사와 얼굴 어둠이 문제야.",
     "expected_behavior": "candidate_gap",
     "expected_scenario": null,
@@ -151,16 +155,18 @@
     "language": "ko",
     "difficulty": "ambiguous_heldout_gap",
     "query": "졸업식장에서 학사모 개인 사진도 필요하고 가족 단체 사진도 찍어야 하는데 햇빛이 세고 배경 인파가 많아.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_graduation_ceremony_cap_gown",
-    "max_top_score": 2.5,
+    "primary_expected_scenario": "scenario_graduation_ceremony_portrait",
+    "expected_scenarios": [
+      "scenario_graduation_ceremony_portrait",
+      "scenario_group_best_face_gathering",
+      "scenario_crowded_landmark_portrait"
+    ],
     "intent": "그룹/랜드마크로 비슷해질 수 있는 졸업식 이벤트 gap."
   },
   {
     "id": "a14_hotel_breakfast_or_cafe_flatlay",
     "language": "en",
-    "difficulty": "ambiguous_heldout_gap",
+    "difficulty": "ambiguous_new_raw_overlap",
     "query": "A hotel-room breakfast tray with pajamas and window light should read as a morning routine, not just another food flatlay.",
     "expected_behavior": "candidate_gap",
     "expected_scenario": null,
@@ -184,10 +190,12 @@
     "language": "en",
     "difficulty": "ambiguous_heldout_gap",
     "query": "I photographed a printed photo-booth strip with my phone. I want reduced glare and straighter edges, while keeping it cute for stories.",
-    "expected_behavior": "candidate_gap",
-    "expected_scenario": null,
-    "candidate_scenario": "scenario_four_cut_photo_booth_cleanup",
-    "max_top_score": 2.5,
+    "primary_expected_scenario": "scenario_photo_booth_flash_portrait",
+    "expected_scenarios": [
+      "scenario_photo_booth_flash_portrait",
+      "scenario_document_scan_correction",
+      "scenario_receipt_memory_flatlay"
+    ],
     "intent": "문서 스캔으로 비슷해질 수 있는 포토부스 재촬영 gap."
   }
 ]

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/sns/jordi_koalitic.md"
 type: "document"
-community: "Trends & Recipes 15"
+community: "Trends & Recipes 29"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_15
+  - community/Trends_&_Recipes_29
 ---
 
 # Jordi Koalitic / Koalitic Visuals
@@ -35,4 +35,4 @@ tags:
 - [[출처에서 확인된 구체 레시피 ae5ce3]] - `HAS_SECTION` [EXTRACTED]
 - [[틱톡촬영]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_29

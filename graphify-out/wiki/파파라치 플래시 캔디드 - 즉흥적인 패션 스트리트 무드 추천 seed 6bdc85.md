@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/paparazzi_flash_candid.md"
 type: "document"
-community: "Trends & Recipes 4"
+community: "Trends & Recipes 3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_4
+  - community/Trends_&_Recipes_3
 ---
 
 # 파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed [6bdc85]
@@ -23,4 +23,4 @@ tags:
 - [[추천 시스템용 요약 9148cf]] - `HAS_SECTION` [EXTRACTED]
 - [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed eaba4a]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3

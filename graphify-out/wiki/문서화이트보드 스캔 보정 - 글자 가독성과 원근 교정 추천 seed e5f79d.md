@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/document_scan_correction.md"
 type: "document"
-community: "Trends & Recipes 17"
+community: "Scenarios Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_17
+  - community/Scenarios_Sources
 ---
 
 # 문서/화이트보드 스캔 보정 - 글자 가독성과 원근 교정 추천 seed [e5f79d]
@@ -23,4 +23,4 @@ tags:
 - [[촬영 레시피 dd3522]] - `HAS_SECTION` [EXTRACTED]
 - [[추천 시스템용 요약 794ee5]] - `HAS_SECTION` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_17
+#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources

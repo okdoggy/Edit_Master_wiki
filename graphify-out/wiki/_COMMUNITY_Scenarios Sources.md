@@ -1,215 +1,278 @@
 ---
 type: community
 cohesion: 0.01
-members: 200
+members: 263
 ---
 
 # Scenarios Sources
 
 **Cohesion:** 0.01 - loosely connected
-**Members:** 200 nodes
+**Members:** 263 nodes
 
 ## Members
 - [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 094789]] - document - raw/scenarios/portrait_skin_tone_2026.md
 - [[Graphify 추출 힌트 0002f1]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[Graphify 추출 힌트 16ad90]] - document - raw/scenarios/bookstore_library_reading_portrait.md
 - [[Graphify 추출 힌트 2c31e3]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[Graphify 추출 힌트 48276c]] - document - raw/scenarios/city_night_long_exposure.md
-- [[Graphify 추출 힌트 48e9a7]] - document - raw/scenarios/small_product_listing_photo.md
-- [[Graphify 추출 힌트 5f99ac]] - document - raw/scenarios/concert_stage_low_light.md
-- [[Graphify 추출 힌트 62e746]] - document - raw/scenarios/architecture_interior_wide.md
+- [[Graphify 추출 힌트 675a88]] - document - raw/scenarios/candle_cake_low_light_party.md
+- [[Graphify 추출 힌트 681f5b]] - document - raw/scenarios/photo_booth_flash_portrait.md
 - [[Graphify 추출 힌트 69a6a1]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[Graphify 추출 힌트 79921a]] - document - raw/scenarios/city_window_reflection.md
-- [[Graphify 추출 힌트 8d4b20]] - document - raw/scenarios/snow_portrait_clean_winter.md
 - [[Graphify 추출 힌트 91a444]] - document - raw/scenarios/fireworks_skyline.md
 - [[Graphify 추출 힌트 958fa3]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[Graphify 추출 힌트 96d31b]] - document - raw/scenarios/indoor_party_group.md
 - [[Graphify 추출 힌트 9754de]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[Graphify 추출 힌트 a341e1]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
 - [[Graphify 추출 힌트 afcbea]] - document - raw/scenarios/glossy_product_reflection_control.md
-- [[Graphify 추출 힌트 b2a526]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[Graphify 추출 힌트 b2ad3e]] - document - raw/scenarios/graduation_ceremony_portrait.md
+- [[Graphify 추출 힌트 b39f4f]] - document - raw/scenarios/clothing_resale_detail_photo.md
 - [[Graphify 추출 힌트 b62306]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[Graphify 추출 힌트 c960af]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[Graphify 추출 힌트 c9aa99]] - document - raw/scenarios/waterfall_silky_water.md
 - [[Graphify 추출 힌트 d5f1e8]] - document - raw/scenarios/group_travel_selfie.md
-- [[Graphify 추출 힌트 df75a3]] - document - raw/scenarios/cave_low_light_travel_portrait.md
+- [[Graphify 추출 힌트 e003a1]] - document - raw/scenarios/rain_neon_street_portrait.md
 - [[Graphify 추출 힌트 e1dd42]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[Graphify 추출 힌트 e2c75e]] - document - raw/scenarios/gym_mirror_fitness_progress.md
+- [[Graphify 추출 힌트 e84db0]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Graphify 추출 힌트 f5820b]] - document - raw/scenarios/document_scan_correction.md
 - [[graphify_ready_actionable_recipe]] - document - raw/scenarios/action_pan_runner_cyclist.md
 - [[scenarios]] - document - raw/scenarios/action_pan_runner_cyclist.md
+- [[개인화 변형 34643e]] - document - raw/scenarios/airplane_window_travel_view.md
+- [[개인화 변형 ae5823]] - document - raw/scenarios/airport_departure_cinematic.md
+- [[개인화 변형 f09622]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
 - [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 8ee848]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[건축·실내 공간 — 초광각 왜곡 제어 71a4be]] - document - raw/scenarios/architecture_interior_wide.md
-- [[공연·무대 저조도 — 망원하이라이트 보호 b31662]] - document - raw/scenarios/concert_stage_low_light.md
-- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 252168]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[공항 출국 시네마틱 - 게이트무빙워크수하물로 만드는 여행 출발컷 9a7f4f]] - document - raw/scenarios/airport_departure_cinematic.md
 - [[광택 제품·유리 소품 — 반사와 하이라이트를 통제하는 판매브랜드컷 2c337f]] - document - raw/scenarios/glossy_product_reflection_control.md
+- [[근거 001bbc]] - document - raw/scenarios/gym_mirror_fitness_progress.md
+- [[근거 043ea4]] - document - raw/scenarios/aquarium_no_flash_low_light.md
+- [[근거 0834cc]] - document - raw/scenarios/airplane_window_travel_view.md
 - [[근거 09f8d5]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[근거 33eb63]] - document - raw/scenarios/architecture_interior_wide.md
+- [[근거 110266]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
+- [[근거 2ffaf1]] - document - raw/scenarios/document_scan_correction.md
 - [[근거 3909f4]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[근거 39e7cf]] - document - raw/scenarios/city_window_reflection.md
 - [[근거 40f4f7]] - document - raw/scenarios/group_travel_selfie.md
+- [[근거 424ea8]] - document - raw/scenarios/airport_departure_cinematic.md
+- [[근거 42b9dd]] - document - raw/scenarios/bookstore_library_reading_portrait.md
 - [[근거 4700c0]] - document - raw/scenarios/waterfall_silky_water.md
 - [[근거 47802a]] - document - raw/scenarios/glossy_product_reflection_control.md
-- [[근거 54ea59]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[근거 60a490]] - document - raw/scenarios/concert_stage_low_light.md
+- [[근거 48ca97]] - document - raw/scenarios/graduation_ceremony_portrait.md
 - [[근거 62ce90]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[근거 68e9b9]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[근거 71a6c8]] - document - raw/scenarios/photo_booth_flash_portrait.md
 - [[근거 752fd5]] - document - raw/scenarios/fireworks_skyline.md
+- [[근거 7fa571]] - document - raw/scenarios/candle_cake_low_light_party.md
 - [[근거 84ba2f]] - document - raw/scenarios/indoor_party_group.md
 - [[근거 9094f3]] - document - raw/scenarios/action_pan_runner_cyclist.md
 - [[근거 98b88c]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[근거 98f893]] - document - raw/scenarios/city_night_long_exposure.md
-- [[근거 9d6759]] - document - raw/scenarios/small_product_listing_photo.md
-- [[근거 c198cf]] - document - raw/scenarios/cave_low_light_travel_portrait.md
+- [[근거 9a8594]] - document - raw/scenarios/clothing_resale_detail_photo.md
+- [[근거 a4d2ba]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
+- [[근거 b29eaf]] - document - raw/scenarios/rain_neon_street_portrait.md
 - [[근거 c9a5b7]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[근거 d075cb]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
 - [[근거 e277f9]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[근거 f55c1e]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[근거 f9e45f]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[눈 오는 날 인물 — 깨끗한 겨울하이키 스타일 33a331]] - document - raw/scenarios/snow_portrait_clean_winter.md
+- [[근거 e706be]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
 - [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 0456d1]] - document - raw/scenarios/group_travel_selfie.md
-- [[도시 야경 유리창 반사 — 산만한 반사 정리 7546cf]] - document - raw/scenarios/city_window_reflection.md
 - [[도시 야경 장노출 — 빛줄기스카이라인 c4184c]] - document - raw/scenarios/city_night_long_exposure.md
-- [[동굴 저조도 여행 인물 - 질감과 안전을 지키는 촬영보정 seed bf95d6]] - document - raw/scenarios/cave_low_light_travel_portrait.md
 - [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 a30a72]] - document - raw/scenarios/action_pan_runner_cyclist.md
+- [[문서화이트보드 스캔 보정 - 글자 가독성과 원근 교정 추천 seed e5f79d]] - document - raw/scenarios/document_scan_correction.md
 - [[미술관·전시회 인물 — 플래시 없이 차분하게 19a2b9]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[반영한 근거 0e78aa]] - document - raw/scenarios/airplane_window_travel_view.md
+- [[반영한 근거 3aa036]] - document - raw/scenarios/airport_departure_cinematic.md
+- [[반영한 근거 3e93fc]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
+- [[반영한 외부 근거 00233a]] - document - raw/scenarios/rain_neon_street_portrait.md
 - [[반영한 외부 근거 117b51]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[반영한 외부 근거 1fc3d5]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[반영한 외부 근거 237958]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[반영한 외부 근거 2ee433]] - document - raw/scenarios/bookstore_library_reading_portrait.md
+- [[반영한 외부 근거 2fc792]] - document - raw/scenarios/graduation_ceremony_portrait.md
 - [[반영한 외부 근거 31cb6b]] - document - raw/scenarios/fireworks_skyline.md
-- [[반영한 외부 근거 399f36]] - document - raw/scenarios/architecture_interior_wide.md
 - [[반영한 외부 근거 50d123]] - document - raw/scenarios/waterfall_silky_water.md
-- [[반영한 외부 근거 512016]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[반영한 외부 근거 565f56]] - document - raw/scenarios/small_product_listing_photo.md
+- [[반영한 외부 근거 549fa0]] - document - raw/scenarios/photo_booth_flash_portrait.md
 - [[반영한 외부 근거 602cd0]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[반영한 외부 근거 6d8f7c]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[반영한 외부 근거 76bc63]] - document - raw/scenarios/concert_stage_low_light.md
-- [[반영한 외부 근거 77c58a]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
 - [[반영한 외부 근거 7e79e1]] - document - raw/scenarios/group_travel_selfie.md
 - [[반영한 외부 근거 87850a]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[반영한 외부 근거 935dd6]] - document - raw/scenarios/city_window_reflection.md
-- [[반영한 외부 근거 a5b710]] - document - raw/scenarios/crowded_landmark_portrait.md
 - [[반영한 외부 근거 ab3231]] - document - raw/scenarios/city_night_long_exposure.md
+- [[반영한 외부 근거 ad9e5a]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
 - [[반영한 외부 근거 af3838]] - document - raw/scenarios/glossy_product_reflection_control.md
 - [[반영한 외부 근거 b0de6c]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[반영한 외부 근거 d37503]] - document - raw/scenarios/document_scan_correction.md
+- [[반영한 외부 근거 d90464]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
 - [[반영한 외부 근거 e7a929]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[반영한 외부 근거 e7c674]] - document - raw/scenarios/indoor_party_group.md
-- [[반영한 외부 근거 fab774]] - document - raw/scenarios/cave_low_light_travel_portrait.md
-- [[보정 레시피 0f4b7e]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[보정 레시피 126bda]] - document - raw/scenarios/architecture_interior_wide.md
-- [[보정 레시피 1e80d3]] - document - raw/scenarios/cave_low_light_travel_portrait.md
+- [[반영한 외부 근거 f7b492]] - document - raw/scenarios/aquarium_no_flash_low_light.md
+- [[반영한 외부 근거 fe97be]] - document - raw/scenarios/candle_cake_low_light_party.md
+- [[반영한 주요 근거 52817a]] - document - raw/scenarios/gym_mirror_fitness_progress.md
+- [[반영한 주요 근거 a62b34]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[반영한 주요 근거 d324bf]] - document - raw/scenarios/clothing_resale_detail_photo.md
+- [[보정 레시피 0e172b]] - document - raw/scenarios/candle_cake_low_light_party.md
 - [[보정 레시피 2852ad]] - document - raw/scenarios/group_travel_selfie.md
+- [[보정 레시피 2902e9]] - document - raw/scenarios/clothing_resale_detail_photo.md
 - [[보정 레시피 2da748]] - document - raw/scenarios/waterfall_silky_water.md
+- [[보정 레시피 30b3a6]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[보정 레시피 312337]] - document - raw/scenarios/bookstore_library_reading_portrait.md
 - [[보정 레시피 31c9c2]] - document - raw/scenarios/fireworks_skyline.md
-- [[보정 레시피 343377]] - document - raw/scenarios/concert_stage_low_light.md
+- [[보정 레시피 3917b9]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
+- [[보정 레시피 3a06ae]] - document - raw/scenarios/gym_mirror_fitness_progress.md
 - [[보정 레시피 3f2ece]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[보정 레시피 44e883]] - document - raw/scenarios/action_pan_runner_cyclist.md
+- [[보정 레시피 528423]] - document - raw/scenarios/graduation_ceremony_portrait.md
+- [[보정 레시피 59efd3]] - document - raw/scenarios/photo_booth_flash_portrait.md
 - [[보정 레시피 5c47c3]] - document - raw/scenarios/city_night_long_exposure.md
-- [[보정 레시피 5d3d5a]] - document - raw/scenarios/small_product_listing_photo.md
+- [[보정 레시피 5ed486]] - document - raw/scenarios/aquarium_no_flash_low_light.md
 - [[보정 레시피 69a015]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[보정 레시피 6e52d8]] - document - raw/scenarios/indoor_party_group.md
 - [[보정 레시피 7116f4]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[보정 레시피 84568e]] - document - raw/scenarios/airplane_window_travel_view.md
+- [[보정 레시피 88c43e]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
 - [[보정 레시피 93259f]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[보정 레시피 946a96]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[보정 레시피 95fecd]] - document - raw/scenarios/airport_departure_cinematic.md
 - [[보정 레시피 a3d0db]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[보정 레시피 af0409]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[보정 레시피 c12f40]] - document - raw/scenarios/city_window_reflection.md
 - [[보정 레시피 c13dba]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[보정 레시피 dbc460]] - document - raw/scenarios/document_scan_correction.md
 - [[보정 레시피 f4773d]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[보정 레시피 f7c794]] - document - raw/scenarios/snow_portrait_clean_winter.md
+- [[보정 레시피 fa0d9c]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
 - [[보정 레시피 fa5166]] - document - raw/scenarios/glossy_product_reflection_control.md
 - [[불꽃놀이와 스카이라인 — 하이라이트 보호연속 확보 6c409e]] - document - raw/scenarios/fireworks_skyline.md
+- [[뷰티 메이크업네일 클로즈업 색 정확도와 질감 보존 500f32]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[비 오는 밤 네온 거리 인물 — moody city look e7cb56]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[비행기 창밖 여행 뷰 - 구름도시날개를 살리는 항공 창문샷 e8c86c]] - document - raw/scenarios/airplane_window_travel_view.md
+- [[서점·도서관 독서 인물 - 조용한 북스타그램 무드 3db801]] - document - raw/scenarios/bookstore_library_reading_portrait.md
 - [[셀카Profile — 왜곡 적고 자연스러운 얼굴 추천 seed 187142]] - document - raw/scenarios/selfie_profile_portrait.md
+- [[수족관 저조도 무플래시 - 유리 반사와 생물 안전을 지키는 촬영보정 seed b7cd3e]] - document - raw/scenarios/aquarium_no_flash_low_light.md
+- [[스타일  개인화 변형 3fc0f4]] - document - raw/scenarios/aquarium_no_flash_low_light.md
+- [[스타일  개인화 변형 4e9995]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
+- [[스타일  개인화 변형 dbcb35]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
+- [[시나리오 선정 포인트 2c0619]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[시나리오 선정 포인트 2cc4a8]] - document - raw/scenarios/clothing_resale_detail_photo.md
+- [[시나리오 선정 포인트 32f71e]] - document - raw/scenarios/gym_mirror_fitness_progress.md
+- [[시나리오 설정 사유 768c7f]] - document - raw/scenarios/airplane_window_travel_view.md
+- [[시나리오 설정 사유 b53c3b]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
+- [[시나리오 설정 사유 e0a10b]] - document - raw/scenarios/airport_departure_cinematic.md
 - [[시나리오 수정 포인트 01c5ff]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[시나리오 수정 포인트 246484]] - document - raw/scenarios/cave_low_light_travel_portrait.md
-- [[시나리오 수정 포인트 2ffd15]] - document - raw/scenarios/architecture_interior_wide.md
-- [[시나리오 수정 포인트 306aa9]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
 - [[시나리오 수정 포인트 36b191]] - document - raw/scenarios/glossy_product_reflection_control.md
-- [[시나리오 수정 포인트 591bf9]] - document - raw/scenarios/concert_stage_low_light.md
+- [[시나리오 수정 포인트 432d7d]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
+- [[시나리오 수정 포인트 4dae09]] - document - raw/scenarios/graduation_ceremony_portrait.md
+- [[시나리오 수정 포인트 4e80e6]] - document - raw/scenarios/rain_neon_street_portrait.md
 - [[시나리오 수정 포인트 6d7c1d]] - document - raw/scenarios/fireworks_skyline.md
-- [[시나리오 수정 포인트 802581]] - document - raw/scenarios/small_product_listing_photo.md
+- [[시나리오 수정 포인트 854af0]] - document - raw/scenarios/candle_cake_low_light_party.md
 - [[시나리오 수정 포인트 86ac26]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[시나리오 수정 포인트 90badb]] - document - raw/scenarios/portrait_skin_tone_2026.md
 - [[시나리오 수정 포인트 92dc0c]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[시나리오 수정 포인트 b6df70]] - document - raw/scenarios/snow_portrait_clean_winter.md
+- [[시나리오 수정 포인트 9d2626]] - document - raw/scenarios/bookstore_library_reading_portrait.md
+- [[시나리오 수정 포인트 b4720d]] - document - raw/scenarios/document_scan_correction.md
+- [[시나리오 수정 포인트 b854d1]] - document - raw/scenarios/aquarium_no_flash_low_light.md
 - [[시나리오 수정 포인트 c1e22b]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[시나리오 수정 포인트 c3cdd9]] - document - raw/scenarios/waterfall_silky_water.md
 - [[시나리오 수정 포인트 c87e06]] - document - raw/scenarios/city_night_long_exposure.md
-- [[시나리오 수정 포인트 ca648f]] - document - raw/scenarios/city_window_reflection.md
 - [[시나리오 수정 포인트 ccd03b]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[시나리오 수정 포인트 d24c09]] - document - raw/scenarios/photo_booth_flash_portrait.md
 - [[시나리오 수정 포인트 d6c979]] - document - raw/scenarios/group_travel_selfie.md
 - [[시나리오 수정 포인트 d77285]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[시나리오 수정 포인트 da0952]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[시나리오 수정 포인트 e951f2]] - document - raw/scenarios/indoor_party_group.md
-- [[시나리오 수정 포인트 f5edd8]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[시나리오 수정 포인트 fcb506]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
+- [[실내 반려동물 저조도 눈반사 - 플래시 없이 눈빛과 털 질감 살리기 seed cba77c]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
 - [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 b22137]] - document - raw/scenarios/indoor_party_group.md
 - [[실패 방지  주의점 1239c1]] - document - raw/scenarios/city_night_long_exposure.md
 - [[실패 방지  주의점 16bb2b]] - document - raw/scenarios/indoor_party_group.md
 - [[실패 방지  주의점 174b01]] - document - raw/scenarios/glossy_product_reflection_control.md
 - [[실패 방지  주의점 1b4497]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[실패 방지  주의점 23c1a0]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[실패 방지  주의점 40f7c5]] - document - raw/scenarios/candle_cake_low_light_party.md
+- [[실패 방지  주의점 410fe2]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
+- [[실패 방지  주의점 41daf8]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
 - [[실패 방지  주의점 432c5e]] - document - raw/scenarios/waterfall_silky_water.md
-- [[실패 방지  주의점 471560]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[실패 방지  주의점 4b8b02]] - document - raw/scenarios/bookstore_library_reading_portrait.md
 - [[실패 방지  주의점 62e899]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[실패 방지  주의점 73b837]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[실패 방지  주의점 74ce70]] - document - raw/scenarios/small_product_listing_photo.md
-- [[실패 방지  주의점 93c588]] - document - raw/scenarios/concert_stage_low_light.md
-- [[실패 방지  주의점 969b45]] - document - raw/scenarios/architecture_interior_wide.md
-- [[실패 방지  주의점 a23b81]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[실패 방지  주의점 a7011e]] - document - raw/scenarios/city_window_reflection.md
+- [[실패 방지  주의점 6db190]] - document - raw/scenarios/photo_booth_flash_portrait.md
+- [[실패 방지  주의점 6f809c]] - document - raw/scenarios/gym_mirror_fitness_progress.md
+- [[실패 방지  주의점 72085b]] - document - raw/scenarios/clothing_resale_detail_photo.md
+- [[실패 방지  주의점 791f6e]] - document - raw/scenarios/graduation_ceremony_portrait.md
 - [[실패 방지  주의점 b55fce]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[실패 방지  주의점 cb2d31]] - document - raw/scenarios/cave_low_light_travel_portrait.md
 - [[실패 방지  주의점 d0ed7c]] - document - raw/scenarios/group_travel_selfie.md
 - [[실패 방지  주의점 d16cf4]] - document - raw/scenarios/mirror_selfie_ootd.md
+- [[실패 방지  주의점 d60eaa]] - document - raw/scenarios/airplane_window_travel_view.md
 - [[실패 방지  주의점 de5bf5]] - document - raw/scenarios/action_pan_runner_cyclist.md
+- [[실패 방지  주의점 e049ea]] - document - raw/scenarios/airport_departure_cinematic.md
 - [[실패 방지  주의점 e27ec7]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[실패 방지  주의점 e60b77]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
 - [[실패 방지  주의점 eaa738]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[실패 방지  주의점 eba7c0]] - document - raw/scenarios/aquarium_no_flash_low_light.md
+- [[실패 방지  주의점 f1ea5f]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[실패 방지  주의점 faeed4]] - document - raw/scenarios/document_scan_correction.md
 - [[실패 방지  주의점 fd5cd4]] - document - raw/scenarios/fireworks_skyline.md
-- [[집에서 제품 판매 사진 — 깨끗한 썸네일 만들기 b076f5]] - document - raw/scenarios/small_product_listing_photo.md
+- [[실패 방지  주의점 fee1b7]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
+- [[의류 리세일 디테일 사진 원단·택·하자 신뢰 기록 fbf065]] - document - raw/scenarios/clothing_resale_detail_photo.md
+- [[졸업식 인물 - 단상 순간과 캠퍼스 기념 portrait 736ce5]] - document - raw/scenarios/graduation_ceremony_portrait.md
+- [[촛불 케이크·생일 파티 — 분위기는 살리고 불꽃 하이라이트는 지키기 5c0824]] - document - raw/scenarios/candle_cake_low_light_party.md
+- [[촬영 레시피 1202ca]] - document - raw/scenarios/graduation_ceremony_portrait.md
 - [[촬영 레시피 1a3f7c]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[촬영 레시피 23bbd7]] - document - raw/scenarios/architecture_interior_wide.md
 - [[촬영 레시피 254dcc]] - document - raw/scenarios/fireworks_skyline.md
-- [[촬영 레시피 3e03f8]] - document - raw/scenarios/cave_low_light_travel_portrait.md
+- [[촬영 레시피 2fa061]] - document - raw/scenarios/clothing_resale_detail_photo.md
+- [[촬영 레시피 371601]] - document - raw/scenarios/rain_neon_street_portrait.md
+- [[촬영 레시피 3dabed]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
 - [[촬영 레시피 47fa24]] - document - raw/scenarios/indoor_party_group.md
 - [[촬영 레시피 4899a0]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[촬영 레시피 493129]] - document - raw/scenarios/candle_cake_low_light_party.md
 - [[촬영 레시피 4ee505]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[촬영 레시피 551c08]] - document - raw/scenarios/city_window_reflection.md
-- [[촬영 레시피 58cee1]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[촬영 레시피 639eb8]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[촬영 레시피 62a79b]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[촬영 레시피 63e980]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
 - [[촬영 레시피 6c3b86]] - document - raw/scenarios/city_night_long_exposure.md
-- [[촬영 레시피 a354e5]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[촬영 레시피 bc9c10]] - document - raw/scenarios/concert_stage_low_light.md
+- [[촬영 레시피 749c96]] - document - raw/scenarios/aquarium_no_flash_low_light.md
+- [[촬영 레시피 955db5]] - document - raw/scenarios/bookstore_library_reading_portrait.md
+- [[촬영 레시피 96f791]] - document - raw/scenarios/gym_mirror_fitness_progress.md
+- [[촬영 레시피 a9d52b]] - document - raw/scenarios/airplane_window_travel_view.md
+- [[촬영 레시피 aec86c]] - document - raw/scenarios/photo_booth_flash_portrait.md
 - [[촬영 레시피 cf31d2]] - document - raw/scenarios/action_pan_runner_cyclist.md
 - [[촬영 레시피 d0c2e0]] - document - raw/scenarios/waterfall_silky_water.md
 - [[촬영 레시피 d18f60]] - document - raw/scenarios/group_travel_selfie.md
-- [[촬영 레시피 d6fd64]] - document - raw/scenarios/small_product_listing_photo.md
+- [[촬영 레시피 dd3522]] - document - raw/scenarios/document_scan_correction.md
 - [[촬영 레시피 de17dc]] - document - raw/scenarios/portrait_skin_tone_2026.md
 - [[촬영 레시피 e3a69e]] - document - raw/scenarios/mirror_selfie_ootd.md
 - [[촬영 레시피 e3b0ae]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[촬영 레시피 e5bed7]] - document - raw/scenarios/airport_departure_cinematic.md
+- [[촬영 레시피 e7b506]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
 - [[촬영 레시피 e827eb]] - document - raw/scenarios/museum_gallery_portrait.md
 - [[촬영 레시피 eb950f]] - document - raw/scenarios/glossy_product_reflection_control.md
 - [[추천 시스템용 요약 025e6a]] - document - raw/scenarios/city_night_long_exposure.md
+- [[추천 시스템용 요약 056560]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
 - [[추천 시스템용 요약 1072db]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[추천 시스템용 요약 10e7d5]] - document - raw/scenarios/architecture_interior_wide.md
-- [[추천 시스템용 요약 33b9c2]] - document - raw/scenarios/crowded_landmark_portrait.md
+- [[추천 시스템용 요약 2f2cd2]] - document - raw/scenarios/candle_cake_low_light_party.md
 - [[추천 시스템용 요약 39f9aa]] - document - raw/scenarios/group_travel_selfie.md
+- [[추천 시스템용 요약 3d9b13]] - document - raw/scenarios/bookstore_library_reading_portrait.md
 - [[추천 시스템용 요약 3db2dc]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[추천 시스템용 요약 419922]] - document - raw/scenarios/selfie_profile_portrait.md
 - [[추천 시스템용 요약 48a0d3]] - document - raw/scenarios/fashion_ootd_portrait.md
 - [[추천 시스템용 요약 48ab52]] - document - raw/scenarios/fireworks_skyline.md
-- [[추천 시스템용 요약 58b613]] - document - raw/scenarios/concert_stage_low_light.md
+- [[추천 시스템용 요약 5d9bdd]] - document - raw/scenarios/airport_departure_cinematic.md
 - [[추천 시스템용 요약 60d2cc]] - document - raw/scenarios/museum_gallery_portrait.md
+- [[추천 시스템용 요약 709e94]] - document - raw/scenarios/clothing_resale_detail_photo.md
+- [[추천 시스템용 요약 791b79]] - document - raw/scenarios/airplane_window_travel_view.md
+- [[추천 시스템용 요약 794ee5]] - document - raw/scenarios/document_scan_correction.md
 - [[추천 시스템용 요약 7dda87]] - document - raw/scenarios/waterfall_silky_water.md
+- [[추천 시스템용 요약 803c38]] - document - raw/scenarios/aquarium_no_flash_low_light.md
 - [[추천 시스템용 요약 816c52]] - document - raw/scenarios/glossy_product_reflection_control.md
-- [[추천 시스템용 요약 837ba0]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[추천 시스템용 요약 925f31]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
-- [[추천 시스템용 요약 abd339]] - document - raw/scenarios/small_product_listing_photo.md
+- [[추천 시스템용 요약 8a0251]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
+- [[추천 시스템용 요약 8cedf8]] - document - raw/scenarios/pet_indoor_low_light_eye_reflection.md
+- [[추천 시스템용 요약 95776e]] - document - raw/scenarios/gym_mirror_fitness_progress.md
+- [[추천 시스템용 요약 aeecbc]] - document - raw/scenarios/rain_neon_street_portrait.md
 - [[추천 시스템용 요약 b01d08]] - document - raw/scenarios/action_pan_runner_cyclist.md
-- [[추천 시스템용 요약 b1e01a]] - document - raw/scenarios/city_window_reflection.md
-- [[추천 시스템용 요약 bc1476]] - document - raw/scenarios/cave_low_light_travel_portrait.md
+- [[추천 시스템용 요약 bf3436]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
+- [[추천 시스템용 요약 c9da4c]] - document - raw/scenarios/photo_booth_flash_portrait.md
 - [[추천 시스템용 요약 ce053a]] - document - raw/scenarios/indoor_party_group.md
 - [[추천 시스템용 요약 d1197e]] - document - raw/scenarios/portrait_skin_tone_2026.md
+- [[추천 시스템용 요약 dfd4b8]] - document - raw/scenarios/graduation_ceremony_portrait.md
 - [[추천 시스템용 요약 e5d874]] - document - raw/scenarios/beach_backlit_portrait.md
 - [[패션OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed f0fec6]] - document - raw/scenarios/fashion_ootd_portrait.md
+- [[포토부스 플래시 인물 - 네컷 감성의 직접광 추억 사진 07e1ce]] - document - raw/scenarios/photo_booth_flash_portrait.md
 - [[폭포·계곡 물결 — 장노출Live 효과 942387]] - document - raw/scenarios/waterfall_silky_water.md
-- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 dee1c3]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 e5d4ed]] - document - raw/scenarios/harsh_noon_beach_portrait.md
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 919d2f]] - document - raw/scenarios/beach_backlit_portrait.md
+- [[헬스장 거울 운동 경과 사진 일관된 비교와 프라이버시 보호 d362f2]] - document - raw/scenarios/gym_mirror_fitness_progress.md
+- [[호텔 룸 미러 여행 OOTD - 객실 거울짐조명까지 정리하는 전신컷 bb3b0a]] - document - raw/scenarios/hotel_room_mirror_travel_ootd.md
+- [[화이트보드·메뉴판 가독성 사진 - 원근, 눈부심, OCR 친화 보정 seed 3f380c]] - document - raw/scenarios/whiteboard_menu_readability_photo.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -219,29 +282,36 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 16 edges to [[_COMMUNITY_Trends & Recipes 3]]
-- 6 edges to [[_COMMUNITY_Trends & Recipes 6]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 15 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes 11]]
+- 6 edges to [[_COMMUNITY_Trends & Recipes 9]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 10]]
 - 4 edges to [[_COMMUNITY_Trends & Recipes 12]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 9]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 13]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 23]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 16]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 14]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 21]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 18]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 24]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 25]]
 - 2 edges to [[_COMMUNITY_Trends & Recipes 20]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 17]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 21]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 19]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 18]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 11]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 3]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 28]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 26]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 27]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 6]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 7]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 13]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 15]]
 - 1 edge to [[_COMMUNITY_Trends & Recipes 22]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 10]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 16]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 19]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 17]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 23]]
 
 ## Top bridge nodes
-- [[scenarios]] - degree 43, connects to 14 communities
-- [[graphify_ready_actionable_recipe]] - degree 43, connects to 14 communities
+- [[scenarios]] - degree 55, connects to 16 communities
+- [[graphify_ready_actionable_recipe]] - degree 55, connects to 16 communities
 - [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 a30a72]] - degree 11, connects to 1 community
-- [[건축·실내 공간 — 초광각 왜곡 제어 71a4be]] - degree 11, connects to 1 community
-- [[해변 역광 인물 — 여름휴양지 SNS 스타일 919d2f]] - degree 11, connects to 1 community
+- [[비행기 창밖 여행 뷰 - 구름도시날개를 살리는 항공 창문샷 e8c86c]] - degree 11, connects to 1 community
+- [[공항 출국 시네마틱 - 게이트무빙워크수하물로 만드는 여행 출발컷 9a7f4f]] - degree 11, connects to 1 community

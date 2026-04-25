@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/cherry_blossom_flower_portrait.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 4"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_4
 ---
 
 # skin
@@ -19,4 +19,4 @@ tags:
 - [[여행 골든아워 — widedetailscale 3컷 추천 92c4be]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[카페 창가 인물 — 자연광인플루언서 프로필 2cc46c]] - `TARGETS_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_4

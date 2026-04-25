@@ -97,6 +97,39 @@ CORE_KIND_ORDER = [
     "Evidence",
 ]
 
+EXCLUDED_GRAPH_SOURCE_DIRS = {"manifests"}
+EXCLUDED_GRAPH_SOURCE_FILES = {"README.md"}
+
+
+def should_include_graph_source(path: Path, input_root: Path) -> bool:
+    """Keep operational metadata out of the source knowledge graph."""
+    try:
+        rel_path = path.resolve().relative_to(input_root.resolve())
+    except ValueError:
+        return True
+    if rel_path.name in EXCLUDED_GRAPH_SOURCE_FILES and len(rel_path.parts) == 1:
+        return False
+    return not (rel_path.parts and rel_path.parts[0] in EXCLUDED_GRAPH_SOURCE_DIRS)
+
+
+def filter_detection_sources(detection: dict[str, object], input_root: Path) -> dict[str, object]:
+    file_groups = detection.get("files", {})
+    if not isinstance(file_groups, dict):
+        return detection
+    filtered_groups: dict[str, list[str]] = {}
+    for group, paths in file_groups.items():
+        if not isinstance(paths, list):
+            filtered_groups[str(group)] = []
+            continue
+        filtered_groups[str(group)] = [
+            str(path)
+            for path in paths
+            if should_include_graph_source(Path(str(path)), input_root)
+        ]
+    detection = dict(detection)
+    detection["files"] = filtered_groups
+    return detection
+
 
 def stable_hash(text: str, length: int = 10) -> str:
     return hashlib.sha1(text.encode("utf-8")).hexdigest()[:length]
@@ -318,7 +351,7 @@ def collect_urls(meta: dict[str, object], body: str) -> list[str]:
 
 
 def build_extraction(input_root: Path) -> tuple[dict[str, object], dict[str, object]]:
-    detection = detect(input_root)
+    detection = filter_detection_sources(detect(input_root), input_root)
     nodes: dict[str, dict[str, object]] = {}
     edges: list[dict[str, object]] = []
     edges_seen: set[tuple[str, str, str, str]] = set()

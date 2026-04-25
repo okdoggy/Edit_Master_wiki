@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/reflection_mirror_puddle_prism.md"
 type: "document"
-community: "Trends & Recipes 7"
+community: "Trends & Recipes 12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_7
+  - community/Trends_&_Recipes_12
 ---
 
 # 거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 [bab9ac]
@@ -16,7 +16,7 @@ tags:
 - [[business.adobe.comcreative-trends-report.html]] - `SUPPORTED_BY` [EXTRACTED]
 - [[creative]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[creative reflection]] - `SUPPORTS_STYLE` [EXTRACTED]
-- [[helpx.adobe.commasking-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[helpx.adobe.commasking-mobile-ios.html a3c527]] - `SUPPORTED_BY` [EXTRACTED]
 - [[light leak]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[low angle]] - `USES_CONCEPT` [EXTRACTED]
 - [[mirror]] - `HAS_SCENE_TAG` [EXTRACTED]
@@ -37,4 +37,4 @@ tags:
 - [[visual interest]] - `TARGETS_CONCEPT` [EXTRACTED]
 - [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 a4e1cb]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_7
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_12

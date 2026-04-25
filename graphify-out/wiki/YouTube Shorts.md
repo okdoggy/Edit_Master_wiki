@@ -1,11 +1,11 @@
 ---
 source_file: "raw/magazine/youtube_shorts_specs.md"
 type: "document"
-community: "Trends & Recipes"
+community: "Evidence Sources"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes
+  - community/Evidence_Sources
 ---
 
 # YouTube Shorts
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[YouTube Help — Shorts creation and upload specs]] - `MENTIONS_TAG` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

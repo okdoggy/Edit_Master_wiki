@@ -1,66 +1,84 @@
 ---
 type: community
 cohesion: 0.04
-members: 51
+members: 69
 ---
 
 # Trends & Recipes 15
 
 **Cohesion:** 0.04 - loosely connected
-**Members:** 51 nodes
+**Members:** 69 nodes
 
 ## Members
-- [[BTS]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Evan Ranft]] - document - raw/youtube/evan_ranft_youtube.md
-- [[Evan Ranft — iPhone 카메라 기본 세팅 잠그기]] - document - raw/youtube/evan_ranft_youtube.md
-- [[Jordi Koalitic  Koalitic Visuals]] - document - raw/sns/jordi_koalitic.md
-- [[Jordi Koalitic YouTube  Shorts]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Jordi Koalitic — 바이럴 숏폼용 5개 스마트폰 트릭 0fc099]] - document - raw/sns/jordi_koalitic.md
-- [[Jordi Koalitic — 바이럴 숏폼용 5개 스마트폰 트릭 60ed9f]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 b6a246]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 e1d15d]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 eb9dc9]] - document - raw/youtube/evan_ranft_youtube.md
-- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 168031]] - document - raw/youtube/evan_ranft_youtube.md
-- [[Tip 2. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 9d05ae]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 2. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 c441de]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 36c5c1]] - document - raw/sns/jordi_koalitic.md
-- [[Tip 3. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 bd8c06]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 3. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 4cb001]] - document - raw/youtube/evan_ranft_youtube.md
-- [[Tip 4. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 b9b372]] - document - raw/youtube/evan_ranft_youtube.md
-- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 60b18b]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[Tip 4. 사진 속 작은 방해물·먼지·사람·쓰레기를 지우고 싶을 때 0309d0]] - document - raw/sns/jordi_koalitic.md
-- [[digitalcameraworld.comyou-have-to-see-these-incredible-guitar-images-shot-on-a-smartpho...85b69480]] - document - raw/manifests/source_matrix.md
-- [[instagram.comjordi.koalitic]] - document - raw/sns/jordi_koalitic.md
-- [[shutterbug.com5-easy-smartphone-tricks-will-make-your-videos-go-viral]] - document - raw/manifests/source_matrix.md
-- [[shutterbug.comcreate-eye-popping-photos-unique-ideas-trickster-jordi-koalitic-video]] - document - raw/sns/jordi_koalitic.md
-- [[shutterbug.commaking-most-your-iphone-camera-settings-workflow-more-video]] - document - raw/youtube/evan_ranft_youtube.md
-- [[socialblade.comachievements]] - document - raw/youtube/evan_ranft_youtube.md
-- [[tiktok.com@jordi.koalitic]] - document - raw/sns/jordi_koalitic.md
-- [[youtube]] - document - raw/youtube/adobe_lightroom_youtube.md
-- [[youtube.com@JordiKoalitic]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[youtube.com@RanftEvan]] - document - raw/manifests/source_matrix.md
-- [[youtube.comwatch 154609]] - document - raw/youtube/evan_ranft_youtube.md
-- [[youtube.comwatch 851650]] - document - raw/youtube/evan_ranft_youtube.md
-- [[강제원근]] - document - raw/sns/jordi_koalitic.md
-- [[바로 쓰는 팁 카드 0dda87]] - document - raw/sns/jordi_koalitic.md
-- [[바로 쓰는 팁 카드 a0b48b]] - document - raw/youtube/evan_ranft_youtube.md
-- [[바로 쓰는 팁 카드 a9871f]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[보정루틴]] - document - raw/youtube/evan_ranft_youtube.md
-- [[사진트릭]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[숏폼촬영]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[스마트폰영상]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[스마트폰촬영]] - document - raw/sns/jordi_koalitic.md
-- [[아이폰RAW]] - document - raw/youtube/evan_ranft_youtube.md
-- [[이 소스에서 더 캐야 할 것 083a95]] - document - raw/youtube/evan_ranft_youtube.md
-- [[인스타릴스]] - document - raw/sns/jordi_koalitic.md
-- [[집에서 만드는 와우 포토 018a8b]] - document - raw/sns/jordi_koalitic.md
-- [[집에서 만드는 와우 포토 4d2f75]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[창의적트릭]] - document - raw/sns/jordi_koalitic.md
-- [[출처에서 확인된 구체 레시피 187b1a]] - document - raw/youtube/evan_ranft_youtube.md
-- [[출처에서 확인된 구체 레시피 517e75]] - document - raw/youtube/jordi_koalitic_youtube.md
-- [[출처에서 확인된 구체 레시피 ae5ce3]] - document - raw/sns/jordi_koalitic.md
-- [[틱톡촬영]] - document - raw/sns/jordi_koalitic.md
-- [[프로워크플로우]] - document - raw/youtube/evan_ranft_youtube.md
+- [[EditStyletrue to life beauty detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Parameterexposure minus 0 10 to plus 0 15]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Parametermacro distance 2cm or step back]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Parametertexture skin minus 5 to plus 5]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Preferenceglossy nail finish SELECTS EditStyleglossy nail editorial]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Preferencetrue color makeup SELECTS EditStyletrue to life beauty detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[RecommendationVariantgeneral true color archive]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[RecommendationVariantpersonalized gloss or soft matte]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[RecommendationVarianttrend clean beauty detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Scenariobeauty makeup nail closeup]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[StyleRecipesoft white light color detail macro]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Techniquecolor mixer hsl]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Techniqueface or subject mask]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Techniquemacro control]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[Techniquetap focus exposure]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[TrendSignalclean beauty detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[TrendSignalnailfie social detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[beauty]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[beauty makeup nail closeup]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[byrdie.combest-lighting-to-apply-makeup]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[clean beauty detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[color cast 002228]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[color mixer hsl]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[color-accuracy]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[exposure minus 0 10 to plus 0 15]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[face makeup detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[face or subject mask]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[general true color archive]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[glitter or gloss highlight clipping]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[glossy nail editorial]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[glossy nail finish]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[issuecolor cast]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[issueglitter or gloss highlight clipping]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[issueover smoothed skin]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[issueshallow focus]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[low retouch skin texture]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[macro control]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[macro distance 2cm or step back]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[macro or 2x]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[makeup]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[nail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[nail art]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[nail art closeup with actual color and natural glossy reflection]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[nail pose hand composition]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[nail reflection glare]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[nailfie social detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[opi.compro-tips-how-to-take-the-perfect-nailfie]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[over smoothed skin]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[personalized gloss or soft matte]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[rear camera]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[shallow focus]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[soft matte beauty]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[soft white light color detail macro]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[soft white light near window]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[support.apple.comios 3da02d]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[tap focus exposure]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[texture nail plus 5 to 15]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[texture skin minus 5 to plus 5]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[trend clean beauty detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[true color makeup]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[true to life beauty detail]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[vibrance minus 5 to plus 8]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[window or soft white light]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[youtube.comwatch 40e7d8]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[네일 색 정확하게 찍고 싶어]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[메이크업 질감 살리는 클로즈업 보정]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[뷰티 메이크업네일 클로즈업 색 정확도와 질감 보존 d5317e]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[손톱 광택 반사 줄이는 사진]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
+- [[아이섀도우 색이 사진에서 다르게 나와]] - document - raw/scenarios/beauty_makeup_nail_closeup.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -70,12 +88,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 11 edges to [[_COMMUNITY_Trends & Recipes]]
-- 10 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 5]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 2]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 6]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 19]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
+- 1 edge to [[_COMMUNITY_Scenarios Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 21]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 16]]
 
 ## Top bridge nodes
-- [[Jordi Koalitic  Koalitic Visuals]] - degree 23, connects to 2 communities
-- [[Evan Ranft]] - degree 22, connects to 2 communities
-- [[Jordi Koalitic YouTube  Shorts]] - degree 21, connects to 2 communities
-- [[youtube]] - degree 7, connects to 2 communities
-- [[digitalcameraworld.comyou-have-to-see-these-incredible-guitar-images-shot-on-a-smartpho...85b69480]] - degree 3, connects to 1 community
+- [[뷰티 메이크업네일 클로즈업 색 정확도와 질감 보존 d5317e]] - degree 76, connects to 7 communities
+- [[color-accuracy]] - degree 2, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/autumn_maple_woman_portrait.md"
 type: "document"
-community: "Trends & Recipes 3"
+community: "Trends & Recipes 14"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_3
+  - community/Trends_&_Recipes_14
 ---
 
 # backlight [7de6e4]
@@ -18,4 +18,4 @@ tags:
 - [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 4b8f9b]] - `USES_CONCEPT` [EXTRACTED]
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - `USES_CONCEPT` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_3
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_14

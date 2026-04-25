@@ -1,11 +1,11 @@
 ---
 source_file: "raw/youtube/adobe_lightroom_youtube.md"
 type: "document"
-community: "Trends & Recipes 15"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_15
+  - community/Trends_&_Recipes
 ---
 
 # youtube
@@ -19,4 +19,4 @@ tags:
 - [[Tyler Stalman YouTube]] - `IN_CATEGORY` [EXTRACTED]
 - [[iPhone Photography School YouTube]] - `IN_CATEGORY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

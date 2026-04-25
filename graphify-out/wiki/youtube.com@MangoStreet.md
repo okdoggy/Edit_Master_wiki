@@ -1,17 +1,16 @@
 ---
-source_file: "raw/manifests/source_matrix.md"
+source_file: "raw/youtube/mango_street_youtube.md"
 type: "document"
-community: "Trends & Recipes 2"
+community: "Trends & Recipes"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_2
+  - community/Trends_&_Recipes
 ---
 
 # youtube.com/@MangoStreet
 
 ## Connections
 - [[Mango Street]] - `SUPPORTED_BY` [EXTRACTED]
-- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

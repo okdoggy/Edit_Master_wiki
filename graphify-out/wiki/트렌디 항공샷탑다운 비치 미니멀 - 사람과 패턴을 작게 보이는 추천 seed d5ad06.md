@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/trendy_aerial_beach_minimal.md"
 type: "document"
-community: "Trends & Recipes 18"
+community: "Trends & Recipes 27"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_18
+  - community/Trends_&_Recipes_27
 ---
 
 # 트렌디 항공샷/탑다운 비치 미니멀 - 사람과 패턴을 작게 보이는 추천 seed [d5ad06]
@@ -23,4 +23,4 @@ tags:
 - [[추천 시스템용 요약 58c7d2]] - `HAS_SECTION` [EXTRACTED]
 - [[트렌디 항공샷탑다운 비치 미니멀 - 사람과 패턴을 작게 보이는 추천 seed 93c65b]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_18
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_27

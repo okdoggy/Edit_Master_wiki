@@ -1,56 +1,77 @@
 ---
 type: community
-cohesion: 0.05
-members: 41
+cohesion: 0.04
+members: 62
 ---
 
 # Trends & Recipes 20
 
-**Cohesion:** 0.05 - loosely connected
-**Members:** 41 nodes
+**Cohesion:** 0.04 - loosely connected
+**Members:** 62 nodes
 
 ## Members
-- [[Graphify 추출 힌트 675a88]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[adobe.comfood-photography.html]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[blown flame highlight bbae88]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[blown flame highlight d08c1c]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[cake and people]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[candle]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[candle highlight protection]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[candle low light 9ab5d4]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[candle low light de18b0]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[candle mood]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[helpx.adobe.comhighlight-shadow.html]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[highlights minus 35 to 60 00f086]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[highlights minus 35 to 60 515bed]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[motion blur b9062b]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[noise reduction plus 10 to 25]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[samsung.comANS10001376]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[shadows plus 10 to 25]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[steady phone timer 0f41c7]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[steady phone timer 9d4b81]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[support.apple.comios 0d7595]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[turn off flash 8557f8]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[turn off flash 86374c]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[warm candid party b3216f]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[warm candid party d29eff]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[warm candle mood with visible faces]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[warm low light memory 559287]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[warm low light memory cefc28]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[warm memory tone 2c3c01]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[warm memory tone baec2b]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[근거 7fa571]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[반영한 외부 근거 fe97be]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[보정 레시피 0e172b]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[생일 케이크 촛불이 너무 밝고 얼굴은 어두워요]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[시나리오 수정 포인트 854af0]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[실패 방지  주의점 40f7c5]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[어두운 파티에서 케이크와 사람을 같이 찍고 싶어요]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[촛불 분위기는 살리면서 사진을 보정하고 싶어요]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[촛불 케이크·생일 파티 — 분위기는 살리고 불꽃 하이라이트는 지키기 5c0824]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[촛불 케이크·생일 파티 — 분위기는 살리고 불꽃 하이라이트는 지키기 8c2f09]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[촬영 레시피 493129]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[추천 시스템용 요약 2f2cd2]] - document - raw/scenarios/candle_cake_low_light_party.md
+- [[2026 ai landscape masking]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[2026_workflow]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[EditStyleclean realistic landscape]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Evidenceadobe landscape masking 2025]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Evidenceapple hdr current]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Graphify 추출 힌트 a341e1]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[ImageIssueblown sky]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[ImageIssuecrushed foreground shadow]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[ImageIssueoverprocessed halo]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Lightroom에서 하늘만 디헤이즈하고 색은 과하지 않게 보정]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Parameterhighlights -30 to -70]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Parametershadows +20 to +50]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Parametersky dehaze +5 to +18]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Preferencenatural color SELECTS EditStyleclean realistic landscape]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[RecommendationVariantgeneral hdr expose for highlights]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[RecommendationVariantpersonalized natural or dramatic]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[RecommendationVarianttrend ai masked sky]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Scenariolandscape sky dynamic range 2026]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[StyleRecipesky foreground dynamic range balance]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Techniquehdr capture or bracket]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Techniquelocal dehaze]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[Techniqueselect landscape mask]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[TrendSignal2026 ai landscape masking]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[adobe.comai-masking-for-landscape-photos]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[blown sky]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[blue saturation -5 to +10]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[clean realistic landscape]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[crushed foreground shadow]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[dehaze]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[dramatic but realistic sky]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[dynamic_range]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[fstoppers.comhow-use-lightrooms-new-ai-masking-better-landscape-edits-701478]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[hdr capture or bracket]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[helpx.adobe.commasking.html a37eeb]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[helpx.adobe.comretouch-photos.html]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[highlights -30 to -70]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[landscape sky]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[local dehaze]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[luminance range guardrail]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[nationalgeographic.comlandscape-quick-tips]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[natural color]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[natural realistic landscape color]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[natural_color]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[overprocessed halo]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[select landscape mask]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[shadows +20 to +50]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[sky dehaze +5 to +18]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[sky foreground dynamic range balance]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[support.apple.comHT211798]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[unnatural cyan sky]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[근거 f55c1e]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[반영한 외부 근거 77c58a]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[보정 레시피 af0409]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[시나리오 수정 포인트 306aa9]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[실패 방지  주의점 471560]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[여행 풍경 사진 하늘 디테일과 자연스러운 색감]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[촬영 레시피 639eb8]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[추천 시스템용 요약 925f31]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[폰으로 산과 하늘을 자연스럽게 찍고 싶어요]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[풍경 사진에서 하늘은 하얗고 땅은 어두워요]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 16dbb5]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
+- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 dee1c3]] - document - raw/scenarios/landscape_sky_dynamic_range_2026.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -60,12 +81,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Trends & Recipes 3]]
 - 2 edges to [[_COMMUNITY_Scenarios Sources]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 12]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 8]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 4]]
 
 ## Top bridge nodes
-- [[촛불 케이크·생일 파티 — 분위기는 살리고 불꽃 하이라이트는 지키기 8c2f09]] - degree 40, connects to 4 communities
-- [[촛불 케이크·생일 파티 — 분위기는 살리고 불꽃 하이라이트는 지키기 5c0824]] - degree 11, connects to 1 community
+- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 16dbb5]] - degree 55, connects to 1 community
+- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 dee1c3]] - degree 11, connects to 1 community

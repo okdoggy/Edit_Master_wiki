@@ -1,20 +1,20 @@
 ---
 source_file: "raw/magazine/apple_support_night_mode.md"
 type: "document"
-community: "Trends & Recipes 8"
+community: "Trends & Recipes 11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_8
+  - community/Trends_&_Recipes_11
 ---
 
 # support.apple.com/ios [938b6c]
 
 ## Connections
 - [[Apple Support — iPhone Night mode]] - `SUPPORTED_BY` [EXTRACTED]
-- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 - [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 21b94e]] - `SUPPORTED_BY` [EXTRACTED]
 - [[공연·무대 저조도 — 망원하이라이트 보호 a85bb0]] - `SUPPORTED_BY` [EXTRACTED]
+- [[공항 출국 시네마틱 - 게이트무빙워크수하물로 만드는 여행 출발컷 91e335]] - `SUPPORTED_BY` [EXTRACTED]
 - [[관광지 랜드마크 인물 — 사람 많은 배경 정리 7b63b3]] - `SUPPORTED_BY` [EXTRACTED]
 - [[노을 실루엣 — 감성 여행커플인물 67c933]] - `SUPPORTED_BY` [EXTRACTED]
 - [[도시 야경 유리창 반사 — 산만한 반사 정리 c4a448]] - `SUPPORTED_BY` [EXTRACTED]
@@ -31,4 +31,4 @@ tags:
 - [[폭포·계곡 물결 — 장노출Live 효과 688234]] - `SUPPORTED_BY` [EXTRACTED]
 - [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_8
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_11

@@ -1,266 +1,239 @@
 ---
 type: community
 cohesion: 0.01
-members: 251
+members: 224
 ---
 
 # Trends & Recipes 3
 
 **Cohesion:** 0.01 - loosely connected
-**Members:** 251 nodes
+**Members:** 224 nodes
 
 ## Members
-- [[0.5x 1x front]] - document - raw/scenarios/group_travel_selfie.md
-- [[1x 2x portrait]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[1x or 0 5x]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[2x 3x or 1x]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[2x b2287a]] - document - raw/scenarios/marketplace_street_food_story.md
-- [[2x lens]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[2x or 1x]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[2x portrait 16fb27]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[2x portrait e06427]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[Graphify 추출 힌트 3ee081]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[Graphify 추출 힌트 8d8988]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[Graphify 추출 힌트 95886b]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[fashion, ootd, portrait, full-body, instagram]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[selfie, profile, portrait, front-camera, skin-tone]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[adobe.comcolor-adjustment]] - document - raw/lightroom/adobe_color_adjustment_mobile.md
-- [[adobe.comgolden-hour.html]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[adobe.comhow-to-take-portrait-photos-with-your-phone]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[adobe.comportrait-lighting.html]] - document - raw/scenarios/backlit_rim_light_portrait.md
-- [[adobe.comsilhouette-photography.html]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[airy]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[airy pink]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[airy style]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[assets.rafmuseum.org.ukPhotography-Resources.pdf]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[background distance]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[backlight 1ebbd4]] - document - raw/scenarios/backlit_rim_light_portrait.md
-- [[backlight 7de6e4]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[backlight golden hour]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[beach 3684e3]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[beach 58bf3f]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[birthday]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[blog.adobe.combeach-photography-tips-techniques]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[blog.googleframe-10-tips-getting-great-portraits-pixel-2]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[blog.googlepixel-group-photo-features-ai]] - document - raw/scenarios/group_travel_selfie.md
-- [[blog.googletake-holiday-photos-night-sight-portrait-mode]] - document - raw/scenarios/indoor_party_group.md
-- [[blog.googletake-id-photo-google-pixel-tips 396574]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[blog.googletake-id-photo-google-pixel-tips 8b48ba]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[blog.googletravel-photography-101-teampixel cb83a0]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[blown highlights]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[blue cast]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[blue-orange]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[body alignment]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[body distortion]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[body-alignment]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[bokeh 9c9469]] - document - raw/scenarios/flower_macro_bokeh.md
-- [[bright blue travel]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[busy background b5e04f]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[cafe]] - document - raw/scenarios/cafe_drink_dessert_closeup.md
-- [[cafe window]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[camera meter]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[cherry-blossom]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[clean influencer]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[clean winter]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[clear outline]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[cloud detail]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[couple]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[crowd]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[crowded landmark]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[daylight or golden hour]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[diffused window]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[dirty mirror]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[distortion]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[edge distortion 4b172a]] - document - raw/scenarios/cafe_flatlay_dessert.md
-- [[edge distortion d7b6ec]] - document - raw/scenarios/group_travel_selfie.md
-- [[emotion]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[face]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[face center]] - document - raw/scenarios/group_travel_selfie.md
-- [[face shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[faces]] - document - raw/scenarios/group_travel_selfie.md
-- [[fashion]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[fashion outfit]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[flower background]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[flower tree]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[flowers]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[front camera]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[front or rear camera]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[gallery]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[golden hour a9ad01]] - document - raw/scenarios/golden_hour_travel_scale.md
-- [[grid]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[group 7edb2e]] - document - raw/scenarios/group_best_face_gathering.md
-- [[group a28320]] - document - raw/scenarios/group_best_face_gathering.md
-- [[hair glow]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[harsh overhead sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[harsh shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[harsh sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[harsh-sun]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[high-key]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[highlights]] - document - raw/scenarios/city_night_long_exposure.md
-- [[indoor]] - document - raw/scenarios/indoor_party_group.md
-- [[indoor party]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[influencer]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[landmark 1479a2]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[lifepixel.com6-tips-photographing-museums-galleries]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[light]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[lost subject shape]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[makeuseof.commirror-selfie-poses]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[minimal clean]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[mirror distortion]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[mirror indoor]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[mirror-selfie]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[mixed gallery spotlight]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[mixed white balance]] - document - raw/scenarios/dim_restaurant_food.md
-- [[mixed-light]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[motion 967506]] - document - raw/scenarios/indoor_party_group.md
-- [[museum]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[museum gallery]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[nationalgeographic.compeople-quick-tips]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[natural skin f8cd2b]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[negative exposure]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[negative space]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[no-flash]] - document - raw/scenarios/dim_restaurant_food.md
-- [[noon]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[noon beach]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[ootd]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[outfit color]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[outfit color priority]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[overcast light]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[overcast reflection]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[party]] - document - raw/scenarios/candle_cake_low_light_party.md
-- [[person]] - document - raw/scenarios/backlit_rim_light_portrait.md
-- [[person or couple]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[photo or night short]] - document - raw/scenarios/indoor_party_group.md
-- [[photo or portrait]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[pink]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[pink tint]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[portrait]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[portrait or photo]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[pose]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[protection]] - document - raw/scenarios/city_night_long_exposure.md
-- [[readability ac761d]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[reddit.comits_not_you_its_your_camera_photography_tips_for]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[reddit.comproblems_with_reflections_in_the_glass_while]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[reddit.comtaking_outfit_photos_with_your_phone]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[samsung.comANS10004858]] - document - raw/scenarios/group_travel_selfie.md
-- [[samsung.comhow-to-capture-your-best-profile-picture]] - document - raw/scenarios/dating_profile_natural_portrait.md
-- [[scale lost]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[selfie]] - document - raw/scenarios/group_travel_selfie.md
-- [[selfie or portrait selfie]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[selfie or timer]] - document - raw/scenarios/group_travel_selfie.md
-- [[selfie person]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[separation]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[shadow]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[silhouette 16ddda]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[silhouette ddaf0e]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[silhouette warm]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[skin]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[skin retouch strength]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[skin tone]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[skin tone protection]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[sky 0063ca]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[sky 546a0f]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[sky mask]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[snow 0cea24]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[snow 4e9ebd]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[soft overcast]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[soft skin clean background]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[soft-light]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[spring]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[spring blossom]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[spring trend]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[street or cafe]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[strong backlight]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[subject]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[subject mask]] - document - raw/scenarios/autumn_maple_woman_portrait.md
-- [[summer]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[sunset 5ac384]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[sunset ebc6e4]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[support.apple.comios acf715]] - document - raw/magazine/apple_support_night_mode.md
-- [[support.apple.comios ad5a3c]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[text overlay]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[timer]] - document - raw/scenarios/group_travel_selfie.md
-- [[tourist]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[travel landmark]] - document - raw/scenarios/group_travel_selfie.md
-- [[underexpose snow]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[underexposed snow]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[warm blue travel]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[warm gradient]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[warm low light]] - document - raw/scenarios/indoor_party_group.md
-- [[warm travel]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[white balance]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[white-balance]] - document - raw/scenarios/dim_restaurant_food.md
-- [[wide]] - document - raw/scenarios/group_travel_selfie.md
-- [[wide angle face distortion]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[window light 633aa6]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[window or open shade]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[window-light]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[winter]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[갤러리 프로필]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[거울 OOTD]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[거울 더러움]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[거울 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 21b94e]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 7b63b3]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[관광지 사람 많음]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[근거 8061fb]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[근거 85cc2c]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[근거 d8903a]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[노을 실루엣 — 감성 여행커플인물 15f9f9]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[노을 실루엣 — 감성 여행커플인물 67c933]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[눈 오는 날 인물 — 깨끗한 겨울하이키 스타일 8cdb47]] - document - raw/scenarios/snow_portrait_clean_winter.md
-- [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 53a815]] - document - raw/scenarios/group_travel_selfie.md
-- [[랜드마크 앞 인물]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[명소 사진]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[모임 사진 흐림]] - document - raw/scenarios/indoor_party_group.md
-- [[몸 비율 이상]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[미술관 사진]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[미술관·전시회 인물 — 플래시 없이 차분하게 06c8f6]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[반영한 외부 근거 535ae9]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[반영한 외부 근거 592c12]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[반영한 외부 근거 907785]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[배경 관광객 지저분]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일 8f1f9b]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일 f1c105]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[보정 레시피 47e72b]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[보정 레시피 778eb9]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[보정 레시피 d6b3f3]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[셀카Profile — 왜곡 적고 자연스러운 얼굴 추천 seed ff7101]] - document - raw/scenarios/selfie_profile_portrait.md
-- [[시나리오 수정 포인트 7f604c]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[시나리오 수정 포인트 968ef2]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[시나리오 수정 포인트 c17ba9]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[실내 생일파티 사진]] - document - raw/scenarios/indoor_party_group.md
-- [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 1a52fb]] - document - raw/scenarios/indoor_party_group.md
-- [[실내 조명 인물]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[실패 방지  주의점 26bfcf]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[실패 방지  주의점 319343]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[실패 방지  주의점 4e80f3]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[어두운 방 단체사진]] - document - raw/scenarios/indoor_party_group.md
-- [[엘리베이터 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[여행 인물 배경 정리]] - document - raw/scenarios/crowded_landmark_portrait.md
-- [[작품 앞 인물]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[전시회 인물]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[전신 셀카]] - document - raw/scenarios/mirror_selfie_ootd.md
-- [[정오 바닷가 사진]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[촬영 레시피 1f07b8]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[촬영 레시피 ae0819]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[촬영 레시피 e8985d]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[추천 시스템용 요약 42b02e]] - document - raw/scenarios/backlit_silhouette_sunset.md
-- [[추천 시스템용 요약 64db60]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[추천 시스템용 요약 82e3c6]] - document - raw/scenarios/cherry_blossom_flower_portrait.md
-- [[카페 창가 인물 — 자연광인플루언서 프로필 2cc46c]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[카페 창가 인물 — 자연광인플루언서 프로필 56de9d]] - document - raw/scenarios/window_light_cafe_portrait.md
-- [[케이크 촛불 단체]] - document - raw/scenarios/indoor_party_group.md
-- [[파티 사진 보정]] - document - raw/scenarios/indoor_party_group.md
-- [[패션OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed e84e93]] - document - raw/scenarios/fashion_ootd_portrait.md
-- [[플래시 금지]] - document - raw/scenarios/museum_gallery_portrait.md
-- [[하늘 날아감]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[한낮 해변 인물]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 8e8f2c]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[해변 얼굴 그림자]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - document - raw/scenarios/beach_backlit_portrait.md
-- [[해변 인물 보정]] - document - raw/scenarios/harsh_noon_beach_portrait.md
-- [[햇빛 너무 셈]] - document - raw/scenarios/harsh_noon_beach_portrait.md
+- [[1. Authentic human moment]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[1. Edit strength]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[2. Reali-TEA  unfiltered story]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[2. Warmth  coolness]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[2016 filter nostalgia]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[2026 authentic flash candid styles - raw trend signal research]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[2026 authentic human moment]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[2026 trend]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[3. Brightness  contrast]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[3. Direct flash  retro candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[4. Photo dump  BTS sequence]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[4. Saturation  vibrance]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[5. 2016 filter nostalgia  warm pink lo-fi]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[5. Grain  retro  analog tolerance]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[6. Local flavor  place-specific authenticity]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[6. Skin texture  retouch strength]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[Graphify 추출 힌트 ae398a]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[Personalization preference expansion - trend-aware photo recommendation signals]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[about.fb.com2024-instagram-trend-talk-indian-gen-z-are-trend-setters]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[adaptive preset start then customize]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[adobe 2026 creative trends]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[adobe flash basics]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[adobe lightroom presets mobile]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[adobe.comflash-photography-basics.html]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[ads.tiktok.comnext]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[authentic 8858b1]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[authentic c15de6]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[background motion energy]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[background saturation]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[blog.adobe.comfour-creative-trends-define-marketing-2026]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[blog.youtubeculture-trends-report-gen-z-multiformat-shorts-creator-pop-culture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[blog.youtubethe-future-of-youtube-2026]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[bright airy]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[bright airy clean 4f57d2]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[bright_airy]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[brightness contrast]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[burst candid timing]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[candid photo dump sequence]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[candid portrait]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[candid vs polished]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[carousel sequence selection]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[cinematic 9b82da]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[cinematic fashion energy]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[cinematic teal warm]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[color temperature]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[connectioneering shared emotion]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[cool cinematic]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[digital camera world retro flash]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[digitalcameraworld.comretro-cameras-are-making-a-comeback-bad-photography-is-trending-r...69bd1842]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[direct flash]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[direct flash controlled highlight]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[direct flash retro candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[edit strength]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit stylebright airy clean]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit stylecinematic teal warm]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit stylefilm look]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit styleflash on candid]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit styleflashy editorial candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[edit stylelocal color story]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit styleraw human documentary]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit stylewarm pink 2016 filter]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[evidenceadobe 2026 creative trends]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[evidenceadobe flash basics]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[evidenceadobe lightroom masking]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[evidenceadobe lightroom presets mobile]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[evidencedigital camera world retro flash]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[evidencenational geographic flash tips]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[evidencetiktok next 2026]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[evidencevogue fashion paparazzi]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[evidenceyoutube personally relevant pop culture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[film grain]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[film grain nostalgia]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[film look]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[film_grain]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[flash 84d9e9]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[flash c9d3f0]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[flash editorial]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[flash editorial energy]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[flash highlight control]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[flash on candid]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[flashy editorial candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[food glow texture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[general]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[grain amount]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[grain retro]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[highlights minus]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[identity story]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[image issuemotion blur]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[image issuered eye flash glare]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[local color story]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[local flavor place specificity]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[local texture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[local_story]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[low polish]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[low polish authentic]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[low retouch skin]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[low_retouch]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[meta instagram trend talk]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[motion blur 7d216d]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[national geographic flash tips]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[nationalgeographic.comflash-photo-tips]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[natural 4f6796]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[natural low edit]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[newsroom.tiktok.comintroducing-tiktok-next-2026-our-trend-forecast-for-marketers-for-the-year-ahead]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[nostalgic grain]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[on camera flash balance]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi flash aesthetic]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi flash candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi lofi fashion]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[paparazzi walking flash]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi-style candid walking photo with on-camera flash energy and fashion editorial feel]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[parameterbackground saturation]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parametercolor temperature]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parameterflash highlight control]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[parametergrain amount]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parameterhighlights minus]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[parameterpreset amount]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parameterred eye skin glare cleanup]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[parametersubject mask exposure]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parameterwarm pink tint]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[parameterwhites control]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[personal authentic low edit]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[personalization]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalcandid vs polished]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signaledit strength]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalgrain retro]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalplace story depth]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalplatform intent]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalskin texture retouch]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalwarmth coolness]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization_preference_expansion]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalized]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[petapixel 2026 authenticity]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[petapixel.comgen-z-is-nostalgic-for-the-photo-aesthetic-of-2016]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[petapixel.comthe-top-five-photography-trends-of-2026]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[photo dump]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[photo dump bts sequence]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[photo dump story]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[photo_dump]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[place based storytelling]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[place story depth]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[platform crop variant]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[platform intent]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferencebright airy]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferencecinematic fashion energy]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[preferencecool cinematic]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferencefilm grain nostalgia]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferenceflash editorial]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferenceflash editorial energy]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[preferencelow polish authentic]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[preferencenatural low edit]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preference_profile]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preset amount]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[raw human documentary]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[reali tea unfiltered story]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[recommendation variantpaparazzi walking flash]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[recommendation variantpersonal authentic low edit]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[recommendation variantpersonalized]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[recommendation varianttrend]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[recommendation varianttrend flash candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[recommendation_variant]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[red eye flash glare]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[red eye skin glare cleanup]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[retro digital grain pink]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[retro_digital]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[saturation vibrance]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[scenariopaparazzi flash candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[short_form]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[skin texture retouch]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[street night or event]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[style recipeadaptive preset start then customize]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[style recipecandid photo dump sequence]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[style recipedirect flash controlled highlight]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[style recipeplatform crop variant]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[style reciperetro digital grain pink]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[style recipesubject mask skin protection]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[style_recipe]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[subject mask exposure]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[subject mask skin protection]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[techniqueburst candid timing]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[techniquecarousel sequence selection]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[techniqueon camera flash balance]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[techniquewalking candid timing]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[tiktok next 2026]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[trend]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[trend flash candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signal2016 filter nostalgia]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signalconnectioneering shared emotion]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signaldirect flash retro candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signallocal flavor place specificity]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signalpaparazzi flash aesthetic]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[trend signalpaparazzi lofi fashion]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signalreali tea unfiltered story]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend_reranking]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[trusted_raw_trend_signal]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[vogue fashion paparazzi]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[vogue paparazzi campaigns]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[vogue.comdiggzy-miles-diggs-fashions-favorite-paparazzi]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[vogue.comhave-we-reached-peak-paparazzi-campaigns]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[walking candid timing]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[warm]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[warm glow]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[warm pink 2016 filter]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[warm pink tint]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[warmth coolness]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[whites control]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[youtube 2026 creator trends]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[youtube personally relevant pop culture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[검증된 트렌드 신호]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[근거 a45877]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[근거 기반 개인화 축]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[반영한 외부 근거 59141f]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[밤거리에서 플래시가 터진 것처럼 즉흥적인 파파라치 느낌의 걷는 사진을 만들고 싶다]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[보정 레시피 27fd16]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[수집 목적 7c955a]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[수집 목적 e70f5e]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[시나리오 수정 포인트 7c443f]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[실패 방지  주의점 754040]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[촬영 레시피 b2e470]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[추천 시스템용 요약 9148cf]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed 6bdc85]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed eaba4a]] - document - raw/scenarios/paparazzi_flash_candid.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -270,32 +243,23 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 16 edges to [[_COMMUNITY_Scenarios Sources]]
-- 13 edges to [[_COMMUNITY_Trends & Recipes 6]]
-- 13 edges to [[_COMMUNITY_Trends & Recipes 12]]
-- 12 edges to [[_COMMUNITY_Trends & Recipes 13]]
-- 12 edges to [[_COMMUNITY_Trends & Recipes 8]]
-- 10 edges to [[_COMMUNITY_Trends & Recipes 23]]
-- 9 edges to [[_COMMUNITY_Trends & Recipes 2]]
-- 9 edges to [[_COMMUNITY_Trends & Recipes 7]]
-- 7 edges to [[_COMMUNITY_Trends & Recipes 5]]
-- 7 edges to [[_COMMUNITY_Trends & Recipes 4]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 16]]
-- 5 edges to [[_COMMUNITY_Trends & Recipes 9]]
-- 4 edges to [[_COMMUNITY_Evidence Sources]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 20]]
-- 4 edges to [[_COMMUNITY_Trends & Recipes 21]]
-- 3 edges to [[_COMMUNITY_Trends & Recipes 11]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 22]]
-- 2 edges to [[_COMMUNITY_Trends & Recipes 10]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 18]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 19]]
-- 1 edge to [[_COMMUNITY_Trends & Recipes 14]]
+- 7 edges to [[_COMMUNITY_Trends & Recipes 25]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 17]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 2 edges to [[_COMMUNITY_Evidence Sources]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 2 edges to [[_COMMUNITY_Scenarios Sources]]
+- 1 edge to [[_COMMUNITY_Recommendation Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 6]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 5]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 29]]
 
 ## Top bridge nodes
-- [[adobe.comcolor-adjustment]] - degree 21, connects to 7 communities
-- [[support.apple.comios acf715]] - degree 20, connects to 7 communities
-- [[portrait]] - degree 15, connects to 7 communities
-- [[눈 오는 날 인물 — 깨끗한 겨울하이키 스타일 8cdb47]] - degree 25, connects to 6 communities
-- [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 53a815]] - degree 27, connects to 5 communities
+- [[Personalization preference expansion - trend-aware photo recommendation signals]] - degree 111, connects to 6 communities
+- [[2026 authentic flash candid styles - raw trend signal research]] - degree 104, connects to 5 communities
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed eaba4a]] - degree 46, connects to 3 communities
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed 6bdc85]] - degree 11, connects to 1 community
+- [[recommendation variantpaparazzi walking flash]] - degree 10, connects to 1 community

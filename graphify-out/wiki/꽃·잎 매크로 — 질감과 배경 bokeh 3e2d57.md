@@ -1,11 +1,11 @@
 ---
 source_file: "raw/scenarios/flower_macro_bokeh.md"
 type: "document"
-community: "Trends & Recipes 6"
+community: "Trends & Recipes 21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_6
+  - community/Trends_&_Recipes_21
 ---
 
 # 꽃·잎 매크로 — 질감과 배경 bokeh [3e2d57]
@@ -21,7 +21,7 @@ tags:
 - [[flower or leaf]] - `HAS_SUBJECT` [EXTRACTED]
 - [[flowers]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[green]] - `TARGETS_CONCEPT` [EXTRACTED]
-- [[helpx.adobe.commasking-mobile-ios.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[helpx.adobe.commasking-mobile-ios.html a3c527]] - `SUPPORTED_BY` [EXTRACTED]
 - [[iphonephotographyschool.comleaves]] - `SUPPORTED_BY` [EXTRACTED]
 - [[leaves]] - `HAS_SCENE_TAG` [EXTRACTED]
 - [[macro 61849d]] - `USES_MODE` [EXTRACTED]
@@ -37,4 +37,4 @@ tags:
 - [[ultrawide macro or 2x]] - `USES_LENS` [EXTRACTED]
 - [[꽃·잎 매크로 — 질감과 배경 bokeh 17e99a]] - `DESCRIBES_SCENARIO` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_21

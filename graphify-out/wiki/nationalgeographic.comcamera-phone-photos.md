@@ -1,18 +1,17 @@
 ---
 source_file: "raw/magazine/national_geographic_camera_phone.md"
 type: "document"
-community: "Trends & Recipes 13"
+community: "Trends & Recipes 21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_13
+  - community/Trends_&_Recipes_21
 ---
 
 # nationalgeographic.com/camera-phone-photos
 
 ## Connections
 - [[National Geographic — Camera phone pictures]] - `SUPPORTED_BY` [EXTRACTED]
-- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 - [[건축·실내 공간 — 초광각 왜곡 제어 691397]] - `SUPPORTED_BY` [EXTRACTED]
 - [[관광지 랜드마크 인물 — 사람 많은 배경 정리 7b63b3]] - `SUPPORTED_BY` [EXTRACTED]
 - [[꽃·잎 매크로 — 질감과 배경 bokeh 3e2d57]] - `SUPPORTED_BY` [EXTRACTED]
@@ -24,4 +23,4 @@ tags:
 - [[폭포·계곡 물결 — 장노출Live 효과 688234]] - `SUPPORTED_BY` [EXTRACTED]
 - [[해변 역광 인물 — 여름휴양지 SNS 스타일 7fa63d]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_21

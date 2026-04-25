@@ -1,11 +1,11 @@
 ---
-source_file: "raw/manifests/source_matrix.md"
+source_file: "raw/sns/jordi_koalitic.md"
 type: "document"
-community: "Trends & Recipes 15"
+community: "Trends & Recipes 29"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trends_&_Recipes_15
+  - community/Trends_&_Recipes_29
 ---
 
 # shutterbug.com/5-easy-smartphone-tricks-will-make-your-videos-go-viral
@@ -13,6 +13,5 @@ tags:
 ## Connections
 - [[Jordi Koalitic  Koalitic Visuals]] - `SUPPORTED_BY` [EXTRACTED]
 - [[Jordi Koalitic YouTube  Shorts]] - `SUPPORTED_BY` [EXTRACTED]
-- [[Tip Matrix — 상황별 스마트폰 촬영보정 팁 인덱스]] - `SUPPORTED_BY` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_15
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_29
