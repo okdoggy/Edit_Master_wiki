@@ -380,7 +380,7 @@ def print_pipeline_report(report: dict[str, Any]) -> None:
             f"{result['top1_accuracy']:.3f} / {result['top3_accuracy']:.3f} "
             f"(match {result.get('match_top1_accuracy', result['top1_accuracy']):.3f}/"
             f"{result.get('match_top3_accuracy', result['top3_accuracy']):.3f}, gap {gap_text}) "
-            f"(min {result['min_top1']:.2f}/{result['min_top3']:.2f})"
+            f"({format_eval_checks(result)})"
         )
     print(f"answer smoke: {report['answer_smoke']['ok']}")
     for issue in report["answer_smoke"]["issues"]:
@@ -393,7 +393,8 @@ def print_pipeline_report(report: dict[str, Any]) -> None:
             print(
                 f"  - [{miss['set']}] {miss['id']}: expected={expected} "
                 f"predicted={miss['predicted']}{score} "
-                f"confidence={miss.get('top_confidence')} status={miss.get('coverage_status')}"
+                f"confidence={miss.get('top_confidence')} status={miss.get('coverage_status')} "
+                f"abstained={miss.get('abstained')}"
             )
     if report["matcher_eval"].get("candidate_gaps"):
         print("candidate gaps:")
@@ -403,8 +404,24 @@ def print_pipeline_report(report: dict[str, Any]) -> None:
             print(
                 f"  - [{gap['set']}] {gap['id']}: candidate={candidate} "
                 f"predicted={gap['predicted']}{score} "
-                f"confidence={gap.get('top_confidence')} status={gap.get('coverage_status')}"
+                f"confidence={gap.get('top_confidence')} status={gap.get('coverage_status')} "
+                f"abstained={gap.get('abstained')}"
             )
+
+
+def format_eval_checks(result: dict[str, Any]) -> str:
+    checks = result.get("checks") or {}
+    if not checks:
+        return "no explicit thresholds"
+    parts = []
+    for key in ("top1", "top3", "match_top1", "match_top3", "gap_abstain"):
+        item = checks.get(key)
+        if not item:
+            continue
+        value = item.get("value")
+        value_text = "n/a" if value is None else f"{value:.3f}"
+        parts.append(f"{key}>={item['min']:.2f}:{value_text}")
+    return "min " + ", ".join(parts)
 
 
 def command_eval(args: argparse.Namespace, config: HarnessConfig) -> int:
@@ -440,7 +457,8 @@ def command_eval(args: argparse.Namespace, config: HarnessConfig) -> int:
                 f"{item.get('match_top3_accuracy', item['top3_accuracy']):.3f} "
                 f"gap={gap_text} "
                 f"cases={item['total']} "
-                f"ok={item['ok']}"
+                f"ok={item['ok']} "
+                f"({format_eval_checks(item)})"
             )
         if result["misses"]:
             print()
@@ -451,7 +469,8 @@ def command_eval(args: argparse.Namespace, config: HarnessConfig) -> int:
                 print(
                     f"  - [{miss['set']}] {miss['id']}: expected={expected} "
                     f"predicted={miss['predicted']} top3={miss['top3']}{score} "
-                    f"confidence={miss.get('top_confidence')} status={miss.get('coverage_status')}"
+                    f"confidence={miss.get('top_confidence')} status={miss.get('coverage_status')} "
+                    f"abstained={miss.get('abstained')}"
                 )
         if result.get("candidate_gaps"):
             print()
@@ -462,7 +481,8 @@ def command_eval(args: argparse.Namespace, config: HarnessConfig) -> int:
                 print(
                     f"  - [{gap['set']}] {gap['id']}: candidate={candidate} "
                     f"predicted={gap['predicted']}{score} "
-                    f"confidence={gap.get('top_confidence')} status={gap.get('coverage_status')}"
+                    f"confidence={gap.get('top_confidence')} status={gap.get('coverage_status')} "
+                    f"abstained={gap.get('abstained')}"
                 )
     return 0 if result["ok"] else 1
 

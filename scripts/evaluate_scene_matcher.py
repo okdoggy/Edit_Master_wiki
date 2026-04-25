@@ -23,6 +23,16 @@ DEFAULT_COVERAGE_GAP_MAX_SCORE = 2.0
 GAP_BEHAVIORS = {"coverage_gap", "candidate_gap"}
 
 
+def match_should_abstain(match) -> bool:
+    if match.coverage_status == "gap" or match.confidence == "low":
+        return True
+    if getattr(match, "unknown_concepts", None):
+        return True
+    if match.coverage_status == "partial":
+        return match.score < 3.0 or match.slot_coverage < 0.5
+    return False
+
+
 def expected_scenarios(case: dict) -> list[str]:
     if case.get("expected_behavior") in GAP_BEHAVIORS or (
         "expected_scenario" in case and case.get("expected_scenario") is None
@@ -55,10 +65,15 @@ def evaluate(eval_path: Path, graph_path: Path, top_k: int) -> dict:
 
     for case in cases:
         matches = matcher.match(case["query"], top_k=top_k)
-        predicted = matches[0].scenario_id if matches else None
-        top_score = matches[0].score if matches else 0.0
-        top_confidence = matches[0].confidence if matches else "none"
-        coverage_status = matches[0].coverage_status if matches else "gap"
+        best = matches[0] if matches else None
+        predicted = best.scenario_id if best else None
+        top_score = best.score if best else 0.0
+        top_confidence = best.confidence if best else "none"
+        coverage_status = best.coverage_status if best else "gap"
+        score_gap = best.score_gap if best else 0.0
+        slot_coverage = best.slot_coverage if best else 0.0
+        unknown_concepts = best.unknown_concepts if best else []
+        abstained = True if best is None else match_should_abstain(best)
         top_ids = [item.scenario_id for item in matches]
         expected = expected_scenarios(case)
         primary_expected = primary_expected_scenario(case, expected)
@@ -67,14 +82,14 @@ def evaluate(eval_path: Path, graph_path: Path, top_k: int) -> dict:
             expected_behavior = "candidate_gap"
         if expected_behavior in GAP_BEHAVIORS:
             max_top_score = float(case.get("max_top_score", DEFAULT_COVERAGE_GAP_MAX_SCORE))
-            top1 = top_score <= max_top_score or coverage_status == "gap"
+            top1 = top_score <= max_top_score or abstained
             top3 = top1
             gap_total += 1
             gap_hits += int(top1)
         else:
             max_top_score = None
-            top1 = predicted == primary_expected
-            top3 = bool(set(expected) & set(top_ids[:3]))
+            top1 = predicted == primary_expected and not abstained
+            top3 = bool(set(expected) & set(top_ids[:3])) and not abstained
             match_total += 1
             match_top1_hits += int(top1)
             match_top3_hits += int(top3)
@@ -92,6 +107,10 @@ def evaluate(eval_path: Path, graph_path: Path, top_k: int) -> dict:
                 "top_score": round(top_score, 4),
                 "top_confidence": top_confidence,
                 "coverage_status": coverage_status,
+                "score_gap": round(score_gap, 4),
+                "slot_coverage": round(slot_coverage, 4),
+                "unknown_concepts": unknown_concepts,
+                "abstained": abstained,
                 "top1": top1,
                 "top3": top3,
                 "language": case.get("language"),
@@ -202,11 +221,16 @@ def main(argv: list[str] | None = None) -> int:
                 print(
                     f"{status} {row['id']}: expected={expected} "
                     f"predicted={row['predicted']} score={row['top_score']} "
-                    f"confidence={row['top_confidence']} status={row['coverage_status']}"
+                    f"confidence={row['top_confidence']} status={row['coverage_status']} "
+                    f"abstained={row['abstained']}"
                 )
                 if not row["top1"]:
                     for match in row["matches"][:3]:
-                        print(f"  - {match['scenario_id']} score={match['score']} reasons={','.join(match['reasons'])}")
+                        unknown = ",".join(match.get("unknown_concepts", [])) or "-"
+                        print(
+                            f"  - {match['scenario_id']} score={match['score']} "
+                            f"reasons={','.join(match['reasons'])} unknown={unknown}"
+                        )
             print()
 
     return 0 if all(item["top1_accuracy"] >= args.min_top1 for item in set_results.values()) else 1

@@ -148,9 +148,9 @@ def validate_learning_loop() -> dict:
 
 
 DEFAULT_EVAL_THRESHOLDS = {
-    "regression": {"top1": 1.0, "top3": 1.0},
-    "realistic": {"top1": 0.70, "top3": 0.85},
-    "ambiguous": {"top1": 0.50, "top3": 0.85},
+    "regression": {"top1": 1.0, "top3": 1.0, "match_top1": 1.0, "match_top3": 1.0},
+    "realistic": {"match_top1": 0.85, "match_top3": 0.90, "gap_abstain": 0.60},
+    "ambiguous": {"match_top1": 0.75, "match_top3": 0.85, "gap_abstain": 0.50},
 }
 
 
@@ -161,9 +161,25 @@ def validate_matcher_eval(suite: dict, thresholds: dict[str, dict[str, float]]) 
     candidate_gaps: list[dict] = []
     for name, result in suite["sets"].items():
         threshold = thresholds.get(name, {})
-        min_top1 = float(threshold.get("top1", 0.0))
-        min_top3 = float(threshold.get("top3", 0.0))
-        set_ok = result["top1_accuracy"] >= min_top1 and result["top3_accuracy"] >= min_top3
+        checks: dict[str, dict] = {}
+        metric_map = {
+            "top1": "top1_accuracy",
+            "top3": "top3_accuracy",
+            "match_top1": "match_top1_accuracy",
+            "match_top3": "match_top3_accuracy",
+            "gap_abstain": "gap_abstain_accuracy",
+        }
+        for threshold_key, metric_key in metric_map.items():
+            if threshold_key not in threshold:
+                continue
+            value = result.get(metric_key)
+            minimum = float(threshold[threshold_key])
+            if value is None:
+                passed = result.get("gap_total", 0) == 0 and threshold_key == "gap_abstain"
+            else:
+                passed = value >= minimum
+            checks[threshold_key] = {"value": value, "min": minimum, "ok": passed}
+        set_ok = all(item["ok"] for item in checks.values())
         ok = ok and set_ok
         set_reports[name] = {
             "total": result["total"],
@@ -174,8 +190,12 @@ def validate_matcher_eval(suite: dict, thresholds: dict[str, dict[str, float]]) 
             "match_top1_accuracy": result.get("match_top1_accuracy", result["top1_accuracy"]),
             "match_top3_accuracy": result.get("match_top3_accuracy", result["top3_accuracy"]),
             "gap_abstain_accuracy": result.get("gap_abstain_accuracy"),
-            "min_top1": min_top1,
-            "min_top3": min_top3,
+            "min_top1": threshold.get("top1"),
+            "min_top3": threshold.get("top3"),
+            "min_match_top1": threshold.get("match_top1"),
+            "min_match_top3": threshold.get("match_top3"),
+            "min_gap_abstain": threshold.get("gap_abstain"),
+            "checks": checks,
             "ok": set_ok,
         }
         for row in result["rows"]:
@@ -190,6 +210,10 @@ def validate_matcher_eval(suite: dict, thresholds: dict[str, dict[str, float]]) 
                         "top_score": row.get("top_score"),
                         "top_confidence": row.get("top_confidence"),
                         "coverage_status": row.get("coverage_status"),
+                        "abstained": row.get("abstained"),
+                        "score_gap": row.get("score_gap"),
+                        "slot_coverage": row.get("slot_coverage"),
+                        "unknown_concepts": row.get("unknown_concepts", []),
                     }
                 )
             if not row["top1"]:
@@ -203,6 +227,10 @@ def validate_matcher_eval(suite: dict, thresholds: dict[str, dict[str, float]]) 
                         "top_score": row.get("top_score"),
                         "top_confidence": row.get("top_confidence"),
                         "coverage_status": row.get("coverage_status"),
+                        "abstained": row.get("abstained"),
+                        "score_gap": row.get("score_gap"),
+                        "slot_coverage": row.get("slot_coverage"),
+                        "unknown_concepts": row.get("unknown_concepts", []),
                         "max_top_score": row.get("max_top_score"),
                         "top3": row["top3"],
                     }

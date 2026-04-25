@@ -135,12 +135,14 @@ class NaturalAnswerRenderer:
 
         best = matches[0]
         scenario = self.graph.nodes[best.scenario_id]
-        if best.coverage_status == "gap" or best.confidence == "low":
+        if should_abstain(best):
             nearest = clean_name(scenario.name)
+            reason = abstain_reason(best)
             text = (
                 "해당 시나리오는 지식 데이터가 부족합니다.\n\n"
                 f"현재 위키에서 가장 가까운 후보는 '{nearest}'이지만, 질문의 핵심 조건을 충분히 설명하지 못해서 "
-                "그 시나리오로 단정하지 않겠습니다. 이 경우에는 근거 있는 raw 시나리오를 먼저 보강한 뒤 "
+                f"그 시나리오로 단정하지 않겠습니다. 판단 근거: {reason}. "
+                "이 경우에는 근거 있는 raw 시나리오를 먼저 보강한 뒤 "
                 "촬영/보정 레시피를 제안하는 편이 안전합니다."
             )
             return RenderedAnswer(
@@ -302,6 +304,29 @@ def first_channel(recs: list[RecommendationView], channel: str) -> Recommendatio
         if rec.channel == channel:
             return rec
     return None
+
+
+def should_abstain(match: MatchResult) -> bool:
+    if match.coverage_status == "gap" or match.confidence == "low":
+        return True
+    if match.unknown_concepts:
+        return True
+    if match.coverage_status == "partial":
+        return match.score < 3.0 or match.slot_coverage < 0.5
+    return False
+
+
+def abstain_reason(match: MatchResult) -> str:
+    if match.unknown_concepts:
+        return f"현재 raw에 없는 독립 시나리오 신호({', '.join(match.unknown_concepts)})가 감지됨"
+    if match.coverage_status == "gap" or match.confidence == "low":
+        return "핵심 장면 조건을 충분히 덮는 시나리오가 없음"
+    if match.coverage_status == "partial":
+        return (
+            f"가까운 후보의 확신도가 부분적임"
+            f"(score={match.score:.2f}, gap={match.score_gap:.2f}, slot_coverage={match.slot_coverage:.2f})"
+        )
+    return "안전 응답 기준 미달"
 
 
 def select_items(items: list[str], limit: int) -> list[str]:

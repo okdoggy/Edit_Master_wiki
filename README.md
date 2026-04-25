@@ -193,9 +193,9 @@ uv run edit-master eval --set realistic
 - `match_top1/top3`: 이미 raw/graph에 있는 시나리오를 정확히 고르는 능력입니다.
 - `gap_abstain_accuracy`: 아직 독립 raw가 없는 held-out 시나리오에서 기존 시나리오로 억지 매칭하지 않고 멈추는 능력입니다.
 
-통합 검증인 `uv run edit-master validate`도 같은 3종 평가를 실행하며, 기준값은 `edit-master.toml`의 `[quality.eval_thresholds.*]`에서 조정합니다.
+통합 검증인 `uv run edit-master validate`도 같은 3종 평가를 실행하며, 기준값은 `edit-master.toml`의 `[quality.eval_thresholds.*]`에서 조정합니다. 기준은 세트별로 분리되어 있습니다. `regression`은 기존 동작이 깨지지 않는지 보기 위해 `top1/top3`까지 엄격하게 보고, `realistic`과 `ambiguous`는 `match_top1/match_top3`와 `gap_abstain`을 별도로 봅니다.
 
-매처는 단순 점수뿐 아니라 `confidence`, `coverage_status`, `score_gap`, `slot_coverage`를 함께 계산합니다. 질문의 핵심 슬롯을 충분히 설명하지 못하거나 1등 후보가 불안정하면 답변 렌더러는 기존 시나리오로 억지 매칭하지 않고 `해당 시나리오는 지식 데이터가 부족합니다.`라고 안내합니다. 이 경우에는 source-backed raw를 먼저 추가한 뒤 다시 `build -> bridge --write -> validate`를 실행합니다.
+매처는 단순 점수뿐 아니라 `confidence`, `coverage_status`, `score_gap`, `slot_coverage`, `score_breakdown`, `unknown_concepts`를 함께 계산합니다. 질문의 핵심 슬롯을 충분히 설명하지 못하거나, 1등 후보가 불안정하거나, 현재 raw에 없는 독립 시나리오 신호가 감지되면 답변 렌더러는 기존 시나리오로 억지 매칭하지 않고 `해당 시나리오는 지식 데이터가 부족합니다.`라고 안내합니다. 이 경우에는 source-backed raw를 먼저 추가한 뒤 다시 `build -> bridge --write -> validate`를 실행합니다.
 
 자연어 답변 생성 예시:
 

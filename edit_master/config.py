@@ -78,9 +78,14 @@ def load_config(config_path: Path | None = None) -> HarnessConfig:
 def eval_thresholds(quality: dict[str, Any]) -> dict[str, dict[str, float]]:
     raw_thresholds = quality.get("eval_thresholds", {})
     defaults = {
-        "regression": {"top1": float(quality.get("min_top1", 1.0)), "top3": 1.0},
-        "realistic": {"top1": 0.70, "top3": 0.85},
-        "ambiguous": {"top1": 0.50, "top3": 0.85},
+        "regression": {
+            "top1": float(quality.get("min_top1", 1.0)),
+            "top3": 1.0,
+            "match_top1": 1.0,
+            "match_top3": 1.0,
+        },
+        "realistic": {"match_top1": 0.85, "match_top3": 0.90, "gap_abstain": 0.60},
+        "ambiguous": {"match_top1": 0.75, "match_top3": 0.85, "gap_abstain": 0.50},
     }
     if not isinstance(raw_thresholds, dict):
         return defaults
@@ -88,7 +93,7 @@ def eval_thresholds(quality: dict[str, Any]) -> dict[str, dict[str, float]]:
         if not isinstance(values, dict):
             continue
         thresholds = defaults.setdefault(str(name), {})
-        for key in ("top1", "top3"):
+        for key in ("top1", "top3", "match_top1", "match_top3", "gap_abstain"):
             if key in values:
                 thresholds[key] = float(values[key])
     return defaults
