@@ -1,0 +1,16 @@
+---
+source_file: "raw/youtube/evan_ranft_youtube.md"
+type: "document"
+community: "Trends & Recipes"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes
+---
+
+# 아이폰RAW
+
+## Connections
+- [[Evan Ranft]] - `MENTIONS_TAG` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes

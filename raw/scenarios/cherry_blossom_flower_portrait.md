@@ -10,6 +10,12 @@ scenario_tags:
   - "portrait"
   - "airy"
   - "pink"
+aliases:
+  - "벚꽃 인물"
+  - "꽃나무 아래 프로필"
+  - "봄 핑크 보정"
+  - "벚꽃 사진 밝게"
+  - "cherry blossom portrait"
 graph_nodes:
   - "subject:person"
   - "environment:flower_tree"
@@ -57,6 +63,19 @@ urls:
 
 - 핑크를 전체에 넣으면 피부가 붉어진다.
 - 꽃이 너무 가까우면 얼굴보다 꽃에 초점이 잡힌다.
+
+## 근거
+
+### 반영한 외부 근거
+
+- Apple Portrait 문서는 배경 흐림과 인물 선명도를 함께 만드는 기본 촬영 근거를 제공한다.
+- Adobe portrait lighting과 Lightroom masking/color 문서는 부드러운 빛, subject mask, 꽃 배경 색 조절을 분리하는 근거다.
+- National Geographic people tips는 인물 사진에서 배경과 사람의 관계를 단순하게 정리하는 접근을 뒷받침한다.
+
+### 시나리오 수정 포인트
+
+- 봄꽃 트렌드는 배경 색과 전경 꽃에 적용하고, 얼굴 붉어짐은 별도 마스크로 제어한다.
+- 인물 중심인지 꽃 분위기 중심인지에 따라 꽃 채도와 배경 흐림 강도를 다르게 둔다.
 
 ## Graphify 추출 힌트
 

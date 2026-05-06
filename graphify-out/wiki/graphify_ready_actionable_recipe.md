@@ -1,0 +1,70 @@
+---
+source_file: "raw/scenarios/action_pan_runner_cyclist.md"
+type: "document"
+community: "Scenarios Sources"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Scenarios_Sources
+---
+
+# graphify_ready_actionable_recipe
+
+## Connections
+- [[2026 스마트폰 인물 피부톤 — 자연스러운 얼굴 노출과 배경 분리 094789]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[거울 셀카 OOTD — 몸 비율과 거울 반사 정리 8ee848]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[거울·웅덩이·프리즘 반사 — 창의적 SNS 컷 a4e1cb]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[건축·실내 공간 — 초광각 왜곡 제어 71a4be]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[공연·무대 저조도 — 망원하이라이트 보호 b31662]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[공항 출국 시네마틱 - 게이트무빙워크수하물로 만드는 여행 출발컷 9a7f4f]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[관광지 랜드마크 인물 — 사람 많은 배경 정리 252168]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[광택 제품·유리 소품 — 반사와 하이라이트를 통제하는 판매브랜드컷 2c337f]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[꽃·잎 매크로 — 질감과 배경 bokeh 17e99a]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[노을 실루엣 — 감성 여행커플인물 15f9f9]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[눈 오는 날 인물 — 깨끗한 겨울하이키 스타일 33a331]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[단체 모임 그룹샷 — 눈 감음과 표정 실패를 줄이는 베스트컷 루프 4444d7]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[단체 여행 셀피그룹샷 — 얼굴 왜곡 줄이기 0456d1]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[단풍나무 아래 여성 인물 — 트렌드일반개인화 추천 seed 9d71c5]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[도시 야경 유리창 반사 — 산만한 반사 정리 7546cf]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[도시 야경 장노출 — 빛줄기스카이라인 c4184c]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[동굴 저조도 여행 인물 - 질감과 안전을 지키는 촬영보정 seed bf95d6]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[러너·자전거 액션 팬 — 움직임을 살리는 SNS 모션컷 a30a72]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[문서화이트보드 스캔 보정 - 글자 가독성과 원근 교정 추천 seed e5f79d]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[미술관·전시회 인물 — 플래시 없이 차분하게 19a2b9]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[벚꽃·꽃나무 아래 인물 — 밝고 부드러운 봄 스타일 f1c105]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[불꽃놀이와 스카이라인 — 하이라이트 보호연속 확보 6c409e]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[뷰티 메이크업네일 클로즈업 색 정확도와 질감 보존 500f32]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[비 오는 밤 네온 거리 인물 — moody city look e7cb56]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[비행기 창밖 여행 뷰 - 구름도시날개를 살리는 항공 창문샷 e8c86c]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[서점·도서관 독서 인물 - 조용한 북스타그램 무드 3db801]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[셀카Profile — 왜곡 적고 자연스러운 얼굴 추천 seed 187142]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[소개팅데이팅 프로필 자연 인물 사진 - 신뢰감과 실제감 추천 seed d335dc]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[수족관 저조도 무플래시 - 유리 반사와 생물 안전을 지키는 촬영보정 seed b7cd3e]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[시장·길거리 음식 스토리 — 사람손음식장소 묶기 c07d2c]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[실내 반려동물 저조도 눈반사 - 플래시 없이 눈빛과 털 질감 살리기 seed cba77c]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[실내 생일파티·모임 단체사진 — 어두운 실내와 움직임 b22137]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[아이·반려동물 액션 — 순간 포착연사짧은 영상 2218a3]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[어두운 레스토랑 음식 — 플래시 없이 맛있게 보이기 313c16]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[여행 골든아워 — widedetailscale 3컷 추천 1ff1af]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[역광 림라이트 인물 — 머리카락 하이라이트와 얼굴 노출 균형 aa554a]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[영수증샷receipt memory flatlay - 여행과 카페 기억을 남기는 추천 seed fc6d2f]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[의류 리세일 디테일 사진 원단·택·하자 신뢰 기록 fbf065]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[졸업식 인물 - 단상 순간과 캠퍼스 기념 portrait 736ce5]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[집에서 제품 판매 사진 — 깨끗한 썸네일 만들기 b076f5]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[촛불 케이크·생일 파티 — 분위기는 살리고 불꽃 하이라이트는 지키기 5c0824]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[카페 디저트 플랫레이 — 수평과 왜곡 잡기 c6c857]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[카페 음료·디저트 클로즈업 — 질감과 반짝임 살리기 83416c]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[카페 창가 인물 — 자연광인플루언서 프로필 56de9d]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[트렌디 항공샷탑다운 비치 미니멀 - 사람과 패턴을 작게 보이는 추천 seed d5ad06]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed 6bdc85]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[패션OOTD 인물 — 전신 비율과 옷 색을 살리는 추천 seed f0fec6]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[포토부스 플래시 인물 - 네컷 감성의 직접광 추억 사진 07e1ce]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[폭포·계곡 물결 — 장노출Live 효과 942387]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[풍경·하늘 다이내믹 레인지 — 자연스러운 하늘과 지형 디테일을 함께 살리기 dee1c3]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[한낮 해변 인물 — 강한 그림자와 날아간 하늘 잡기 e5d4ed]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[해변 역광 인물 — 여름휴양지 SNS 스타일 919d2f]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[헬스장 거울 운동 경과 사진 일관된 비교와 프라이버시 보호 d362f2]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[호텔 룸 미러 여행 OOTD - 객실 거울짐조명까지 정리하는 전신컷 bb3b0a]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+- [[화이트보드·메뉴판 가독성 사진 - 원근, 눈부심, OCR 친화 보정 seed 3f380c]] - `HAS_CONTENT_TYPE` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources

@@ -1,0 +1,265 @@
+---
+type: community
+cohesion: 0.01
+members: 224
+---
+
+# Trends & Recipes 3
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 224 nodes
+
+## Members
+- [[1. Authentic human moment]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[1. Edit strength]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[2. Reali-TEA  unfiltered story]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[2. Warmth  coolness]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[2016 filter nostalgia]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[2026 authentic flash candid styles - raw trend signal research]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[2026 authentic human moment]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[2026 trend]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[3. Brightness  contrast]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[3. Direct flash  retro candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[4. Photo dump  BTS sequence]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[4. Saturation  vibrance]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[5. 2016 filter nostalgia  warm pink lo-fi]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[5. Grain  retro  analog tolerance]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[6. Local flavor  place-specific authenticity]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[6. Skin texture  retouch strength]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[Graphify 추출 힌트 ae398a]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[Personalization preference expansion - trend-aware photo recommendation signals]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[about.fb.com2024-instagram-trend-talk-indian-gen-z-are-trend-setters]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[adaptive preset start then customize]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[adobe 2026 creative trends]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[adobe flash basics]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[adobe lightroom presets mobile]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[adobe.comflash-photography-basics.html]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[ads.tiktok.comnext]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[authentic 8858b1]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[authentic c15de6]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[background motion energy]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[background saturation]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[blog.adobe.comfour-creative-trends-define-marketing-2026]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[blog.youtubeculture-trends-report-gen-z-multiformat-shorts-creator-pop-culture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[blog.youtubethe-future-of-youtube-2026]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[bright airy]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[bright airy clean 4f57d2]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[bright_airy]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[brightness contrast]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[burst candid timing]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[candid photo dump sequence]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[candid portrait]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[candid vs polished]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[carousel sequence selection]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[cinematic 9b82da]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[cinematic fashion energy]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[cinematic teal warm]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[color temperature]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[connectioneering shared emotion]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[cool cinematic]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[digital camera world retro flash]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[digitalcameraworld.comretro-cameras-are-making-a-comeback-bad-photography-is-trending-r...69bd1842]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[direct flash]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[direct flash controlled highlight]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[direct flash retro candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[edit strength]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit stylebright airy clean]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit stylecinematic teal warm]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit stylefilm look]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit styleflash on candid]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit styleflashy editorial candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[edit stylelocal color story]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit styleraw human documentary]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[edit stylewarm pink 2016 filter]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[evidenceadobe 2026 creative trends]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[evidenceadobe flash basics]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[evidenceadobe lightroom masking]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[evidenceadobe lightroom presets mobile]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[evidencedigital camera world retro flash]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[evidencenational geographic flash tips]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[evidencetiktok next 2026]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[evidencevogue fashion paparazzi]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[evidenceyoutube personally relevant pop culture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[film grain]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[film grain nostalgia]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[film look]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[film_grain]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[flash 84d9e9]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[flash c9d3f0]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[flash editorial]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[flash editorial energy]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[flash highlight control]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[flash on candid]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[flashy editorial candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[food glow texture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[general]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[grain amount]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[grain retro]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[highlights minus]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[identity story]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[image issuemotion blur]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[image issuered eye flash glare]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[local color story]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[local flavor place specificity]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[local texture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[local_story]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[low polish]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[low polish authentic]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[low retouch skin]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[low_retouch]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[meta instagram trend talk]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[motion blur 7d216d]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[national geographic flash tips]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[nationalgeographic.comflash-photo-tips]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[natural 4f6796]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[natural low edit]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[newsroom.tiktok.comintroducing-tiktok-next-2026-our-trend-forecast-for-marketers-for-the-year-ahead]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[nostalgic grain]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[on camera flash balance]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi flash aesthetic]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi flash candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi lofi fashion]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[paparazzi walking flash]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[paparazzi-style candid walking photo with on-camera flash energy and fashion editorial feel]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[parameterbackground saturation]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parametercolor temperature]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parameterflash highlight control]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[parametergrain amount]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parameterhighlights minus]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[parameterpreset amount]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parameterred eye skin glare cleanup]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[parametersubject mask exposure]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[parameterwarm pink tint]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[parameterwhites control]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[personal authentic low edit]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[personalization]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalcandid vs polished]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signaledit strength]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalgrain retro]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalplace story depth]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalplatform intent]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalskin texture retouch]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization signalwarmth coolness]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalization_preference_expansion]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[personalized]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[petapixel 2026 authenticity]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[petapixel.comgen-z-is-nostalgic-for-the-photo-aesthetic-of-2016]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[petapixel.comthe-top-five-photography-trends-of-2026]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[photo dump]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[photo dump bts sequence]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[photo dump story]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[photo_dump]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[place based storytelling]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[place story depth]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[platform crop variant]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[platform intent]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferencebright airy]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferencecinematic fashion energy]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[preferencecool cinematic]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferencefilm grain nostalgia]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferenceflash editorial]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preferenceflash editorial energy]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[preferencelow polish authentic]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[preferencenatural low edit]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preference_profile]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[preset amount]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[raw human documentary]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[reali tea unfiltered story]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[recommendation variantpaparazzi walking flash]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[recommendation variantpersonal authentic low edit]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[recommendation variantpersonalized]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[recommendation varianttrend]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[recommendation varianttrend flash candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[recommendation_variant]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[red eye flash glare]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[red eye skin glare cleanup]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[retro digital grain pink]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[retro_digital]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[saturation vibrance]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[scenariopaparazzi flash candid]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[short_form]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[skin texture retouch]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[street night or event]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[style recipeadaptive preset start then customize]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[style recipecandid photo dump sequence]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[style recipedirect flash controlled highlight]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[style recipeplatform crop variant]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[style reciperetro digital grain pink]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[style recipesubject mask skin protection]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[style_recipe]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[subject mask exposure]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[subject mask skin protection]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[techniqueburst candid timing]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[techniquecarousel sequence selection]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[techniqueon camera flash balance]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[techniquewalking candid timing]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[tiktok next 2026]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[trend]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[trend flash candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signal2016 filter nostalgia]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signalconnectioneering shared emotion]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signaldirect flash retro candid]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signallocal flavor place specificity]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signalpaparazzi flash aesthetic]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[trend signalpaparazzi lofi fashion]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend signalreali tea unfiltered story]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[trend_reranking]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[trusted_raw_trend_signal]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[vogue fashion paparazzi]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[vogue paparazzi campaigns]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[vogue.comdiggzy-miles-diggs-fashions-favorite-paparazzi]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[vogue.comhave-we-reached-peak-paparazzi-campaigns]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[walking candid timing]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[warm]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[warm glow]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[warm pink 2016 filter]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[warm pink tint]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[warmth coolness]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[whites control]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[youtube 2026 creator trends]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[youtube personally relevant pop culture]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[검증된 트렌드 신호]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[근거 a45877]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[근거 기반 개인화 축]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[반영한 외부 근거 59141f]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[밤거리에서 플래시가 터진 것처럼 즉흥적인 파파라치 느낌의 걷는 사진을 만들고 싶다]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[보정 레시피 27fd16]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[수집 목적 7c955a]] - document - raw/recommendation/personalization_preference_expansion.md
+- [[수집 목적 e70f5e]] - document - raw/trends/2026_authentic_flash_candid_styles.md
+- [[시나리오 수정 포인트 7c443f]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[실패 방지  주의점 754040]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[촬영 레시피 b2e470]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[추천 시스템용 요약 9148cf]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed 6bdc85]] - document - raw/scenarios/paparazzi_flash_candid.md
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed eaba4a]] - document - raw/scenarios/paparazzi_flash_candid.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Trends_&_Recipes_3
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 7 edges to [[_COMMUNITY_Trends & Recipes 25]]
+- 5 edges to [[_COMMUNITY_Trends & Recipes 8]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 17]]
+- 3 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 2 edges to [[_COMMUNITY_Evidence Sources]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 12]]
+- 2 edges to [[_COMMUNITY_Scenarios Sources]]
+- 1 edge to [[_COMMUNITY_Recommendation Sources]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 6]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 11]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 5]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 29]]
+
+## Top bridge nodes
+- [[Personalization preference expansion - trend-aware photo recommendation signals]] - degree 111, connects to 6 communities
+- [[2026 authentic flash candid styles - raw trend signal research]] - degree 104, connects to 5 communities
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed eaba4a]] - degree 46, connects to 3 communities
+- [[파파라치 플래시 캔디드 - 즉흥적인 패션 스트리트 무드 추천 seed 6bdc85]] - degree 11, connects to 1 community
+- [[recommendation variantpaparazzi walking flash]] - degree 10, connects to 1 community

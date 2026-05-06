@@ -1,0 +1,17 @@
+---
+source_file: "raw/scenarios/airport_departure_cinematic.md"
+type: "document"
+community: "Trends & Recipes 6"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes_6
+---
+
+# later.com/instagram-photo-dump-trend
+
+## Connections
+- [[공항 출국 시네마틱 - 게이트무빙워크수하물로 만드는 여행 출발컷 91e335]] - `SUPPORTED_BY` [EXTRACTED]
+- [[호텔 룸 미러 여행 OOTD - 객실 거울짐조명까지 정리하는 전신컷 ab44c6]] - `SUPPORTED_BY` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_6

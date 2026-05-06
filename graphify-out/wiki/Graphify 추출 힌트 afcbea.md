@@ -1,0 +1,16 @@
+---
+source_file: "raw/scenarios/glossy_product_reflection_control.md"
+type: "document"
+community: "Scenarios Sources"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Scenarios_Sources
+---
+
+# Graphify 추출 힌트 [afcbea]
+
+## Connections
+- [[광택 제품·유리 소품 — 반사와 하이라이트를 통제하는 판매브랜드컷 2c337f]] - `HAS_SECTION` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Scenarios_Sources

@@ -10,6 +10,13 @@ scenario_tags:
   - "portrait"
   - "no-flash"
   - "mixed-light"
+aliases:
+  - "전시회 인물"
+  - "미술관 사진"
+  - "작품 앞 인물"
+  - "플래시 금지"
+  - "실내 조명 인물"
+  - "갤러리 프로필"
 query_aliases:
   - "전시회 인물"
   - "미술관 사진"
@@ -65,7 +72,7 @@ urls:
 - 전시 작품 촬영 규칙과 저작권/플래시 금지를 확인한다.
 - 작품이 인물 머리 뒤로 튀어나오면 산만하다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -117,7 +124,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://assets.rafmuseum.org.uk/app/uploads/2023/08/Photography-Resources.pdf
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

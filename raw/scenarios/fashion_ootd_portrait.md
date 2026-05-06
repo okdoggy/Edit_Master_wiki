@@ -4,6 +4,12 @@ category: "scenarios"
 content_type: "graphify_ready_actionable_recipe"
 updated_at: "2026-04-17"
 scenario_tags: ["fashion", "ootd", "portrait", "full-body", "instagram"]
+aliases:
+  - "골목 OOTD"
+  - "전신 사진 다리 짧아보임"
+  - "옷 색 살리는 사진"
+  - "패션 전신 인물"
+  - "full body outfit portrait"
 graph_nodes:
   - "subject:person"
   - "subject:fashion_outfit"
@@ -55,6 +61,19 @@ urls:
 
 - 광각을 너무 가까이서 쓰면 신체 비율이 무너진다.
 - 옷 색을 살리다가 피부가 과포화되지 않게 한다.
+
+## 근거
+
+### 반영한 외부 근거
+
+- Adobe Express 인물 사진 가이드는 스마트폰 인물에서 빛, 포즈, 배경 정리를 함께 다루는 근거를 제공한다.
+- Google Pixel 프로필/ID 사진 팁과 Samsung 프로필 사진 가이드는 얼굴·몸 정렬과 배경 단순화를 촬영 단계에서 해결하는 방향을 뒷받침한다.
+- Apple selfie/portrait 문서와 Adobe masking/color 자료는 렌즈·인물 분리·옷 색 보정을 분리하는 공식 근거다.
+
+### 시나리오 수정 포인트
+
+- OOTD는 인물 미용 보정보다 비율, 수직선, 옷 색 재현을 먼저 최적화한다.
+- 개인화는 clean influencer, film, warm street 등 피드 스타일에 맞춰 색 강도를 조정한다.
 
 ## Graphify 추출 힌트
 

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "a01_receipt_readable_or_aesthetic",
+    "language": "en",
+    "difficulty": "ambiguous_in_graph",
+    "query": "I took a cafe receipt photo for later reference, but I also want it to keep the relaxed table-memory aesthetic.",
+    "primary_expected_scenario": "scenario_document_scan_correction",
+    "expected_scenarios": [
+      "scenario_document_scan_correction",
+      "scenario_receipt_memory_flatlay",
+      "scenario_cafe_flatlay_dessert"
+    ],
+    "intent": "문서적 영수증 보정과 감성 영수증샷이 겹치는 케이스."
+  },
+  {
+    "id": "a02_paparazzi_or_ootd",
+    "language": "ko",
+    "difficulty": "ambiguous_in_graph",
+    "query": "야간 거리에서 옷 사진을 찍고 싶은데, 포즈 잡은 OOTD보다 플래시 터진 순간 포착 스트리트컷처럼 보였으면 해.",
+    "primary_expected_scenario": "scenario_paparazzi_flash_candid",
+    "expected_scenarios": [
+      "scenario_paparazzi_flash_candid",
+      "scenario_fashion_ootd_portrait",
+      "scenario_rain_neon_street_portrait"
+    ],
+    "intent": "파파라치 플래시와 OOTD/네온 거리 인물이 겹치는 케이스."
+  },
+  {
+    "id": "a03_cave_or_indoor_party_lowlight",
+    "language": "ko",
+    "difficulty": "ambiguous_in_graph",
+    "query": "어두운 동굴 내부에서 친구들이랑 찍은 사진인데 얼굴이 약간 흔들리고 조명이 주황빛으로 치우쳐. 여행 분위기는 유지하고 싶어.",
+    "primary_expected_scenario": "scenario_cave_low_light_travel_portrait",
+    "expected_scenarios": [
+      "scenario_cave_low_light_travel_portrait",
+      "scenario_indoor_party_group",
+      "scenario_concert_stage_low_light"
+    ],
+    "intent": "동굴 저조도와 실내 파티/공연 저조도가 겹치는 케이스."
+  },
+  {
+    "id": "a04_aerial_or_architecture_graphic",
+    "language": "en",
+    "difficulty": "ambiguous_in_graph",
+    "query": "I want a high-angle outdoor scene where people look tiny, lines feel clean, and the colors are minimal, almost architectural.",
+    "primary_expected_scenario": "scenario_trendy_aerial_beach_minimal",
+    "expected_scenarios": [
+      "scenario_trendy_aerial_beach_minimal",
+      "scenario_architecture_interior_wide",
+      "scenario_golden_hour_travel_scale"
+    ],
+    "intent": "항공/탑다운과 건축/여행 스케일이 겹치는 케이스."
+  },
+  {
+    "id": "a05_profile_or_dating_or_skin",
+    "language": "ko",
+    "difficulty": "ambiguous_in_graph",
+    "query": "프로필 사진으로 쓰려는데 피부는 자연스럽고 뒤 배경은 깔끔했으면 해. 소개팅 앱에도 괜찮지만 셀카처럼 너무 가볍진 않았으면 좋겠어.",
+    "primary_expected_scenario": "scenario_dating_profile_natural_portrait",
+    "expected_scenarios": [
+      "scenario_dating_profile_natural_portrait",
+      "scenario_selfie_profile_portrait",
+      "scenario_portrait_skin_tone_2026"
+    ],
+    "intent": "데이팅 프로필 대 일반 프로필 피부톤 보정이 겹치는 케이스."
+  },
+  {
+    "id": "a06_group_travel_or_landmark",
+    "language": "ko",
+    "difficulty": "ambiguous_in_graph",
+    "query": "관광 명소에서 친구들이랑 단체 셀카를 찍었는데 끝쪽 얼굴이 퍼져 보이고 뒤 사람들도 너무 많이 보여.",
+    "primary_expected_scenario": "scenario_group_travel_selfie",
+    "expected_scenarios": [
+      "scenario_group_travel_selfie",
+      "scenario_crowded_landmark_portrait",
+      "scenario_group_best_face_gathering"
+    ],
+    "intent": "단체 여행 셀피와 랜드마크 인물/그룹샷이 겹치는 케이스."
+  },
+  {
+    "id": "a07_food_or_receipt_or_story",
+    "language": "en",
+    "difficulty": "ambiguous_in_graph",
+    "query": "There is dessert, a receipt, and a small written note on the cafe table. The food should look nice, but the keepsake details matter more.",
+    "primary_expected_scenario": "scenario_receipt_memory_flatlay",
+    "expected_scenarios": [
+      "scenario_receipt_memory_flatlay",
+      "scenario_cafe_flatlay_dessert",
+      "scenario_cafe_drink_dessert_closeup"
+    ],
+    "intent": "음식 플랫레이와 영수증 기록 디테일이 겹치는 케이스."
+  },
+  {
+    "id": "a08_action_or_pets_kids",
+    "language": "ko",
+    "difficulty": "ambiguous_in_graph",
+    "query": "아이가 자전거로 지나가는 순간을 찍고 싶은데 얼굴은 선명하고 배경만 살짝 흐르는 모션 느낌이면 좋겠어.",
+    "primary_expected_scenario": "scenario_action_pan_runner_cyclist",
+    "expected_scenarios": [
+      "scenario_action_pan_runner_cyclist",
+      "scenario_pets_children_action"
+    ],
+    "intent": "액션 패닝과 아이/반려동물 순간포착이 겹치는 케이스."
+  },
+  {
+    "id": "a09_airplane_window_or_sunset_travel",
+    "language": "ko",
+    "difficulty": "ambiguous_new_raw_overlap",
+    "query": "비행기 창문 너머 노을과 날개를 찍었는데 유리 반짝임과 뿌연 느낌이 있어. 여행 스냅 감성은 살리고 싶어.",
+    "primary_expected_scenario": "scenario_airplane_window_travel_view",
+    "expected_scenarios": [
+      "scenario_airplane_window_travel_view",
+      "scenario_backlit_silhouette_sunset",
+      "scenario_golden_hour_travel_scale"
+    ],
+    "intent": "노을/여행으로 기존 골든아워와 비슷해질 수 있는 항공 창문 gap."
+  },
+  {
+    "id": "a10_gym_mirror_or_ootd",
+    "language": "en",
+    "difficulty": "ambiguous_new_raw_overlap",
+    "query": "A gym progress mirror photo needs to show body shape and outfit line, but fluorescent lighting and smudges make it look harsh.",
+    "primary_expected_scenario": "scenario_gym_mirror_fitness_progress",
+    "expected_scenarios": [
+      "scenario_gym_mirror_fitness_progress",
+      "scenario_mirror_selfie_ootd",
+      "scenario_fashion_ootd_portrait"
+    ],
+    "intent": "거울/OOTD로 비슷해질 수 있는 헬스장 프로그레스 gap."
+  },
+  {
+    "id": "a11_car_dashboard_or_neon",
+    "language": "ko",
+    "difficulty": "ambiguous_new_raw_overlap",
+    "query": "차 안에서 대시보드 조명으로 얼굴을 담았는데 야간 무드는 괜찮지만 앞유리 반사와 얼굴 어둠이 문제야.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_car_interior_dashboard_night_portrait",
+    "max_top_score": 2.5,
+    "intent": "네온/유리 반사/야간 인물로 비슷해질 수 있는 차 안 gap."
+  },
+  {
+    "id": "a12_desk_setup_or_product_flatlay",
+    "language": "en",
+    "difficulty": "ambiguous_heldout_gap",
+    "query": "My desk photo with a laptop, keyboard, coffee, and cables should feel like a productivity thumbnail rather than a product sale image.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_desk_setup_productivity_flatlay",
+    "max_top_score": 2.5,
+    "intent": "제품/플랫레이로 비슷해질 수 있는 데스크 셋업 gap."
+  },
+  {
+    "id": "a13_graduation_or_group_landmark",
+    "language": "ko",
+    "difficulty": "ambiguous_heldout_gap",
+    "query": "졸업식장에서 학사모 개인 사진도 필요하고 가족 단체 사진도 찍어야 하는데 햇빛이 세고 배경 인파가 많아.",
+    "primary_expected_scenario": "scenario_graduation_ceremony_portrait",
+    "expected_scenarios": [
+      "scenario_graduation_ceremony_portrait",
+      "scenario_group_best_face_gathering",
+      "scenario_crowded_landmark_portrait"
+    ],
+    "intent": "그룹/랜드마크로 비슷해질 수 있는 졸업식 이벤트 gap."
+  },
+  {
+    "id": "a14_hotel_breakfast_or_cafe_flatlay",
+    "language": "en",
+    "difficulty": "ambiguous_new_raw_overlap",
+    "query": "A hotel-room breakfast tray with pajamas and window light should read as a morning routine, not just another food flatlay.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_hotel_room_morning_routine",
+    "max_top_score": 2.5,
+    "intent": "카페 음식 플랫레이로 비슷해질 수 있는 호텔 모닝 루틴 gap."
+  },
+  {
+    "id": "a15_hair_color_or_skin_tone",
+    "language": "ko",
+    "difficulty": "ambiguous_heldout_gap",
+    "query": "미용실 염색 후 사진에서 머리 컬러는 정확해야 하는데 피부가 오렌지색으로 뜨면 곤란해.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_hair_salon_color_after_photo",
+    "max_top_score": 2.5,
+    "intent": "피부톤 보정으로 비슷해질 수 있는 헤어 컬러 애프터 gap."
+  },
+  {
+    "id": "a16_photo_booth_or_document_scan",
+    "language": "en",
+    "difficulty": "ambiguous_heldout_gap",
+    "query": "I photographed a printed photo-booth strip with my phone. I want reduced glare and straighter edges, while keeping it cute for stories.",
+    "primary_expected_scenario": "scenario_photo_booth_flash_portrait",
+    "expected_scenarios": [
+      "scenario_photo_booth_flash_portrait",
+      "scenario_document_scan_correction",
+      "scenario_receipt_memory_flatlay"
+    ],
+    "intent": "문서 스캔으로 비슷해질 수 있는 포토부스 재촬영 gap."
+  }
+]

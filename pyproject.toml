@@ -1,0 +1,19 @@
+[project]
+name = "edit-master-wiki"
+version = "0.4"
+description = "Harness for the Edit Master photo-coach wiki and recommender runtime."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "graphifyy==0.5.0",
+]
+
+[project.scripts]
+edit-master = "edit_master.cli:main"
+
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["edit_master", "scripts"]

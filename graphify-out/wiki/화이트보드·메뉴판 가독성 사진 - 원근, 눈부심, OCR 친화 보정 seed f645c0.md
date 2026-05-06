@@ -1,0 +1,82 @@
+---
+source_file: "raw/scenarios/whiteboard_menu_readability_photo.md"
+type: "document"
+community: "Trends & Recipes 13"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes_13
+---
+
+# 화이트보드·메뉴판 가독성 사진 - 원근, 눈부심, OCR 친화 보정 seed [f645c0]
+
+## Connections
+- [[adobe lightroom perspective]] - `USES_CONCEPT` [EXTRACTED]
+- [[adobe.comperspective-correction]] - `SUPPORTED_BY` [EXTRACTED]
+- [[apple live text camera]] - `USES_CONCEPT` [EXTRACTED]
+- [[apple notes scan documents]] - `USES_CONCEPT` [EXTRACTED]
+- [[classroom meeting restaurant]] - `IN_ENVIRONMENT` [EXTRACTED]
+- [[clean utility capture]] - `FOLLOWS_TREND` [EXTRACTED]
+- [[contrast clarity for text]] - `SETS_PARAMETER` [EXTRACTED]
+- [[edit stylelegible text capture]] - `USES_CONCEPT` [EXTRACTED]
+- [[evidenceadobe lightroom perspective]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidenceapple live text camera]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidenceapple notes scan documents]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidencegoogle drive document scan]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidencemicrosoft onedrive whiteboard scan]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidencesamsung document scan]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[glare]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[glare angle control]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[google drive document scan]] - `USES_CONCEPT` [EXTRACTED]
+- [[guided upright corners]] - `SETS_PARAMETER` [EXTRACTED]
+- [[highlight glare reduction]] - `SETS_PARAMETER` [EXTRACTED]
+- [[image issuemenu dim light noise]] - `USES_CONCEPT` [EXTRACTED]
+- [[image issueskewed perspective]] - `USES_CONCEPT` [EXTRACTED]
+- [[image issuesmall low contrast text]] - `USES_CONCEPT` [EXTRACTED]
+- [[image issuewhiteboard glare hotspot]] - `USES_CONCEPT` [EXTRACTED]
+- [[legible text capture]] - `SUPPORTS_STYLE` [EXTRACTED]
+- [[menu]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[menu dim light noise]] - `USES_CONCEPT` [EXTRACTED]
+- [[menu text shareable photo]] - `USES_CONCEPT` [EXTRACTED]
+- [[microsoft onedrive whiteboard scan]] - `USES_CONCEPT` [EXTRACTED]
+- [[natural context record]] - `MATCHES_PREFERENCE` [EXTRACTED]
+- [[ocr]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[ocr live text check]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[parallel centered capture]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[parametercontrast clarity for text]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[parameterguided upright corners]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[parameterhighlight glare reduction]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[perspective]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[perspective glare readability]] - `USES_STYLE_RECIPE` [EXTRACTED]
+- [[photo of a whiteboard or menu text needs perspective correction, glare control, and readable OCR]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+- [[preferencenatural context record]] - `USES_CONCEPT` [EXTRACTED]
+- [[preferenceshareable notes]] - `USES_CONCEPT` [EXTRACTED]
+- [[readability b16c47]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[readable whiteboard capture]] - `USES_CONCEPT` [EXTRACTED]
+- [[recommendation variantmenu text shareable photo]] - `USES_CONCEPT` [EXTRACTED]
+- [[recommendation variantreadable whiteboard capture]] - `USES_CONCEPT` [EXTRACTED]
+- [[samsung document scan]] - `USES_CONCEPT` [EXTRACTED]
+- [[samsung.comANS10003696]] - `SUPPORTED_BY` [EXTRACTED]
+- [[scan]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[scan mode document whiteboard]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[scenariowhiteboard menu readability photo]] - `USES_CONCEPT` [EXTRACTED]
+- [[shareable notes]] - `MATCHES_PREFERENCE` [EXTRACTED]
+- [[skewed perspective]] - `USES_CONCEPT` [EXTRACTED]
+- [[small low contrast text]] - `USES_CONCEPT` [EXTRACTED]
+- [[support.apple.comios 9e5e25]] - `SUPPORTED_BY` [EXTRACTED]
+- [[support.apple.comios e70060]] - `SUPPORTED_BY` [EXTRACTED]
+- [[support.google.com3145835]] - `SUPPORTED_BY` [EXTRACTED]
+- [[support.microsoft.comscan-a-whiteboard-document-business-card-or-photo-in-onedrive-for-...9f870298]] - `SUPPORTED_BY` [EXTRACTED]
+- [[techniqueglare angle control]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[techniqueocr live text check]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[techniqueparallel centered capture]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[techniquescan mode document whiteboard]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[trend signalclean utility capture]] - `USES_CONCEPT` [EXTRACTED]
+- [[whiteboard]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[whiteboard glare hotspot]] - `USES_CONCEPT` [EXTRACTED]
+- [[whiteboard menu readability photo]] - `USES_CONCEPT` [EXTRACTED]
+- [[whiteboard or menu text]] - `HAS_SUBJECT` [EXTRACTED]
+- [[화이트보드·메뉴판 가독성 사진 - 원근, 눈부심, OCR 친화 보정 seed 3f380c]] - `DESCRIBES_SCENARIO` [EXTRACTED]
+- [[화이트보드나 메뉴판을 찍었는데 비스듬하고 반사가 생겨서 글자가 잘 안 읽혀요]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_13

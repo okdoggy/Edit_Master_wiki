@@ -10,6 +10,12 @@ scenario_tags:
   - "birthday"
   - "low-light"
   - "motion"
+aliases:
+  - "실내 생일파티 사진"
+  - "케이크 촛불 단체"
+  - "어두운 방 단체사진"
+  - "모임 사진 흐림"
+  - "파티 사진 보정"
 query_aliases:
   - "실내 생일파티 사진"
   - "케이크 촛불 단체"
@@ -64,7 +70,7 @@ urls:
 - 긴 노출은 웃는 표정과 손동작을 흐리게 만든다.
 - 단체에 Portrait blur를 과하게 쓰면 일부 얼굴이 흐려질 수 있다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -113,7 +119,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://blog.google/products-and-platforms/devices/pixel/take-holiday-photos-night-sight-portrait-mode/
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment

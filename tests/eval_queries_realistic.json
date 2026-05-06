@@ -1,0 +1,218 @@
+[
+  {
+    "id": "r01_ko_document_contract_clean",
+    "language": "ko",
+    "difficulty": "realistic_in_graph_practical",
+    "query": "휴대폰으로 계약서를 촬영했는데 종이가 비스듬하고 가장자리에 그림자가 생겨서 글씨가 흐려 보여. 문서 스캔처럼 읽기 좋게 만들고 싶어.",
+    "expected_scenario": "scenario_document_scan_correction",
+    "intent": "이미 source-backed raw가 있는 문서 스캔 보정."
+  },
+  {
+    "id": "r02_en_receipt_story",
+    "language": "en",
+    "difficulty": "realistic_in_graph_trend",
+    "query": "I want a casual cafe receipt snapshot with coffee and my hand visible, but it should feel intentionally arranged rather than messy.",
+    "expected_scenario": "scenario_receipt_memory_flatlay",
+    "intent": "이미 source-backed raw가 있는 영수증샷/포토덤프."
+  },
+  {
+    "id": "r03_ko_dating_profile_low_retouch",
+    "language": "ko",
+    "difficulty": "realistic_in_graph_profile",
+    "query": "데이팅 앱용 프로필 사진을 고르는데 얼굴은 밝고 배경은 깔끔했으면 해. 피부는 매끈하게 밀기보다 실제 질감이 조금 남았으면 좋겠어.",
+    "expected_scenario": "scenario_dating_profile_natural_portrait",
+    "intent": "이미 source-backed raw가 있는 데이팅 프로필."
+  },
+  {
+    "id": "r04_en_aerial_pool_balcony",
+    "language": "en",
+    "difficulty": "realistic_in_graph_trend",
+    "query": "From above a pool area, I want a drone-like top-down look with small people, neat lines, and soft clean blues.",
+    "expected_scenario": "scenario_trendy_aerial_beach_minimal",
+    "intent": "이미 source-backed raw가 있는 항공/탑다운 시나리오."
+  },
+  {
+    "id": "r05_ko_cave_face_texture",
+    "language": "ko",
+    "difficulty": "realistic_in_graph_practical",
+    "query": "석회동굴 여행 사진에서 얼굴은 어둡고 조명 색은 너무 따뜻하게 치우쳤어. 바위 질감은 남기면서 거친 노이즈를 줄이고 싶어.",
+    "expected_scenario": "scenario_cave_low_light_travel_portrait",
+    "intent": "이미 source-backed raw가 있는 동굴 저조도 시나리오."
+  },
+  {
+    "id": "r06_en_paparazzi_flash_walk",
+    "language": "en",
+    "difficulty": "realistic_in_graph_trend",
+    "query": "For a night street outfit photo, I want that caught-by-flash paparazzi energy, not a carefully posed outfit picture.",
+    "expected_scenario": "scenario_paparazzi_flash_candid",
+    "intent": "이미 source-backed raw가 있는 파파라치 플래시 시나리오."
+  },
+  {
+    "id": "r07_ko_ootd_landmark_balance",
+    "language": "ko",
+    "difficulty": "realistic_in_graph_overlap",
+    "query": "관광 명소에서 OOTD를 찍었는데 옷도 보여야 하고 장소감도 살아야 해. 사람이 작아 보이거나 뒤 인파가 주인공처럼 보이지 않았으면 해.",
+    "expected_scenario": "scenario_crowded_landmark_portrait",
+    "intent": "기존 여행/랜드마크 인물 시나리오."
+  },
+  {
+    "id": "r08_en_restaurant_food_low_light",
+    "language": "en",
+    "difficulty": "realistic_in_graph_practical",
+    "query": "The pasta I shot in a dim restaurant looks flat and too yellow. I want a warm appetizing edit without using flash.",
+    "expected_scenario": "scenario_dim_restaurant_food",
+    "intent": "기존 어두운 레스토랑 음식 시나리오."
+  },
+  {
+    "id": "r09_ko_museum_no_flash_portrait",
+    "language": "ko",
+    "difficulty": "realistic_in_graph_practical",
+    "query": "미술관 전시 공간에서 친구 사진을 찍었는데 플래시는 못 쓰고 조명 색이 섞여 피부가 이상해 보여. 차분하게 정리하고 싶어.",
+    "expected_scenario": "scenario_museum_gallery_portrait",
+    "intent": "기존 미술관/전시장 인물 시나리오."
+  },
+  {
+    "id": "r10_en_flower_macro_bokeh",
+    "language": "en",
+    "difficulty": "realistic_in_graph_practical",
+    "query": "I made a close flower shot with nice color, but the focus is slightly missed and the bokeh behind it feels busy.",
+    "expected_scenario": "scenario_flower_macro_bokeh",
+    "intent": "기존 꽃 매크로 시나리오."
+  },
+  {
+    "id": "r11_ko_four_cut_photo_booth",
+    "language": "ko",
+    "difficulty": "realistic_new_raw_trend",
+    "query": "포토부스 네컷 출력 사진을 폰으로 재촬영했는데 광택 반사가 생기고 종이가 휘어 보여. 스토리용으로 귀엽고 깔끔하게 올리고 싶어.",
+    "expected_scenario": "scenario_photo_booth_flash_portrait",
+    "intent": "네컷사진/포토부스 재촬영은 아직 독립 raw가 없는 현실적 트렌드 gap."
+  },
+  {
+    "id": "r12_en_airplane_window_sunset",
+    "language": "en",
+    "difficulty": "realistic_new_raw_travel",
+    "query": "I took a plane-window sunset photo where the wing and sky colors are nice, but glass glare and haze make the image look dull.",
+    "expected_scenario": "scenario_airplane_window_travel_view",
+    "intent": "비행기 창문 노을/반사/헤이즈는 아직 독립 raw가 없는 여행 gap."
+  },
+  {
+    "id": "r13_ko_gym_mirror_progress",
+    "language": "ko",
+    "difficulty": "realistic_new_raw_lifestyle",
+    "query": "운동 끝나고 헬스장 거울로 몸 라인 사진을 찍었는데 형광등이 거칠고 거울 자국도 보여. 보정 티 나지 않게 정돈하고 싶어.",
+    "expected_scenario": "scenario_gym_mirror_fitness_progress",
+    "intent": "헬스장 거울/피트니스 프로그레스는 OOTD/거울 셀피와 겹치지만 별도 raw가 필요."
+  },
+  {
+    "id": "r14_en_car_dashboard_night",
+    "language": "en",
+    "difficulty": "heldout_gap_lifestyle",
+    "query": "Inside a parked car after dark, the dashboard light feels cinematic, but my face is too dark and windshield reflections are distracting.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_car_interior_dashboard_night_portrait",
+    "max_top_score": 2.5,
+    "intent": "차 안 대시보드 조명/유리 반사는 아직 독립 raw가 없는 야간 인물 gap."
+  },
+  {
+    "id": "r15_ko_desk_setup_productivity",
+    "language": "ko",
+    "difficulty": "heldout_gap_lifestyle",
+    "query": "책상 위 노트북, 키보드, 커피를 찍었는데 전선이 복잡하고 모니터 반사가 보여. 생산성 영상 썸네일처럼 깔끔하게 만들고 싶어.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_desk_setup_productivity_flatlay",
+    "max_top_score": 2.5,
+    "intent": "데스크 셋업/생산성 썸네일은 제품/플랫레이와 겹치지만 별도 raw가 없음."
+  },
+  {
+    "id": "r16_en_graduation_cap_gown",
+    "language": "en",
+    "difficulty": "realistic_new_raw_event",
+    "query": "At graduation, I need a clean cap-and-gown portrait and a family group shot, but the midday sun is harsh and the background is crowded.",
+    "expected_scenario": "scenario_graduation_ceremony_portrait",
+    "intent": "졸업식 학사모/계례 이벤트는 아직 독립 raw가 없음."
+  },
+  {
+    "id": "r17_ko_hotel_room_morning_routine",
+    "language": "ko",
+    "difficulty": "heldout_gap_trend",
+    "query": "호텔방 침대 조식 트레이와 잠옷, 창가 빛을 같이 찍어서 아침 루틴처럼 보이고 싶어. 너무 연출된 광고 사진 같지는 않았으면 해.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_hotel_room_morning_routine",
+    "max_top_score": 2.5,
+    "intent": "호텔 룸서비스/모닝 루틴은 카페 플랫레이와 겹치지만 별도 raw가 없음."
+  },
+  {
+    "id": "r18_en_hair_salon_color_after",
+    "language": "en",
+    "difficulty": "realistic_new_raw_beauty",
+    "query": "After a salon dye job, I want the indoor photo to show the new brown hair color correctly while keeping my skin from going orange.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_hair_salon_color_after_photo",
+    "max_top_score": 2.5,
+    "intent": "헤어 컬러 애프터 사진은 피부톤 인물과 겹치지만 별도 raw가 필요."
+  },
+  {
+    "id": "r19_ko_nail_art_closeup",
+    "language": "ko",
+    "difficulty": "heldout_gap_beauty",
+    "query": "손톱 아트 클로즈업을 찍었는데 손 피부가 빨갛고 젤 네일 반짝임이 과해. 실제 색은 맞고 손은 자연스럽게 보였으면 해.",
+    "expected_scenario": "scenario_beauty_makeup_nail_closeup",
+    "intent": "네일아트/손 클로즈업은 제품/매크로와 겹치지만 별도 raw가 없음."
+  },
+  {
+    "id": "r20_en_bookstore_reading_portrait",
+    "language": "en",
+    "difficulty": "realistic_new_raw_lifestyle",
+    "query": "In a book cafe, I want a quiet portrait with shelves in the background, but the warm indoor lights make everything too yellow.",
+    "expected_scenario": "scenario_bookstore_library_reading_portrait",
+    "intent": "서점/북카페 라이프스타일 인물은 카페 창가/프로필과 겹치지만 별도 raw가 없음."
+  },
+  {
+    "id": "r21_ko_train_window_motion",
+    "language": "ko",
+    "difficulty": "heldout_gap_travel",
+    "query": "열차 안 좌석 옆에서 사람과 창밖 풍경을 같이 담았는데 창문 반사가 있고 밖은 흐려졌어. 여행 기록 느낌으로 살리고 싶어.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_train_window_motion_travel_snap",
+    "max_top_score": 2.5,
+    "intent": "기차 창문/이동감 여행 스냅은 아직 독립 raw가 없음."
+  },
+  {
+    "id": "r22_en_picnic_blanket_flatlay",
+    "language": "en",
+    "difficulty": "heldout_gap_lifestyle",
+    "query": "A picnic mat with fruit, a book, sunglasses, and hands should look relaxed and summery, not like a product catalog arrangement.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_picnic_blanket_summer_flatlay",
+    "max_top_score": 2.5,
+    "intent": "피크닉 플랫레이는 카페/음식 플랫레이와 겹치지만 별도 raw가 없음."
+  },
+  {
+    "id": "r23_ko_linkedin_headshot_home",
+    "language": "ko",
+    "difficulty": "heldout_gap_profile",
+    "query": "집에서 흰 벽을 배경으로 LinkedIn 헤드샷을 찍었는데 그림자가 진하고 정장 색이 탁해 보여. 전문적이되 증명사진처럼 딱딱하진 않았으면 해.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_linkedin_professional_headshot_home",
+    "max_top_score": 2.5,
+    "intent": "비즈니스 헤드샷은 데이팅/일반 프로필과 목적이 달라 별도 raw 필요."
+  },
+  {
+    "id": "r24_en_birthday_balloon_party",
+    "language": "en",
+    "difficulty": "heldout_gap_event",
+    "query": "A birthday scene with balloons, cake, and friends has messy room details and mixed LED colors, but I want it to feel bright and celebratory.",
+    "expected_behavior": "candidate_gap",
+    "expected_scenario": null,
+    "candidate_scenario": "scenario_birthday_balloon_party_bright",
+    "max_top_score": 2.5,
+    "intent": "생일 풍선/밝은 파티는 촛불 케이크/실내 파티와 겹치지만 별도 raw가 부족."
+  }
+]

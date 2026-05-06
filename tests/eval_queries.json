@@ -1,0 +1,80 @@
+[
+  {
+    "id": "01_cafe_window_portrait",
+    "query": "카페 창문 근처에서 프로필 느낌으로 친구를 찍었는데 한쪽 얼굴만 그늘지고 뒤 테이블도 정리가 안 돼 보여요. 다시 찍는다면 자리와 보정 순서를 어떻게 잡을까요?",
+    "expected_scenario": "scenario_window_light_cafe_portrait",
+    "intent": "창가 인물, 얼굴 노출, 배경 정리, 자연스러운 프로필"
+  },
+  {
+    "id": "02_rain_neon_couple",
+    "query": "젖은 밤거리 네온 사인 앞에서 둘이 찍은 사진인데 인물은 죽고 간판 색만 튀어요. 트렌디한 무드는 남기면서 얼굴을 살릴 방법이 있을까요?",
+    "expected_scenario": "scenario_rain_neon_street_portrait",
+    "intent": "비 네온/야간 인물, 얼굴 보정, moody cinematic"
+  },
+  {
+    "id": "03_dim_restaurant_food",
+    "query": "어두운 다이닝 공간에서 파스타를 찍었는데 노란 기가 돌고 약간 흔들려 보여요. 플래시 없이 맛있어 보이게 촬영하고 보정하려면 어떻게 해야 해요?",
+    "expected_scenario": "scenario_dim_restaurant_food",
+    "intent": "음식 저조도, 화이트밸런스, 질감, 플래시 회피"
+  },
+  {
+    "id": "04_noon_beach_portrait",
+    "query": "한낮 바다 앞에서 인물 사진을 찍으면 얼굴 그림자가 세고 하늘이 하얗게 날아가요. 렌즈 선택과 보정 순서를 어떻게 잡는 게 좋을까요?",
+    "expected_scenario": "scenario_harsh_noon_beach_portrait",
+    "intent": "한낮 해변 인물, 강한 빛, 하늘/얼굴 균형"
+  },
+  {
+    "id": "05_ootd_alley",
+    "query": "좁은 골목에서 전신 패션 사진을 찍었는데 비율이 어색하고 옷보다 배경이 먼저 눈에 들어와요. 착장이 중심이 되게 찍는 법이 궁금해요.",
+    "expected_scenario": "scenario_fashion_ootd_portrait",
+    "intent": "패션 전신, 왜곡, 옷 시선, 배경 억제"
+  },
+  {
+    "id": "06_concert_stage",
+    "query": "콘서트 홀에서 멀리 있는 무대 인물을 폰으로 찍었는데 조명은 하얗게 터지고 얼굴은 뭉개져요. 그래도 살릴 수 있는 촬영/보정 팁이 있을까요?",
+    "expected_scenario": "scenario_concert_stage_low_light",
+    "intent": "무대 저조도, 망원, 하이라이트 보호, 노이즈"
+  },
+  {
+    "id": "07_snow_family",
+    "query": "설경에서 가족 사진을 찍었는데 흰 눈이 탁한 회색으로 나오고 얼굴도 생기가 없어 보여요. 겨울 느낌은 유지하면서 맑게 보정하고 싶어요.",
+    "expected_scenario": "scenario_snow_portrait_clean_winter",
+    "intent": "눈 겨울 인물, 화이트 WB, 얼굴 톤"
+  },
+  {
+    "id": "08_pet_running",
+    "query": "반려견이 달려오는 순간을 휴대폰으로 담고 싶은데 사진이 자꾸 흔들립니다. 생동감은 살리고 실패 컷은 줄이는 방법이 있을까요?",
+    "expected_scenario": "scenario_pets_children_action",
+    "intent": "반려동물 액션, 연사/영상, 눈높이, 흔들림 방지"
+  },
+  {
+    "id": "09_cafe_flatlay_dessert",
+    "query": "카페에서 커피와 디저트를 위에서 내려다보고 찍었는데 테이블 라인이 기울고 접시가 찌그러져 보여요. 깔끔한 플랫레이로 만들고 싶어요.",
+    "expected_scenario": "scenario_cafe_flatlay_dessert",
+    "intent": "플랫레이 음식, 그리드/수평, 1x/0.5x, 색감"
+  },
+  {
+    "id": "10_city_window_reflection",
+    "query": "도시 야경과 창문에 비친 빛을 같이 담았는데 유리 얼룩과 반사가 많아서 산만해요. 더 감성적인 밤 사진처럼 정리할 수 있을까요?",
+    "expected_scenario": "scenario_city_window_reflection",
+    "intent": "야경 반사/유리/네온, 창문의 반사, 하이라이트 제어"
+  },
+  {
+    "id": "11_backlit_hair_highlight",
+    "query": "인물 뒤쪽 빛 때문에 머리 가장자리만 번쩍거리고 너무 세 보여. 이런 테두리 하이라이트는 어디부터 줄이면 돼?",
+    "expected_scenario": "scenario_backlit_rim_light_portrait",
+    "intent": "역광 림라이트 인물, 머리 빛 과한 하이라이트, hair glow/rim light 제어"
+  },
+  {
+    "id": "12_backlit_face_dark_hair_clip",
+    "query": "뒤에서 빛을 받은 인물 사진인데 얼굴은 어둡고 머리카락 쪽 밝은 부분만 하얗게 떠버렸어. 자연스럽게 살릴 방법이 있을까?",
+    "expected_scenario": "scenario_backlit_rim_light_portrait",
+    "intent": "역광 림라이트 인물, 얼굴 암부 보정, 머리카락 하이라이트 클리핑"
+  },
+  {
+    "id": "13_rim_light_too_strong",
+    "query": "머리 주변 윤곽빛은 마음에 드는데 강도가 너무 높아서 사진이 날카로워 보여. 림라이트 무드는 유지하고 쨍함만 낮추려면 어떻게 해?",
+    "expected_scenario": "scenario_backlit_rim_light_portrait",
+    "intent": "림라이트 인물, 강한 테두리 빛, 하이라이트 완화"
+  }
+]

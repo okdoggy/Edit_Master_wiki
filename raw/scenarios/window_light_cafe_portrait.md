@@ -9,6 +9,12 @@ scenario_tags:
   - "portrait"
   - "influencer"
   - "soft-light"
+aliases:
+  - "카페 창가 인물"
+  - "창가 프로필 사진"
+  - "얼굴 한쪽 어두움"
+  - "배경 지저분 카페"
+  - "cafe window portrait"
 graph_nodes:
   - "subject:person"
   - "environment:cafe_window"
@@ -55,6 +61,19 @@ urls:
 
 - 창문 직사광은 코/눈 밑 그림자를 강하게 만든다.
 - 실내 조명+창빛 혼합은 WB가 어려워 RAW 권장.
+
+## 근거
+
+### 반영한 외부 근거
+
+- Adobe portrait lighting 자료는 창가처럼 방향성 있는 부드러운 빛을 인물에 적용하는 근거를 제공한다.
+- Apple Portrait 문서는 배경 흐림과 조명 효과 조절을, Adobe Lightroom masking/color 문서는 얼굴과 배경을 분리하는 후처리 근거를 제공한다.
+- National Geographic people tips와 Google Pixel 사진 팁은 인물 사진에서 배경 정리와 빛의 방향을 우선하는 접근을 보강한다.
+
+### 시나리오 수정 포인트
+
+- 창가 인물은 창문 45도 방향의 부드러운 빛과 배경 거리 확보를 우선한다.
+- 보정은 얼굴 노출, 피부 Texture, 배경 채도를 분리해 clean influencer 톤으로 조정한다.
 
 ## Graphify 추출 힌트
 

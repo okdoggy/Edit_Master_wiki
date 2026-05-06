@@ -9,6 +9,12 @@ scenario_tags:
   - "leaves"
   - "bokeh"
   - "nature"
+aliases:
+  - "꽃 접사"
+  - "잎사귀 매크로"
+  - "배경 흐림 꽃 사진"
+  - "초점 가까운 꽃"
+  - "flower macro bokeh"
 graph_nodes:
   - "subject:flower_or_leaf"
   - "environment:nature"
@@ -55,6 +61,19 @@ urls:
 
 - 너무 가까이 가면 초점 실패/렌즈 전환 발생.
 - 직사광 물방울은 하이라이트가 쉽게 날아감.
+
+## 근거
+
+### 반영한 외부 근거
+
+- Apple macro 문서는 가까운 피사체 촬영과 렌즈 전환 조건을 확인하는 공식 근거를 제공한다.
+- iPhone Photography School leaves 튜토리얼은 잎의 역광, 질감, 물방울, 단순한 배경을 활용하는 모바일 사진 근거다.
+- Adobe Lightroom masking/color 자료는 꽃·잎의 색과 배경 채도를 분리해 조정하는 후처리 근거다.
+
+### 시나리오 수정 포인트
+
+- 매크로는 가까이 가는 것보다 초점 성공, 부드러운 빛, 배경 거리 확보를 우선한다.
+- 초록/노랑 채도는 자연 질감을 해치지 않도록 subject/background를 분리해 조정한다.
 
 ## Graphify 추출 힌트
 

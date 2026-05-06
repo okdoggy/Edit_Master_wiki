@@ -1,0 +1,328 @@
+---
+type: community
+cohesion: 0.01
+members: 294
+---
+
+# Trends & Recipes
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 294 nodes
+
+## Members
+- [[48MP ProRAW — 큰 크롭출력용 풍경]] - document - raw/sns/austin_mann.md
+- [[Austin Mann]] - document - raw/sns/austin_mann.md
+- [[Austin Mann식 ProRAW — 극한 상황에서만 켜는 RAW 워크플로]] - document - raw/sns/austin_mann.md
+- [[Benjamin Lowy]] - document - raw/sns/benjamin_lowy.md
+- [[Brendan Ó Sé]] - document - raw/sns/brendan_o_se.md
+- [[COOPH]] - document - raw/youtube/cooph_youtube.md
+- [[COOPH — Rollworld식 뒤틀린 풍경]] - document - raw/youtube/cooph_youtube.md
+- [[COOPH — 집에서 찍는 여행 샷  미니어처 비행기]] - document - raw/youtube/cooph_youtube.md
+- [[DIY]] - document - raw/youtube/cooph_youtube.md
+- [[DNG]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[Digital Camera World — Mobile photography tips]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Dimpy Bhalotia]] - document - raw/sns/dimpy_bhalotia.md
+- [[Evan Ranft]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Evan Ranft — iPhone 카메라 기본 세팅 잠그기]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Mango Street]] - document - raw/youtube/mango_street_youtube.md
+- [[Mango Street — iPhone로 3분 미만 숏필름 만들기]] - document - raw/youtube/mango_street_youtube.md
+- [[National Geographic — Camera phone pictures]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Nicolai Ahn]] - document - raw/sns/nicolai_ahn.md
+- [[PetaPixel — 10 tips and tricks for better smartphone photos]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[RAW]] - document - raw/lightroom/adobe_edit_photos_mobile_ios.md
+- [[SNS ef79a4]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[SNS사진]] - document - raw/youtube/mango_street_youtube.md
+- [[Sam Youkilis]] - document - raw/sns/sam_youkilis.md
+- [[ShotOniPhone]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[TIME — Apple Instagram celebrates iPhone photographers]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 1. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때 d1053f]] - document - raw/youtube/cooph_youtube.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 0d359c]] - document - raw/sns/sam_youkilis.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 c2ebc1]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 1. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 ef9583]] - document - raw/sns/brendan_o_se.md
+- [[Tip 1. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 14438d]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 75a697]] - document - raw/sns/yoni_mayeri.md
+- [[Tip 1. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 caea26]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 1. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/dimpy_bhalotia.md
+- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 201f0e]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 9a6404]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Tip 1. 스마트폰으로 자연스러운 인물 사진을 찍을 때 e6c237]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 1. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 2de58e]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Tip 1. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 7161ed]] - document - raw/sns/austin_mann.md
+- [[Tip 1. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 7421c6]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 1590a5]] - document - raw/sns/tyler_stalman.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 b0ce31]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 ca5967]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 1. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 eb9dc9]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 319676]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 469e78]] - document - raw/sns/dimpy_bhalotia.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 cb452e]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 2. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 e43f7f]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 2. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때 1afe86]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 2. 꽃·음식·제품·작은 디테일을 스마트폰으로 크게 찍을 때 5af661]] - document - raw/sns/yoni_mayeri.md
+- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 b9e737]] - document - raw/sns/tyler_stalman.md
+- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 cd3460]] - document - raw/youtube/cooph_youtube.md
+- [[Tip 2. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 d1c13e]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 2. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/brendan_o_se.md
+- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 168031]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Tip 2. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 9fdc55]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 051bd3]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 9a3229]] - document - raw/sns/austin_mann.md
+- [[Tip 2. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때 b814c8]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 62142f]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 689ae2]] - document - raw/sns/sam_youkilis.md
+- [[Tip 2. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 c89333]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Tip 2. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 3. Jordi KoaliticCOOPH식 SNS용 창의적 트릭 사진을 만들 때]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 3. 거리·여행·일상에서 순간을 놓치지 않고 찍을 때 8a6eda]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 016cb9]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 4143f4]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 7fea82]] - document - raw/sns/dimpy_bhalotia.md
+- [[Tip 3. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 f24cc7]] - document - raw/sns/brendan_o_se.md
+- [[Tip 3. 빛·그림자·실루엣이 강한 장면을 작품처럼 만들 때]] - document - raw/sns/sam_youkilis.md
+- [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 df1e42]] - document - raw/sns/tyler_stalman.md
+- [[Tip 3. 스마트폰으로 자연스러운 인물 사진을 찍을 때 e3ba7e]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tip 3. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 4b9fe6]] - document - raw/sns/yoni_mayeri.md
+- [[Tip 3. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 c97ae3]] - document - raw/youtube/cooph_youtube.md
+- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 8309f5]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 3. 인물·제품은 살리고 배경은 정리하고 싶을 때 e4fbaa]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 3. 하늘이 하얗게 날아갔거나 노을 색이 밋밋할 때 4cb001]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 07a056]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 2faa4f]] - document - raw/sns/austin_mann.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 7500a1]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Tip 3. 후보정을 크게 할 사진을 찍을 때 — 노을, 야경, 실내, 공연, 역광 fa839f]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 4. 라이트룸 인기 프리셋Community 편집을 내 사진에 적용할 때 b9b372]] - document - raw/youtube/evan_ranft_youtube.md
+- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 61b641]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 9201f6]] - document - raw/sns/benjamin_lowy.md
+- [[Tip 4. 무엇을 찍어도 사진이 산만하고 초점밝기가 흔들릴 때 a95f05]] - document - raw/sns/austin_mann.md
+- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 82c38d]] - document - raw/sns/dimpy_bhalotia.md
+- [[Tip 4. 사진 전체 필터가 아니라 특정 색만 고치고 싶을 때 e0703b]] - document - raw/sns/yoni_mayeri.md
+- [[Tip 4. 스마트폰으로 자연스러운 인물 사진을 찍을 때 423535]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[Tip 4. 스마트폰으로 자연스러운 인물 사진을 찍을 때 f26a77]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[Tip 4. 아이폰으로 밤거리·실내 저조도·야경을 찍을 때]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[Tip 4. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 1830f6]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[Tip 4. 여행지·풍경·건축물을 스마트폰으로 고급스럽게 찍을 때 2141a2]] - document - raw/sns/brendan_o_se.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 0e7374]] - document - raw/youtube/mango_street_youtube.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 156eca]] - document - raw/youtube/cooph_youtube.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 34b906]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 3c802d]] - document - raw/sns/tyler_stalman.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 4e37da]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 60a54a]] - document - raw/sns/nicolai_ahn.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 69852d]] - document - raw/sns/sam_youkilis.md
+- [[Tip 4. 인스타그램·틱톡·블로그에 올릴 최종본을 만들 때 df2775]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman]] - document - raw/sns/tyler_stalman.md
+- [[Tyler Stalman YouTube]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — iPhone 영화 워크플로의 핵심 4b8308]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — iPhone 영화 워크플로의 핵심 dcb858]] - document - raw/sns/tyler_stalman.md
+- [[Tyler Stalman — 여행 슬로모 릴 빠른 제작 3a9ef2]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[Tyler Stalman — 여행 슬로모 릴 빠른 제작 46428a]] - document - raw/sns/tyler_stalman.md
+- [[Vogue Korea — Apple and seven artists with iPhone 15 Pro Max]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[Yoni Mayeri]] - document - raw/sns/yoni_mayeri.md
+- [[abcnews.go.comiphone-photo-of-hurricane-sandy-makes-the-cover-of-time]] - document - raw/sns/benjamin_lowy.md
+- [[austinmann.comiphone-14-pro-camera-review-scotland]] - document - raw/sns/austin_mann.md
+- [[austinmann.comiphone-proraw]] - document - raw/sns/austin_mann.md
+- [[austinmann.comiphone-xr-camera-review-grand-canyon]] - document - raw/sns/austin_mann.md
+- [[brendanose.cominstagram]] - document - raw/sns/brendan_o_se.md
+- [[brendanose.comshot-on-iphone-6-wins]] - document - raw/sns/brendan_o_se.md
+- [[continuingstudies.stanford.edu20252_PHOTO-32]] - document - raw/sns/yoni_mayeri.md
+- [[digitalcameraworld.commobile-photography-tips]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[dpreview.com2012-the-year-in-mobile-photography]] - document - raw/sns/benjamin_lowy.md
+- [[hypebeast.comapple-2020-iphone-photography-awards-winners-news]] - document - raw/sns/dimpy_bhalotia.md
+- [[iPhone Photography School  Emil Pakarklis]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[iPhone Photography School YouTube]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[iPhone Photography School — Portrait mode 거리와 Depth 조절 e1ecdc]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[iPhone Photography School — Portrait mode 거리와 Depth 조절 e5d02d]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[instagram.comaustinmann]] - document - raw/sns/austin_mann.md
+- [[instagram.comnikolaiahn]] - document - raw/sns/nicolai_ahn.md
+- [[instagram.comsamyoukilis]] - document - raw/sns/sam_youkilis.md
+- [[instagram.comstalman]] - document - raw/sns/tyler_stalman.md
+- [[instagram.comyoni_iphone_photography]] - document - raw/sns/yoni_mayeri.md
+- [[iphonejack.pro]] - document - raw/sns/austin_mann.md
+- [[iphonephotographyschool.comabout]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[iphonephotographyschool.combrendan-o-se]] - document - raw/sns/brendan_o_se.md
+- [[iphonephotographyschool.cominstagram-tips]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[iphonephotographyschool.comnight-sky]] - document - raw/magazine/apple_support_night_mode.md
+- [[iphonephotographyschool.comportraits]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[ippawards.com]] - document - raw/sns/dimpy_bhalotia.md
+- [[ippawards.com2015-winning-photographers]] - document - raw/sns/brendan_o_se.md
+- [[ippawards.com2020-winning-photographers]] - document - raw/sns/dimpy_bhalotia.md
+- [[mangostreetlab.comshotoniphone]] - document - raw/youtube/mango_street_youtube.md
+- [[minititle.comsam-youkilis]] - document - raw/sns/sam_youkilis.md
+- [[nikolaiahn.com]] - document - raw/sns/nicolai_ahn.md
+- [[olli.berkeley.eduAR_2022_23_FINAL.pdf]] - document - raw/sns/yoni_mayeri.md
+- [[olli.berkeley.eduiphoneography_olli_syllabus_2021_summer.pdf]] - document - raw/sns/yoni_mayeri.md
+- [[petapixel.com10-tips-and-tricks-for-shooting-better-smartphone-photos]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[santafeworkshops.comaustin-mann]] - document - raw/sns/austin_mann.md
+- [[shutterbug.com7-classic-smartphone-photography-tips-tricks-videos]] - document - raw/youtube/cooph_youtube.md
+- [[shutterbug.com7-smartphone-tips-shooting-photographs-will-make-you-proud-video]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[shutterbug.comheres-how-take-great-landscape-photos-your-smartphone-video]] - document - raw/youtube/cooph_youtube.md
+- [[shutterbug.commaking-most-your-iphone-camera-settings-workflow-more-video]] - document - raw/youtube/evan_ranft_youtube.md
+- [[shutterbug.comusing-iphones-night-mode-shoot-long-exposure-photos-video]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[sns 74fbcd]] - document - raw/sns/austin_mann.md
+- [[socialblade.comachievements]] - document - raw/youtube/evan_ranft_youtube.md
+- [[socialblade.comemilpakarklis]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[socialblade.comsubscribers]] - document - raw/youtube/mango_street_youtube.md
+- [[socialblade.comviews]] - document - raw/youtube/cooph_youtube.md
+- [[stalman.comBlog%20Post%20Title%20One-w6jys-p6zsc-4bsax-kn6km-z67b5-erclk-fjace-wtbdn-nlynj]] - document - raw/sns/tyler_stalman.md
+- [[stalman.comBlog%20Post%20Title%20One-w6jys-p6zsc-4bsax-kn6km-z67b5-erclk-fztsm]] - document - raw/sns/tyler_stalman.md
+- [[stalman.comcourse]] - document - raw/sns/tyler_stalman.md
+- [[store.cooph.comen-us]] - document - raw/youtube/cooph_youtube.md
+- [[store.cooph.comthis-landscape-photography-will-get-you-into-a-twist]] - document - raw/youtube/cooph_youtube.md
+- [[support.apple.com102519]] - document - raw/magazine/apple_support_night_mode.md
+- [[support.apple.comios bf9640]] - document - raw/magazine/apple_support_night_mode.md
+- [[tiktok.com@iphonephotographyschool]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[time.comapple-instagram-account]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[time.comin-the-eye-of-the-storm-capturing-sandys-wrath]] - document - raw/sns/benjamin_lowy.md
+- [[vogue.co.kr%EC%95%A0%ED%94%8C%EA%B3%BC-7%EB%AA%85%EC%9D%98-%EC%9E%91%EA%B0%80%EA%B0%80-...136b510b]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[vogue.comsam-youkilis-presents-his-first-photo-book-somewhere-interview]] - document - raw/sns/sam_youkilis.md
+- [[washingtonpost.comthese-are-winners-13th-annual-iphone-photography-awards]] - document - raw/sns/dimpy_bhalotia.md
+- [[x.comaustinmann]] - document - raw/sns/austin_mann.md
+- [[x.comstalman]] - document - raw/sns/tyler_stalman.md
+- [[youtube]] - document - raw/youtube/adobe_lightroom_youtube.md
+- [[youtube.com@MangoStreet]] - document - raw/youtube/mango_street_youtube.md
+- [[youtube.com@RanftEvan]] - document - raw/youtube/evan_ranft_youtube.md
+- [[youtube.com@TheCooph]] - document - raw/youtube/cooph_youtube.md
+- [[youtube.com@iphone_photography_school]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[youtube.com@stalman]] - document - raw/sns/tyler_stalman.md
+- [[youtube.comwatch 154609]] - document - raw/youtube/evan_ranft_youtube.md
+- [[youtube.comwatch 658e7a]] - document - raw/youtube/mango_street_youtube.md
+- [[youtube.comwatch 6a9f09]] - document - raw/youtube/cooph_youtube.md
+- [[youtube.comwatch 7705cc]] - document - raw/youtube/mango_street_youtube.md
+- [[youtube.comwatch 851650]] - document - raw/youtube/evan_ranft_youtube.md
+- [[youtube.comwatch bc50fa]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[구도]] - document - raw/magazine/google_pixel_camera_coach.md
+- [[기초촬영]] - document - raw/sns/yoni_mayeri.md
+- [[기초팁]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[내셔널지오그래픽]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[노출]] - document - raw/magazine/sony_photography_pro_modes.md
+- [[다큐멘터리]] - document - raw/sns/benjamin_lowy.md
+- [[매크로]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[모바일사진]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[모바일작가]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[모바일촬영]] - document - raw/sns/tyler_stalman.md
+- [[바로 쓰는 팁 카드 02c7c6]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[바로 쓰는 팁 카드 058c1a]] - document - raw/sns/benjamin_lowy.md
+- [[바로 쓰는 팁 카드 1bcf52]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[바로 쓰는 팁 카드 3d09ff]] - document - raw/sns/nicolai_ahn.md
+- [[바로 쓰는 팁 카드 554a67]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[바로 쓰는 팁 카드 5a6b46]] - document - raw/sns/austin_mann.md
+- [[바로 쓰는 팁 카드 765455]] - document - raw/sns/brendan_o_se.md
+- [[바로 쓰는 팁 카드 7c26b2]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[바로 쓰는 팁 카드 7f776d]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[바로 쓰는 팁 카드 8bca7b]] - document - raw/youtube/cooph_youtube.md
+- [[바로 쓰는 팁 카드 9564db]] - document - raw/sns/sam_youkilis.md
+- [[바로 쓰는 팁 카드 96ad63]] - document - raw/sns/yoni_mayeri.md
+- [[바로 쓰는 팁 카드 a0b48b]] - document - raw/youtube/evan_ranft_youtube.md
+- [[바로 쓰는 팁 카드 bb29e5]] - document - raw/sns/tyler_stalman.md
+- [[바로 쓰는 팁 카드 c9af62]] - document - raw/youtube/mango_street_youtube.md
+- [[바로 쓰는 팁 카드 d33d6c]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[바로 쓰는 팁 카드 e5fc45]] - document - raw/sns/dimpy_bhalotia.md
+- [[바로 쓰는 팁 카드 ec72b4]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[바로 쓰는 팁 카드 f5d540]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[보그코리아]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[보정루틴]] - document - raw/youtube/evan_ranft_youtube.md
+- [[색감]] - document - raw/sns/sam_youkilis.md
+- [[수상작]] - document - raw/sns/brendan_o_se.md
+- [[순간포착]] - document - raw/sns/dimpy_bhalotia.md
+- [[숨은기능]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[스마트폰사진]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[스토리텔링]] - document - raw/sns/nicolai_ahn.md
+- [[스트리트]] - document - raw/sns/brendan_o_se.md
+- [[시퀀싱]] - document - raw/sns/sam_youkilis.md
+- [[실시간공유]] - document - raw/sns/benjamin_lowy.md
+- [[아이폰]] - document - raw/magazine/apple_support_night_mode.md
+- [[아이폰15프로맥스]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[아이폰RAW]] - document - raw/youtube/evan_ranft_youtube.md
+- [[아이폰그래피]] - document - raw/sns/yoni_mayeri.md
+- [[아이폰보도사진]] - document - raw/sns/benjamin_lowy.md
+- [[아이폰사진]] - document - raw/sns/austin_mann.md
+- [[아이폰수상작]] - document - raw/sns/dimpy_bhalotia.md
+- [[아이폰워크플로우]] - document - raw/sns/tyler_stalman.md
+- [[아이폰촬영]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[애플]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[앱보정]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[야간촬영]] - document - raw/magazine/apple_support_night_mode.md
+- [[에버그린]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[유튜브]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[이 소스에서 더 캐야 할 것 083a95]] - document - raw/youtube/evan_ranft_youtube.md
+- [[이 소스에서 더 캐야 할 것 1cb8bf]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[이 소스에서 더 캐야 할 것 269a15]] - document - raw/sns/sam_youkilis.md
+- [[이 소스에서 더 캐야 할 것 29c32c]] - document - raw/sns/dimpy_bhalotia.md
+- [[이 소스에서 더 캐야 할 것 2ca172]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[이 소스에서 더 캐야 할 것 6c1978]] - document - raw/sns/yoni_mayeri.md
+- [[이 소스에서 더 캐야 할 것 7a3d4a]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[이 소스에서 더 캐야 할 것 8e94c4]] - document - raw/sns/brendan_o_se.md
+- [[이 소스에서 더 캐야 할 것 a33186]] - document - raw/sns/benjamin_lowy.md
+- [[이 소스에서 더 캐야 할 것 b66902]] - document - raw/sns/nicolai_ahn.md
+- [[이 소스에서 더 캐야 할 것 eae892]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[이 소스에서 더 캐야 할 것 efe61a]] - document - raw/youtube/mango_street_youtube.md
+- [[이 소스에서 더 캐야 할 것 fe9a4d]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[인물사진]] - document - raw/sns/nicolai_ahn.md
+- [[인스타그램]] - document - raw/magazine/el_pais_cellphone_editing_tips.md
+- [[일상기록]] - document - raw/sns/sam_youkilis.md
+- [[자연광]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[자연사진]] - document - raw/sns/yoni_mayeri.md
+- [[작가사례]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[장면구성]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[저조도]] - document - raw/magazine/apple_support_night_mode.md
+- [[전시]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[창의적촬영]] - document - raw/youtube/cooph_youtube.md
+- [[촬영팁]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[추가 검증 촬영 레시피 — iPhone 81b943]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[추가 검증 촬영 레시피 — iPhone 8a0479]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[추상사진]] - document - raw/sns/brendan_o_se.md
+- [[출처 24f2b5]] - document - raw/sns/sam_youkilis.md
+- [[출처 412640]] - document - raw/sns/dimpy_bhalotia.md
+- [[출처 4c916f]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[출처 606205]] - document - raw/magazine/digital_camera_world_mobile_tips.md
+- [[출처 7aa73c]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[출처 80da97]] - document - raw/sns/brendan_o_se.md
+- [[출처 84eb95]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[출처 9c64c1]] - document - raw/sns/nicolai_ahn.md
+- [[출처 c08f86]] - document - raw/magazine/petapixel_10_smartphone_tips.md
+- [[출처 c27316]] - document - raw/sns/yoni_mayeri.md
+- [[출처 cbb923]] - document - raw/sns/benjamin_lowy.md
+- [[출처에서 확인된 구체 레시피 0d0cf7]] - document - raw/youtube/iphone_photography_school_youtube.md
+- [[출처에서 확인된 구체 레시피 187b1a]] - document - raw/youtube/evan_ranft_youtube.md
+- [[출처에서 확인된 구체 레시피 2a2ba8]] - document - raw/youtube/cooph_youtube.md
+- [[출처에서 확인된 구체 레시피 47d5d1]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[출처에서 확인된 구체 레시피 966cca]] - document - raw/youtube/mango_street_youtube.md
+- [[출처에서 확인된 구체 레시피 b50b80]] - document - raw/sns/tyler_stalman.md
+- [[출처에서 확인된 구체 레시피 c10065]] - document - raw/sns/iphone_photography_school_emil_pakarklis.md
+- [[출처에서 확인된 구체 레시피 c1558c]] - document - raw/sns/austin_mann.md
+- [[카메라리뷰]] - document - raw/sns/austin_mann.md
+- [[카메라설정]] - document - raw/sns/tyler_stalman.md
+- [[카메라폰]] - document - raw/magazine/national_geographic_camera_phone.md
+- [[큐레이션]] - document - raw/magazine/time_apple_instagram_shot_on_iphone.md
+- [[크리에이터워크플로우]] - document - raw/youtube/tyler_stalman_youtube.md
+- [[크리에이터촬영]] - document - raw/sns/tyler_stalman.md
+- [[파인아트]] - document - raw/sns/dimpy_bhalotia.md
+- [[포토저널리즘]] - document - raw/sns/benjamin_lowy.md
+- [[풍경]] - document - raw/sns/yoni_mayeri.md
+- [[프로워크플로우]] - document - raw/youtube/evan_ranft_youtube.md
+- [[한국어자료]] - document - raw/magazine/vogue_korea_apple_iphone15_artists.md
+- [[한국작가]] - document - raw/sns/nicolai_ahn.md
+- [[후보정]] - document - raw/magazine/adobe_lightroom_mobile_adjustments.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Trends_&_Recipes
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 69 edges to [[_COMMUNITY_Trends & Recipes 2]]
+- 26 edges to [[_COMMUNITY_Evidence Sources]]
+- 4 edges to [[_COMMUNITY_Trends & Recipes 29]]
+- 2 edges to [[_COMMUNITY_Trends & Recipes 4]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 21]]
+- 1 edge to [[_COMMUNITY_Trends & Recipes 5]]
+
+## Top bridge nodes
+- [[National Geographic — Camera phone pictures]] - degree 17, connects to 3 communities
+- [[RAW]] - degree 33, connects to 2 communities
+- [[iPhone Photography School  Emil Pakarklis]] - degree 29, connects to 2 communities
+- [[iPhone Photography School YouTube]] - degree 29, connects to 2 communities
+- [[DNG]] - degree 29, connects to 2 communities

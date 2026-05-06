@@ -2,7 +2,19 @@
 .DS_Store
 **/.DS_Store
 .omx/
+.graphify_*.json
 .graphify_incremental.json
+
+# Python runtime
+__pycache__/
+*.py[cod]
+.venv/
+.graphify-deps/
+
+# local personalization memory
+data/personalization/
+data/raw_intake_runs/
+raw/_incoming/
 
 # graphify transient/cache files
 graphify-out/cache/

@@ -9,6 +9,12 @@ scenario_tags:
   - "ultrawide"
   - "geometry"
   - "travel"
+aliases:
+  - "실내 공간 넓게 찍기"
+  - "건축 사진 왜곡"
+  - "초광각 실내"
+  - "수직선 기울어짐"
+  - "architecture ultrawide distortion"
 graph_nodes:
   - "subject:building_or_room"
   - "environment:interior"
@@ -54,6 +60,19 @@ urls:
 
 - 0.5x 가장자리 가구/사람 왜곡 주의.
 - 수직선이 무너지면 공간이 싸 보인다.
+
+## 근거
+
+### 반영한 외부 근거
+
+- Adobe 스마트폰 사진 가이드는 렌즈 선택, 구도, 빛을 먼저 정리하는 흐름을 제공하고, Lightroom 모바일 문서는 crop/geometry/color 보정으로 후처리 안정성을 보강한다.
+- Google Camera Coach 공식 글은 구도와 각도 안내를 통해 촬영 단계에서 공간의 정렬을 개선하는 방향과 맞닿아 있다.
+- National Geographic 스마트폰 사진 팁은 장면을 단순화하고 빛과 구도를 먼저 보는 접근을 뒷받침한다.
+
+### 시나리오 수정 포인트
+
+- 실내/건축은 초광각 자체보다 수평·수직 유지와 가장자리 왜곡 제어를 우선한다.
+- 보정 단계에서는 전체 색감보다 geometry/upright와 하이라이트 보호를 먼저 적용한다.
 
 ## Graphify 추출 힌트
 

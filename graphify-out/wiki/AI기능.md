@@ -1,0 +1,16 @@
+---
+source_file: "raw/magazine/google_photos_help.md"
+type: "document"
+community: "Evidence Sources"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Evidence_Sources
+---
+
+# AI기능
+
+## Connections
+- [[Google Photos Help]] - `MENTIONS_TAG` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

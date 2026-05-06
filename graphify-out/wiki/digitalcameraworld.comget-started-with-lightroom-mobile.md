@@ -1,0 +1,16 @@
+---
+source_file: "raw/lightroom/digital_camera_world_get_started_lightroom_mobile.md"
+type: "document"
+community: "Trends & Recipes 2"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes_2
+---
+
+# digitalcameraworld.com/get-started-with-lightroom-mobile
+
+## Connections
+- [[Digital Camera World — Get started with Lightroom Mobile]] - `SUPPORTED_BY` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_2

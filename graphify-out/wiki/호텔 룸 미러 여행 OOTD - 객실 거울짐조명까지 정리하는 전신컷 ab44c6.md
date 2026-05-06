@@ -1,0 +1,95 @@
+---
+source_file: "raw/scenarios/hotel_room_mirror_travel_ootd.md"
+type: "document"
+community: "Trends & Recipes 17"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Trends_&_Recipes_17
+---
+
+# 호텔 룸 미러 여행 OOTD - 객실 거울/짐/조명까지 정리하는 전신컷 [ab44c6]
+
+## Connections
+- [[adobe lightroom masking]] - `USES_CONCEPT` [EXTRACTED]
+- [[adobe portrait lighting]] - `USES_CONCEPT` [EXTRACTED]
+- [[adobe.commasking.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[adobe.comphotography-lighting-equipment-for-beginners.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[adobe.comportrait-photography.html]] - `SUPPORTED_BY` [EXTRACTED]
+- [[apple portrait lighting]] - `USES_CONCEPT` [EXTRACTED]
+- [[apple selfie camera tools crop]] - `USES_CONCEPT` [EXTRACTED]
+- [[bright airy clean fe02c5]] - `MATCHES_PREFERENCE` [EXTRACTED]
+- [[busy luggage background]] - `USES_CONCEPT` [EXTRACTED]
+- [[cinematic hotel arrival]] - `MATCHES_PREFERENCE` [EXTRACTED]
+- [[clean influencer travel ootd]] - `SUPPORTS_STYLE` [EXTRACTED]
+- [[clean mirror background]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[crop-guardrail]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[edit styleclean influencer travel ootd]] - `USES_CONCEPT` [EXTRACTED]
+- [[edit stylesoft hotel editorial]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidenceadobe lightroom masking]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidenceadobe portrait lighting]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidenceapple portrait lighting]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidenceapple selfie camera tools crop]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidenceglamour ootd selfie]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidencesamsung camera indoor grid night]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[evidenceteen vogue mirror selfie]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[geometry vertical body guard]] - `SETS_PARAMETER` [EXTRACTED]
+- [[glamour ootd selfie]] - `USES_CONCEPT` [EXTRACTED]
+- [[glamour.comootd-selfie-photo-tips]] - `SUPPORTED_BY` [EXTRACTED]
+- [[hotel mirror outfit story]] - `USES_CONCEPT` [EXTRACTED]
+- [[hotel room mirror]] - `IN_ENVIRONMENT` [EXTRACTED]
+- [[hotel room mirror selfie ootd low light crop distortion]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+- [[hotel room mirror travel ootd]] - `USES_CONCEPT` [EXTRACTED]
+- [[hotel-room]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[image issuebusy luggage background]] - `USES_CONCEPT` [EXTRACTED]
+- [[image issuelow light blur]] - `USES_CONCEPT` [EXTRACTED]
+- [[image issuemirror distortion]] - `USES_CONCEPT` [EXTRACTED]
+- [[image issuemixed hotel lighting]] - `USES_CONCEPT` [EXTRACTED]
+- [[later.cominstagram-photo-dump-trend]] - `SUPPORTED_BY` [EXTRACTED]
+- [[localized outfit face mask]] - `SETS_PARAMETER` [EXTRACTED]
+- [[low light blur]] - `USES_CONCEPT` [EXTRACTED]
+- [[low retouch realistic body]] - `MATCHES_PREFERENCE` [EXTRACTED]
+- [[low-light]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[mirror distortion 6a2665]] - `USES_CONCEPT` [EXTRACTED]
+- [[mirror selfie personal style]] - `FOLLOWS_TREND` [EXTRACTED]
+- [[mirror-selfie]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[mixed hotel lighting]] - `USES_CONCEPT` [EXTRACTED]
+- [[ootd]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[parametergeometry vertical body guard]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[parameterlocalized outfit face mask]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[parametervertical crop head feet guard]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[person]] - `HAS_SUBJECT` [EXTRACTED]
+- [[preferencebright airy clean]] - `USES_CONCEPT` [EXTRACTED]
+- [[preferencecinematic hotel arrival]] - `USES_CONCEPT` [EXTRACTED]
+- [[preferencelow retouch realistic body]] - `USES_CONCEPT` [EXTRACTED]
+- [[private room or travel document reflection]] - `CONSTRAINED_BY_RISK` [EXTRACTED]
+- [[rear camera timer or stable selfie]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[recommendation varianthotel mirror outfit story]] - `USES_CONCEPT` [EXTRACTED]
+- [[reflection c937e1]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[riskprivate room or travel document reflection]] - `USES_CONCEPT` [EXTRACTED]
+- [[samsung camera indoor grid night]] - `USES_CONCEPT` [EXTRACTED]
+- [[samsung.comANS10001353]] - `SUPPORTED_BY` [EXTRACTED]
+- [[samsung.comANS10001376]] - `SUPPORTED_BY` [EXTRACTED]
+- [[scenariohotel room mirror travel ootd]] - `USES_CONCEPT` [EXTRACTED]
+- [[soft hotel editorial]] - `SUPPORTS_STYLE` [EXTRACTED]
+- [[support.apple.comios 4d9734]] - `SUPPORTED_BY` [EXTRACTED]
+- [[support.apple.comios a88f3e]] - `SUPPORTED_BY` [EXTRACTED]
+- [[support.apple.comios acf715]] - `SUPPORTED_BY` [EXTRACTED]
+- [[support.apple.comios bbae71]] - `SUPPORTED_BY` [EXTRACTED]
+- [[techniqueclean mirror background]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[techniquerear camera timer or stable selfie]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[techniquewindow or soft lamp key light]] - `TARGETS_CONCEPT` [EXTRACTED]
+- [[teen vogue mirror selfie]] - `USES_CONCEPT` [EXTRACTED]
+- [[teenvogue.commirror-selfie-tips]] - `SUPPORTED_BY` [EXTRACTED]
+- [[travel]] - `HAS_SCENE_TAG` [EXTRACTED]
+- [[travel ootd photo dump]] - `FOLLOWS_TREND` [EXTRACTED]
+- [[travel outfit]] - `HAS_SUBJECT` [EXTRACTED]
+- [[trend signalmirror selfie personal style]] - `USES_CONCEPT` [EXTRACTED]
+- [[trend signaltravel ootd photo dump]] - `USES_CONCEPT` [EXTRACTED]
+- [[vertical crop head feet guard]] - `SETS_PARAMETER` [EXTRACTED]
+- [[window or soft lamp key light]] - `USES_TECHNIQUE` [EXTRACTED]
+- [[호텔 룸 미러 여행 OOTD - 객실 거울짐조명까지 정리하는 전신컷 bb3b0a]] - `DESCRIBES_SCENARIO` [EXTRACTED]
+- [[호텔 미러셀피 전신 비율이 이상하고 발이 잘려]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+- [[호텔 방 거울에서 여행 OOTD를 찍었는데 조명이 어둡고 방이 지저분해]] - `MATCHES_QUERY_ALIAS` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Trends_&_Recipes_17

@@ -1,0 +1,16 @@
+---
+source_file: "raw/magazine/youtube_shorts_specs.md"
+type: "document"
+community: "Evidence Sources"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Evidence_Sources
+---
+
+# YouTube Shorts
+
+## Connections
+- [[YouTube Help — Shorts creation and upload specs]] - `MENTIONS_TAG` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Evidence_Sources

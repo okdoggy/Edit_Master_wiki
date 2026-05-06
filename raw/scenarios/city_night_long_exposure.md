@@ -9,6 +9,12 @@ scenario_tags:
   - "traffic-trails"
   - "skyline"
   - "tripod"
+aliases:
+  - "도시 야경 장노출"
+  - "차 불빛 궤적"
+  - "스카이라인 야경"
+  - "폰으로 장노출"
+  - "city night long exposure"
 graph_nodes:
   - "subject:city_lights"
   - "environment:night_city"
@@ -54,6 +60,19 @@ urls:
 
 - 사람/나무가 움직이면 번짐.
 - 장노출은 작은 흔들림도 치명적.
+
+## 근거
+
+### 반영한 외부 근거
+
+- Samsung Night Mode와 Apple Night mode 문서는 저조도에서 긴 노출과 흔들림 제어가 중요하다는 공식 근거를 제공한다.
+- Google Pixel Night Sight/장노출 자료는 야간 장면에서 카메라를 안정적으로 유지하고 빛의 움직임을 활용하는 방향을 뒷받침한다.
+- Adobe Lightroom 모바일 편집 문서는 야경의 노출, 색, 노이즈 보정을 후처리에서 정리하는 근거다.
+
+### 시나리오 수정 포인트
+
+- 야경 장노출은 분위기보다 안정화가 먼저이며, 손持ち 실패 가능성을 전제로 둔다.
+- 빛줄기는 살리되 노이즈 감소와 선명도는 과하지 않게 제한한다.
 
 ## Graphify 추출 힌트
 

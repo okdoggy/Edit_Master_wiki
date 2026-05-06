@@ -10,6 +10,13 @@ scenario_tags:
   - "reflection"
   - "neon"
   - "composition"
+aliases:
+  - "유리창 야경 반사"
+  - "도시 야경 반사"
+  - "창문에 비친 도시"
+  - "반사가 지저분"
+  - "호텔 창밖 야경"
+  - "네온 반사 사진"
 query_aliases:
   - "유리창 야경 반사"
   - "도시 야경 반사"
@@ -65,7 +72,7 @@ urls:
 - 실내 조명이 켜져 있으면 유리창에 방 안이 다 비친다.
 - Night mode가 길면 손持ち 사진이 흐려질 수 있다.
 
-## 전문가/커뮤니티 근거 반영
+## 근거
 
 ### 반영한 외부 근거
 
@@ -119,7 +126,7 @@ recommendation_modes: [trend, general, personalized]
 
 - https://www.bhphotovideo.com/explora/photography/tips-and-solutions/seven-tips-for-photographing-cities-at-night
 
-- ttps://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
-- ttps://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
-- ttps://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
-- ttps://www.adobe.com/learn/lightroom-cc/web/color-adjustment
+- https://support.apple.com/en-lamr/guide/iphone/iph1a3c5b4c3/ios
+- https://support.apple.com/guide/iphone/take-portraits-iphd7d3a91a2/ios
+- https://helpx.adobe.com/lightroom-cc/using/edit-photos-mobile-ios.html
+- https://www.adobe.com/learn/lightroom-cc/web/color-adjustment
